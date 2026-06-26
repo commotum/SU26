@@ -27,9 +27,11 @@ Links: [Todo](tasks/todo.md), [Email Inbox](emails/emails.md), [Task Log](tasks/
 
 - [Todo](tasks/todo.md) - active academic and life tasks, organized by urgency.
 - [Email Inbox](emails/emails.md) - email triage notes and message-level decisions.
+- [Canvas Dashboard](canvas/dashboard.md) - Canvas navigation and course surfaces.
 
 ## Quick Links
 
+- [Canvas Dashboard](canvas/dashboard.md) - Oregon State Canvas dashboard and course links.
 - [Task Log](tasks/task_log.csv) - structured task history and completion record.
 - [Email Triage CSV](emails/email_triage.csv) - structured email tracker.
 - [Templates](templates/) - reusable item formats for tasks, emails, and feed entries.
