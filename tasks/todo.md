@@ -126,7 +126,7 @@ Title: Confirm PH 212 Lab TA Meeting Time
 Description: PH 212 lab group meeting time is not confirmed until the selected TA replies that the time is available.
 Responsibility: user
 Source: Canvas announcement email
-Context: EMAIL-0002 from GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
+Context: EMAIL-0080 from GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
 Next action: Email the chosen PH 212 Lab TA to confirm the group meeting time is available and wait for the TA reply before treating it as scheduled.
 Deadline: before first PH 212 TA meeting next week
 Acceptance: Selected TA has replied confirming the group meeting time is available.
