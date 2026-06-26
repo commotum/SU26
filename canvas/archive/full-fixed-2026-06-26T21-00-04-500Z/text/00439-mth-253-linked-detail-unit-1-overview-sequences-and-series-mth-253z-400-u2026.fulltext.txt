@@ -1,0 +1,63 @@
+
+            
+
+  
+
+
+
+
+  
+    Unit 1 - Overview
+    
+
+  
+  
+  
+    
+
+
+Introduction
+In this week we will review concepts learned in Differential Calculus and Integral Calculus such as evaluating limits, both finite and infinite limits, applying L'Hospital's Rule, and evaluating improper integrals - both Type 1 and Type 2. 
+Unit Learning Outcomes
+After successful completion of this week, you will be able to: 
+
+Calculate the value of a limit of functions and sequences as x approaches both finite and infinite values. 
+Interpret the end behavior of a function by calculating both finite and infinite limits. Use this value to make conclusions about the convergence or divergence of a sequence or function.  
+Assess when L’Hospital’s Rule can be applied to a limit (i.e. when a limit is in an indeterminate form). Apply L’Hospital’s rule to evaluate both infinite and finite limits.  
+Create a catalog of basic known limits and understand how each of these values was calculated. Discuss with classmates their different approaches to finding these values.
+Evaluate improper integrals with infinite upper and/or lower limits, as well as evaluating integrals with discontinuities. 
+
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following:
+
+Contribute and respond to the Unit 1 Discussion Board. 
+Reading: Textbook Sections 2.2Links to an external site., 2.3Links to an external site., 4.6Links to an external site., 4.8Links to an external site. in Volume 1Links to an external site.. Textbook Section 3.7Links to an external site. in Volume 2Links to an external site.. 
+Complete the Week 1 Web Homework assignment through Achieve.
+Complete the Unit 1 Written Homework assignment submitted via GradeScope. 
+Submit the Unit 1 Quiz.
+
+
+  
+  
+
+
+
+
+
+
+  
+    
+      
+         Previous
+      
+    
+    
+      
+        Next 
+      
+    
+  
+
+
+
+          
