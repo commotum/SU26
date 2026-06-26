@@ -1,0 +1,121 @@
+# PHY-212 assignments
+
+- Captured: 2026-06-26T20:23:12.682Z
+- URL: https://canvas.oregonstate.edu/courses/2053526/assignments
+- Title: Assignments: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- Redirected: no
+
+## Headings
+- H1: Assignments
+- H2: Overdue Assignments
+- H2: Upcoming Assignments
+- H2: Undated Assignments
+- H2: Past Assignments
+
+## Links
+- [Course Introductions](https://canvas.oregonstate.edu/courses/2053526/assignments/10557032)
+- [M1-1asy](https://canvas.oregonstate.edu/courses/2053526/assignments/10556950)
+- [M1-2asy](https://canvas.oregonstate.edu/courses/2053526/assignments/10556986)
+- [Lab 1 Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557057)
+- [Lab Partner Values Survey](https://canvas.oregonstate.edu/courses/2053526/assignments/10557029)
+- [Hw 1 - Rotational Motion](https://canvas.oregonstate.edu/courses/2053526/assignments/10556984)
+- [M1-3pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10556970)
+- [Proctorio practice quiz (Remotely Proctored)](https://canvas.oregonstate.edu/courses/2053526/assignments/10557001)
+- [M1-4pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10556995)
+- [M1-5pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10556971)
+- [M2-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557070)
+- [Lab Collaboration Contract](https://canvas.oregonstate.edu/courses/2053526/assignments/10556974)
+- [M1-0](https://canvas.oregonstate.edu/courses/2053526/assignments/10591118)
+- [M1-00](https://canvas.oregonstate.edu/courses/2053526/assignments/10592346)
+- [M1-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10592982)
+- [M1-2](https://canvas.oregonstate.edu/courses/2053526/assignments/10593560)
+- [Lab 1 Discussion](https://canvas.oregonstate.edu/courses/2053526/assignments/10557036)
+- [M1-00asy](https://canvas.oregonstate.edu/courses/2053526/assignments/10590695)
+- [M1-2pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10556960)
+- [M1-0asy](https://canvas.oregonstate.edu/courses/2053526/assignments/10590694)
+- [M1-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557008)
+
+## Visible Text
+Assignments Search for Assignment Search assignments. As you type in this field, the list of assignments will be automatically filtered to only include those whose names match your input. Show By Sync SHOW BY DATE SHOW BY TYPE Overdue Assignments Discussion Topic Course Introductions Available until Jul 4 at 11:59pm Jul 4 at 11:59pm -/20 pts | Not Yet Graded Assignment not yet graded. 20 points possible. See Details Reply To Topic Jun 25 at 11:59pm Required Replies (4) Jun 27 at 11:59pm Upcoming Assignments Quiz M1-1asy Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 26 at 2:00pm Jun 26 at 2:00pm -/3 pts No submission for this assignment. 3 points possible. See Details Quiz M1-2asy Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 27 at 2:00pm Jun 27 at 2:00pm -/5 pts No submission for this assignment. 5 points possible. See Details Assignment Lab 1 Report Available until Aug 15 at 11:59pm Aug 15 at 11:59pm Due Jun 27 at 11:59pm Jun 27 at 11:59pm -/20 pts No submission for this assignment. 20 points possible. See Details Quiz Lab Partner Values Survey Available until Jul 4 at 11:59pm Jul 4 at 11:59pm Due Jun 27 at 11:59pm Jun 27 at 11:59pm 5/5 pts Score: 5 out of 5 points. See Details Quiz Hw 1 - Rotational Motion Available until Aug 30 at 11:59pm Aug 30 at 11:59pm Due Jun 28 at 11:59pm Jun 28 at 11:59pm -/18 pts No submission for this assignment. 18 points possible. See Details Quiz M1-3pre Not available until Jun 27 at 10:00am Jun 27 at 10:00am Due Jun 29 at 10:00am Jun 29 at 10:00am -/3 pts No submission for this assignment. 3 points possible. See Details Quiz Proctorio practice quiz (Remotely Proctored) Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 29 at 11:59pm Jun 29 at 11:59pm -/5 pts No submission for this assignment. 5 points possible. See Details Quiz M1-4pre Not available until Jun 27 at 10:00am Jun 27 at 10:00am Due Jun 30 at 10:00am Jun 30 at 10:00am -/3 pts No submission for this assignment. 3 points possible. See Details Quiz M1-5pre Not available until Jun 27 at 10:00am Jun 27 at 10:00am Due Jul 1 at 10:00am Jul 1 at 10:00am -/3 pts No submission for this assignment. 3 points possible. See Details Assignment M2-1pre Not available until Jun 27 at 10:00am Jun 27 at 10:00am Due Jul 4 at 10:00am Jul 4 at 10:00am -/3 pts No submission for this assignment. 3 points possible. See Details Quiz Lab Collaboration Contract Not available until Jun 28 at 12:00am Jun 28 at 12:00am Due Jul 4 at 11:59pm Jul 4 at 11:59pm -/5 pts No submission for this assignment. 5 points possible. See Details Undated Assignments Assignment M1-0 -/1 pts | Not Yet Graded Assignment not yet graded. 1 points possible. See Details Assignment M1-00 -/2 pts | Not Yet Graded Assignment not yet graded. 2 points possible. See Details Assignment M1-1 0/3 pts Score: 0 out of 3 points. See Details Assignment M1-2 0/5 pts Score: 0 out of 5 points. See Details Past Assignments Discussion Topic Lab 1 Discussion Available until Aug 15 at 11:59pm Aug 15 at 11:59pm Due Jun 25 at 11:59pm Jun 25 at 11:59pm -/10 pts | Not Yet Graded Assignment not yet graded. 10 points possible. See Details Quiz M1-00asy Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 25 at 2:00pm Jun 25 at 2:00pm 2/2 pts Score: 2 out of 2 points. See Details Quiz M1-2pre Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 25 at 10:00am Jun 25 at 10:00am 3/3 pts Score: 3 out of 3 points. See Details Quiz M1-0asy Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 24 at 2:00pm Jun 24 at 2:00pm 1/1 pts Score: 1 out of 1 points. See Details Quiz M1-1pre Available until Aug 14 at 11:59pm Aug 14 at 11:59pm Due Jun 24 at 10:00am Jun 24 at 10:00am 3/3 pts Score: 3 out of 3 points. See Details
+
+## Hidden Text Samples
+- Assignments
+- Search for Assignment
+- Search assignments. As you type in this field, the list of assignments will be automatically filtered to only include those whose names match your input.
+- Show By
+- Overdue Assignments
+- Discussion Topic
+- Jul 4 at 11:59pm
+- Assignment not yet graded. 20 points possible.
+- Upcoming Assignments
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 26 at 2:00pm
+- No submission for this assignment. 3 points possible.
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 27 at 2:00pm
+- No submission for this assignment. 5 points possible.
+- Assignment
+- Aug 15 at 11:59pm
+- Jun 27 at 11:59pm
+- No submission for this assignment. 20 points possible.
+- Quiz
+- Jul 4 at 11:59pm
+- Jun 27 at 11:59pm
+- Score: 5 out of 5 points.
+- Quiz
+- Aug 30 at 11:59pm
+- Jun 28 at 11:59pm
+- No submission for this assignment. 18 points possible.
+- Quiz
+- Jun 27 at 10:00am
+- Jun 29 at 10:00am
+- No submission for this assignment. 3 points possible.
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 29 at 11:59pm
+- No submission for this assignment. 5 points possible.
+- Quiz
+- Jun 27 at 10:00am
+- Jun 30 at 10:00am
+- No submission for this assignment. 3 points possible.
+- Quiz
+- Jun 27 at 10:00am
+- Jul 1 at 10:00am
+- No submission for this assignment. 3 points possible.
+- Assignment
+- Jun 27 at 10:00am
+- Jul 4 at 10:00am
+- No submission for this assignment. 3 points possible.
+- Quiz
+- Jun 28 at 12:00am
+- Jul 4 at 11:59pm
+- No submission for this assignment. 5 points possible.
+- Undated Assignments
+- Assignment
+- Assignment not yet graded. 1 points possible.
+- Assignment
+- Assignment not yet graded. 2 points possible.
+- Assignment
+- Score: 0 out of 3 points.
+- Assignment
+- Score: 0 out of 5 points.
+- Past Assignments
+- Discussion Topic
+- Aug 15 at 11:59pm
+- Jun 25 at 11:59pm
+- Assignment not yet graded. 10 points possible.
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 25 at 2:00pm
+- Score: 2 out of 2 points.
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 25 at 10:00am
+- Score: 3 out of 3 points.
+- Quiz
+- Aug 14 at 11:59pm
+- Jun 24 at 2:00pm
+- Score: 1 out of 1 points.
+- Quiz

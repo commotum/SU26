@@ -1,0 +1,177 @@
+# MTH-252 announcements
+
+- Captured: 2026-06-26T20:22:26.005Z
+- URL: https://canvas.oregonstate.edu/courses/2080857/announcements
+- Title: Announcements: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- Redirected: no
+
+## Headings
+- H1: Announcements
+- H2: Announcements List
+- H3: unread,Q & A link --> in Start Here module
+- H3: unread,Reminder: Dr G Lecture Video and Lecture Notes
+- H3: Gradescope details and access ....
+- H3: unread,Update: Gradescope will be ready today
+- H3: unread,Welcome Video
+- H3: unread,Friendly Notes: Sections 400 and 401, Achieve, Gradescope, Due dates, etc.
+- H3: unread,Welcome to 252!
+- H3: unread,Welcome Video
+- H3: unread,Achieve Course code?
+- H3: unread,EXTRA Dr G Videos
+- H3: unread,Reminder: Gradescope: Submissions and Accountability
+- H3: unread,Welcome video and How-to-study tips
+- H3: unread,Achieve access and Browser
+- H3: unread,Syllabus: Assignments and due dates
+- H3: unread,MSLC Peer tutoring new hours
+- H3: unread,Updates: 1/12 --> Due dates, discord
+- H3: unread,Mini-Exams --> How do they work? Practice?
+- H3: unread,Discord, MSLC --> Peer support?
+- H3: unread,WHW1 key updated
+- H3: unread,Reminder 1/19: WHW, Achieve, etc.
+- H3: unread,Reminders: Mini-Exam 1, etc.
+- H3: unread,Reminders: Due dates, Achieve and Canvas browsers, etc.
+- H3: unread,WHW3
+- H3: unread,Reminder: Mini-Exam 1 closes tonight
+- H3: unread,Reminders: Due dates today, and on Discord today after 2:30pm
+- H3: unread,WHW3 Extension
+- H3: unread,Reminder: MSLC Peer tutoring Virtual support
+- H3: unread,Important: Formatting of submissions, example is ME1
+- H3: unread,Update: ME1 grading --> Almost done!
+- H3: unread,Mini-Exam 1 is fully graded
+- H3: unread,Grades are current
+- H3: unread,Updates: ME2 release date
+- H3: unread,ME2 is open!
+- H3: unread,Reminders: WHW, Due dates, and ME2
+- H3: unread,Recommendation: Textbook and solutions
+- H3: unread,Reminder: Mini-Exam 2 due by tonight
+- H3: unread,Reminder: WHW due tonight
+- H3: unread,Dr G Hello Video --> Week 6
+- H3: unread,ME1 grade update issue
+- H3: unread,Updates: 2/14 --> More solutions
+
+## Links
+- [unread,Q & A link --> in Start Here module](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11601246)
+- [unread,Reminder: Dr G Lecture Video and Lecture Notes](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11600546)
+- [Gradescope details and access ....](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11599612)
+- [unread,Update: Gradescope will be ready today](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11598665)
+- [unread,Welcome Video](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11598118)
+- [unread,Friendly Notes: Sections 400 and 401, Achieve, Gradescope, Due dates, etc.](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11596348)
+- [unread,Welcome to 252!](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593466)
+- [unread,Welcome Video](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593465)
+- [unread,Achieve Course code?](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593464)
+- [unread,EXTRA Dr G Videos](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593463)
+- [unread,Reminder: Gradescope: Submissions and Accountability](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593462)
+- [unread,Welcome video and How-to-study tips](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593461)
+- [unread,Achieve access and Browser](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593460)
+- [unread,Syllabus: Assignments and due dates](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593459)
+- [unread,MSLC Peer tutoring new hours](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593458)
+- [unread,Updates: 1/12 --> Due dates, discord](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593457)
+- [unread,Mini-Exams --> How do they work? Practice?](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593456)
+- [unread,Discord, MSLC --> Peer support?](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593455)
+- [unread,WHW1 key updated](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593454)
+- [unread,Reminder 1/19: WHW, Achieve, etc.](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593453)
+- [unread,Reminders: Mini-Exam 1, etc.](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593452)
+- [unread,Reminders: Due dates, Achieve and Canvas browsers, etc.](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593451)
+- [unread,WHW3](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593450)
+- [unread,Reminder: Mini-Exam 1 closes tonight](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593449)
+- [unread,Reminders: Due dates today, and on Discord today after 2:30pm](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593448)
+- [unread,WHW3 Extension](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593447)
+- [unread,Reminder: MSLC Peer tutoring Virtual support](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593446)
+- [unread,Important: Formatting of submissions, example is ME1](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593445)
+- [unread,Update: ME1 grading --> Almost done!](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593444)
+- [unread,Mini-Exam 1 is fully graded](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593443)
+- [unread,Grades are current](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593442)
+- [unread,Updates: ME2 release date](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593441)
+- [unread,ME2 is open!](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593440)
+- [unread,Reminders: WHW, Due dates, and ME2](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593439)
+- [unread,Recommendation: Textbook and solutions](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593438)
+- [unread,Reminder: Mini-Exam 2 due by tonight](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593437)
+- [unread,Reminder: WHW due tonight](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593436)
+- [unread,Dr G Hello Video --> Week 6](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593435)
+- [unread,ME1 grade update issue](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593434)
+- [unread,Updates: 2/14 --> More solutions](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593433)
+
+## Visible Text
+Announcements Announcement Filter Search discussions by title Mark All as Read External Feeds Announcements List unread, Q & A link --> in Start Here module 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello all - The Q&A link was accidentally moved to the incorrect module. I moved this up to the Start Here Module Q&A link here. I will be replying back to their regularly through Week 1. We will then move to a Discord or some feature that allows for more realtime communication for an online community. More to come. Posted on: Jun 26, 2026, 10:46 AM unread, Reminder: Dr G Lecture Video and Lecture Notes 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello Scholars! Just want to send a reminder about the additional lecture notes and videos to support you all: Towards the top of each Module I posted a set of my in-person lecture videos (with subtitles) and the lecture notes that pair with them. Although not perfect, as these were captured during my in-person lecture, they are very tightly aligned with the curriculum. Annotated versions of these can be found on the same page with the videos. Attached below is an image highlighting the location in Module 1. Posted on: Jun 25, 2026, 2:44 PM Gradescope details and access .... 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello Scholars! Here are the details for Gradescope: Courses: Students will add themselves to the correct gradescope course. Check your personal registration to see if you enrolled into Section 400 or 401. Enroll into ONLY one course, that matches your registration so you can get credit for your work. Click on either the gradescope link inside Canvas or log into gradescope directly using your OSU ONID. Section 400 --> Entry Code: WNE6NR Section 401 --> Entry Code: J4ZG4Z Submissions: Students must personally verify their submissions by refreshing the page after their submission. Adjustments can be easily made if the submissions are incorrect. Do NOT trust gradescope submission email receipt. This automatically sends out even if the submission is NOT valid. You must refresh your page to personally view all that the pages have been uploaded correctly. This takes less than 30 seconds. Students are responsible for this, as this is the primary submission for the online class that students have enrolled into. I promise this is easy to do! Thank you all for the work. Gradescope is ready to go! Posted on: Jun 24, 2026, 1:40 PM unread, Update: Gradescope will be ready today 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello all - Just a heads up that gradescope will be up today around 5pm. I will keep you all posted. Thanks for all your work! Posted on: Jun 23, 2026, 12:06 PM unread, Welcome Video 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello Scholars! Here is a welcome video in which I discuss: Short personal hello Syllabus Canvas Gradescope Flow of the Canvas course Pro tips on success Posted on: Jun 22, 2026, 11:40 PM unread, Friendly Notes: Sections 400 and 401, Achieve, Gradescope, Due dates, etc. 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Hello Scholars - Just a few important notes for the next few days: This one Canvas course will serve BOTH sections 400 and 401. Begin by clicking through then entire Start Here module, link by link. This is required to get to Week 1 material. Due Dates - Our first round of due dates is next Monday, 6/29. Achieve - After you purchase the Achieve access code, you can register your Achieve by clicking on any Achieve assignment INSIDE Canvas. Achieve cannot be accessed outside of Canvas. 14-Day Free Trial - If you have any issues, use the Free Trial to get immediate access while you work on purchasing the access code. Gradescope - Gradescope will be set up by Tuesday. More details to come for this. I am excited to be working with you all! A welcome Canvas overview video will be sent out Monday early evening. Cheers! Dr G. Posted on: Jun 21, 2026, 7:52 PM U unread, Welcome to 252! 2 Sections INTEGRAL CALCULUS (MTH_252Z_400_U2026) INTEGRAL CALCULUS (MTH_252Z_401_U2026) Welcome to MTH 252! I look forward to working with you this term. To be successful in this course, please plan to log in to participate on several days each module. While we will not have synchronous meeting times when everyone in the class must be logged in to the course at once, there will be ongoing learning activities that require your participation. This course is designed to include student-content, student-student, and student-instructor interaction.To begin, click on 'Modules'. Here you will find important course documents (including the syllabus and course schedule); links to student services such as the The Valley Library, Disability Access Services, Academic Integrity, and Tech Support; and an overview of our course. Once you have reviewed the 'Start Here' information you’ll be ready to move on to the module assignments. Please be sure to read the syllabus and other information in 'Start Here,' as these essential documents contain the answers to many frequently asked questions. If you have questions after reading these materials, please visit the Discussion Board, where you will find the Q&A discussion. Please post all questions pertaining to the course in this forum. If you have questions of a personal nature, please use the Inbox to get in touch with me. Technical Assistance If you experience any problems while in this online course, contact 24-7 Canvas Support through the Help link. If you experience computer difficulties, need help downloading a browser or plug-in, or need assistance logging into a course, contact the IS Service Desk for assistance. You can call (541) 737-8787 or visit the IS Service Desk online. Posted on: U unread, Welcome Video All Sections Hello all - Few updates: Attached below is a Welcome Video. I am very happy to have you in the class! Video details: I introduce myself I given an overview of the canvas page and gradescope I share a detailed strategy for success in this class: (1) Identify problem-solving strategies for each section (and clearly write them out) (2) Study above and beyond watching content videos and doing homework. Successful students go further by working through examples in the book, study illustrations and vocabulary in the book, the do extra problems (that are not homework) for practice, they test their understanding of the problem-solving strategies for the section by doing problems with no notes to see where they get stuck. Course ID? After you get you access code, enter in Achieve by clicking on an assignment inside our Canvas page. This will sidestep any need for a Course ID. WHW1 will open Tuesday. Posted on: U unread, Achieve Course code? All Sections Hello all -Just a friendly heads up:Accessing Achieve should ONLY be done through our Canvas page, which will NOT ask you for a course code.You do NOT need a course code to access Achieve by going through Canvas. OSU do NOT give out course codes in our calculus classes as they require all students to Achieve through Canvas. Thanks for checking in. Posted on: U unread, EXTRA Dr G Videos All Sections Hello all -Hoping this will help! ... I added videos of me covering sections. I posted them at the top of Module 4. I will be adding these for all the modules as soon as I can. Module 4 is ready go!Lecture videos with annotated downloadable notes are there. Posted on: U unread, Reminder: Gradescope: Submissions and Accountability All Sections Hello Scholars - We are happy to have you enrolled in MTH 252 this term. I am writing to offer support on gradescope submissions. Because OSU holds students accountable for reading assignment instructions and learning/using course related software, I want to provide support. In the Start Here module you all clicked on( and attached here) are two videos in a sample course uploading an assignment. First video is through a cell phone using the FREE gradescope app; second is from a computer uploading ONE pdf that is multiple pages. Immediately after uploading, notice it shows a preview of your submission. Immediately after, students can click left or right OR even view "All Pages" to verify the submission. Immediately after, students can resubmit the assignment if adjustments are needed. Need more support? I am happy to meet to overview this in office hours or over zoom. I am here for your success, but we have to work together. Thanks for following the instructions. Regards, Posted on: U unread, Welcome video and How-to-study tips All Sections Hello Scholars - Here is a video, Canvas walk through with tips on how-to-study for this class. Happy to have you all in the course! Posted on: U unread, Achieve access and Browser All Sections Hello scholars! Friendly reminder to get access to Achieve asap, just to make sure it works. If you have any issues, please feel free to use the Free 14-day Grace period while you purchase a code. We are very happy to help you transition into the term. **Important** Students are held accountable for getting an access code before their 14-trial ends. Please get access in a timely manner. Browser - Please note that Achieve works best with Firefox or Mozilla. Other browser may not appropriately load all the images. Additionally, some students claim faster loading times when you use "private" or "incognito" mode. Different browsers call it different things. Please know that I am VERY happy to walk you through the process after class on your or my computer. Let's get you access to find success! Regards, dr g Posted on: U unread, Syllabus: Assignments and due dates All Sections Hello scholars - Here are a few update: I corrected some due dates on the course calendar. This should match our Canvas due dates. Due Dates - I recommend following the "Syllabus" link in the Canvas left navigation. This lists all the assignments and due dates. These should match the course calendar pdf, but this lists everything sequentially. As of right now, I believe all calendars should match. If we run into a discrepancy, I am very happy to give extensions as needed. Thanks for your patience. Please let me know if you have any questions: gilliamm@oregonstate.edu Posted on: U unread, MSLC Peer tutoring new hours All Sections Friendly update on the new tutoring center hours in the MSLC (first floor of Kidder Hall): The in-person tutoring hours will be as follows: Mondays-Thursdays from 10am-7pm Fridays from 10am-4pm There is also virtual tutoring on Sundays - Thursdays from 7pm-10pm. MSLC Link for more details: https://math.oregonstate.edu/undergraduate/mathematics-statistics-learning-center Posted on: U unread, Updates: 1/12 --> Due dates, discord All Sections Hello scholars! Today is our first round of due dates! Just sending a friendly reminder about due dates today: Module 1 - Please check out all the due dates. A useful place to look is the Canvas syllabus WHW - Submit whatever you have by tonight. Some credit is WAY better than a zero. Please submit anything that you have! Let's get some points. Achieve - Try to complete what you can. Although you can work on this late, if you can avoid late penalty, this will just mean more points for you. Reading Quiz (RQ) - These are relatively easy points. 2-3 questions from the reading. No prior knowledge is needed. All answer come directly from the reading. Keep an eye for any more due dates/times. Discord - I will be opening a Discord page for our class with the effort of creating a community and way for you all to connect, chat, problem solve together. I will be active on it to offer support. This should be up by 2pm today. Thank you all for your effort! Posted on: U unread, Mini-Exams --> How do they work? Practice? All Sections Hello all - Here is a summary of how are M
+
+## Hidden Text Samples
+- Announcements
+- Announcement Filter
+- Search discussions by title
+- Announcements List
+- Michael Gilliam
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- Michael Gilliam
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- Michael Gilliam
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- Michael Gilliam
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- Michael Gilliam
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- Michael Gilliam
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- U
+- unread,
+- INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+- INTEGRAL CALCULUS (MTH_252Z_401_U2026)
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U
+- unread,
+- U

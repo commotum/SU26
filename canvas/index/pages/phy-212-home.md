@@ -1,0 +1,21 @@
+# PHY-212 home
+
+- Captured: 2026-06-26T20:23:05.943Z
+- URL: https://canvas.oregonstate.edu/courses/2053526
+- Title: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- Redirected: no
+
+## Headings
+- H1: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- H1: Home page
+- H3: General Physics with Calculus
+- H3: Welcome!
+- H3: Announcements
+
+## Links
+- [Announcements](https://canvas.oregonstate.edu/courses/2053526/announcements)
+
+## Visible Text
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) PH 212 General Physics with Calculus . Welcome! This course is fully online. Lectures will be held via Zoom at a regularly scheduled time to be determined depending on students' availability. Zoom meeting information is posted in the Course Information module. Lecture videos are posted for those who cannot attend and asynchronous participation assignments are posted in Canvas. Labs are fully online, as well as the optional recitation course. There are alternate asynchronous assignments for all in-class activities. Quizzes and the final exam are delivered via Zoom at the regular Zoom lecture time and again at 6pm. Asynchronous alternatives for quizzes and the final exam are delivered via Proctorio. PH 212 covers a variety of topics including circular motion, rigid rotation, oscillations, waves, wave optics, ray optics and gravitation. Please make sure your Canvas settings are adjusted so that you receive announcements via email, so that you get information pertinent to the course. Please start by selecting the Modules menu button in the left pane and reading the material in the Course information module. Announcements Please check for announcements regularly to receive important course information. Select the Announcements menu button in the left pane to open the Announcements page. Announcements will also be sent to your ONID email account. Please check your Canvas settings to make sure notifications are turned on.
+
+## Hidden Text Samples

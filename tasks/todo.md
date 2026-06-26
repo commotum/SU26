@@ -34,6 +34,8 @@ Task with details:
   - Details: [TASK-0004](#task-0004)
 - [ ] TASK-0005 | P1 | user | PH 212 | Verify PH 212 first-day participation - confirm M1-0 credit or complete M1-0asy
   - Details: [TASK-0005](#task-0005)
+- [ ] TASK-0006 | P1 | user | PH 212 | Confirm PH 212 Lab TA meeting time - email the chosen TA and wait for confirmation before the first TA meeting next week
+  - Details: [TASK-0006](#task-0006)
 
 ## This Week
 
@@ -117,6 +119,19 @@ Deadline:
 Acceptance: Either M1-0 credit is confirmed or M1-0asy is submitted and pending manual grading.
 Blockers:
 Notes: Do not complete M1-0asy if M1-0 credit is already posted; the email says credit is for one or the other, not both.
+
+### TASK-0006 - Confirm PH 212 Lab TA Meeting Time
+
+Title: Confirm PH 212 Lab TA Meeting Time
+Description: PH 212 lab group meeting time is not confirmed until the selected TA replies that the time is available.
+Responsibility: user
+Source: Canvas announcement email
+Context: EMAIL-0002 from GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
+Next action: Email the chosen PH 212 Lab TA to confirm the group meeting time is available and wait for the TA reply before treating it as scheduled.
+Deadline: before first PH 212 TA meeting next week
+Acceptance: Selected TA has replied confirming the group meeting time is available.
+Blockers:
+Notes: TA meeting times are first come, first served. TA meetings and lab group reports start next week.
 
 ```md
 ### TASK-0001 - Short Title
