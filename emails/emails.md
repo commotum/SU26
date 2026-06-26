@@ -26,6 +26,10 @@ Email with details:
 
 ## Actionable
 
+- EMAIL-JOB-0001 | 2026-06-26 | Outlook Inbox Zero - process messages as of 2026-06-26 11:29:31 PDT
+  - Details: [Outlook Inbox Zero Job](outlook_inbox_zero.md)
+  - Linked task: [TASK-0001](../tasks/todo.md#task-0001---get-outlook-to-inbox-zero)
+
 ## Waiting
 
 ## Reference
@@ -44,7 +48,10 @@ Description: One sentence summary of the message.
 Sender:
 Received:
 Category: course, admin, billing, financial aid, promo, receipt, reference, other.
-Decision: do, calendar, waiting, reference, archive, delete, unsubscribe, rule.
+Email type: routine, irregular, or personal.
+Importance: low, normal, high, or critical.
+Decision: do, calendar, waiting, reference, archive, delete, unsubscribe, rule, restore_unread.
+Mailbox action: none, opened, restored_unread, recommend_archive, recommend_delete, recommend_rule, other.
 Next action:
 Linked task: TASK-0001 or none.
 Deadline:

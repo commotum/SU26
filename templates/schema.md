@@ -31,6 +31,18 @@ Use `EMAIL-0001`, `EMAIL-0002`, and so on.
 
 `needs_review`, `actionable`, `waiting`, `reference`, `archived`, `deleted`, `noise`
 
+## Email Type Values
+
+`routine`, `irregular`, `personal`
+
+## Email Importance Values
+
+`low`, `normal`, `high`, `critical`
+
+## Email Mailbox Action Values
+
+`none`, `opened`, `restored_unread`, `recommend_archive`, `recommend_delete`, `recommend_rule`, `other`
+
 ## Priority Values
 
 `P0`, `P1`, `P2`, `P3`

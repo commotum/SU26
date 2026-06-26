@@ -9,6 +9,11 @@ Use this as the daily feed. Newest items go near the top, with links out to the 
 
 ## Feed
 
+### 2026-06-26 - Outlook Inbox Zero Ticket Created
+
+Description: Created the first summer term task to process Outlook toward Inbox Zero using 2026-06-26 11:29:31 PDT as the cutoff timestamp.
+Links: [Todo](tasks/todo.md), [Outlook Inbox Zero Job](emails/outlook_inbox_zero.md), [Task Log](tasks/task_log.csv), [Email Inbox](emails/emails.md)
+
 Template:
 
 ```md
