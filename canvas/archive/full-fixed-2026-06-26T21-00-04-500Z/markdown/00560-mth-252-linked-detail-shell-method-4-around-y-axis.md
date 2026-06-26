@@ -1,0 +1,38 @@
+# Shell method 4 around y-axis
+
+- Course: MTH-252
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2080857/modules/items/26982771
+- Resolved URL: https://canvas.oregonstate.edu/courses/2080857/modules/items/26982771
+- Captured: 2026-06-26T21:24:31.149Z
+- Canvas object: module_item 26982771
+- Redirected: no
+
+## Headings
+- H1: Shell method 4 around y-axis
+
+## Visible Text
+Shell method 4 around y-axis
+This site was opened in a new browser window.
+If it didn't open automatically, select the button below.
+Open Shell method 4 around y-axis in a new window
+Previous
+Next
+
+## Links
+- Open Shell method 4 around y-axis in a new window -> https://youtu.be/aW_3JoRHsPU
+- Previous -> https://canvas.oregonstate.edu/courses/2080857/modules/items/26982770
+- Next -> https://canvas.oregonstate.edu/courses/2080857/modules/items/26982772
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Shell method 4 around y-axis
+- Open Shell method 4 around y-axis in a new window
+- Previous Next
+- Previous
+- Next

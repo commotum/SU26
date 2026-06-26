@@ -1,0 +1,862 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "Pinned Discussions",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "DiscussionsOrdered by Recent Activity",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "Closed for CommentsOrdered by Recent Activity",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussions"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Pinned Discussions"
+    },
+    {
+      "index": 2,
+      "level": "H3",
+      "text": "Q&A DiscussionQ&A Discussion Last post at Jun 26, 11:15 AM"
+    },
+    {
+      "index": 3,
+      "level": "H3",
+      "text": "unread,Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hourModule 1 — Discussion Reflection: WHW 1 🕓 0.25 hour Not available until Jun 30, 12:00 AM Due Jul 2, 11:59 PM"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "unread,Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Not available until Jul 7, 12:59 AM Due Jul 10, 11:59 PM"
+    },
+    {
+      "index": 5,
+      "level": "H3",
+      "text": "unread,Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hourModule 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour Not available until Jul 10, 11:59 PM Due Jul 14, 11:59 PM"
+    },
+    {
+      "index": 6,
+      "level": "H3",
+      "text": "unread,Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hourModule 4 — Discussion Reflection: WHW 4 🕓 0.5 hour Not available until Jul 21, 11:59 PM Due Jul 24, 11:59 PM"
+    },
+    {
+      "index": 7,
+      "level": "H3",
+      "text": "unread,Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hourModule 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour Not available until Jul 24, 11:59 PM Due Jul 28, 11:59 PM"
+    },
+    {
+      "index": 8,
+      "level": "H3",
+      "text": "unread,Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hourModule 6 — Discussion Reflection: WHW 6 🕓 0.5 hour Not available until Aug 4, 11:59 PM Due Aug 7, 11:59 PM"
+    },
+    {
+      "index": 9,
+      "level": "H3",
+      "text": "unread,Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hourModule 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour Not available until Aug 7, 11:59 PM Due Aug 11, 11:59 PM"
+    },
+    {
+      "index": 10,
+      "level": "H3",
+      "text": "unread,Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hourModule 8 — Discussion Reflection: WHW 8 🕓 0.5 hour Not available until Aug 18, 11:59 PM Due Aug 22, 11:59 PM"
+    },
+    {
+      "index": 11,
+      "level": "H3",
+      "text": "unread,Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hourModule 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour Not available until Aug 25, 11:59 PM Due Aug 29, 11:59 PM"
+    },
+    {
+      "index": 12,
+      "level": "H2",
+      "text": "Discussions"
+    },
+    {
+      "index": 13,
+      "level": "H2",
+      "text": "Closed for Comments"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Discussions"
+    },
+    {
+      "index": 1,
+      "text": "Discussion Filter"
+    },
+    {
+      "index": 2,
+      "text": "Search discussions by title"
+    },
+    {
+      "index": 3,
+      "text": "Discussion Settings"
+    },
+    {
+      "index": 4,
+      "text": "Pinned Discussions"
+    },
+    {
+      "index": 5,
+      "text": "Q&A Discussion Last post at Jun 26, 11:15 AM"
+    },
+    {
+      "index": 6,
+      "text": "24 unread replies"
+    },
+    {
+      "index": 7,
+      "text": "24 total replies"
+    },
+    {
+      "index": 8,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 9,
+      "text": "unread,"
+    },
+    {
+      "index": 10,
+      "text": "Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour Not available until Jun 30, 12:00 AM Due Jul 2, 11:59 PM"
+    },
+    {
+      "index": 11,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 12,
+      "text": "unread,"
+    },
+    {
+      "index": 13,
+      "text": "Module 2 — Discussion Reflection 🕓 0.5 hour Not available until Jul 7, 12:59 AM Due Jul 10, 11:59 PM"
+    },
+    {
+      "index": 14,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 15,
+      "text": "unread,"
+    },
+    {
+      "index": 16,
+      "text": "Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour Not available until Jul 10, 11:59 PM Due Jul 14, 11:59 PM"
+    },
+    {
+      "index": 17,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 18,
+      "text": "unread,"
+    },
+    {
+      "index": 19,
+      "text": "Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour Not available until Jul 21, 11:59 PM Due Jul 24, 11:59 PM"
+    },
+    {
+      "index": 20,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 21,
+      "text": "unread,"
+    },
+    {
+      "index": 22,
+      "text": "Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour Not available until Jul 24, 11:59 PM Due Jul 28, 11:59 PM"
+    },
+    {
+      "index": 23,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 24,
+      "text": "unread,"
+    },
+    {
+      "index": 25,
+      "text": "Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour Not available until Aug 4, 11:59 PM Due Aug 7, 11:59 PM"
+    },
+    {
+      "index": 26,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 27,
+      "text": "unread,"
+    },
+    {
+      "index": 28,
+      "text": "Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour Not available until Aug 7, 11:59 PM Due Aug 11, 11:59 PM"
+    },
+    {
+      "index": 29,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 30,
+      "text": "unread,"
+    },
+    {
+      "index": 31,
+      "text": "Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour Not available until Aug 18, 11:59 PM Due Aug 22, 11:59 PM"
+    },
+    {
+      "index": 32,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 33,
+      "text": "unread,"
+    },
+    {
+      "index": 34,
+      "text": "Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour Not available until Aug 25, 11:59 PM Due Aug 29, 11:59 PM"
+    },
+    {
+      "index": 35,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 36,
+      "text": "Discussions"
+    },
+    {
+      "index": 37,
+      "text": "Closed for Comments"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2080857/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476",
+      "rel": "",
+      "target": "",
+      "text": "Q&A DiscussionQ&A Discussion Last post at Jun 26, 11:15 AM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hourModule 1 — Discussion Reflection: WHW 1 🕓 0.25 hour Not available until Jun 30, 12:00 AM Due Jul 2, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Not available until Jul 7, 12:59 AM Due Jul 10, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hourModule 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour Not available until Jul 10, 11:59 PM Due Jul 14, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hourModule 4 — Discussion Reflection: WHW 4 🕓 0.5 hour Not available until Jul 21, 11:59 PM Due Jul 24, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hourModule 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour Not available until Jul 24, 11:59 PM Due Jul 28, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hourModule 6 — Discussion Reflection: WHW 6 🕓 0.5 hour Not available until Aug 4, 11:59 PM Due Aug 7, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hourModule 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour Not available until Aug 7, 11:59 PM Due Aug 11, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hourModule 8 — Discussion Reflection: WHW 8 🕓 0.5 hour Not available until Aug 18, 11:59 PM Due Aug 22, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hourModule 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour Not available until Aug 25, 11:59 PM Due Aug 29, 11:59 PM",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476",
+      "rel": "",
+      "target": "",
+      "text": "Q&A DiscussionQ&A Discussion Last post at Jun 26, 11:15 AM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hourModule 1 — Discussion Reflection: WHW 1 🕓 0.25 hour Not available until Jun 30, 12:00 AM Due Jul 2, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Not available until Jul 7, 12:59 AM Due Jul 10, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hourModule 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour Not available until Jul 10, 11:59 PM Due Jul 14, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hourModule 4 — Discussion Reflection: WHW 4 🕓 0.5 hour Not available until Jul 21, 11:59 PM Due Jul 24, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hourModule 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour Not available until Jul 24, 11:59 PM Due Jul 28, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hourModule 6 — Discussion Reflection: WHW 6 🕓 0.5 hour Not available until Aug 4, 11:59 PM Due Aug 7, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hourModule 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour Not available until Aug 7, 11:59 PM Due Aug 11, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hourModule 8 — Discussion Reflection: WHW 8 🕓 0.5 hour Not available until Aug 18, 11:59 PM Due Aug 22, 11:59 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467",
+      "rel": "",
+      "target": "",
+      "text": "unread,Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hourModule 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour Not available until Aug 25, 11:59 PM Due Aug 29, 11:59 PM",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics",
+  "source_surface": "discussions",
+  "tables": [],
+  "title": "Discussions: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00007-mth-252-discussions-discussions-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-06-26T21:26:03.871Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "discussions",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "discussions",
+  "canvas_object_id": "",
+  "html_sha256": "53c2c72805fb845f7951d613b44474bd9519c217ca9830a28a68d18b35effdca",
+  "text_sha256": "aab5064a2e114eba0241995354a9dfcc272b2b227cf51a960a3a59576158bd83",
+  "requires_external_handler": false
+}

@@ -1,0 +1,713 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "Pinned Discussions",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Subscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "DiscussionsOrdered by Recent Activity",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Subscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Closed for CommentsOrdered by Recent Activity",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussions"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Pinned Discussions"
+    },
+    {
+      "index": 2,
+      "level": "H3",
+      "text": "General Discussion & FAQsGeneral Discussion & FAQs Last post at Jun 24, 4:04 PM"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Discussions"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "Course IntroductionsCourse Introductions Available until Jul 4, 11:59 PM Last post at Jun 26, 2:15 PM"
+    },
+    {
+      "index": 5,
+      "level": "H3",
+      "text": "Lab 1 DiscussionLab 1 Discussion Available until Aug 15, 11:59 PM Due Jun 25, 11:59 PM Last post at Jun 25, 11:58 PM"
+    },
+    {
+      "index": 6,
+      "level": "H3",
+      "text": "🤔 Project | Optional Step: Find Group Members🤔 Project | Optional Step: Find Group Members Available until Aug 21, 11:59 PM"
+    },
+    {
+      "index": 7,
+      "level": "H2",
+      "text": "Closed for Comments"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Discussions"
+    },
+    {
+      "index": 1,
+      "text": "Discussion Filter"
+    },
+    {
+      "index": 2,
+      "text": "Search discussions by title"
+    },
+    {
+      "index": 3,
+      "text": "Discussion Settings"
+    },
+    {
+      "index": 4,
+      "text": "Pinned Discussions"
+    },
+    {
+      "index": 5,
+      "text": "General Discussion & FAQs Last post at Jun 24, 4:04 PM"
+    },
+    {
+      "index": 6,
+      "text": "0 unread replies"
+    },
+    {
+      "index": 7,
+      "text": "2 total replies"
+    },
+    {
+      "index": 8,
+      "text": "Subscribed"
+    },
+    {
+      "index": 9,
+      "text": "Discussions"
+    },
+    {
+      "index": 10,
+      "text": "Course Introductions Available until Jul 4, 11:59 PM Last post at Jun 26, 2:15 PM"
+    },
+    {
+      "index": 11,
+      "text": "465 unread replies"
+    },
+    {
+      "index": 12,
+      "text": "497 total replies"
+    },
+    {
+      "index": 13,
+      "text": "Subscribed"
+    },
+    {
+      "index": 14,
+      "text": "Lab 1 Discussion Available until Aug 15, 11:59 PM Due Jun 25, 11:59 PM Last post at Jun 25, 11:58 PM"
+    },
+    {
+      "index": 15,
+      "text": "0 unread replies"
+    },
+    {
+      "index": 16,
+      "text": "12 total replies"
+    },
+    {
+      "index": 17,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 18,
+      "text": "🤔 Project | Optional Step: Find Group Members Available until Aug 21, 11:59 PM"
+    },
+    {
+      "index": 19,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 20,
+      "text": "Closed for Comments"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815",
+      "rel": "",
+      "target": "",
+      "text": "General Discussion & FAQsGeneral Discussion & FAQs Last post at Jun 24, 4:04 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "rel": "",
+      "target": "",
+      "text": "Course IntroductionsCourse Introductions Available until Jul 4, 11:59 PM Last post at Jun 26, 2:15 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 DiscussionLab 1 Discussion Available until Aug 15, 11:59 PM Due Jun 25, 11:59 PM Last post at Jun 25, 11:58 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Optional Step: Find Group Members🤔 Project | Optional Step: Find Group Members Available until Aug 21, 11:59 PM",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815",
+      "rel": "",
+      "target": "",
+      "text": "General Discussion & FAQsGeneral Discussion & FAQs Last post at Jun 24, 4:04 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "rel": "",
+      "target": "",
+      "text": "Course IntroductionsCourse Introductions Available until Jul 4, 11:59 PM Last post at Jun 26, 2:15 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 DiscussionLab 1 Discussion Available until Aug 15, 11:59 PM Due Jun 25, 11:59 PM Last post at Jun 25, 11:58 PM",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Optional Step: Find Group Members🤔 Project | Optional Step: Find Group Members Available until Aug 21, 11:59 PM",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades3"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+  "source_surface": "discussions",
+  "tables": [],
+  "title": "Discussions: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00023-phy-212-discussions-discussions-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-06-26T21:26:55.997Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "discussions",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "discussions",
+  "canvas_object_id": "",
+  "html_sha256": "18fb20f6bb8d7632dfa38a2775bb848900841b4f24c31e48c8cc208c14be79ee",
+  "text_sha256": "7ff36a7667e6f493f4ac9320a5366464aae2edcb9f1008fe2fd58624841971f5",
+  "requires_external_handler": false
+}

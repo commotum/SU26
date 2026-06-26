@@ -1,0 +1,36 @@
+{
+  "run_id": "full-chunked-2026-06-26T21-25-24-652Z",
+  "run_root": "/Users/jake/Developer/SU26/canvas/archive/full-chunked-2026-06-26T21-25-24-652Z",
+  "status": "paused",
+  "stop_reason": "chunk_page_limit",
+  "pages_captured": 65,
+  "pages_this_invocation": 65,
+  "manifest_rows": 65,
+  "links": 3362,
+  "iframes": 149,
+  "downloads": 8,
+  "warnings": 1,
+  "queued_remaining": 279,
+  "max_pages": 1200,
+  "max_pages_per_invocation": 65,
+  "screenshot_mode": "surfaces",
+  "pages_by_course": {
+    "MTH-252": 49,
+    "MTH-253": 8,
+    "PHY-212": 8
+  },
+  "pages_by_object_type": {
+    "course_page": 10,
+    "modules": 3,
+    "grades": 3,
+    "assignment": 10,
+    "discussions": 3,
+    "quizzes": 1,
+    "assignments": 1,
+    "discussion": 4,
+    "page": 18,
+    "file": 4,
+    "module_item": 6,
+    "quiz": 2
+  }
+}

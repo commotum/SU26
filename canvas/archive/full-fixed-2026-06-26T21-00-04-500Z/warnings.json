@@ -1,0 +1,14 @@
+[
+  {
+    "page_id": "",
+    "warning": "capture_failed",
+    "detail": "Error: Timed out waiting for tab 1798177255 to navigate to https://canvas.oregonstate.edu/courses/2053526/assignments/10556974.",
+    "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974"
+  },
+  {
+    "page_id": "",
+    "warning": "capture_failed",
+    "detail": "Error: Timed out waiting for tab 1798177255 to navigate to https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804.",
+    "requested_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804"
+  }
+]

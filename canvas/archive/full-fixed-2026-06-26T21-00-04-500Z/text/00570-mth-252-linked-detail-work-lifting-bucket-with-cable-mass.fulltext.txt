@@ -1,0 +1,36 @@
+
+            
+  Work: Lifting bucket with cable mass
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Work: Lifting bucket with cable mass in a new window
+      
+    
+
+
+  
+
+  
+    
+      
+         Previous
+      
+    
+    
+      
+        Next 
+      
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          
