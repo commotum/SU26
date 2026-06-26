@@ -6,12 +6,12 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - Modules: 4
 - Module items: 38
-- Tasks: 59
+- Tasks: 61
 - Surface-only Assignments/Grades rows: 12
 - Retry URLs queued: 48
 - Downloads queued for parsing: 19
 - Rule-improvement buckets: 3
-- Manual-review rows: 37
+- Manual-review rows: 39
 
 ## Modules
 
@@ -131,5 +131,5 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 ### Rule Improvements
 
 - graded_task_missing_due / missing_due_text: 11 examples
-- review_queue / low_confidence: 4 examples
+- review_queue / low_confidence: 3 examples
 - module_crosscheck / module_item_task_candidate_without_task: 1 examples

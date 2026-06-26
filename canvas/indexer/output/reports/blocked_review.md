@@ -67,7 +67,7 @@ Generated 2026-06-26.
 - **MTH-253** review_queue / structural_no_href: 14 examples
 - **MTH-253** review_queue / low_confidence: 8 examples
 - **PHY-212** graded_task_missing_due / missing_due_text: 11 examples
-- **PHY-212** review_queue / low_confidence: 4 examples
+- **PHY-212** review_queue / low_confidence: 3 examples
 - **PHY-212** module_crosscheck / module_item_task_candidate_without_task: 1 examples
 
 ## Manual Review Counts
@@ -77,7 +77,7 @@ Generated 2026-06-26.
 - MTH-252 external_tool: 57
 - MTH-252 graded_task: 1
 - MTH-252 module_item_external_unvisited: 63
-- MTH-253 critical_setup: 2
+- MTH-253 critical_setup: 1
 - MTH-253 external_tool: 36
 - MTH-253 graded_task: 2
 - MTH-253 prep_reading: 2
@@ -86,3 +86,4 @@ Generated 2026-06-26.
 - PHY-212 external_tool: 2
 - PHY-212 graded_task: 15
 - PHY-212 grades_surface_task_not_in_modules: 6
+- PHY-212 prep_reading: 2

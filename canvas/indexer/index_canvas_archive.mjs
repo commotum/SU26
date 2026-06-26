@@ -41,7 +41,7 @@ const CLASSIFICATION_RULES = [
   {
     rule_id: "rule-download-not-read",
     label: "download_indexed_not_read",
-    description: "Download links are explicitly not considered read until binaries are downloaded and parsed.",
+    description: "Download links are explicitly not considered read until binaries are downloaded and parsed; image-only files are flagged for OCR/vision review.",
   },
   {
     rule_id: "rule-blocked",
@@ -159,6 +159,33 @@ async function readJsonIfExists(filePath, fallback) {
     if (error?.code === "ENOENT") return fallback;
     throw error;
   }
+}
+
+function resolveMaybeAbsolute(basePath, filePath) {
+  if (!filePath) return "";
+  return path.isAbsolute(filePath) ? filePath : path.resolve(basePath, filePath);
+}
+
+async function hydrateParsedDownloadRows(outputRoot, parsedDownloadRows) {
+  const hydrated = [];
+  for (const row of parsedDownloadRows) {
+    const parsedPath = resolveMaybeAbsolute(outputRoot, row.parsed_markdown_path);
+    let parsedText = "";
+    if (parsedPath) {
+      try {
+        parsedText = await readFile(parsedPath, "utf8");
+      } catch (error) {
+        if (error?.code !== "ENOENT") throw error;
+      }
+    }
+    hydrated.push({
+      ...row,
+      parsed_markdown_path: parsedPath || row.parsed_markdown_path || "",
+      repo_file_path: resolveMaybeAbsolute(outputRoot, row.repo_file_path) || row.repo_file_path || "",
+      parsed_text: parsedText,
+    });
+  }
+  return hydrated;
 }
 
 function courseFromUrl(url) {
@@ -524,12 +551,73 @@ function addObject(objectsById, object) {
   if (existing.capture_status !== "captured" && object.capture_status === "captured") {
     existing.capture_status = "captured";
   }
+  if (object.capture_status === "downloaded_and_parsed" && existing.capture_status === "indexed_download_link") {
+    existing.capture_status = object.capture_status;
+  }
+  if (["downloaded_needs_ocr", "downloaded_parse_failed"].includes(object.capture_status) && existing.capture_status === "indexed_download_link") {
+    existing.capture_status = object.capture_status;
+  }
+  if (object.read_status === "parsed_file_text" && existing.read_status === "indexed_not_read") {
+    existing.read_status = object.read_status;
+    existing.notes = object.notes || existing.notes;
+  }
+  if (["downloaded_text_empty_needs_ocr", "downloaded_parse_failed"].includes(object.read_status) && existing.read_status === "indexed_not_read") {
+    existing.read_status = object.read_status;
+    existing.notes = object.notes || existing.notes;
+  }
   return existing;
 }
 
-function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout }) {
+function splitJoined(value) {
+  return cleanText(value).split("|").map((part) => part.trim()).filter(Boolean);
+}
+
+function buildParsedDownloadIndexes(parsedDownloadRows) {
+  const byDownloadId = new Map();
+  const byObjectId = new Map();
+  const byCourseFileId = new Map();
+
+  for (const row of parsedDownloadRows) {
+    for (const downloadId of splitJoined(row.download_ids)) byDownloadId.set(downloadId, row);
+    for (const objectId of splitJoined(row.object_ids)) byObjectId.set(objectId, row);
+    if (row.course_code && row.canvas_file_id) byCourseFileId.set(`${row.course_code}\t${row.canvas_file_id}`, row);
+  }
+
+  return { byDownloadId, byObjectId, byCourseFileId };
+}
+
+function parsedDownloadFor({ parsedDownloadIndexes, downloadId, objectId, course_code, canvas_file_id }) {
+  return parsedDownloadIndexes.byDownloadId.get(downloadId) ||
+    parsedDownloadIndexes.byObjectId.get(objectId) ||
+    parsedDownloadIndexes.byCourseFileId.get(`${course_code}\t${canvas_file_id}`) ||
+    null;
+}
+
+function readStatusForDownloadAttempt(downloadAttempt) {
+  if (!downloadAttempt) return "indexed_not_read";
+  if (downloadAttempt.parse_status === "parsed") return "parsed_file_text";
+  if (downloadAttempt.parse_status === "parsed_text_empty_needs_ocr") return "downloaded_text_empty_needs_ocr";
+  return "downloaded_parse_failed";
+}
+
+function captureStatusForDownloadAttempt(downloadAttempt) {
+  if (!downloadAttempt) return "indexed_download_link";
+  if (downloadAttempt.parse_status === "parsed") return "downloaded_and_parsed";
+  if (downloadAttempt.parse_status === "parsed_text_empty_needs_ocr") return "downloaded_needs_ocr";
+  return "downloaded_parse_failed";
+}
+
+function evidenceStatusForDownloadAttempt(downloadAttempt) {
+  if (!downloadAttempt) return "link_only";
+  if (downloadAttempt.parse_status === "parsed") return "parsed_text";
+  if (downloadAttempt.parse_status === "parsed_text_empty_needs_ocr") return "downloaded_needs_ocr";
+  return "parse_failed";
+}
+
+function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows = [] }) {
   const destinationIndexes = buildDestinationIndexes(pageRows);
   const pageById = new Map(pageRows.map((row) => [row.page_id, row]));
+  const parsedDownloadIndexes = buildParsedDownloadIndexes(parsedDownloadRows);
   const objectsById = new Map();
   const modulesByKey = new Map();
   const moduleRows = [];
@@ -731,18 +819,34 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
     const objectId = canvasObjectIdForDownload(row, index);
     const course_id = sourcePage.course_id || courseFromUrl(row.href).course_id;
     const course_code = row.course_code || sourcePage.course_code || courseFromUrl(row.href).course_code;
+    const canvasFileId = extractCanvasFileId(row.href);
+    const downloadAttempt = parsedDownloadFor({
+      parsedDownloadIndexes,
+      downloadId,
+      objectId,
+      course_code,
+      canvas_file_id: canvasFileId,
+    });
+    const isParsed = downloadAttempt?.parse_status === "parsed";
+    const readStatus = readStatusForDownloadAttempt(downloadAttempt);
+    const captureStatus = captureStatusForDownloadAttempt(downloadAttempt);
+    const evidenceStatus = evidenceStatusForDownloadAttempt(downloadAttempt);
     addObject(objectsById, {
       object_id: objectId,
       course_id,
       course_code,
       object_type: "download",
-      canvas_object_id: extractCanvasFileId(row.href),
+      canvas_object_id: canvasFileId,
       title: fileName || row.text,
       canonical_url: row.href,
       first_page_id: row.page_id,
-      capture_status: "indexed_download_link",
-      read_status: "indexed_not_read",
-      notes: "Download URL captured but file binary has not been downloaded or parsed.",
+      capture_status: captureStatus,
+      read_status: readStatus,
+      notes: isParsed
+        ? `Parsed file text captured at ${downloadAttempt.parsed_markdown_path || downloadAttempt.repo_file_path || ""}`.trim()
+        : downloadAttempt
+          ? `Downloaded file requires additional extraction: parse_status=${downloadAttempt.parse_status}; path=${downloadAttempt.repo_file_path || ""}`.trim()
+        : "Download URL captured but file binary has not been downloaded or parsed.",
     });
     downloadRowsNormalized.push({
       download_id: downloadId,
@@ -754,11 +858,13 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
       source_page_url: sourcePage.resolved_url || sourcePage.requested_url || "",
       text: row.text,
       file_name: fileName,
-      canvas_file_id: extractCanvasFileId(row.href),
+      canvas_file_id: canvasFileId,
       href: row.href,
       download_attr: row.download_attr,
-      read_status: "indexed_not_read",
-      evidence_status: "link_only",
+      read_status: readStatus,
+      evidence_status: evidenceStatus,
+      repo_file_path: downloadAttempt?.repo_file_path || "",
+      parsed_markdown_path: downloadAttempt?.parsed_markdown_path || "",
     });
     addEvidence({
       object_id: objectId,
@@ -774,8 +880,47 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
       download_id: downloadId,
       target_page_id: "",
       target_url: row.href,
-      detail: "Download URL indexed; binary not downloaded.",
+      detail: isParsed
+        ? `Download URL indexed; parsed_markdown_path=${downloadAttempt.parsed_markdown_path}; char_count=${downloadAttempt.char_count}; page_count=${downloadAttempt.page_count}`
+        : downloadAttempt
+          ? `Download URL indexed; file downloaded but not text-readable; parse_status=${downloadAttempt.parse_status}; repo_file_path=${downloadAttempt.repo_file_path}`
+          : "Download URL indexed; binary not downloaded.",
     });
+    if (isParsed) {
+      addEvidence({
+        object_id: objectId,
+        evidence_type: "parsed_download_text",
+        relation: "download_binary_parsed",
+        course_id,
+        course_code,
+        source_page_id: row.page_id,
+        source_url: sourcePage.resolved_url || sourcePage.requested_url || "",
+        source_title: sourcePage.title || "",
+        module_id: "",
+        module_item_id: "",
+        download_id: downloadId,
+        target_page_id: "",
+        target_url: downloadAttempt.parsed_markdown_path || downloadAttempt.repo_file_path || row.href,
+        detail: `file=${downloadAttempt.repo_file_path}; parsed=${downloadAttempt.parsed_markdown_path}; parsed_text=${compactText(downloadAttempt.parsed_text || downloadAttempt.text_sample || "", 60000)}`,
+      });
+    } else if (downloadAttempt) {
+      addEvidence({
+        object_id: objectId,
+        evidence_type: "download_requires_ocr",
+        relation: "download_binary_not_text_readable",
+        course_id,
+        course_code,
+        source_page_id: row.page_id,
+        source_url: sourcePage.resolved_url || sourcePage.requested_url || "",
+        source_title: sourcePage.title || "",
+        module_id: "",
+        module_item_id: "",
+        download_id: downloadId,
+        target_page_id: "",
+        target_url: downloadAttempt.repo_file_path || row.href,
+        detail: `parse_status=${downloadAttempt.parse_status}; parsed_markdown_path=${downloadAttempt.parsed_markdown_path}; notes=${downloadAttempt.notes || ""}`,
+      });
+    }
   }
 
   for (const page of pageRows) {
@@ -986,6 +1131,14 @@ function classifyObject({ object, moduleItems, objectPages, objectEvidence, issu
     labels.add("download_indexed_not_read");
     reasons.push("download link not parsed");
   }
+  if (object.read_status === "downloaded_text_empty_needs_ocr") {
+    labels.add("download_needs_ocr");
+    reasons.push("downloaded file produced no extractable text");
+  }
+  if (object.read_status === "downloaded_parse_failed") {
+    labels.add("download_parse_failed");
+    reasons.push("downloaded file parse failed");
+  }
   if (objectType === "external_tool" || objectType === "external_url" || /external_tool|external_unvisited/.test(moduleCaptureStatuses)) {
     labels.add("external_tool");
     reasons.push("external surface");
@@ -1027,14 +1180,14 @@ function classifyObject({ object, moduleItems, objectPages, objectEvidence, issu
   else if (labels.has("required_ungraded_task") || labels.has("prep_reading") || labels.has("lecture_video")) importance = "medium";
 
   let actionability = "reference_only";
-  if (labels.has("blocked_or_broken") || labels.has("external_tool") || labels.has("download_indexed_not_read")) actionability = "review_needed";
+  if (labels.has("blocked_or_broken") || labels.has("external_tool") || labels.has("download_indexed_not_read") || labels.has("download_needs_ocr") || labels.has("download_parse_failed")) actionability = "review_needed";
   if (labels.has("graded_task") || labels.has("critical_setup") || labels.has("required_ungraded_task")) actionability = "action_required";
   if (!labels.has("graded_task") && !labels.has("required_ungraded_task") && !labels.has("critical_setup") && (labels.has("prep_reading") || labels.has("lecture_video"))) {
     actionability = "prep_required";
   }
 
   let confidence = "medium";
-  if (labels.has("blocked_or_broken") || labels.has("download_indexed_not_read") || labels.has("external_tool")) confidence = "low";
+  if (labels.has("blocked_or_broken") || labels.has("download_indexed_not_read") || labels.has("download_needs_ocr") || labels.has("download_parse_failed") || labels.has("external_tool")) confidence = "low";
   if ((labels.has("graded_task") && objectEvidence.length) || labels.has("critical_setup")) confidence = "high";
   if (!objectEvidence.length) confidence = "low";
   if (labels.has("course_navigation_surface") && !labels.has("blocked_or_broken")) {
@@ -1209,6 +1362,8 @@ function buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIs
     if (classification.labels.includes("blocked_or_broken")) reviewReasons.push("blocked_or_broken");
     if (classification.labels.includes("external_tool")) reviewReasons.push("external_surface");
     if (classification.labels.includes("download_indexed_not_read")) reviewReasons.push("download_not_read");
+    if (classification.labels.includes("download_needs_ocr")) reviewReasons.push("download_needs_ocr");
+    if (classification.labels.includes("download_parse_failed")) reviewReasons.push("download_parse_failed");
     if (moduleItems.some((item) => item.capture_status === "structural_no_href")) reviewReasons.push("structural_no_href");
     if (!objectEvidence.length) reviewReasons.push("missing_evidence");
     for (const reason of reviewReasons) {
@@ -1224,6 +1379,10 @@ function buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIs
         suggested_action:
           reason === "download_not_read"
             ? "Download and parse file before treating contents as read."
+            : reason === "download_needs_ocr"
+              ? "Run OCR or visual extraction before treating contents as read."
+              : reason === "download_parse_failed"
+                ? "Inspect parse failure and retry with a better parser."
             : reason === "external_surface"
               ? "Inspect external tool/link if it may contain required work."
               : reason === "blocked_or_broken"
@@ -1573,11 +1732,14 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
   }
 
   for (const download of normalizedGraph.downloads) {
+    if (!["indexed_not_read", "downloaded_text_empty_needs_ocr", "downloaded_parse_failed"].includes(download.read_status)) continue;
+    const needsOcr = download.read_status === "downloaded_text_empty_needs_ocr";
+    const parseFailed = download.read_status === "downloaded_parse_failed";
     addSuspicion({
       course_id: download.course_id,
       course_code: download.course_code,
       severity: "medium",
-      category: "download_not_read",
+      category: needsOcr ? "download_needs_ocr" : parseFailed ? "download_parse_failed" : "download_not_read",
       object_id: download.object_id,
       task_id: "",
       module_id: "",
@@ -1589,8 +1751,12 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
       evidence_id: "",
       review_id: "",
       status: download.read_status,
-      detail: `source_page_title=${download.source_page_title}; evidence_status=${download.evidence_status}`,
-      suggested_action: "Download and parse the file before treating the file contents as indexed.",
+      detail: `source_page_title=${download.source_page_title}; evidence_status=${download.evidence_status}; repo_file_path=${download.repo_file_path || ""}`,
+      suggested_action: needsOcr
+        ? "Run OCR or visual extraction before treating the file contents as indexed."
+        : parseFailed
+          ? "Inspect the parse failure and retry with a better parser."
+          : "Download and parse the file before treating the file contents as indexed.",
     });
   }
 
@@ -1674,7 +1840,7 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
 function overrideStateFromRow(override) {
   if (cleanText(override.mark_resolved).toLowerCase() === "yes") return "resolved";
   const state = cleanText(override.override_review_state).toLowerCase();
-  if (["needs_rule", "needs_retry", "needs_download", "needs_manual_decision", "resolved"].includes(state)) {
+  if (["needs_rule", "needs_retry", "needs_download", "needs_ocr", "needs_manual_decision", "resolved"].includes(state)) {
     return state;
   }
   return "";
@@ -1818,6 +1984,12 @@ function inferReviewState(row, override) {
   const overrideState = override ? overrideStateFromRow(override) : "";
   if (overrideState) return overrideState;
 
+  if (row.category === "download_needs_ocr" || row.status === "downloaded_text_empty_needs_ocr" || row.status === "download_needs_ocr") {
+    return "needs_ocr";
+  }
+  if (row.category === "download_parse_failed" || row.status === "downloaded_parse_failed" || row.status === "download_parse_failed") {
+    return "needs_ocr";
+  }
   if (row.category === "download_not_read" || row.status === "download_not_read" || row.status === "indexed_not_read") {
     return "needs_download";
   }
@@ -1832,6 +2004,7 @@ function inferReviewState(row, override) {
   if (/surface_crosscheck|task_without_module/.test(row.category)) return "needs_manual_decision";
   if (/task_candidate_without_task|structural/.test(row.status)) return "needs_rule";
   if (/external/.test(row.status)) return "needs_manual_decision";
+  if (row.category === "review_queue" && /needs_ocr|parse_failed/.test(row.status)) return "needs_ocr";
   if (row.category === "review_queue" && /download/.test(row.status)) return "needs_download";
   if (row.category === "review_queue" && /capture_failed|blocked|unauthorized|page_not_found/.test(row.status)) return "needs_retry";
   return "needs_manual_decision";
@@ -1841,6 +2014,7 @@ function nextActionForReviewState(state) {
   if (state === "needs_rule") return "improve_classifier_or_override";
   if (state === "needs_retry") return "retry_canvas_capture";
   if (state === "needs_download") return "download_and_parse_file";
+  if (state === "needs_ocr") return "ocr_or_vision_extract_file";
   if (state === "resolved") return "none";
   return "manual_review";
 }
@@ -1957,6 +2131,16 @@ function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverr
 
   const downloadManifest = normalizedGraph.downloads.map((download) => {
     downloadNumber += 1;
+    const executeStatus =
+      download.read_status === "parsed_file_text" ? "downloaded_and_parsed" :
+      download.read_status === "downloaded_text_empty_needs_ocr" ? "downloaded_needs_ocr" :
+      download.read_status === "downloaded_parse_failed" ? "downloaded_parse_failed" :
+      "queued_not_executed";
+    const suggestedAction =
+      download.read_status === "parsed_file_text" ? "Parsed file text is attached as evidence." :
+      download.read_status === "downloaded_text_empty_needs_ocr" ? "Run OCR or visual extraction before treating file contents as read." :
+      download.read_status === "downloaded_parse_failed" ? "Inspect parse failure and retry with a better parser." :
+      "Download binary, parse text/tables, attach parsed evidence, then re-run indexer.";
     return {
       download_manifest_id: `download-${String(downloadNumber).padStart(4, "0")}`,
       download_id: download.download_id,
@@ -1970,8 +2154,10 @@ function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverr
       source_page_title: download.source_page_title,
       source_page_url: download.source_page_url,
       read_status: download.read_status,
-      execute_status: "queued_not_executed",
-      suggested_action: "Download binary, parse text/tables, attach parsed evidence, then re-run indexer.",
+      execute_status: executeStatus,
+      repo_file_path: download.repo_file_path || "",
+      parsed_markdown_path: download.parsed_markdown_path || "",
+      suggested_action: suggestedAction,
     };
   });
 
@@ -2272,7 +2458,7 @@ async function run({
   const reportsRoot = path.join(outputRoot, "reports");
   await mkdir(reportsRoot, { recursive: true });
 
-  const [summary, warnings, pageRows, linkRows, iframeRows, downloadRows, manifestRows, reviewOverrides] = await Promise.all([
+  const [summary, warnings, pageRows, linkRows, iframeRows, downloadRows, manifestRows, reviewOverrides, parsedDownloadRowsRaw] = await Promise.all([
     readJsonIfExists(path.join(archiveRoot, "summary.json"), {}),
     readJsonIfExists(path.join(archiveRoot, "warnings.json"), []),
     readCsv(path.join(archiveRoot, "pages.csv")),
@@ -2281,14 +2467,16 @@ async function run({
     readCsv(path.join(archiveRoot, "downloads.csv")),
     readCsv(path.join(archiveRoot, "crawl_manifest.csv")),
     readCsvIfExists(path.join(inputRoot, "review_overrides.csv")),
+    readCsvIfExists(path.join(outputRoot, "parsed_downloads.csv")),
   ]);
 
+  const parsedDownloadRows = await hydrateParsedDownloadRows(outputRoot, parsedDownloadRowsRaw);
   const metadataByPage = await readPageMetadata(archiveRoot, pageRows);
   const pageInventory = buildPageInventory(pageRows, metadataByPage);
   const sourceTypeCounts = buildSourceTypeCounts(pageRows);
   const courseReadout = buildCourseReadout({ pageRows, linkRows, iframeRows, downloadRows, warnings });
   const captureIssues = buildCaptureIssues({ pageRows, warnings, metadataByPage });
-  const normalizedGraph = buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout });
+  const normalizedGraph = buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows });
   const rawClassificationOutputs = buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIssues });
   const { classificationOutputs, appliedReviewOverrides } = applyReviewOverrides({
     classificationOutputs: rawClassificationOutputs,
@@ -2525,6 +2713,8 @@ async function run({
       "download_attr",
       "read_status",
       "evidence_status",
+      "repo_file_path",
+      "parsed_markdown_path",
     ]),
     "utf8",
   );
@@ -2793,6 +2983,8 @@ async function run({
       "source_page_url",
       "read_status",
       "execute_status",
+      "repo_file_path",
+      "parsed_markdown_path",
       "suggested_action",
     ]),
     "utf8",

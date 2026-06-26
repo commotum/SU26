@@ -244,11 +244,11 @@ Category: course.
 Email type: routine.
 Importance: high.
 Decision: do.
-Mailbox action: opened.
+Mailbox action: restored_unread.
 Next action: Review Unit 1 Learning Materials and Unit 1 Overview, then complete the listed Unit 1 assignments.
 Linked task: TASK-0004.
 Deadline: 2026-06-29.
-Notes: Full body read and marked read because it is a routine course announcement after task logging; verify the quiz close-date wording in Canvas.
+Notes: Full body read. Moved to hot and restored unread at user request because it contains MTH 253 Week 1 course information; verify the quiz close-date wording in Canvas.
 
 ### EMAIL-0078 - PH 212 First-Day Participation
 

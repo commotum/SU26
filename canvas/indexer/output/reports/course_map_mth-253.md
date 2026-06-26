@@ -6,12 +6,12 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - Modules: 7
 - Module items: 63
-- Tasks: 48
+- Tasks: 47
 - Surface-only Assignments/Grades rows: 0
 - Retry URLs queued: 0
 - Downloads queued for parsing: 31
 - Rule-improvement buckets: 4
-- Manual-review rows: 42
+- Manual-review rows: 41
 
 ## Modules
 
