@@ -74,12 +74,12 @@ Title: Complete Summer Enrollment Revision
 Description: OSU Financial Aid needs the specific number of credits planned for summer term to process aid.
 Responsibility: user
 Source: Email
-Context: EMAIL-0001, EMAIL-0002, and EMAIL-0027 from Office of Financial Aid said to complete/update the Enrollment Revision Request in the 2026-27 Financial Aid Portal, unsatisfied section of the Home tab.
+Context: EMAIL-0001, EMAIL-0002, EMAIL-0027, and EMAIL-0057 from Office of Financial Aid said to complete/update the Enrollment Revision Request in the 2026-27 Financial Aid Portal, unsatisfied section/Home or Offer tab.
 Next action: Open the Financial Aid Portal and enter the expected summer enrollment credits/status.
 Deadline: as soon as possible
 Acceptance: Enrollment Revision Request is submitted or no longer listed as unsatisfied in the Financial Aid Portal.
 Blockers:
-Notes: EMAIL-0027 was restored unread after reading because it is individualized financial-aid work that should remain visible until handled.
+Notes: EMAIL-0027 was restored unread after reading, and EMAIL-0057 was left unread after reading, because this individualized financial-aid work should remain visible until handled.
 
 ### TASK-0003 - Set Up MTH 252 Access
 
@@ -87,12 +87,12 @@ Title: Set Up MTH 252 Access
 Description: MTH 252 requires Start Here module completion, Achieve registration through Canvas, and awareness of Gradescope setup.
 Responsibility: user
 Source: Canvas announcement email
-Context: EMAIL-0003 and EMAIL-0006 from INTEGRAL CALCULUS (MTH_252Z_400_U2026).
+Context: EMAIL-0003, EMAIL-0006, EMAIL-0072, and EMAIL-0079 from INTEGRAL CALCULUS (MTH_252Z_400_U2026).
 Next action: Click through every Start Here module link, register Achieve from inside Canvas, use the 14-day trial if needed, and use the Q&A link now moved to Start Here.
 Deadline: 2026-06-29
 Acceptance: Start Here is complete, Achieve access works from Canvas, Gradescope details are checked, and first due dates are tracked.
 Blockers:
-Notes: The Q&A-link correction is an irregular course update and was left unread for visibility.
+Notes: EMAIL-0072 confirms Start Here, Achieve-inside-Canvas registration, first due date 2026-06-29, and Gradescope setup timing. EMAIL-0079 is the current Q&A-link correction and was left unread for visibility.
 
 ### TASK-0004 - Complete MTH 253 Unit 1 Work
 
@@ -100,12 +100,12 @@ Title: Complete MTH 253 Unit 1 Work
 Description: MTH 253 Unit 1 includes required discussion, written homework, Achieve homework, and a Canvas quiz.
 Responsibility: user
 Source: Canvas announcement email
-Context: EMAIL-0004 from SEQUENCES AND SERIES (MTH_253Z_400_U2026).
+Context: EMAIL-0004 and EMAIL-0073 from SEQUENCES AND SERIES (MTH_253Z_400_U2026).
 Next action: Review Unit 1 Learning Materials and Unit 1 Overview, then complete the listed Unit 1 assignments.
 Deadline: 2026-06-29
 Acceptance: Week 1 discussion main post, Unit 1 written homework, Achieve web homework, response post, and Unit 1 quiz are completed.
 Blockers:
-Notes: Email states the Unit 1 quiz opens Sunday 2026-06-28 and closes Tuesday 2026-06-29, though 2026-06-29 is a Monday; verify in Canvas.
+Notes: EMAIL-0073 confirms the Unit 1 assignment list. The email states the Unit 1 quiz opens Sunday 2026-06-28 and closes Tuesday 2026-06-29, though 2026-06-29 is a Monday; verify in Canvas.
 
 ### TASK-0005 - Verify PH 212 First-Day Participation
 
@@ -113,12 +113,12 @@ Title: Verify PH 212 First-Day Participation
 Description: PH 212 participation credit depends on whether M1-0 was earned during live Zoom or M1-0asy must be completed asynchronously.
 Responsibility: user
 Source: Canvas announcement email
-Context: EMAIL-0005 from GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
+Context: EMAIL-0005 and EMAIL-0078 from GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
 Next action: Check Canvas grade book for M1-0 credit; if it shows zero, watch the Module 1 lecture video and submit M1-0asy.
 Deadline:
 Acceptance: Either M1-0 credit is confirmed or M1-0asy is submitted and pending manual grading.
 Blockers:
-Notes: Do not complete M1-0asy if M1-0 credit is already posted; the email says credit is for one or the other, not both.
+Notes: EMAIL-0078 confirms not to complete M1-0asy if M1-0 credit is already posted; the email says credit is for one or the other, not both.
 
 ### TASK-0006 - Confirm PH 212 Lab TA Meeting Time
 

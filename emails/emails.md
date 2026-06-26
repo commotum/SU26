@@ -30,8 +30,12 @@ Email with details:
   - Details: [EMAIL-0002](#email-0002---complete-summer-enrollment-revision-follow-up)
 - EMAIL-0027 | 2026-05-28 | Financial Aid Enrollment Revision Request - complete the unsatisfied portal request with planned credits
   - Details: [EMAIL-0027](#email-0027---financial-aid-enrollment-revision-request)
+- EMAIL-0057 | 2026-06-04 | Complete Summer Enrollment Revision reminder - update expected summer enrollment status for federal aid
+  - Details: [EMAIL-0057](#email-0057---complete-summer-enrollment-revision-reminder)
 - EMAIL-0006 | 2026-06-26 | MTH 252 Q&A link correction - Q&A link moved to Start Here module
   - Details: [EMAIL-0006](#email-0006---mth-252-qa-link-correction)
+- EMAIL-0079 | 2026-06-26 | MTH 252 Q&A link moved to Start Here - current irregular course correction kept unread
+  - Details: [EMAIL-0079](#email-0079---mth-252-qa-link-moved-to-start-here)
 
 ## Actionable
 
@@ -41,11 +45,20 @@ Email with details:
 - EMAIL-0003 | 2026-06-21 | MTH 252 setup notes - Start Here, Achieve, Gradescope, and first due dates
   - Details: [EMAIL-0003](#email-0003---mth-252-setup-notes)
   - Linked task: [TASK-0003](../tasks/todo.md#task-0003---set-up-mth-252-access)
+- EMAIL-0072 | 2026-06-21 | MTH 252 setup notes - current staged row for Start Here, Achieve, Gradescope, and first due dates
+  - Details: [EMAIL-0072](#email-0072---mth-252-setup-notes)
+  - Linked task: [TASK-0003](../tasks/todo.md#task-0003---set-up-mth-252-access)
 - EMAIL-0004 | 2026-06-22 | MTH 253 Unit 1 work - required discussion, written homework, Achieve work, and quiz
   - Details: [EMAIL-0004](#email-0004---mth-253-unit-1-work)
   - Linked task: [TASK-0004](../tasks/todo.md#task-0004---complete-mth-253-unit-1-work)
+- EMAIL-0073 | 2026-06-22 | MTH 253 Unit 1 work - current staged row for Week 1 assignments and quiz timing
+  - Details: [EMAIL-0073](#email-0073---mth-253-week-1-work)
+  - Linked task: [TASK-0004](../tasks/todo.md#task-0004---complete-mth-253-unit-1-work)
 - EMAIL-0005 | 2026-06-22 | PH 212 first-day participation - verify M1-0 credit or complete M1-0asy
   - Details: [EMAIL-0005](#email-0005---ph-212-first-day-participation)
+  - Linked task: [TASK-0005](../tasks/todo.md#task-0005---verify-ph-212-first-day-participation)
+- EMAIL-0078 | 2026-06-22 | PH 212 first-day participation - current staged row for M1-0/M1-0asy decision
+  - Details: [EMAIL-0078](#email-0078---ph-212-first-day-participation)
   - Linked task: [TASK-0005](../tasks/todo.md#task-0005---verify-ph-212-first-day-participation)
 
 ## Waiting
@@ -188,6 +201,86 @@ Next action: Open the Financial Aid Portal and complete the Enrollment Revision 
 Linked task: TASK-0002.
 Deadline: as soon as possible.
 Notes: Opening naturally marked it read; Codex restored it unread because it is individualized financial-aid work.
+
+### EMAIL-0057 - Complete Summer Enrollment Revision Reminder
+
+Title: Complete Summer Enrollment Revision reminder.
+Description: OSU Financial Aid reminded Jacob to update expected summer enrollment status in the 2026-27 Financial Aid Self-Service Portal so summer federal aid and loan eligibility can be reviewed accurately.
+Sender: Office of Financial Aid.
+Received: 2026-06-04 4:22 PM.
+Category: financial aid.
+Email type: irregular.
+Importance: critical.
+Decision: restore_unread.
+Mailbox action: restored_unread.
+Next action: Open the 2026-27 Financial Aid Self-Service Portal Offer tab and update expected summer enrollment status/credits.
+Linked task: TASK-0002.
+Deadline: as soon as possible.
+Notes: Full body read. Outlook later showed it read, so Codex selected the exact Thu 6/4 row among duplicate-subject financial-aid messages and restored it unread.
+
+### EMAIL-0072 - MTH 252 Setup Notes
+
+Title: MTH 252 setup notes.
+Description: MTH 252 announcement confirms sections 400 and 401 share one Canvas course, Start Here links are required, first due dates are 2026-06-29, Achieve must be registered through Canvas, and Gradescope setup was forthcoming.
+Sender: INTEGRAL CALCULUS (MTH_252Z_400_U2026).
+Received: 2026-06-21 7:52 PM.
+Category: course.
+Email type: routine.
+Importance: high.
+Decision: do.
+Mailbox action: opened.
+Next action: Complete Start Here, register Achieve through Canvas, use the 14-day trial if needed, and check Gradescope.
+Linked task: TASK-0003.
+Deadline: 2026-06-29.
+Notes: Full body read and marked read because it is a routine course announcement after task logging.
+
+### EMAIL-0073 - MTH 253 Week 1 Work
+
+Title: MTH 253 Week 1 work.
+Description: MTH 253 announcement lists Unit 1 learning materials and required work: discussion, written homework, Achieve web homework, response post, and Unit 1 quiz timing.
+Sender: SEQUENCES AND SERIES (MTH_253Z_400_U2026).
+Received: 2026-06-22 12:01 AM.
+Category: course.
+Email type: routine.
+Importance: high.
+Decision: do.
+Mailbox action: opened.
+Next action: Review Unit 1 Learning Materials and Unit 1 Overview, then complete the listed Unit 1 assignments.
+Linked task: TASK-0004.
+Deadline: 2026-06-29.
+Notes: Full body read and marked read because it is a routine course announcement after task logging; verify the quiz close-date wording in Canvas.
+
+### EMAIL-0078 - PH 212 First-Day Participation
+
+Title: PH 212 first-day participation.
+Description: PH 212 announcement explains M1-0 participation credit from live Zoom/Poll Everywhere and when to complete M1-0asy.
+Sender: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026).
+Received: 2026-06-22 2:13 PM.
+Category: course.
+Email type: routine.
+Importance: high.
+Decision: do.
+Mailbox action: opened.
+Next action: Check Canvas grade book for M1-0 credit; if it shows zero, watch the Module 1 lecture video and submit M1-0asy.
+Linked task: TASK-0005.
+Deadline:
+Notes: Full body read. Outlook already had this message read; Codex did not change its read state.
+
+### EMAIL-0079 - MTH 252 Q&A Link Moved To Start Here
+
+Title: MTH 252 Q&A link moved to Start Here.
+Description: MTH 252 announcement says the Q&A link was accidentally placed in the wrong module and has been moved to the Start Here module.
+Sender: INTEGRAL CALCULUS (MTH_252Z_400_U2026).
+Received: 2026-06-26 10:47 AM.
+Category: course.
+Email type: irregular.
+Importance: high.
+Decision: restore_unread.
+Mailbox action: restored_unread.
+Next action: Use the MTH 252 Q&A link from the Start Here module during Week 1.
+Linked task: TASK-0003.
+Deadline:
+Notes: Full body read. Outlook later showed it read, so Codex restored it unread because it is an irregular course correction.
 
 ```md
 ### EMAIL-0001 - Subject

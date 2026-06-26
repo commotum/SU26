@@ -39,6 +39,8 @@
   "downloads": 102,
   "manifest_rows": 586,
   "metadata_files_read": 584,
+  "inputRoot": "/Users/jake/Developer/SU26/canvas/indexer/input",
+  "review_overrides": 0,
   "courses": [
     {
       "course_id": "2053263",
@@ -123,10 +125,43 @@
     "module_items": 375,
     "canvas_objects": 490,
     "object_pages": 584,
-    "object_evidence": 1061,
+    "object_evidence": 1128,
     "downloads": 102
   },
+  "classified": {
+    "classified_items": 490,
+    "tasks": 365,
+    "task_evidence": 890,
+    "review_queue": 231,
+    "classification_rules": 9
+  },
+  "crosscheck": {
+    "module_crosscheck": 375,
+    "grade_task_crosscheck": 67,
+    "missing_or_suspicious": 689,
+    "summary": 72
+  },
+  "recursive": {
+    "review_state_manifest": 689,
+    "retry_manifest": 48,
+    "download_manifest": 102,
+    "rule_improvement_manifest": 14,
+    "manual_review_manifest": 271,
+    "applied_review_overrides": 0
+  },
+  "reports": {
+    "next_actions": 365,
+    "due_dates": 67,
+    "upcoming_due_dates": 63,
+    "past_due_or_completed": 4,
+    "required_prep": 121,
+    "critical_setup": 65,
+    "course_maps": 3,
+    "reports_root": "/Users/jake/Developer/SU26/canvas/indexer/output/reports"
+  },
   "output_files": [
+    "applied_review_overrides.csv",
+    "critical_setup.csv",
     "course_readout.csv",
     "page_inventory.csv",
     "source_type_counts.csv",
@@ -138,6 +173,30 @@
     "object_pages.csv",
     "object_evidence.csv",
     "downloads_normalized.csv",
+    "classified_items.csv",
+    "tasks.csv",
+    "task_evidence.csv",
+    "review_queue.csv",
+    "classification_rules.csv",
+    "crosscheck_modules_assignments.csv",
+    "crosscheck_grades_tasks.csv",
+    "missing_or_suspicious.csv",
+    "crosscheck_summary.csv",
+    "review_state_manifest.csv",
+    "retry_manifest.csv",
+    "download_manifest.csv",
+    "rule_improvement_manifest.csv",
+    "manual_review_manifest.csv",
+    "next_actions.csv",
+    "due_dates.csv",
+    "upcoming_due_dates.csv",
+    "past_due_or_completed.csv",
+    "required_prep.csv",
+    "reports/course_maps_index.md",
+    "reports/blocked_review.md",
+    "reports/course_map_mth-253.md",
+    "reports/course_map_phy-212.md",
+    "reports/course_map_mth-252.md",
     "readout_summary.json"
   ]
 }

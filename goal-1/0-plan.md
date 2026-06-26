@@ -41,6 +41,24 @@ The indexer must cross-check Modules, Assignments, Grades, Discussions, Quizzes,
 - Stage 2 generated 3 courses, 47 modules, 375 module items, 490 canvas objects, 584 object-page mappings, 1,061 object evidence rows, and 102 normalized downloads.
 - Module item capture status from Stage 2: 295 captured destination pages, 17 structural/no-href rows, and 63 external unvisited rows.
 - Stage 2 preserved 238 redirected captured pages in `object_pages.csv`.
+- Stage 3 classifier outputs now exist under `/Users/jake/Developer/SU26/canvas/indexer/output`.
+- Stage 3 generated 490 classified item rows, 365 task rows, 890 task-evidence rows, 231 review queue rows, and 9 classification rules.
+- Stage 3 task breakdown: 117 graded tasks, 40 critical setup tasks, 31 prep-reading tasks, 90 lecture-video tasks, 62 external-tool tasks, 2 required-ungraded tasks, and 23 blocked/broken tasks.
+- Stage 3 review queue breakdown: 91 low-confidence reviews, 35 download-not-read reviews, 63 external-surface reviews, 17 structural/no-href reviews, 23 blocked/broken reviews, and 2 capture-failed reviews.
+- Stage 3 extracted due text for 67 tasks and point text for 70 tasks.
+- Stage 3 excludes Canvas navigation surfaces such as Grades, Assignments, Discussions, and course home/index pages from task rows while retaining them as classified evidence.
+- Stage 4 cross-check outputs now exist under `/Users/jake/Developer/SU26/canvas/indexer/output`.
+- Stage 4 generated 375 module cross-check rows, 67 Assignments/Grades surface cross-check rows, 689 missing/suspicious rows, and 72 cross-check summary rows.
+- Stage 4 module cross-check status breakdown: 244 module items with tasks, 42 reference-only rows, 63 external-unvisited rows, 17 structural/no-href rows, 7 important-reference rows, 1 task-candidate-without-task row, and 1 blocked row.
+- Stage 4 Assignments/Grades surface status breakdown: 55 grade rows linked to tasks in modules, 6 Assignment-surface tasks not in Modules, and 6 Grade-surface tasks not in Modules.
+- Stage 4 found the PHY-212 Assignments/Grades-only tasks outside Modules and preserved the two timed-out PHY-212 URLs in `missing_or_suspicious.csv`.
+- Stage 5 recursive manifest outputs now exist under `/Users/jake/Developer/SU26/canvas/indexer/output`.
+- Stage 5 added the feedback template `/Users/jake/Developer/SU26/canvas/indexer/input/review_overrides.csv`.
+- Stage 5 generated 689 review-state rows, 48 unique retry URLs, 102 download targets, 14 rule-improvement buckets, 271 manual-review rows, and 0 applied override rows.
+- Stage 5 review state breakdown: 198 `needs_rule`, 271 `needs_manual_decision`, 83 `needs_retry`, and 137 `needs_download`.
+- Stage 5 kept all retry and download targets as `queued_not_executed`; no live retries or file downloads were performed.
+- Stage 6 report outputs now exist under `/Users/jake/Developer/SU26/canvas/indexer/output` and `/Users/jake/Developer/SU26/canvas/indexer/output/reports`.
+- Stage 6 generated 365 next-action rows, 67 due-date rows, 63 upcoming due-date rows, 4 past/possibly-completed due-date rows, 121 required-prep rows, 65 critical-setup rows, 3 course maps, and 1 blocked-review report.
 
 ## Assumptions
 
@@ -136,6 +154,8 @@ Completion evidence:
 
 ### 3-CLASSIFY
 
+Status: complete as of 2026-06-26.
+
 #### Big Picture Objective
 
 Classify captured objects into actionable and non-actionable categories with evidence and confidence.
@@ -154,7 +174,19 @@ Classify captured objects into actionable and non-actionable categories with evi
 - Classifier rules are documented in code or schema output.
 - Spot checks confirm no obvious graded quiz/assignment is dropped.
 
+Completion evidence:
+
+- `node --check canvas/indexer/index_canvas_archive.mjs` passed.
+- `node canvas/indexer/index_canvas_archive.mjs` generated classifier outputs.
+- `tasks.csv` has 365 rows across all three courses.
+- `task_evidence.csv` has 890 rows.
+- Verification found 0 tasks missing task evidence and 0 task evidence rows pointing to unknown tasks/evidence/objects.
+- `review_queue.csv` includes download-not-read, external-surface, blocked/broken, structural/no-href, low-confidence, and capture-failed reviews.
+- `classification_rules.csv` documents the deterministic first-pass rules, including the navigation-surface exclusion.
+
 ### 4-CROSSCHECK
+
+Status: complete as of 2026-06-26.
 
 #### Big Picture Objective
 
@@ -172,7 +204,19 @@ Compare Modules, Assignments, Grades, and detail pages to detect omissions and i
 - Every warning from the crawl appears in a cross-check or review output.
 - Cross-checks include counts and examples for human review.
 
+Completion evidence:
+
+- `node --check canvas/indexer/index_canvas_archive.mjs` passed.
+- `node canvas/indexer/index_canvas_archive.mjs` generated Stage 4 outputs.
+- `crosscheck_modules_assignments.csv` has 375 rows, matching all module items.
+- `crosscheck_grades_tasks.csv` has 67 rows, matching all Assignments/Grades surface evidence rows.
+- `missing_or_suspicious.csv` has 689 rows and includes both timed-out PHY-212 URLs.
+- `crosscheck_summary.csv` has 72 count/example rows.
+- Verification found 0 missing module cross-check rows, 0 missing surface cross-check rows, and 0 missing warning URLs.
+
 ### 5-RECURSE
+
+Status: complete as of 2026-06-26.
 
 #### Big Picture Objective
 
@@ -191,7 +235,20 @@ Create the recursive improvement loop that turns review findings into better rul
 - Review overrides can change classifications without editing source captures.
 - Retry/download manifests are generated but not executed without explicit approval.
 
+Completion evidence:
+
+- `node --check canvas/indexer/index_canvas_archive.mjs` passed.
+- `node canvas/indexer/index_canvas_archive.mjs` generated Stage 5 outputs.
+- `review_state_manifest.csv` has 689 rows, matching `missing_or_suspicious.csv`.
+- `retry_manifest.csv` has 48 unique retry URLs and includes both timed-out PHY-212 URLs.
+- `download_manifest.csv` has 102 rows, matching `downloads_normalized.csv`.
+- `rule_improvement_manifest.csv` has 14 rule-improvement buckets.
+- `manual_review_manifest.csv` has 271 rows.
+- Verification found 0 missing review-state rows, 0 missing download-manifest rows, 0 missing warning retry URLs, and 0 placeholder `$CANVAS_COURSE_REFERENCE$` retry URLs.
+
 ### 6-REPORT
+
+Status: complete as of 2026-06-26.
 
 #### Big Picture Objective
 
@@ -210,3 +267,15 @@ Produce the human-facing course maps and next-action views.
 - Reports separate required work from boilerplate and reference material.
 - Each action has evidence links and confidence.
 - Remaining uncertainty is explicit and reviewable.
+
+Completion evidence:
+
+- `node --check canvas/indexer/index_canvas_archive.mjs` passed.
+- `node canvas/indexer/index_canvas_archive.mjs` generated Stage 6 outputs.
+- `next_actions.csv` has 365 rows, matching `tasks.csv`.
+- `due_dates.csv` has 67 rows and reconciles exactly to 63 upcoming rows plus 4 past/possibly-completed rows.
+- `required_prep.csv` has 121 rows.
+- `critical_setup.csv` has 65 rows.
+- Course maps exist for MTH-252, MTH-253, and PHY-212 under `canvas/indexer/output/reports/`.
+- `blocked_review.md` exists under `canvas/indexer/output/reports/`.
+- Verification found 0 task rows for Canvas navigation-surface object types.

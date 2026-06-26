@@ -1,0 +1,10 @@
+rule_id,label,description
+rule-graded-object,graded_task,"Assignment, quiz, and task-like discussion objects are treated as graded/actionable candidates."
+rule-module-requirement,required_ungraded_task,"Module item requirement classes such as must_view, must_submit, must_contribute, or must_mark_done create required-task evidence."
+rule-critical-setup,critical_setup,"Registration, Proctorio, Gradescope, scanning, lab-supply, course-material, syllabus/calendar, and similar setup pages are critical setup candidates."
+rule-prep-reading,prep_reading,"Reading, textbook, OpenStax, notes, learning-material, lecture-note, practice-problem, and homework-prep titles are prep/reference candidates."
+rule-lecture-video,lecture_video,"Video, YouTube, recording, lecture-video, and media titles are lecture video candidates."
+rule-download-not-read,download_indexed_not_read,Download links are explicitly not considered read until binaries are downloaded and parsed.
+rule-blocked,blocked_or_broken,"Capture failures, unauthorized pages, page-not-found pages, and unresolved external surfaces are review-blocking evidence."
+rule-admin-policy,admin_policy,"Academic misconduct, privacy, accessibility, policy, conduct, support, and similar items are retained as admin/policy evidence."
+rule-navigation-surface,course_navigation_surface,"Course home, module, assignments, grades, discussions, files, people, and similar index pages are retained as navigation evidence, not emitted as tasks."

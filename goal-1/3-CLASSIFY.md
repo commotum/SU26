@@ -54,5 +54,45 @@
 
 ## Stage Results
 
-- Pending.
-
+- Extended `/Users/jake/Developer/SU26/canvas/indexer/index_canvas_archive.mjs` with deterministic first-pass classification.
+- Generated:
+  - `classified_items.csv` with 490 classified object rows.
+  - `tasks.csv` with 365 task/action candidate rows.
+  - `task_evidence.csv` with 890 rows.
+  - `review_queue.csv` with 231 rows.
+  - `classification_rules.csv` with 9 rules.
+- Added `course_navigation_surface` so Canvas index/navigation pages such as Grades, Assignments, Discussions, and Home are retained as evidence but not emitted as tasks.
+- Task rows by course:
+  - MTH-252: 258.
+  - MTH-253: 48.
+  - PHY-212: 59.
+- Task rows by type:
+  - 117 `graded_task`.
+  - 40 `critical_setup`.
+  - 31 `prep_reading`.
+  - 90 `lecture_video`.
+  - 62 `external_tool`.
+  - 2 `required_ungraded_task`.
+  - 23 `blocked_or_broken`.
+- Review rows by reason:
+  - 91 `low_confidence`.
+  - 35 `download_not_read`.
+  - 63 `external_surface`.
+  - 17 `structural_no_href`.
+  - 23 `blocked_or_broken`.
+  - 2 `capture_failed`.
+- Added Assignments/Grades surface rows as object evidence:
+  - 61 `grade_surface_row`.
+  - 6 `assignment_surface_row`.
+- Due/points extraction:
+  - 67 tasks have `due_text`.
+  - 70 tasks have `points_text`.
+- Verification commands run:
+  - `node --check canvas/indexer/index_canvas_archive.mjs` passed.
+  - `node canvas/indexer/index_canvas_archive.mjs` completed.
+  - Verification script confirmed 0 tasks missing evidence and 0 bad task-evidence references.
+  - `rg` spot check confirmed review queue includes download-not-read, external-surface, blocked/broken, and capture-failed rows.
+  - `git diff --check -- goal-1 canvas/indexer` passed.
+- What changed for `0-plan.md`:
+  - Stage 3 is complete.
+  - Stage 4 should compare `module_items.csv`, `tasks.csv`, `object_evidence.csv`, `object_pages.csv`, `capture_issues.csv`, and Assignments/Grades evidence to flag module-only, grade-only, assignment-only, blocked, external, and suspicious items.
