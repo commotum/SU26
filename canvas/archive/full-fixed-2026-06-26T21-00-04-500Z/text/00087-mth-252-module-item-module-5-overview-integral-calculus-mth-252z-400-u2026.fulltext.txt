@@ -1,0 +1,62 @@
+
+            
+
+  
+
+
+
+
+  
+    Module 5  — Overview
+    
+
+  
+  
+  
+    
+
+Introduction
+Now that we have the Fundamental Theorem of Calculus and we have reviewed all the basic antiderivatives from elementary functions covered in differential calculus, let’s turn our attention to techniques that can be used to evaluate more complicated integrals.  Before this we were limited to evaluating integrals typically with one elementary function. This begins our study of techniques that will allow us to evaluate integrals containing various combinations of elementary functions.  Over the next two weeks, we will keep in mind that we are adding techniques to our repertoire.  To this end, we will often use multiple techniques to solve problems involving (definite or indefinite) integrals. 
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Evaluate integrals using integration by parts.
+Evaluate trigonometric integrals using Pythagorean identities and half-angle formulae.
+Evaluate trigonometric integrals involving rational powers of sine and cosine.
+Discriminate between various integration methods.
+
+This module aligns with the following course learning outcomes: 3, 4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-4)
+Complete the Alta Assignments (MLOs 1-4)
+Submit the Written Homework (MLOs 1-4)
+Contribute to the Discussion Reflection (MLOs 1-4)
+
+    
+
+  
+  
+
+
+
+
+
+
+  
+    
+      
+         Previous
+      
+    
+    
+      
+        Next 
+      
+    
+  
+
+
+
+          

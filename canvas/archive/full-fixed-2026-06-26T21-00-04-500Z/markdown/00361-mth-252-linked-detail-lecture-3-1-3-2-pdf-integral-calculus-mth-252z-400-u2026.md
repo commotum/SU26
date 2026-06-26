@@ -1,0 +1,37 @@
+# Lecture-3.1-3.2.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+
+- Course: MTH-252
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2080857/files/119223595?module_item_id=26982590#
+- Resolved URL: https://canvas.oregonstate.edu/courses/2080857/files/119223595?module_item_id=26982590#
+- Captured: 2026-06-26T21:17:14.273Z
+- Canvas object: file 119223595
+- Redirected: no
+
+## Headings
+- H2: Lecture-3.1-3.2.pdf
+
+## Visible Text
+Lecture-3.1-3.2.pdf
+Download Lecture-3.1-3.2.pdf (852 KB) | Alternative formats
+Previous
+Next
+
+## Links
+- Download Lecture-3.1-3.2.pdf -> https://canvas.oregonstate.edu/courses/2080857/files/119223595/download?download_frd=1
+- Alternative formats -> https://canvas.oregonstate.edu/courses/2080857/files/119223595?module_item_id=26982590#
+- Previous -> https://canvas.oregonstate.edu/courses/2080857/modules/items/26982589
+- Next -> https://canvas.oregonstate.edu/courses/2080857/modules/items/26982591
+
+## Iframes
+- Error -> about:blank
+- (untitled) -> https://canvas.oregonstate.edu/api/v1/canvadoc_session?blob=%7B%22anonymous_instructor_annotations%22:null,%22enable_annotations%22:null,%22submission_id%22:null,%22user_id%22:10020000006660414,%22attachment_id%22:119223595,%22type%22:%22canvadoc%22%7D&hmac=6c94eaa833f595b201d64e7e2fbcf0e56d3a149d
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- File preview for Lecture-3.1-3.2.pdf
+- Previous Next
+- Previous
+- Next

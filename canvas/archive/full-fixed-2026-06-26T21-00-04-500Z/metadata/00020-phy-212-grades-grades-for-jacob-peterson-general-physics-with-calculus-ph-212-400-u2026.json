@@ -1,0 +1,4218 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": true,
+      "index": 0,
+      "text": "ApplyApply filters. Note: clicking this button will cause the page to reload.",
+      "type": "submit"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand or Collapse",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Update Criterion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Update Comments",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Update Rating",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 0,
+      "method": "",
+      "text": "Description Please include a description Long Description Cancel Update Criterion"
+    },
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 1,
+      "method": "",
+      "text": "Rating Score Rating max score to > pts Rating Title Please include a rating title Rating Description Cancel Update Rating"
+    }
+  ],
+  "grade_rows": [
+    {
+      "cells": [
+        "M1-1pre pre-lecture",
+        "Jun 24 by 10am",
+        "Jun 24 at 9:31am",
+        "",
+        "Click to test a different score Click to test a different score 3 / 3 3.0 3 3 graded 3245379 10557008",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008/submissions/6660414",
+      "index": 0,
+      "text": "M1-1pre pre-lecture Jun 24 by 10am Jun 24 at 9:31am Click to test a different score Click to test a different score 3 / 3 3.0 3 3 graded 3245379 10557008 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-1pre"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 2.34 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 3 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+        "Score Details",
+        "Close",
+        "Mean: 2.34 Median: 3",
+        "High: 3 Upper Quartile: 3",
+        "Low: 0 Lower Quartile: 3",
+        "Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+      ],
+      "href": "",
+      "index": 2,
+      "text": "Score Details Close Mean: 2.34 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 3 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+      "title": "Score Details Close Mean: 2.34 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 3 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 3,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 2.34 Median: 3",
+        "High: 3 Upper Quartile: 3",
+        "Low: 0 Lower Quartile: 3",
+        "Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+      ],
+      "href": "",
+      "index": 4,
+      "text": "Mean: 2.34 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 3 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+      "title": "Mean: 2.34 Median: 3"
+    },
+    {
+      "cells": [
+        "M1-0asy Participation",
+        "Jun 24 by 2pm",
+        "Jun 24 at 9:42am",
+        "",
+        "Click to test a different score Click to test a different score 1 / 1 1.0 1 1 graded 3245378 10590694",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694/submissions/6660414",
+      "index": 7,
+      "text": "M1-0asy Participation Jun 24 by 2pm Jun 24 at 9:42am Click to test a different score Click to test a different score 1 / 1 1.0 1 1 graded 3245378 10590694 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-0asy"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 0.97 Median: 1 High: 1 Upper Quartile: 1 Low: 0 Lower Quartile: 1 Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1",
+        "Score Details",
+        "Close",
+        "Mean: 0.97 Median: 1",
+        "High: 1 Upper Quartile: 1",
+        "Low: 0 Lower Quartile: 1",
+        "Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1"
+      ],
+      "href": "",
+      "index": 9,
+      "text": "Score Details Close Mean: 0.97 Median: 1 High: 1 Upper Quartile: 1 Low: 0 Lower Quartile: 1 Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1",
+      "title": "Score Details Close Mean: 0.97 Median: 1 High: 1 Upper Quartile: 1 Low: 0 Lower Quartile: 1 Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 10,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 0.97 Median: 1",
+        "High: 1 Upper Quartile: 1",
+        "Low: 0 Lower Quartile: 1",
+        "Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1"
+      ],
+      "href": "",
+      "index": 11,
+      "text": "Mean: 0.97 Median: 1 High: 1 Upper Quartile: 1 Low: 0 Lower Quartile: 1 Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1",
+      "title": "Mean: 0.97 Median: 1"
+    },
+    {
+      "cells": [
+        "M1-2pre pre-lecture",
+        "Jun 25 by 10am",
+        "Jun 25 at 9:41am",
+        "",
+        "Click to test a different score Click to test a different score 3 / 3 3.0 3 3 graded 3245379 10556960",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960/submissions/6660414",
+      "index": 14,
+      "text": "M1-2pre pre-lecture Jun 25 by 10am Jun 25 at 9:41am Click to test a different score Click to test a different score 3 / 3 3.0 3 3 graded 3245379 10556960 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-2pre"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 2.21 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 0 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+        "Score Details",
+        "Close",
+        "Mean: 2.21 Median: 3",
+        "High: 3 Upper Quartile: 3",
+        "Low: 0 Lower Quartile: 0",
+        "Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+      ],
+      "href": "",
+      "index": 16,
+      "text": "Score Details Close Mean: 2.21 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 0 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+      "title": "Score Details Close Mean: 2.21 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 0 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 17,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 2.21 Median: 3",
+        "High: 3 Upper Quartile: 3",
+        "Low: 0 Lower Quartile: 0",
+        "Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+      ],
+      "href": "",
+      "index": 18,
+      "text": "Mean: 2.21 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 0 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3",
+      "title": "Mean: 2.21 Median: 3"
+    },
+    {
+      "cells": [
+        "M1-00asy Participation",
+        "Jun 25 by 2pm",
+        "Jun 25 at 1pm",
+        "",
+        "Click to test a different score Click to test a different score 2 / 2 2.0 2 2 graded 3245378 10590695",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695/submissions/6660414",
+      "index": 21,
+      "text": "M1-00asy Participation Jun 25 by 2pm Jun 25 at 1pm Click to test a different score Click to test a different score 2 / 2 2.0 2 2 graded 3245378 10590695 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-00asy"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 1.95 Median: 2 High: 2 Upper Quartile: 2 Low: 0 Lower Quartile: 2 Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2",
+        "Score Details",
+        "Close",
+        "Mean: 1.95 Median: 2",
+        "High: 2 Upper Quartile: 2",
+        "Low: 0 Lower Quartile: 2",
+        "Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2"
+      ],
+      "href": "",
+      "index": 23,
+      "text": "Score Details Close Mean: 1.95 Median: 2 High: 2 Upper Quartile: 2 Low: 0 Lower Quartile: 2 Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2",
+      "title": "Score Details Close Mean: 1.95 Median: 2 High: 2 Upper Quartile: 2 Low: 0 Lower Quartile: 2 Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 24,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 1.95 Median: 2",
+        "High: 2 Upper Quartile: 2",
+        "Low: 0 Lower Quartile: 2",
+        "Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2"
+      ],
+      "href": "",
+      "index": 25,
+      "text": "Mean: 1.95 Median: 2 High: 2 Upper Quartile: 2 Low: 0 Lower Quartile: 2 Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2",
+      "title": "Mean: 1.95 Median: 2"
+    },
+    {
+      "cells": [
+        "Lab 1 Discussion lab",
+        "Jun 25 by 11:59pm",
+        "Jun 25 at 11:58pm",
+        "",
+        "Click to test a different score Click to test a different score Discussion Submission / 10 submitted 3245380 10557036",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036/submissions/6660414",
+      "index": 28,
+      "text": "Lab 1 Discussion lab Jun 25 by 11:59pm Jun 25 at 11:58pm Click to test a different score Click to test a different score Discussion Submission / 10 submitted 3245380 10557036 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Lab 1 Discussion"
+    },
+    {
+      "cells": [
+        "M1-1asy Participation",
+        "Jun 26 by 2pm",
+        "Jun 26 at 1:52pm",
+        "",
+        "Instructor has not posted this grade Click to test a different score Instructor has not posted this grade Quiz Submission / 3 3.0 3 3 pending_review 3245378 10556950",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950/submissions/6660414",
+      "index": 32,
+      "text": "M1-1asy Participation Jun 26 by 2pm Jun 26 at 1:52pm Instructor has not posted this grade Click to test a different score Instructor has not posted this grade Quiz Submission / 3 3.0 3 3 pending_review 3245378 10556950 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-1asy"
+    },
+    {
+      "cells": [
+        "M1-2asy Participation",
+        "Jun 27 by 2pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 5 unsubmitted 3245378 10556986",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986/submissions/6660414",
+      "index": 37,
+      "text": "M1-2asy Participation Jun 27 by 2pm Click to test a different score Click to test a different score - / 5 unsubmitted 3245378 10556986 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-2asy"
+    },
+    {
+      "cells": [
+        "Lab 1 Report lab",
+        "Jun 27 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 20 unsubmitted 3245380 10557057",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057/submissions/6660414",
+      "index": 41,
+      "text": "Lab 1 Report lab Jun 27 by 11:59pm Click to test a different score Click to test a different score - / 20 unsubmitted 3245380 10557057 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Lab 1 Report"
+    },
+    {
+      "cells": [
+        "Lab Partner Values Survey lab",
+        "Jun 27 by 11:59pm",
+        "Jun 25 at 11:38pm",
+        "",
+        "Click to test a different score Click to test a different score 5 / 5 5.0 5 5 graded 3245380 10557029",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029/submissions/6660414",
+      "index": 45,
+      "text": "Lab Partner Values Survey lab Jun 27 by 11:59pm Jun 25 at 11:38pm Click to test a different score Click to test a different score 5 / 5 5.0 5 5 graded 3245380 10557029 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Lab Partner Values Survey"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 5 Median: 5 High: 5 Upper Quartile: 5 Low: 5 Lower Quartile: 5 Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5",
+        "Score Details",
+        "Close",
+        "Mean: 5 Median: 5",
+        "High: 5 Upper Quartile: 5",
+        "Low: 5 Lower Quartile: 5",
+        "Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5"
+      ],
+      "href": "",
+      "index": 47,
+      "text": "Score Details Close Mean: 5 Median: 5 High: 5 Upper Quartile: 5 Low: 5 Lower Quartile: 5 Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5",
+      "title": "Score Details Close Mean: 5 Median: 5 High: 5 Upper Quartile: 5 Low: 5 Lower Quartile: 5 Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 48,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 5 Median: 5",
+        "High: 5 Upper Quartile: 5",
+        "Low: 5 Lower Quartile: 5",
+        "Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5"
+      ],
+      "href": "",
+      "index": 49,
+      "text": "Mean: 5 Median: 5 High: 5 Upper Quartile: 5 Low: 5 Lower Quartile: 5 Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5",
+      "title": "Mean: 5 Median: 5"
+    },
+    {
+      "cells": [
+        "Hw 1 - Rotational Motion Homework",
+        "Jun 28 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 18 unsubmitted 3245381 10556984",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984/submissions/6660414",
+      "index": 52,
+      "text": "Hw 1 - Rotational Motion Homework Jun 28 by 11:59pm Click to test a different score Click to test a different score - / 18 unsubmitted 3245381 10556984 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Hw 1 - Rotational Motion"
+    },
+    {
+      "cells": [
+        "M1-3pre pre-lecture",
+        "Jun 29 by 10am",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556970",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970/submissions/6660414",
+      "index": 56,
+      "text": "M1-3pre pre-lecture Jun 29 by 10am Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556970 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-3pre"
+    },
+    {
+      "cells": [
+        "Proctorio practice quiz (Remotely Proctored) Participation",
+        "Jun 29 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 5 unsubmitted 3245378 10557001",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001/submissions/6660414",
+      "index": 60,
+      "text": "Proctorio practice quiz (Remotely Proctored) Participation Jun 29 by 11:59pm Click to test a different score Click to test a different score - / 5 unsubmitted 3245378 10557001 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Proctorio practice quiz (Remotely Proctored)"
+    },
+    {
+      "cells": [
+        "M1-4pre pre-lecture",
+        "Jun 30 by 10am",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556995",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995/submissions/6660414",
+      "index": 64,
+      "text": "M1-4pre pre-lecture Jun 30 by 10am Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556995 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-4pre"
+    },
+    {
+      "cells": [
+        "M1-5pre pre-lecture",
+        "Jul 1 by 10am",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556971",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971/submissions/6660414",
+      "index": 68,
+      "text": "M1-5pre pre-lecture Jul 1 by 10am Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10556971 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-5pre"
+    },
+    {
+      "cells": [
+        "M2-1pre pre-lecture",
+        "Jul 4 by 10am",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10557070",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070/submissions/6660414",
+      "index": 72,
+      "text": "M2-1pre pre-lecture Jul 4 by 10am Click to test a different score Click to test a different score - / 3 unsubmitted 3245379 10557070 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M2-1pre"
+    },
+    {
+      "cells": [
+        "Lab Collaboration Contract lab",
+        "Jul 4 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 5 unsubmitted 3245380 10556974",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974/submissions/6660414",
+      "index": 76,
+      "text": "Lab Collaboration Contract lab Jul 4 by 11:59pm Click to test a different score Click to test a different score - / 5 unsubmitted 3245380 10556974 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Lab Collaboration Contract"
+    },
+    {
+      "cells": [
+        "Expand or Collapse Course Introductions lab",
+        "",
+        "Jun 25 at 11:52pm",
+        "",
+        "Instructor has not posted this grade Click to test a different score Instructor has not posted this grade Discussion Submission / 20 pending_review 3245380 10557032",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032/submissions/6660414",
+      "index": 80,
+      "text": "Expand or Collapse Course Introductions lab Jun 25 at 11:52pm Instructor has not posted this grade Click to test a different score Instructor has not posted this grade Discussion Submission / 20 pending_review 3245380 10557032 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Course Introductions"
+    },
+    {
+      "cells": [
+        "Reply To Topic",
+        "Jun 25 by 11:59pm",
+        "Jun 25 at 11:48pm",
+        "",
+        "Discussion Submission / 12",
+        "",
+        ""
+      ],
+      "href": "",
+      "index": 81,
+      "text": "Reply To Topic Jun 25 by 11:59pm Jun 25 at 11:48pm Discussion Submission / 12",
+      "title": "Reply To Topic"
+    },
+    {
+      "cells": [
+        "Reply To Entry (4)",
+        "Jun 27 by 11:59pm",
+        "Jun 25 at 11:52pm",
+        "",
+        "Discussion Submission / 8",
+        "",
+        ""
+      ],
+      "href": "",
+      "index": 82,
+      "text": "Reply To Entry (4) Jun 27 by 11:59pm Jun 25 at 11:52pm Discussion Submission / 8",
+      "title": "Reply To Entry (4)"
+    },
+    {
+      "cells": [
+        "M1-0 Participation",
+        "",
+        "Jun 22 at 12:44pm",
+        "",
+        "Click to test a different score Click to test a different score - / 1 graded 3245378 10591118",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118/submissions/6660414",
+      "index": 86,
+      "text": "M1-0 Participation Jun 22 at 12:44pm Click to test a different score Click to test a different score - / 1 graded 3245378 10591118 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-0"
+    },
+    {
+      "cells": [
+        "M1-00 Participation",
+        "",
+        "Jun 23 at 12:12pm",
+        "",
+        "Click to test a different score Click to test a different score - / 2 graded 3245378 10592346",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346/submissions/6660414",
+      "index": 90,
+      "text": "M1-00 Participation Jun 23 at 12:12pm Click to test a different score Click to test a different score - / 2 graded 3245378 10592346 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-00"
+    },
+    {
+      "cells": [
+        "M1-1 Participation",
+        "",
+        "Jun 24 at 1:02pm",
+        "",
+        "Click to test a different score Click to test a different score 0 / 3 0.0 0 0 graded 3245378 10592982",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982/submissions/6660414",
+      "index": 94,
+      "text": "M1-1 Participation Jun 24 at 1:02pm Click to test a different score Click to test a different score 0 / 3 0.0 0 0 graded 3245378 10592982 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-1"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 0.83 Median: 0 High: 3 Upper Quartile: 2 Low: 0 Lower Quartile: 0 Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3",
+        "Score Details",
+        "Close",
+        "Mean: 0.83 Median: 0",
+        "High: 3 Upper Quartile: 2",
+        "Low: 0 Lower Quartile: 0",
+        "Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3"
+      ],
+      "href": "",
+      "index": 96,
+      "text": "Score Details Close Mean: 0.83 Median: 0 High: 3 Upper Quartile: 2 Low: 0 Lower Quartile: 0 Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3",
+      "title": "Score Details Close Mean: 0.83 Median: 0 High: 3 Upper Quartile: 2 Low: 0 Lower Quartile: 0 Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 97,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 0.83 Median: 0",
+        "High: 3 Upper Quartile: 2",
+        "Low: 0 Lower Quartile: 0",
+        "Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3"
+      ],
+      "href": "",
+      "index": 98,
+      "text": "Mean: 0.83 Median: 0 High: 3 Upper Quartile: 2 Low: 0 Lower Quartile: 0 Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3",
+      "title": "Mean: 0.83 Median: 0"
+    },
+    {
+      "cells": [
+        "M1-2 Participation",
+        "",
+        "Jun 25 at 12:22pm",
+        "",
+        "Click to test a different score Click to test a different score 0 / 5 0.0 0 0 graded 3245378 10593560",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560/submissions/6660414",
+      "index": 101,
+      "text": "M1-2 Participation Jun 25 at 12:22pm Click to test a different score Click to test a different score 0 / 5 0.0 0 0 graded 3245378 10593560 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "M1-2"
+    },
+    {
+      "cells": [
+        "Score Details Close Mean: 1.33 Median: 0 High: 5 Upper Quartile: 4 Low: 0 Lower Quartile: 0 Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5",
+        "Score Details",
+        "Close",
+        "Mean: 1.33 Median: 0",
+        "High: 5 Upper Quartile: 4",
+        "Low: 0 Lower Quartile: 0",
+        "Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5"
+      ],
+      "href": "",
+      "index": 103,
+      "text": "Score Details Close Mean: 1.33 Median: 0 High: 5 Upper Quartile: 4 Low: 0 Lower Quartile: 0 Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5",
+      "title": "Score Details Close Mean: 1.33 Median: 0 High: 5 Upper Quartile: 4 Low: 0 Lower Quartile: 0 Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5"
+    },
+    {
+      "cells": [
+        "Score Details",
+        "Close"
+      ],
+      "href": "",
+      "index": 104,
+      "text": "Score Details Close",
+      "title": "Score Details"
+    },
+    {
+      "cells": [
+        "Mean: 1.33 Median: 0",
+        "High: 5 Upper Quartile: 4",
+        "Low: 0 Lower Quartile: 0",
+        "Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5"
+      ],
+      "href": "",
+      "index": 105,
+      "text": "Mean: 1.33 Median: 0 High: 5 Upper Quartile: 4 Low: 0 Lower Quartile: 0 Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5",
+      "title": "Mean: 1.33 Median: 0"
+    },
+    {
+      "cells": [
+        "Participation",
+        "",
+        "",
+        "",
+        "27.27% none 3245378 group-3245378 5.0",
+        "",
+        "3.00 / 11.00",
+        ""
+      ],
+      "href": "",
+      "index": 108,
+      "text": "Participation 27.27% none 3245378 group-3245378 5.0 3.00 / 11.00",
+      "title": "Participation"
+    },
+    {
+      "cells": [
+        "pre-lecture",
+        "",
+        "",
+        "",
+        "100% none 3245379 group-3245379 5.0",
+        "",
+        "6.00 / 6.00",
+        ""
+      ],
+      "href": "",
+      "index": 112,
+      "text": "pre-lecture 100% none 3245379 group-3245379 5.0 6.00 / 6.00",
+      "title": "pre-lecture"
+    },
+    {
+      "cells": [
+        "lab",
+        "",
+        "",
+        "",
+        "100% none 3245380 group-3245380 25.0",
+        "",
+        "5.00 / 5.00",
+        ""
+      ],
+      "href": "",
+      "index": 116,
+      "text": "lab 100% none 3245380 group-3245380 25.0 5.00 / 5.00",
+      "title": "lab"
+    },
+    {
+      "cells": [
+        "Homework",
+        "",
+        "",
+        "",
+        "N/A none 3245381 group-3245381 10.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 120,
+      "text": "Homework N/A none 3245381 group-3245381 10.0 0.00 / 0.00",
+      "title": "Homework"
+    },
+    {
+      "cells": [
+        "Quiz notes",
+        "",
+        "",
+        "",
+        "N/A none 3245383 group-3245383 2.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 124,
+      "text": "Quiz notes N/A none 3245383 group-3245383 2.0 0.00 / 0.00",
+      "title": "Quiz notes"
+    },
+    {
+      "cells": [
+        "Final",
+        "",
+        "",
+        "",
+        "N/A none 3245386 group-3245386 15.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 128,
+      "text": "Final N/A none 3245386 group-3245386 15.0 0.00 / 0.00",
+      "title": "Final"
+    },
+    {
+      "cells": [
+        "Quiz A",
+        "",
+        "",
+        "",
+        "N/A none 3245384 group-3245384 18.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 132,
+      "text": "Quiz A N/A none 3245384 group-3245384 18.0 0.00 / 0.00",
+      "title": "Quiz A"
+    },
+    {
+      "cells": [
+        "Quiz B",
+        "",
+        "",
+        "",
+        "N/A none 3245385 group-3245385 20.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 136,
+      "text": "Quiz B N/A none 3245385 group-3245385 20.0 0.00 / 0.00",
+      "title": "Quiz B"
+    },
+    {
+      "cells": [
+        "Quiz_asy work",
+        "",
+        "",
+        "",
+        "N/A none 3245387 group-3245387 0.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 140,
+      "text": "Quiz_asy work N/A none 3245387 group-3245387 0.0 0.00 / 0.00",
+      "title": "Quiz_asy work"
+    },
+    {
+      "cells": [
+        "Total",
+        "",
+        "",
+        "",
+        "89.61% none final-grade",
+        "",
+        "",
+        ""
+      ],
+      "href": "",
+      "index": 144,
+      "text": "Total 89.61% none final-grade",
+      "title": "Total"
+    }
+  ],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Grades for Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Apply filters. Note: clicking this button will cause the page to reload."
+    },
+    {
+      "index": 1,
+      "text": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded."
+    },
+    {
+      "index": 2,
+      "text": "Details"
+    },
+    {
+      "index": 3,
+      "text": "Submission Progress Status"
+    },
+    {
+      "index": 4,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 6,
+      "text": "Grade Info"
+    },
+    {
+      "index": 7,
+      "text": "See scoring details"
+    },
+    {
+      "index": 8,
+      "text": "See rubric results"
+    },
+    {
+      "index": 9,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 10,
+      "text": "Close"
+    },
+    {
+      "index": 11,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 13,
+      "text": "Grade Info"
+    },
+    {
+      "index": 14,
+      "text": "See scoring details"
+    },
+    {
+      "index": 15,
+      "text": "See rubric results"
+    },
+    {
+      "index": 16,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 17,
+      "text": "Close"
+    },
+    {
+      "index": 18,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 20,
+      "text": "Grade Info"
+    },
+    {
+      "index": 21,
+      "text": "See scoring details"
+    },
+    {
+      "index": 22,
+      "text": "See rubric results"
+    },
+    {
+      "index": 23,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 24,
+      "text": "Close"
+    },
+    {
+      "index": 25,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 26,
+      "text": "Grade Info"
+    },
+    {
+      "index": 27,
+      "text": "See scoring details"
+    },
+    {
+      "index": 28,
+      "text": "See rubric results"
+    },
+    {
+      "index": 29,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 30,
+      "text": "Close"
+    },
+    {
+      "index": 31,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 32,
+      "text": "Discussion Submission"
+    },
+    {
+      "index": 33,
+      "text": "Grade Info"
+    },
+    {
+      "index": 34,
+      "text": "See scoring details"
+    },
+    {
+      "index": 35,
+      "text": "See rubric results"
+    },
+    {
+      "index": 36,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 37,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 38,
+      "text": "Instructor has not posted this grade"
+    },
+    {
+      "index": 39,
+      "text": "Quiz Submission"
+    },
+    {
+      "index": 41,
+      "text": "Grade Info"
+    },
+    {
+      "index": 42,
+      "text": "See scoring details"
+    },
+    {
+      "index": 43,
+      "text": "See rubric results"
+    },
+    {
+      "index": 44,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 45,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 46,
+      "text": "Grade Info"
+    },
+    {
+      "index": 47,
+      "text": "See scoring details"
+    },
+    {
+      "index": 48,
+      "text": "See rubric results"
+    },
+    {
+      "index": 49,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 50,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 51,
+      "text": "Grade Info"
+    },
+    {
+      "index": 52,
+      "text": "See scoring details"
+    },
+    {
+      "index": 53,
+      "text": "See rubric results"
+    },
+    {
+      "index": 54,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 55,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 57,
+      "text": "Grade Info"
+    },
+    {
+      "index": 58,
+      "text": "See scoring details"
+    },
+    {
+      "index": 59,
+      "text": "See rubric results"
+    },
+    {
+      "index": 60,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 61,
+      "text": "Close"
+    },
+    {
+      "index": 62,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 63,
+      "text": "Grade Info"
+    },
+    {
+      "index": 64,
+      "text": "See scoring details"
+    },
+    {
+      "index": 65,
+      "text": "See rubric results"
+    },
+    {
+      "index": 66,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 67,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 68,
+      "text": "Grade Info"
+    },
+    {
+      "index": 69,
+      "text": "See scoring details"
+    },
+    {
+      "index": 70,
+      "text": "See rubric results"
+    },
+    {
+      "index": 71,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 72,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 73,
+      "text": "Grade Info"
+    },
+    {
+      "index": 74,
+      "text": "See scoring details"
+    },
+    {
+      "index": 75,
+      "text": "See rubric results"
+    },
+    {
+      "index": 76,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 77,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 78,
+      "text": "Grade Info"
+    },
+    {
+      "index": 79,
+      "text": "See scoring details"
+    },
+    {
+      "index": 80,
+      "text": "See rubric results"
+    },
+    {
+      "index": 81,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 82,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 83,
+      "text": "Grade Info"
+    },
+    {
+      "index": 84,
+      "text": "See scoring details"
+    },
+    {
+      "index": 85,
+      "text": "See rubric results"
+    },
+    {
+      "index": 86,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 87,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 88,
+      "text": "Grade Info"
+    },
+    {
+      "index": 89,
+      "text": "See scoring details"
+    },
+    {
+      "index": 90,
+      "text": "See rubric results"
+    },
+    {
+      "index": 91,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 92,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 93,
+      "text": "Grade Info"
+    },
+    {
+      "index": 94,
+      "text": "See scoring details"
+    },
+    {
+      "index": 95,
+      "text": "See rubric results"
+    },
+    {
+      "index": 96,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 97,
+      "text": "Expand or Collapse"
+    },
+    {
+      "index": 98,
+      "text": "Expand or Collapse"
+    },
+    {
+      "index": 99,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 100,
+      "text": "Instructor has not posted this grade"
+    },
+    {
+      "index": 101,
+      "text": "Discussion Submission"
+    },
+    {
+      "index": 102,
+      "text": "Grade Info"
+    },
+    {
+      "index": 103,
+      "text": "See scoring details"
+    },
+    {
+      "index": 104,
+      "text": "See rubric results"
+    },
+    {
+      "index": 105,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 106,
+      "text": "Reply To Topic Jun 25 by 11:59pm Jun 25 at 11:48pm Discussion Submission / 12"
+    },
+    {
+      "index": 107,
+      "text": "Discussion Submission"
+    },
+    {
+      "index": 108,
+      "text": "Reply To Entry (4) Jun 27 by 11:59pm Jun 25 at 11:52pm Discussion Submission / 8"
+    },
+    {
+      "index": 109,
+      "text": "Discussion Submission"
+    },
+    {
+      "index": 110,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 111,
+      "text": "Grade Info"
+    },
+    {
+      "index": 112,
+      "text": "See scoring details"
+    },
+    {
+      "index": 113,
+      "text": "See rubric results"
+    },
+    {
+      "index": 114,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 115,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 116,
+      "text": "Grade Info"
+    },
+    {
+      "index": 117,
+      "text": "See scoring details"
+    },
+    {
+      "index": 118,
+      "text": "See rubric results"
+    },
+    {
+      "index": 119,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 120,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 122,
+      "text": "Grade Info"
+    },
+    {
+      "index": 123,
+      "text": "See scoring details"
+    },
+    {
+      "index": 124,
+      "text": "See rubric results"
+    },
+    {
+      "index": 125,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 126,
+      "text": "Close"
+    },
+    {
+      "index": 127,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 129,
+      "text": "Grade Info"
+    },
+    {
+      "index": 130,
+      "text": "See scoring details"
+    },
+    {
+      "index": 131,
+      "text": "See rubric results"
+    },
+    {
+      "index": 132,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 133,
+      "text": "Close"
+    },
+    {
+      "index": 134,
+      "text": "3.00 / 11.00"
+    },
+    {
+      "index": 135,
+      "text": "6.00 / 6.00"
+    },
+    {
+      "index": 136,
+      "text": "5.00 / 5.00"
+    },
+    {
+      "index": 137,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 138,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 139,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 140,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 141,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 142,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 144,
+      "text": "Rating min score"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 16,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades/6660414",
+      "index": 17,
+      "raw_href": "/courses/2053526/grades/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades7",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "javascript:window.print()",
+      "index": 34,
+      "raw_href": "javascript:window.print()",
+      "rel": "",
+      "target": "",
+      "text": "Print Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008/submissions/6660414",
+      "index": 35,
+      "raw_href": "/courses/2053526/assignments/10557008/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694/submissions/6660414",
+      "index": 41,
+      "raw_href": "/courses/2053526/assignments/10590694/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-0asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960/submissions/6660414",
+      "index": 47,
+      "raw_href": "/courses/2053526/assignments/10556960/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695/submissions/6660414",
+      "index": 53,
+      "raw_href": "/courses/2053526/assignments/10590695/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 55,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036/submissions/6660414",
+      "index": 59,
+      "raw_href": "/courses/2053526/assignments/10557036/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 62,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950/submissions/6660414",
+      "index": 64,
+      "raw_href": "/courses/2053526/assignments/10556950/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 67,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986/submissions/6660414",
+      "index": 69,
+      "raw_href": "/courses/2053526/assignments/10556986/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 70,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 72,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 73,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057/submissions/6660414",
+      "index": 74,
+      "raw_href": "/courses/2053526/assignments/10557057/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 75,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 76,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 77,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 78,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029/submissions/6660414",
+      "index": 79,
+      "raw_href": "/courses/2053526/assignments/10557029/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab Partner Values Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 80,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 81,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 82,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 83,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 84,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984/submissions/6660414",
+      "index": 85,
+      "raw_href": "/courses/2053526/assignments/10556984/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 86,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 87,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 88,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 89,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970/submissions/6660414",
+      "index": 90,
+      "raw_href": "/courses/2053526/assignments/10556970/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-3pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 91,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 92,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 93,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 94,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001/submissions/6660414",
+      "index": 95,
+      "raw_href": "/courses/2053526/assignments/10557001/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Proctorio practice quiz (Remotely Proctored)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 96,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 97,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 98,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 99,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995/submissions/6660414",
+      "index": 100,
+      "raw_href": "/courses/2053526/assignments/10556995/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-4pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 101,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 102,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 103,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 104,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971/submissions/6660414",
+      "index": 105,
+      "raw_href": "/courses/2053526/assignments/10556971/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-5pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 106,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 107,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 108,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 109,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070/submissions/6660414",
+      "index": 110,
+      "raw_href": "/courses/2053526/assignments/10557070/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M2-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 111,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 112,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 113,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 114,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974/submissions/6660414",
+      "index": 115,
+      "raw_href": "/courses/2053526/assignments/10556974/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab Collaboration Contract",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 116,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 117,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 118,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 119,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032/submissions/6660414",
+      "index": 120,
+      "raw_href": "/courses/2053526/assignments/10557032/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 121,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 122,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 123,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 124,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118/submissions/6660414",
+      "index": 125,
+      "raw_href": "/courses/2053526/assignments/10591118/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 126,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 127,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 128,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 129,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346/submissions/6660414",
+      "index": 130,
+      "raw_href": "/courses/2053526/assignments/10592346/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-00",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 131,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 132,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 133,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 134,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982/submissions/6660414",
+      "index": 135,
+      "raw_href": "/courses/2053526/assignments/10592982/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 136,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 137,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 138,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 139,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 140,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560/submissions/6660414",
+      "index": 141,
+      "raw_href": "/courses/2053526/assignments/10593560/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 142,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 143,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 144,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 145,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 146,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 147,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Revert to original score",
+      "title": "Revert to original score"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "index": 148,
+      "raw_href": "/courses/2053526/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "javascript:window.print()",
+      "index": 0,
+      "raw_href": "javascript:window.print()",
+      "rel": "",
+      "target": "",
+      "text": "Print Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008/submissions/6660414",
+      "index": 1,
+      "raw_href": "/courses/2053526/assignments/10557008/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 2,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 6,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694/submissions/6660414",
+      "index": 7,
+      "raw_href": "/courses/2053526/assignments/10590694/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-0asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960/submissions/6660414",
+      "index": 13,
+      "raw_href": "/courses/2053526/assignments/10556960/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 15,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 18,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695/submissions/6660414",
+      "index": 19,
+      "raw_href": "/courses/2053526/assignments/10590695/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 20,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 21,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 22,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 23,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 24,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036/submissions/6660414",
+      "index": 25,
+      "raw_href": "/courses/2053526/assignments/10557036/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 26,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 27,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950/submissions/6660414",
+      "index": 30,
+      "raw_href": "/courses/2053526/assignments/10556950/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986/submissions/6660414",
+      "index": 35,
+      "raw_href": "/courses/2053526/assignments/10556986/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057/submissions/6660414",
+      "index": 40,
+      "raw_href": "/courses/2053526/assignments/10557057/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029/submissions/6660414",
+      "index": 45,
+      "raw_href": "/courses/2053526/assignments/10557029/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab Partner Values Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 47,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984/submissions/6660414",
+      "index": 51,
+      "raw_href": "/courses/2053526/assignments/10556984/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 55,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970/submissions/6660414",
+      "index": 56,
+      "raw_href": "/courses/2053526/assignments/10556970/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-3pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001/submissions/6660414",
+      "index": 61,
+      "raw_href": "/courses/2053526/assignments/10557001/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Proctorio practice quiz (Remotely Proctored)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 62,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 64,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995/submissions/6660414",
+      "index": 66,
+      "raw_href": "/courses/2053526/assignments/10556995/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-4pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 67,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 70,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971/submissions/6660414",
+      "index": 71,
+      "raw_href": "/courses/2053526/assignments/10556971/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-5pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 72,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 73,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 74,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 75,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070/submissions/6660414",
+      "index": 76,
+      "raw_href": "/courses/2053526/assignments/10557070/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M2-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 77,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 78,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 79,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 80,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974/submissions/6660414",
+      "index": 81,
+      "raw_href": "/courses/2053526/assignments/10556974/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab Collaboration Contract",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 82,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 83,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 84,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 85,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032/submissions/6660414",
+      "index": 86,
+      "raw_href": "/courses/2053526/assignments/10557032/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 87,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 88,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 89,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 90,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118/submissions/6660414",
+      "index": 91,
+      "raw_href": "/courses/2053526/assignments/10591118/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 92,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 93,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 94,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 95,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346/submissions/6660414",
+      "index": 96,
+      "raw_href": "/courses/2053526/assignments/10592346/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-00",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 97,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 98,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 99,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 100,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982/submissions/6660414",
+      "index": 101,
+      "raw_href": "/courses/2053526/assignments/10592982/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 102,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 103,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 104,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 105,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 106,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560/submissions/6660414",
+      "index": 107,
+      "raw_href": "/courses/2053526/assignments/10593560/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 108,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 109,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 110,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 111,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 112,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades#",
+      "index": 113,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Revert to original score",
+      "title": "Revert to original score"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "index": 114,
+      "raw_href": "/courses/2053526/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades7"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/grades",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/grades",
+  "source_surface": "grades",
+  "tables": [
+    {
+      "caption": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.",
+      "index": 0,
+      "text": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded. Name Due Submitted Status Score Details Submission Progress Status M1-1pre pre-lecture Jun 24 by 10am Jun 24 at 9:31am Click to test a different score 3 / 3 M1-0asy Participation Jun 24 by 2pm Jun 24 at 9:42am Click to test a different score 1 / 1 M1-2pre pre-lecture Jun 25 by 10am Jun 25 at 9:41am Click to test a different score 3 / 3 M1-00asy Participation Jun 25 by 2pm Jun 25 at 1pm Click to test a different score 2 / 2 Lab 1 Discussion lab Jun 25 by 11:59pm Jun 25 at 11:58pm Click to test a different score Discussion Submission / 10 M1-1asy Participation Jun 26 by 2pm Jun 26 at 1:52pm Click to test a different score Instructor has not posted this grade Quiz Submission / 3 M1-2asy Participation Jun 27 by 2pm Click to test a different score - / 5 Lab 1 Report lab Jun 27 by 11:59pm Click to test a different score - / 20 Lab Partner Values Survey lab Jun 27 by 11:59pm Jun 25 at 11:38pm Click to test a different score 5 / 5 Hw 1 - Rotational Motion Homework Jun 28 by 11:59pm Click to test a different score - / 18 M1-3pre pre-lecture Jun 29 by 10am Click to test a different score - / 3 Proctorio practice quiz (Remotely Proctored) Participation Jun 29 by 11:59pm Click to test a different score - / 5 M1-4pre pre-lecture Jun 30 by 10am Click to test a different score - / 3 M1-5pre pre-lecture Jul 1 by 10am Click to test a different score - / 3 M2-1pre pre-lecture Jul 4 by 10am Click to test a different score - / 3 Lab Collaboration Contract lab Jul 4 by 11:59pm Click to test a different score - / 5 Expand or Collapse Course Introductions lab Jun 25 at 11:52pm Click to test a different score Instructor has not posted this grade Discussion Submission / 20 M1-0 Participation Jun 22 at 12:44pm Click to test a different score - / 1 M1-00 Participation Jun 23 at 12:12pm Click to test a different score - / 2 M1-1 Participation Jun 24 at 1:02pm Click to test a different score 0 / 3 M1-2 Participation Jun 25 at 12:22pm Click to test a different score 0 / 5 Participation 27.27% 3.00 / 11.00 pre-lecture 100% 6.00 / 6.00 lab 100% 5.00 / 5.00 Homework N/A 0.00 / 0.00 Quiz notes N/A 0.00 / 0.00 Final N/A 0.00 / 0.00 Quiz A N/A 0.00 / 0.00 Quiz B N/A 0.00 / 0.00 Quiz_asy work N/A 0.00 / 0.00 Total 89.61%"
+    },
+    {
+      "caption": "",
+      "index": 1,
+      "text": "Score Details Close Mean: 2.34 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 3 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+    },
+    {
+      "caption": "",
+      "index": 2,
+      "text": "Score Details Close Mean: 0.97 Median: 1 High: 1 Upper Quartile: 1 Low: 0 Lower Quartile: 1 Median 1.0, High 1.0, Low 0.0 Your Score: 1.0 out of 1"
+    },
+    {
+      "caption": "",
+      "index": 3,
+      "text": "Score Details Close Mean: 2.21 Median: 3 High: 3 Upper Quartile: 3 Low: 0 Lower Quartile: 0 Median 3.0, High 3.0, Low 0.0 Your Score: 3.0 out of 3"
+    },
+    {
+      "caption": "",
+      "index": 4,
+      "text": "Score Details Close Mean: 1.95 Median: 2 High: 2 Upper Quartile: 2 Low: 0 Lower Quartile: 2 Median 2.0, High 2.0, Low 0.0 Your Score: 2.0 out of 2"
+    },
+    {
+      "caption": "",
+      "index": 5,
+      "text": "Score Details Close Mean: 5 Median: 5 High: 5 Upper Quartile: 5 Low: 5 Lower Quartile: 5 Median 5.0, High 5.0, Low 5.0 Your Score: 5.0 out of 5"
+    },
+    {
+      "caption": "",
+      "index": 6,
+      "text": "Score Details Close Mean: 0.83 Median: 0 High: 3 Upper Quartile: 2 Low: 0 Lower Quartile: 0 Median 0.0, High 3.0, Low 0.0 Your Score: 0.0 out of 3"
+    },
+    {
+      "caption": "",
+      "index": 7,
+      "text": "Score Details Close Mean: 1.33 Median: 0 High: 5 Upper Quartile: 4 Low: 0 Lower Quartile: 0 Median 0.0, High 5.0, Low 0.0 Your Score: 0.0 out of 5"
+    }
+  ],
+  "title": "Grades for Jacob Peterson: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00020-phy-212-grades-grades-for-jacob-peterson-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-06-26T21:01:15.808Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "grades",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "grades",
+  "canvas_object_id": "",
+  "html_sha256": "8d5e74397ddf21e08a8dfe5c26260119c5109079c4ff91d579e27347360bb2a2",
+  "text_sha256": "47c397058889b604ff3ccee382c6c0c179f172bcd4de7af8f719b19d7f757c69",
+  "requires_external_handler": false
+}

@@ -1,0 +1,22 @@
+{
+  "run_id": "smoke-2026-06-26T20-52-48-094Z",
+  "run_root": "/Users/jake/Developer/SU26/canvas/archive/smoke-2026-06-26T20-52-48-094Z",
+  "pages_captured": 3,
+  "manifest_rows": 3,
+  "links": 448,
+  "iframes": 8,
+  "downloads": 0,
+  "warnings": 1,
+  "queued_remaining": 39,
+  "max_pages": 3,
+  "screenshot_mode": "none",
+  "pages_by_course": {
+    "MTH-252": 3,
+    "MTH-253": 0,
+    "PHY-212": 0
+  },
+  "pages_by_object_type": {
+    "course_page": 2,
+    "modules": 1
+  }
+}

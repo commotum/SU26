@@ -1,0 +1,4 @@
+requested_url,resolved_url,course_code,source_surface,source_kind,page_id,started_at,finished_at,status,error,discovered_count
+https://canvas.oregonstate.edu/courses/2080857,https://canvas.oregonstate.edu/courses/2080857,MTH-252,home,surface,00001-mth-252-home-integral-calculus-mth-252z-400-u2026,2026-06-26T20:52:48.507Z,2026-06-26T20:52:57.466Z,ok,,12
+https://canvas.oregonstate.edu/courses/2080857/modules,https://canvas.oregonstate.edu/courses/2080857/modules,MTH-252,modules,surface,00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026,2026-06-26T20:52:57.466Z,2026-06-26T20:53:01.638Z,ok,,6
+https://canvas.oregonstate.edu/courses/2080857/assignments,https://canvas.oregonstate.edu/courses/2080857,MTH-252,assignments,surface,00003-mth-252-assignments-integral-calculus-mth-252z-400-u2026,2026-06-26T20:53:01.638Z,2026-06-26T20:53:04.399Z,ok,,0

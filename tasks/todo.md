@@ -74,12 +74,12 @@ Title: Complete Summer Enrollment Revision
 Description: OSU Financial Aid needs the specific number of credits planned for summer term to process aid.
 Responsibility: user
 Source: Email
-Context: EMAIL-0001 and EMAIL-0002 from Office of Financial Aid said to complete/update the Enrollment Revision Request in the 2026-27 Financial Aid Portal, unsatisfied section of the Home tab.
+Context: EMAIL-0001, EMAIL-0002, and EMAIL-0027 from Office of Financial Aid said to complete/update the Enrollment Revision Request in the 2026-27 Financial Aid Portal, unsatisfied section of the Home tab.
 Next action: Open the Financial Aid Portal and enter the expected summer enrollment credits/status.
 Deadline: as soon as possible
 Acceptance: Enrollment Revision Request is submitted or no longer listed as unsatisfied in the Financial Aid Portal.
 Blockers:
-Notes: The June 4 follow-up was flagged and should remain visible until handled.
+Notes: EMAIL-0027 was restored unread after reading because it is individualized financial-aid work that should remain visible until handled.
 
 ### TASK-0003 - Set Up MTH 252 Access
 

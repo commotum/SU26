@@ -1,0 +1,906 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 9 — Learning Materials and Practice Activities 🕓 3 - 5 hours"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Intro"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Riemann Sum Calculator (RSC)"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Videos"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Practice Activities"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 15,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 16,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 17,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 18,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 19,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 20,
+      "text": "Previous Next"
+    },
+    {
+      "index": 21,
+      "text": "Previous"
+    },
+    {
+      "index": 22,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 9 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 26,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 27,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/3_-7IJO6EVc",
+      "index": 28,
+      "raw_href": "https://youtu.be/3_-7IJO6EVc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Stretch Spring (given pounds/force)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Fd65ZxqpktE",
+      "index": 29,
+      "raw_href": "https://youtu.be/Fd65ZxqpktE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Force Required to Stretch Spring (given work)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sAP6S7csCI8",
+      "index": 30,
+      "raw_href": "https://youtu.be/sAP6S7csCI8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Computing Natural Spring Length (given work)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/KRKWJre--6U",
+      "index": 31,
+      "raw_href": "https://youtu.be/KRKWJre--6U",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to move something with Variable ForceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sM-aWZwf5HM",
+      "index": 32,
+      "raw_href": "https://youtu.be/sM-aWZwf5HM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Lift an ObjectLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/T7sma-7qQFA",
+      "index": 33,
+      "raw_href": "https://youtu.be/T7sma-7qQFA",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of a Cylinder TankLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/7NlMAIGdYjw",
+      "index": 34,
+      "raw_href": "https://youtu.be/7NlMAIGdYjw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out a Hemispherical BowlLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/z0Um1L9tpsE",
+      "index": 35,
+      "raw_href": "https://youtu.be/z0Um1L9tpsE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Empty a Semicircular-Rectangular TroughLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Ab0omZH2fFc",
+      "index": 36,
+      "raw_href": "https://youtu.be/Ab0omZH2fFc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of an Inverted ConeLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1x-xMf4TFNM",
+      "index": 37,
+      "raw_href": "https://youtu.be/1x-xMf4TFNM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of Triangular TroughLinks to an external site.",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/fOSPGrbgsAs",
+      "index": 38,
+      "raw_href": "https://youtu.be/fOSPGrbgsAs",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of a Trapezoid TroughLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/zSyh3IzQMdc",
+      "index": 39,
+      "raw_href": "https://youtu.be/zSyh3IzQMdc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Horizontal PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/7exmlrEbNXI",
+      "index": 40,
+      "raw_href": "https://youtu.be/7exmlrEbNXI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/IibAGMtoeTM",
+      "index": 41,
+      "raw_href": "https://youtu.be/IibAGMtoeTM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Rectangular PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/R4GXWqoznXQ",
+      "index": 42,
+      "raw_href": "https://youtu.be/R4GXWqoznXQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Semicircular WindowLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Ntk9RpCCSeM",
+      "index": 43,
+      "raw_href": "https://youtu.be/Ntk9RpCCSeM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Semicircular WindowLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 44,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982631",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982631",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982633",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982633",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 0,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 1,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/3_-7IJO6EVc",
+      "index": 2,
+      "raw_href": "https://youtu.be/3_-7IJO6EVc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Stretch Spring (given pounds/force)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Fd65ZxqpktE",
+      "index": 3,
+      "raw_href": "https://youtu.be/Fd65ZxqpktE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Force Required to Stretch Spring (given work)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sAP6S7csCI8",
+      "index": 4,
+      "raw_href": "https://youtu.be/sAP6S7csCI8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Computing Natural Spring Length (given work)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/KRKWJre--6U",
+      "index": 5,
+      "raw_href": "https://youtu.be/KRKWJre--6U",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to move something with Variable ForceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sM-aWZwf5HM",
+      "index": 6,
+      "raw_href": "https://youtu.be/sM-aWZwf5HM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Lift an ObjectLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/T7sma-7qQFA",
+      "index": 7,
+      "raw_href": "https://youtu.be/T7sma-7qQFA",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of a Cylinder TankLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/7NlMAIGdYjw",
+      "index": 8,
+      "raw_href": "https://youtu.be/7NlMAIGdYjw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out a Hemispherical BowlLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/z0Um1L9tpsE",
+      "index": 9,
+      "raw_href": "https://youtu.be/z0Um1L9tpsE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Empty a Semicircular-Rectangular TroughLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Ab0omZH2fFc",
+      "index": 10,
+      "raw_href": "https://youtu.be/Ab0omZH2fFc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of an Inverted ConeLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1x-xMf4TFNM",
+      "index": 11,
+      "raw_href": "https://youtu.be/1x-xMf4TFNM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of Triangular TroughLinks to an external site.",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/fOSPGrbgsAs",
+      "index": 12,
+      "raw_href": "https://youtu.be/fOSPGrbgsAs",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Work Required to Pump Out of a Trapezoid TroughLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/zSyh3IzQMdc",
+      "index": 13,
+      "raw_href": "https://youtu.be/zSyh3IzQMdc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Horizontal PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/7exmlrEbNXI",
+      "index": 14,
+      "raw_href": "https://youtu.be/7exmlrEbNXI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/IibAGMtoeTM",
+      "index": 15,
+      "raw_href": "https://youtu.be/IibAGMtoeTM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Rectangular PlateLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/R4GXWqoznXQ",
+      "index": 16,
+      "raw_href": "https://youtu.be/R4GXWqoznXQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Semicircular WindowLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Ntk9RpCCSeM",
+      "index": 17,
+      "raw_href": "https://youtu.be/Ntk9RpCCSeM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Hydrostatic Force on a Vertical Semicircular WindowLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 18,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982631",
+      "index": 19,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982631",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982633",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982633",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982632",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/module-9-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982632",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 9 — Learning Materials and Practice Activities 🕓 3 - 5 hours: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00133-mth-252-module-item-module-9-learning-materials-and-practice-activities-3-5-hours-integral-calculus-mth-252z-400-u20",
+  "captured_at": "2026-06-26T21:06:23.810Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Module 9 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-9-learning-materials-and-practice-activities-3-5-hours-2",
+  "html_sha256": "278dfa2c0779152c106655ff03518c55d9b383d18aa15703bd1f2633ea0d4045",
+  "text_sha256": "449dca5dd21adbb01690786ccd11e49261d88a55ba208056bc675cbc3257fce5",
+  "requires_external_handler": false
+}

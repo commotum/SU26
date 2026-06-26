@@ -1,0 +1,2033 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Update Syllabus",
+      "type": "submit"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "due by 11:59pm",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "method": "post",
+      "text": "Syllabus Description: Show Course Summary Cancel Update Syllabus"
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Course Syllabus"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Course Summary:"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Course Summary"
+    },
+    {
+      "index": 2,
+      "text": "Assignment"
+    },
+    {
+      "index": 3,
+      "text": "Assignment"
+    },
+    {
+      "index": 4,
+      "text": "Assignment"
+    },
+    {
+      "index": 5,
+      "text": "Quiz"
+    },
+    {
+      "index": 6,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 7,
+      "text": "Assignment"
+    },
+    {
+      "index": 8,
+      "text": "Assignment"
+    },
+    {
+      "index": 9,
+      "text": "Quiz"
+    },
+    {
+      "index": 10,
+      "text": "Assignment"
+    },
+    {
+      "index": 11,
+      "text": "Assignment"
+    },
+    {
+      "index": 12,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 13,
+      "text": "Assignment"
+    },
+    {
+      "index": 14,
+      "text": "Assignment"
+    },
+    {
+      "index": 15,
+      "text": "Assignment"
+    },
+    {
+      "index": 16,
+      "text": "Quiz"
+    },
+    {
+      "index": 17,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 18,
+      "text": "Assignment"
+    },
+    {
+      "index": 19,
+      "text": "Assignment"
+    },
+    {
+      "index": 20,
+      "text": "Assignment"
+    },
+    {
+      "index": 21,
+      "text": "Assignment"
+    },
+    {
+      "index": 22,
+      "text": "Quiz"
+    },
+    {
+      "index": 23,
+      "text": "Quiz"
+    },
+    {
+      "index": 24,
+      "text": "Quiz"
+    },
+    {
+      "index": 25,
+      "text": "Assignment"
+    },
+    {
+      "index": 26,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 27,
+      "text": "Assignment"
+    },
+    {
+      "index": 28,
+      "text": "Assignment"
+    },
+    {
+      "index": 29,
+      "text": "Assignment"
+    },
+    {
+      "index": 30,
+      "text": "Quiz"
+    },
+    {
+      "index": 31,
+      "text": "Quiz"
+    },
+    {
+      "index": 32,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 33,
+      "text": "Assignment"
+    },
+    {
+      "index": 34,
+      "text": "Assignment"
+    },
+    {
+      "index": 35,
+      "text": "Assignment"
+    },
+    {
+      "index": 36,
+      "text": "Quiz"
+    },
+    {
+      "index": 37,
+      "text": "Assignment"
+    },
+    {
+      "index": 38,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 39,
+      "text": "Assignment"
+    },
+    {
+      "index": 40,
+      "text": "Assignment"
+    },
+    {
+      "index": 41,
+      "text": "Assignment"
+    },
+    {
+      "index": 42,
+      "text": "Quiz"
+    },
+    {
+      "index": 43,
+      "text": "Quiz"
+    },
+    {
+      "index": 44,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 45,
+      "text": "Assignment"
+    },
+    {
+      "index": 46,
+      "text": "Assignment"
+    },
+    {
+      "index": 47,
+      "text": "Assignment"
+    },
+    {
+      "index": 48,
+      "text": "Quiz"
+    },
+    {
+      "index": 49,
+      "text": "Quiz"
+    },
+    {
+      "index": 50,
+      "text": "Assignment"
+    },
+    {
+      "index": 51,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 52,
+      "text": "Assignment"
+    },
+    {
+      "index": 53,
+      "text": "Assignment"
+    },
+    {
+      "index": 54,
+      "text": "Assignment"
+    },
+    {
+      "index": 55,
+      "text": "Quiz"
+    },
+    {
+      "index": 56,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 57,
+      "text": "Assignment"
+    },
+    {
+      "index": 58,
+      "text": "Assignment"
+    },
+    {
+      "index": 59,
+      "text": "Assignment"
+    },
+    {
+      "index": 60,
+      "text": "Quiz"
+    },
+    {
+      "index": 61,
+      "text": "Assignment"
+    },
+    {
+      "index": 62,
+      "text": "Assignment"
+    },
+    {
+      "index": 63,
+      "text": "Assignment"
+    },
+    {
+      "index": 64,
+      "text": "Assignment"
+    },
+    {
+      "index": 65,
+      "text": "Assignment"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 16,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 17,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 18,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 19,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 23,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 25,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Jump to Today",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "Start Here Module",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586025",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586025",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.1 Approximating Areas",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586044",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586044",
+      "rel": "",
+      "target": "",
+      "text": "Intro Reflect 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586053",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586053",
+      "rel": "",
+      "target": "",
+      "text": "Module 1 — Written Homework (WHW 1) 🕓 2 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586006",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586006",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586023",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586023",
+      "rel": "",
+      "target": "",
+      "text": "Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586026",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586026",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.2 The Definite Integral",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586055",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586055",
+      "rel": "",
+      "target": "",
+      "text": "Module 2 — Written Homework (WHW 2) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586005",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586005",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.2 (RQ-1.2)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586063",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586063",
+      "rel": "",
+      "target": "",
+      "text": "Reflection 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 1 - Tues - Thur --> No Calculators",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586022",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586022",
+      "rel": "",
+      "target": "",
+      "text": "Module 2 — Discussion Reflection 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586027",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586027",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.3 The Fundamental Theorem of Calculus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586042",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586042",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 4.10 Antiderivatives",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586056",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586056",
+      "rel": "",
+      "target": "",
+      "text": "Module 3 — Written Homework (WHW 3) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586002",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586002",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.3 (RQ-1.3)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586021",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586021",
+      "rel": "",
+      "target": "",
+      "text": "Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586028",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586028",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.4 Integration Formulas and the Net Change Theorem",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586029",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586029",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.5 Substitution",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586030",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586030",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.6 Integrals Involving Exponential and Logarithmic Functions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586057",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586057",
+      "rel": "",
+      "target": "",
+      "text": "Module 4 — Written Homework (WHW 4) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586010",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586010",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586008",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586008",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586001",
+      "index": 49,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586001",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.6",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586048",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586048",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 2 --> No Calculators on this Exam",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586020",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586020",
+      "rel": "",
+      "target": "",
+      "text": "Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586037",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586037",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.1 Integration by Parts",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586038",
+      "index": 53,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586038",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.2 Trigonometric Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586058",
+      "index": 54,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586058",
+      "rel": "",
+      "target": "",
+      "text": "Module 5 — Written Homework (WHW 5) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586007",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586007",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586013",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586013",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586019",
+      "index": 57,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586019",
+      "rel": "",
+      "target": "",
+      "text": "Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586039",
+      "index": 58,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586039",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.3 Trigonometric Substitution",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586040",
+      "index": 59,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586040",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.4 Partial Fractions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586059",
+      "index": 60,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586059",
+      "rel": "",
+      "target": "",
+      "text": "Module 6 — Written Homework (WHW 6) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586003",
+      "index": 61,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586003",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586050",
+      "index": 62,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586050",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 3 --> Tuesday to Thursday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586018",
+      "index": 63,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586018",
+      "rel": "",
+      "target": "",
+      "text": "Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586031",
+      "index": 64,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586031",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.1 Areas between Curves",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586032",
+      "index": 65,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586032",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.2 Volumes by Slicing and Disc/Washer Method",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586060",
+      "index": 66,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586060",
+      "rel": "",
+      "target": "",
+      "text": "Module 7 — Written Homework (WHW 7) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586012",
+      "index": 67,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586012",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586000",
+      "index": 68,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586000",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586017",
+      "index": 69,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586017",
+      "rel": "",
+      "target": "",
+      "text": "Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586024",
+      "index": 70,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586024",
+      "rel": "",
+      "target": "",
+      "text": "Acheive - 2.4 Arc Length of a Curve (NO Surface Area)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586033",
+      "index": 71,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586033",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.3 Volumes of Revolution: Cylindrical Shells",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586061",
+      "index": 72,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586061",
+      "rel": "",
+      "target": "",
+      "text": "Module 8 — Written Homework (WHW 8) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586011",
+      "index": 73,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586011",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586009",
+      "index": 74,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586009",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586052",
+      "index": 75,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586052",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 4 --> Tuesday to Thursday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586016",
+      "index": 76,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586016",
+      "rel": "",
+      "target": "",
+      "text": "Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586034",
+      "index": 77,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586034",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.5 - 1 Physical Applications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586036",
+      "index": 78,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586036",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.5 - 2 Physical Applications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586062",
+      "index": 79,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586062",
+      "rel": "",
+      "target": "",
+      "text": "Module 9 — Written Homework (WHW 9) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586014",
+      "index": 80,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586014",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586015",
+      "index": 81,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586015",
+      "rel": "",
+      "target": "",
+      "text": "Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586041",
+      "index": 82,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586041",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.7 Improper Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586054",
+      "index": 83,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586054",
+      "rel": "",
+      "target": "",
+      "text": "Module 10 — Written Homework (WHW 10) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586064",
+      "index": 84,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586064",
+      "rel": "",
+      "target": "",
+      "text": "Reflection 3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586004",
+      "index": 85,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586004",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.7",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586043",
+      "index": 86,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586043",
+      "rel": "",
+      "target": "",
+      "text": "Final Mini-Exam 5 --> Monday to Wednesday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586046",
+      "index": 87,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586046",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 1 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586047",
+      "index": 88,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586047",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 2 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586049",
+      "index": 89,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586049",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 3 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586051",
+      "index": 90,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586051",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 4 - Retake",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus#",
+      "index": 0,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Jump to Today",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "Start Here Module",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586025",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586025",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.1 Approximating Areas",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586044",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586044",
+      "rel": "",
+      "target": "",
+      "text": "Intro Reflect 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586053",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586053",
+      "rel": "",
+      "target": "",
+      "text": "Module 1 — Written Homework (WHW 1) 🕓 2 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586006",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586006",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586023",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586023",
+      "rel": "",
+      "target": "",
+      "text": "Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586026",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586026",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.2 The Definite Integral",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586055",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586055",
+      "rel": "",
+      "target": "",
+      "text": "Module 2 — Written Homework (WHW 2) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586005",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586005",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.2 (RQ-1.2)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586063",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586063",
+      "rel": "",
+      "target": "",
+      "text": "Reflection 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 1 - Tues - Thur --> No Calculators",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586022",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586022",
+      "rel": "",
+      "target": "",
+      "text": "Module 2 — Discussion Reflection 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586027",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586027",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.3 The Fundamental Theorem of Calculus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586042",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586042",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 4.10 Antiderivatives",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586056",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586056",
+      "rel": "",
+      "target": "",
+      "text": "Module 3 — Written Homework (WHW 3) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586002",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586002",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.3 (RQ-1.3)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586021",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586021",
+      "rel": "",
+      "target": "",
+      "text": "Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586028",
+      "index": 18,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586028",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.4 Integration Formulas and the Net Change Theorem",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586029",
+      "index": 19,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586029",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.5 Substitution",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586030",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586030",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 1.6 Integrals Involving Exponential and Logarithmic Functions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586057",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586057",
+      "rel": "",
+      "target": "",
+      "text": "Module 4 — Written Homework (WHW 4) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586010",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586010",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586008",
+      "index": 23,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586008",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586001",
+      "index": 24,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586001",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.6",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586048",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586048",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 2 --> No Calculators on this Exam",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586020",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586020",
+      "rel": "",
+      "target": "",
+      "text": "Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586037",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586037",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.1 Integration by Parts",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586038",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586038",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.2 Trigonometric Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586058",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586058",
+      "rel": "",
+      "target": "",
+      "text": "Module 5 — Written Homework (WHW 5) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586007",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586007",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586013",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586013",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586019",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586019",
+      "rel": "",
+      "target": "",
+      "text": "Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586039",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586039",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.3 Trigonometric Substitution",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586040",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586040",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.4 Partial Fractions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586059",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586059",
+      "rel": "",
+      "target": "",
+      "text": "Module 6 — Written Homework (WHW 6) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586003",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586003",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586050",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586050",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 3 --> Tuesday to Thursday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586018",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586018",
+      "rel": "",
+      "target": "",
+      "text": "Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586031",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586031",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.1 Areas between Curves",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586032",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586032",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.2 Volumes by Slicing and Disc/Washer Method",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586060",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586060",
+      "rel": "",
+      "target": "",
+      "text": "Module 7 — Written Homework (WHW 7) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586012",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586012",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586000",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586000",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586017",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586017",
+      "rel": "",
+      "target": "",
+      "text": "Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586024",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586024",
+      "rel": "",
+      "target": "",
+      "text": "Acheive - 2.4 Arc Length of a Curve (NO Surface Area)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586033",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586033",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.3 Volumes of Revolution: Cylindrical Shells",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586061",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586061",
+      "rel": "",
+      "target": "",
+      "text": "Module 8 — Written Homework (WHW 8) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586011",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586011",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586009",
+      "index": 49,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586009",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586052",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586052",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 4 --> Tuesday to Thursday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586016",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586016",
+      "rel": "",
+      "target": "",
+      "text": "Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586034",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586034",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.5 - 1 Physical Applications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586036",
+      "index": 53,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586036",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 2.5 - 2 Physical Applications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586062",
+      "index": 54,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586062",
+      "rel": "",
+      "target": "",
+      "text": "Module 9 — Written Homework (WHW 9) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586014",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586014",
+      "rel": "",
+      "target": "",
+      "text": "RQ-2.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586015",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586015",
+      "rel": "",
+      "target": "",
+      "text": "Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586041",
+      "index": 57,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586041",
+      "rel": "",
+      "target": "",
+      "text": "Achieve - 3.7 Improper Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586054",
+      "index": 58,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586054",
+      "rel": "",
+      "target": "",
+      "text": "Module 10 — Written Homework (WHW 10) 🕓 3 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586064",
+      "index": 59,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586064",
+      "rel": "",
+      "target": "",
+      "text": "Reflection 3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586004",
+      "index": 60,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586004",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.7",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586043",
+      "index": 61,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586043",
+      "rel": "",
+      "target": "",
+      "text": "Final Mini-Exam 5 --> Monday to Wednesday",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586046",
+      "index": 62,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586046",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 1 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586047",
+      "index": 63,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586047",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 2 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586049",
+      "index": 64,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586049",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 3 - Retake",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586051",
+      "index": 65,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586051",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 4 - Retake",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+  "source_surface": "syllabus",
+  "tables": [
+    {
+      "caption": "Course Summary",
+      "index": 0,
+      "text": "Course Summary Date Details Due Mon Jun 29, 2026 Assignment Achieve - 1.1 Approximating Areas due by 11:59pm Assignment Intro Reflect 1 due by 11:59pm Assignment Module 1 — Written Homework (WHW 1) 🕓 2 hours due by 11:59pm Quiz Pre-Class Reading Quiz - 1.1 (RQ-1.1) due by 11:59pm Thu Jul 2, 2026 Discussion Topic Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour due by 11:59pm Mon Jul 6, 2026 Assignment Achieve - 1.2 The Definite Integral due by 11:59pm Assignment Module 2 — Written Homework (WHW 2) 🕓 3 hours due by 11:59pm Quiz Pre-Class Reading Quiz - 1.2 (RQ-1.2) due by 11:59pm Assignment Reflection 2 due by 11:59pm Thu Jul 9, 2026 Assignment Mini-Exam 1 - Tues - Thur --> No Calculators due by 11:59pm Fri Jul 10, 2026 Discussion Topic Module 2 — Discussion Reflection 🕓 0.5 hour Mon Jul 13, 2026 Assignment Achieve - 1.3 The Fundamental Theorem of Calculus Assignment Achieve - 4.10 Antiderivatives Assignment Module 3 — Written Homework (WHW 3) 🕓 3 hours Quiz Pre-Class Reading Quiz - 1.3 (RQ-1.3) Tue Jul 14, 2026 Discussion Topic Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour Mon Jul 20, 2026 Assignment Achieve - 1.4 Integration Formulas and the Net Change Theorem Assignment Achieve - 1.5 Substitution Assignment Achieve - 1.6 Integrals Involving Exponential and Logarithmic Functions Assignment Module 4 — Written Homework (WHW 4) 🕓 3 hours Quiz RQ-1.4 Quiz RQ-1.5 Quiz RQ-1.6 Thu Jul 23, 2026 Assignment Mini-Exam 2 --> No Calculators on this Exam Fri Jul 24, 2026 Discussion Topic Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour Mon Jul 27, 2026 Assignment Achieve - 3.1 Integration by Parts Assignment Achieve - 3.2 Trigonometric Integrals Assignment Module 5 — Written Homework (WHW 5) 🕓 3 hours Quiz RQ-3.1 Quiz RQ-3.2 Tue Jul 28, 2026 Discussion Topic Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour Mon Aug 3, 2026 Assignment Achieve - 3.3 Trigonometric Substitution Assignment Achieve - 3.4 Partial Fractions Assignment Module 6 — Written Homework (WHW 6) 🕓 3 hours Quiz RQ-3.3 Thu Aug 6, 2026 Assignment Mini-Exam 3 --> Tuesday to Thursday Fri Aug 7, 2026 Discussion Topic Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour Mon Aug 10, 2026 Assignment Achieve - 2.1 Areas between Curves Assignment Achieve - 2.2 Volumes by Slicing and Disc/Washer Method Assignment Module 7 — Written Homework (WHW 7) 🕓 3 hours Quiz RQ-2.1 Quiz RQ-2.2 Tue Aug 11, 2026 Discussion Topic Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour Mon Aug 17, 2026 Assignment Acheive - 2.4 Arc Length of a Curve (NO Surface Area) Assignment Achieve - 2.3 Volumes of Revolution: Cylindrical Shells Assignment Module 8 — Written Homework (WHW 8) 🕓 3 hours Quiz RQ-2.3 Quiz RQ-2.4 Thu Aug 20, 2026 Assignment Mini-Exam 4 --> Tuesday to Thursday Sat Aug 22, 2026 Discussion Topic Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour Mon Aug 24, 2026 Assignment Achieve - 2.5 - 1 Physical Applications Assignment Achieve - 2.5 - 2 Physical Applications Assignment Module 9 — Written Homework (WHW 9) 🕓 3 hours Quiz RQ-2.5 Sat Aug 29, 2026 Discussion Topic Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour Mon Aug 31, 2026 Assignment Achieve - 3.7 Improper Integrals Assignment Module 10 — Written Homework (WHW 10) 🕓 3 hours Assignment Reflection 3 Quiz RQ-3.7 Wed Sep 2, 2026 Assignment Final Mini-Exam 5 --> Monday to Wednesday Assignment Mini-Exam 1 - Retake Assignment Mini-Exam 2 - Retake Assignment Mini-Exam 3 - Retake Assignment Mini-Exam 4 - Retake"
+    }
+  ],
+  "title": "Syllabus for INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00006-mth-252-syllabus-syllabus-for-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-06-26T20:59:29.766Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "syllabus",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "assignment",
+  "canvas_object_id": "syllabus",
+  "html_sha256": "e5c38f18984f596b1d04fb39a6f967781791e8bcec8f18446070eae07d3d9865",
+  "text_sha256": "c3b03e82b05de1a1fb1b4054bb67202ec3b09605e501047e93552df7956ff98c",
+  "requires_external_handler": false
+}

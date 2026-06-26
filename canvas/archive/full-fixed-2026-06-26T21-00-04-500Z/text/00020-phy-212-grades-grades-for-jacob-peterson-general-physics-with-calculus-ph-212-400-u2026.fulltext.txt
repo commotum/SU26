@@ -1,0 +1,3276 @@
+
+            
+
+  
+    
+        
+          Grades for Jacob Peterson
+        
+    
+
+    
+      
+        Print Grades
+      
+    
+      
+  
+
+  CourseArrange ByApplyApply filters. Note: clicking this button will cause the page to reload.
+
+  
+      
+      
+          You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.
+        
+          
+            Name
+            Due
+            Submitted
+            Status
+            Score
+            
+            Details
+            Submission Progress Status
+          
+        
+            
+                
+                        M1-1pre
+                    pre-lecture
+                
+                
+                    Jun 24 by 10am
+                
+                
+                    Jun 24 at 9:31am
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          3
+                      
+                        / 3
+                         
+                    
+                    
+                      
+                      
+                        3.0
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245379
+                      10557008
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                2.34
+                                  
+                                  Median:
+                                  3
+                              
+                              
+                                High:
+                                3
+                                  
+                                  Upper Quartile:
+                                  3
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  3
+                              
+                              
+                                
+                                  Median 3.0, High 3.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 3.0 out of 3
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        M1-0asy
+                    Participation
+                
+                
+                    Jun 24 by 2pm
+                
+                
+                    Jun 24 at 9:42am
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          1
+                      
+                        / 1
+                         
+                    
+                    
+                      
+                      
+                        1.0
+                      
+                      
+                      
+                        1 
+                      
+                      
+                      
+                        1 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10590694
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                0.97
+                                  
+                                  Median:
+                                  1
+                              
+                              
+                                High:
+                                1
+                                  
+                                  Upper Quartile:
+                                  1
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  1
+                              
+                              
+                                
+                                  Median 1.0, High 1.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 1.0 out of 1
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        M1-2pre
+                    pre-lecture
+                
+                
+                    Jun 25 by 10am
+                
+                
+                    Jun 25 at 9:41am
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          3
+                      
+                        / 3
+                         
+                    
+                    
+                      
+                      
+                        3.0
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245379
+                      10556960
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                2.21
+                                  
+                                  Median:
+                                  3
+                              
+                              
+                                High:
+                                3
+                                  
+                                  Upper Quartile:
+                                  3
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  0
+                              
+                              
+                                
+                                  Median 3.0, High 3.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 3.0 out of 3
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        M1-00asy
+                    Participation
+                
+                
+                    Jun 25 by 2pm
+                
+                
+                    Jun 25 at 1pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          2
+                      
+                        / 2
+                    
+                    
+                      
+                      
+                        2.0
+                      
+                      
+                      
+                        2 
+                      
+                      
+                      
+                        2 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10590695
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                1.95
+                                  
+                                  Median:
+                                  2
+                              
+                              
+                                High:
+                                2
+                                  
+                                  Upper Quartile:
+                                  2
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  2
+                              
+                              
+                                
+                                  Median 2.0, High 2.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 2.0 out of 2
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        Lab 1 Discussion
+                    lab
+                
+                
+                    Jun 25 by 11:59pm
+                
+                
+                    Jun 25 at 11:58pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          Discussion Submission
+                      
+                        / 10
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        submitted
+                      
+                      3245380
+                      10557036
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-1asy
+                    Participation
+                
+                
+                    Jun 26 by 2pm
+                
+                
+                    Jun 26 at 1:52pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Instructor has not posted this grade
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                            Instructor has not posted this grade
+                          Quiz Submission
+                      
+                        / 3
+                         
+                    
+                    
+                      
+                      
+                        3.0
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        3 
+                      
+                      
+                      
+                        
+                      
+                      
+                        pending_review
+                      
+                      3245378
+                      10556950
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        M1-2asy
+                    Participation
+                
+                
+                    Jun 27 by 2pm
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 5
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245378
+                      10556986
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        Lab 1 Report
+                    lab
+                
+                
+                    Jun 27 by 11:59pm
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 20
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245380
+                      10557057
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        Lab Partner Values Survey
+                    lab
+                
+                
+                    Jun 27 by 11:59pm
+                
+                
+                    Jun 25 at 11:38pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          5
+                      
+                        / 5
+                         
+                    
+                    
+                      
+                      
+                        5.0
+                      
+                      
+                      
+                        5 
+                      
+                      
+                      
+                        5 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245380
+                      10557029
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                5
+                                  
+                                  Median:
+                                  5
+                              
+                              
+                                High:
+                                5
+                                  
+                                  Upper Quartile:
+                                  5
+                              
+                              
+                                Low:
+                                5
+                                  
+                                  Lower Quartile:
+                                  5
+                              
+                              
+                                
+                                  Median 5.0, High 5.0, Low 5.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 5.0 out of 5
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        Hw 1 - Rotational Motion
+                    Homework
+                
+                
+                    Jun 28 by 11:59pm
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 18
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245381
+                      10556984
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-3pre
+                    pre-lecture
+                
+                
+                    Jun 29 by 10am
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 3
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245379
+                      10556970
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        Proctorio practice quiz (Remotely Proctored)
+                    Participation
+                
+                
+                    Jun 29 by 11:59pm
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 5
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245378
+                      10557001
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-4pre
+                    pre-lecture
+                
+                
+                    Jun 30 by 10am
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 3
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245379
+                      10556995
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-5pre
+                    pre-lecture
+                
+                
+                    Jul 1 by 10am
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 3
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245379
+                      10556971
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M2-1pre
+                    pre-lecture
+                
+                
+                    Jul 4 by 10am
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 3
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245379
+                      10557070
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        Lab Collaboration Contract
+                    lab
+                
+                
+                    Jul 4 by 11:59pm
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 5
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        unsubmitted
+                      
+                      3245380
+                      10556974
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Expand or Collapse
+                        Course Introductions
+                    lab
+                
+                
+                    
+                
+                
+                    Jun 25 at 11:52pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Instructor has not posted this grade
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                            Instructor has not posted this grade
+                          Discussion Submission
+                      
+                        / 20
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        pending_review
+                      
+                      3245380
+                      10557032
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+                  
+                       Reply To Topic 
+                    
+                        Jun 25 by 11:59pm
+                    
+                    
+                        Jun 25 at 11:48pm
+                    
+                    
+                    
+                    
+                      
+                          
+                          
+                        
+                          
+                            
+                                
+                                
+                            
+                              Discussion Submission
+                          
+                            / 12
+                        
+                      
+                    
+                    
+                    
+                  
+                  
+                       Reply To Entry (4) 
+                    
+                        Jun 27 by 11:59pm
+                    
+                    
+                        Jun 25 at 11:52pm
+                    
+                    
+                    
+                    
+                      
+                          
+                          
+                        
+                          
+                            
+                                
+                                
+                            
+                              Discussion Submission
+                          
+                            / 8
+                        
+                      
+                    
+                    
+                    
+                  
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-0
+                    Participation
+                
+                
+                    
+                
+                
+                    Jun 22 at 12:44pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 1
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10591118
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-00
+                    Participation
+                
+                
+                    
+                
+                
+                    Jun 23 at 12:12pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          -
+                      
+                        / 2
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                         
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10592346
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                        M1-1
+                    Participation
+                
+                
+                    
+                
+                
+                    Jun 24 at 1:02pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          0
+                      
+                        / 3
+                         
+                    
+                    
+                      
+                      
+                        0.0
+                      
+                      
+                      
+                        0 
+                      
+                      
+                      
+                        0 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10592982
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                0.83
+                                  
+                                  Median:
+                                  0
+                              
+                              
+                                High:
+                                3
+                                  
+                                  Upper Quartile:
+                                  2
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  0
+                              
+                              
+                                
+                                  Median 0.0, High 3.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 0.0 out of 3
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                        M1-2
+                    Participation
+                
+                
+                    
+                
+                
+                    Jun 25 at 12:22pm
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      
+                        
+                            
+                                Click to test a different score
+                            
+                        
+                          
+                            Click to test a different score
+                          
+                          0
+                      
+                        / 5
+                         
+                    
+                    
+                      
+                      
+                        0.0
+                      
+                      
+                      
+                        0 
+                      
+                      
+                      
+                        0 
+                      
+                      
+                      
+                        
+                      
+                      
+                        graded
+                      
+                      3245378
+                      10593560
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                    
+                      Grade Info
+                    
+                    
+                  
+                  
+                    
+                      See scoring details
+                    
+                    
+                  
+                  
+                    
+                      See rubric results
+                    
+                    
+                  
+                  
+                    
+                      
+                        0 comments
+                      
+                    
+                    
+                    
+                      0
+                    
+                  
+                
+                
+              
+              
+              
+              
+                  
+                      
+                        
+                          
+                            
+                              Score Details
+                            
+                            
+                              Close
+                            
+                          
+                        
+                        
+                          
+                              
+                                Mean:
+                                1.33
+                                  
+                                  Median:
+                                  0
+                              
+                              
+                                High:
+                                5
+                                  
+                                  Upper Quartile:
+                                  4
+                              
+                              
+                                Low:
+                                0
+                                  
+                                  Lower Quartile:
+                                  0
+                              
+                              
+                                
+                                  Median 0.0, High 5.0, Low 0.0
+                                  
+                                  
+
+                                  
+                                  
+                                  
+                                  
+
+                                  
+                                  
+
+                              
+                                Your Score: 0.0 out of 5
+                              
+                            
+                          
+                      
+                    
+                  
+              
+              
+                
+                
+              
+              
+              
+            
+                
+                    Participation
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      27.27%
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245378
+                      group-3245378
+                      5.0
+                      
+                    
+                  
+                
+                
+                
+                  3.00 / 11.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    pre-lecture
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      100%
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245379
+                      group-3245379
+                      5.0
+                      
+                    
+                  
+                
+                
+                
+                  6.00 / 6.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    lab
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      100%
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245380
+                      group-3245380
+                      25.0
+                      
+                    
+                  
+                
+                
+                
+                  5.00 / 5.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Homework
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245381
+                      group-3245381
+                      10.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Quiz notes
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245383
+                      group-3245383
+                      2.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Final
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245386
+                      group-3245386
+                      15.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Quiz A
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245384
+                      group-3245384
+                      18.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Quiz B
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245385
+                      group-3245385
+                      20.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Quiz_asy work
+                
+                
+                
+                
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      N/A
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      3245387
+                      group-3245387
+                      0.0
+                      
+                    
+                  
+                
+                
+                
+                  0.00 / 0.00
+                
+                
+              
+              
+              
+              
+              
+              
+              
+            
+                
+                    Total
+                
+                
+                    
+                
+                
+                    
+                
+                
+                
+
+                
+                  
+                      
+                      
+                    
+                      89.61%
+                    
+                    
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                      
+                        
+                      
+                      
+                        none
+                      
+                      
+                      final-grade
+                      
+                      
+                    
+                  
+                
+                
+                
+                  
+                
+                
+              
+              
+              
+              
+              
+              
+              
+      
+  
+  
+  100.0
+  
+
+  
+    
+      
+        Description
+          
+        
+        
+          Please include a description
+        
+      
+      
+        Long Description
+          
+        
+      
+      
+        Cancel
+        Update Criterion
+      
+    
+  
+  
+    
+    
+  
+
+
+  
+  
+    
+      Additional Comments:
+    
+    
+    
+      Cancel
+      Update Comments
+    
+  
+  
+    Additional Comments:
+    
+    
+  
+
+
+  
+    
+  
+  
+    
+      
+        Rating Score
+        Rating max score
+        
+        to >
+          
+        pts
+      
+      
+        Rating Title
+        
+        
+          Please include a rating title
+        
+      
+      
+        Rating Description
+        
+      
+      
+        Cancel
+        Update Rating
+      
+    
+  
+
+
+  
+  
+   
+
+
+          

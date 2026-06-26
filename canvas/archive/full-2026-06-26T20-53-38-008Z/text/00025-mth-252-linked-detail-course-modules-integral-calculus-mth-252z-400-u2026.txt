@@ -1,0 +1,790 @@
+Course Modules
+Collapse All
+Start Here
+ Start Here
+Complete All Items
+Page
+Start Here — Overview
+View 
+Must view in order to complete this module item
+Page
+Start Here — Instructor Information & Communication Policy
+View 
+Must view in order to complete this module item
+Page
+Syllabus and Calendar (as of 6/21) --> Both Sections 400 and 401
+View 
+Must view in order to complete this module item
+Page
+Get your MTH 252Z Course Materials! (Access Code + Ebook)
+Attachment
+Achieve Registration Process_v3.pdf
+Page
+Free Trial/Grace Period in Achieve (2 weeks)
+View 
+Must view in order to complete this module item
+External Url
+OpenStax Course Online Textbook (pdf downloadable) 
+Links to an external site.
+Context Module Sub Header
+Gradescope Submissions - Students are held accountable for verifying submissions
+Context Module Sub Header
+Videos below: Show what verifying subs looks like.
+External Tool
+Gradescope Submission Using Phone (no audio)
+View 
+Must view in order to complete this module item
+External Tool
+Gradescope Submission Using Computer (no audio)
+View 
+Must view in order to complete this module item
+Page
+Start Here — Where to go for help?
+Page
+Start Here — Accessibility Statements & Privacy Policies
+Page
+Start Here — Sources Cited
+Page
+Start Here — Conclusion
+Discussion Topic
+Q&A Discussion
+Tutoring Support and Course Resources
+ Tutoring Support and Course Resources
+External Url
+Website: MSLC --> Peer tutoring
+Attachment
+MSLC Summer Tutoring Hours.pdf
+Page
+How-To Videos
+External Url
+CamScanner: Making ONE pdf with multiple pages 
+Links to an external site.
+MTH 251 Review **Optional**
+ MTH 251 Review **Optional**
+External Tool
+Review (Optional) - 3.3 Differentiation Rules
+External Tool
+Review (Optional) - 3.5 Derivatives of Trigonometric Functions
+External Tool
+Review (Optional) - 3.6 The Chain Rule
+External Tool
+Review (Optional) - 3.9 Derivatives of Exponential and Logarithmic Functions
+Module 1: Intro to Riemann Sums: Upper, Lower, Left, Right, and Midpoint Riemann Sums
+ Module 1: Intro to Riemann Sums: Upper, Lower, Left, Right, and Midpoint Riemann Sums
+Prerequisites: Start Here
+Page
+Module 1 — Overview
+Page
+Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sect. 1.1 and 1.2
+Page
+Dr. G's Videos --> 1.1
+Quiz
+Pre-Class Reading Quiz - 1.1 (RQ-1.1)
+Assignment
+Module 1 — Written Homework (WHW 1) 🕓 2 hours
+Assignment
+Intro Reflect 1
+Assignment
+Achieve - 1.1 Approximating Areas
+Discussion Topic
+Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour
+Module 2: Intro to Definite Integral and Properties
+ Module 2: Intro to Definite Integral and Properties
+Prerequisites: Start Here
+Page
+Module 2 — Overview
+Page
+Module 2 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Weeks 1, 2
+Page
+Dr. G's Videos --> 1.2
+Quiz
+Pre-Class Reading Quiz - 1.2 (RQ-1.2)
+Assignment
+Module 2 — Written Homework (WHW 2) 🕓 3 hours
+Assignment
+Reflection 2
+Assignment
+Achieve - 1.2 The Definite Integral
+Discussion Topic
+Module 2 — Discussion Reflection 🕓 0.5 hour
+Mini-Exam 1: Available Tuesday - Thursday of Week 3
+ Mini-Exam 1: Available Tuesday - Thursday of Week 3
+Prerequisites: Start Here
+Assignment
+Mini-Exam 1 - Tues - Thur --> No Calculators
+Module 3: The Fundamental Theorems of Calculus
+ Module 3: The Fundamental Theorems of Calculus
+Page
+Module 3 — Overview
+Page
+Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 1.3, 4.10, 1.4, 1.5, 1.6
+Page
+Dr G's Videos --> 1.3, 4.10
+Quiz
+Pre-Class Reading Quiz - 1.3 (RQ-1.3)
+Assignment
+Module 3 — Written Homework (WHW 3) 🕓 3 hours
+Assignment
+Achieve - 1.3 The Fundamental Theorem of Calculus
+Assignment
+Achieve - 4.10 Antiderivatives
+Discussion Topic
+Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour
+Module 4: Introduction to Applications
+ Module 4: Introduction to Applications
+Page
+Module 4 — Overview
+Page
+Module 4 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 1.3, 4.10, 1.4, 1.5, 1.6
+Page
+Dr G's Videos --> Sect 1.3, 1.4
+Page
+Dr G's Videos --> Sect 1.4, 1.5, 1.6
+Quiz
+RQ-1.4
+Quiz
+RQ-1.5
+Quiz
+RQ-1.6
+Assignment
+Module 4 — Written Homework (WHW 4) 🕓 3 hours
+Assignment
+Achieve - 1.4 Integration Formulas and the Net Change Theorem
+Assignment
+Achieve - 1.5 Substitution
+Assignment
+Achieve - 1.6 Integrals Involving Exponential and Logarithmic Functions
+Discussion Topic
+Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour
+Mini-Exam 2: Available Tuesday - Thursday of Week 5
+ Mini-Exam 2: Available Tuesday - Thursday of Week 5
+Assignment
+Mini-Exam 2 --> No Calculators on this Exam
+Module 5: Techniques to Solve Integrals
+ Module 5: Techniques to Solve Integrals
+Page
+Module 5 — Overview
+Page
+Module 5 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 3.1, 3.2, 3.3, 3.4
+Page
+Dr G's Videos --> 3.1, 3.2
+Attachment
+Dr G Lecture Notes - 3.1-3.2.pdf
+Quiz
+RQ-3.1
+Quiz
+RQ-3.2
+Discussion Topic
+Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour
+Assignment
+Module 5 — Written Homework (WHW 5) 🕓 3 hours
+Assignment
+Achieve - 3.1 Integration by Parts
+Assignment
+Achieve - 3.2 Trigonometric Integrals
+Module 6: Techniques Continued
+ Module 6: Techniques Continued
+Page
+Module 6 — Overview
+Page
+Module 6 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 3.1, 3.2, 3.3, 3.4
+Page
+Dr. G Videos --> 3.3
+Page
+Dr G's Videos --> 3.3 continued, 3.4
+Quiz
+RQ-3.3
+Assignment
+Module 6 — Written Homework (WHW 6) 🕓 3 hours
+Discussion Topic
+Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour
+Assignment
+Achieve - 3.3 Trigonometric Substitution
+Assignment
+Achieve - 3.4 Partial Fractions
+Mini-Exam 3: Available Tuesday - Thursday of Week 7
+ Mini-Exam 3: Available Tuesday - Thursday of Week 7
+Assignment
+Mini-Exam 3 --> Tuesday to Thursday
+Module 7: Applications of Integration - Graphical
+ Module 7: Applications of Integration - Graphical
+Page
+Module 7 — Overview
+Page
+Module 7 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 2.1, 2.2, 2.3, 2.4
+Page
+Dr Gs Videos --> 2.1, 2.2
+Page
+Dr G's Videos --> 2.2
+Quiz
+RQ-2.1
+Quiz
+RQ-2.2
+Assignment
+Achieve - 2.1 Areas between Curves
+Assignment
+Achieve - 2.2 Volumes by Slicing and Disc/Washer Method
+Assignment
+Module 7 — Written Homework (WHW 7) 🕓 3 hours
+Discussion Topic
+Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour
+Module 8: Application of Integration - Graphical and Real-World
+ Module 8: Application of Integration - Graphical and Real-World
+Page
+Module 8 — Overview
+Page
+Module 8 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 2.1, 2.2, 2.3, 2.4
+Attachment
+Dr G's Lecture Notes --> 2.3-2.4.pdf
+Page
+Dr G's Videos --> 2.3, 2.4
+Quiz
+RQ-2.3
+Quiz
+RQ-2.4
+Assignment
+Module 8 — Written Homework (WHW 8) 🕓 3 hours
+Discussion Topic
+Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour
+Assignment
+Achieve - 2.3 Volumes of Revolution: Cylindrical Shells
+Assignment
+Acheive - 2.4 Arc Length of a Curve (NO Surface Area)
+Mini-Exam 4: Available Tuesday - Thursday of Week 9
+ Mini-Exam 4: Available Tuesday - Thursday of Week 9
+Assignment
+Mini-Exam 4 --> Tuesday to Thursday
+Module 9: Applications of Integration - Real-World
+ Module 9: Applications of Integration - Real-World
+Page
+Module 9 — Overview
+Page
+Module 9 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 2.5-1, 2.5-2, 3.7
+Page
+Dr. G's Videos --> 2.5
+Quiz
+RQ-2.5
+Assignment
+Module 9 — Written Homework (WHW 9) 🕓 3 hours
+Discussion Topic
+Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour
+Assignment
+Achieve - 2.5 - 1 Physical Applications
+Assignment
+Achieve - 2.5 - 2 Physical Applications
+Module 10: Applications of Integration - Real World
+ Module 10: Applications of Integration - Real World
+Quiz
+Mini-Exam Retake Sign Up
+Page
+Module 10 - Overview
+Page
+Module 10 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+Attachment
+Dr. G's Lecture Notes--> Sects. 2.5-1, 2.5-2, 3.7
+Page
+Dr G's Videos --> 3.7
+Quiz
+RQ-3.7
+Assignment
+Reflection 3
+Assignment
+Achieve - 3.7 Improper Integrals
+Assignment
+Module 10 — Written Homework (WHW 10) 🕓 3 hours
+Final Exam: Available Monday - Wednesday of week 11
+ Final Exam: Available Monday - Wednesday of week 11
+Context Module Sub Header
+Retake - Only ONE retake submission is permitted.
+Assignment
+Final Mini-Exam 5 --> Monday to Wednesday
+Assignment
+Mini-Exam 1 - Retake
+Assignment
+Mini-Exam 2 - Retake
+Assignment
+Mini-Exam 3 - Retake
+Assignment
+Mini-Exam 4 - Retake
+📙 --- EXTRA Content Videos by Unit --- 📙
+ 📙 --- EXTRA Content Videos by Unit --- 📙
+*** Unit 1 - Videos ---> Sections 1.1, 1.2
+ *** Unit 1 - Videos ---> Sections 1.1, 1.2
+Intro to Calculus
+ Intro to Calculus
+External Url
+What is Calculus? 
+Links to an external site.
+1.1 Approximating Area Under the Curve
+ 1.1 Approximating Area Under the Curve
+External Url
+Upper, Lower, Left, and Right Sums 
+Links to an external site.
+External Url
+Area under curve: Rectangles 
+Links to an external site.
+External Url
+Application: Area under curve: Distance 
+Links to an external site.
+External Url
+Area under curve, more rectangles 
+Links to an external site.
+External Url
+Application: Area under the graph, table 
+Links to an external site.
+External Url
+Area under curve: Left Sum 
+Links to an external site.
+External Url
+Area under curve: Right Sum 
+Links to an external site.
+External Url
+Midpoint rule 1 
+Links to an external site.
+External Url
+Midpoint rule 2 
+Links to an external site.
+External Url
+Midpoint rule with table 
+Links to an external site.
+1.2 Definite Integrals
+ 1.2 Definite Integrals
+External Url
+Riemann sums: Right Sum 
+Links to an external site.
+External Url
+Intro: Definite Integral 
+Links to an external site.
+External Url
+Definite integral: Using geometry 
+Links to an external site.
+External Url
+Definite integral: Setting up the integral 
+Links to an external site.
+External Url
+Convert Riemann sum to integrals 
+Links to an external site.
+External Url
+Definite integral: Properties continued 
+Links to an external site.
+External Url
+Definite integrals: Properties 
+Links to an external site.
+External Url
+Definite integral: Intro and application 
+Links to an external site.
+External Url
+Definite integral: Function plus constant 
+Links to an external site.
+External Url
+Definite integral: Constant*function 
+Links to an external site.
+External Url
+Definite integral: Trig 
+Links to an external site.
+*** Unit 2 - Videos ---> Sections 1.3, Antiderivatives, 1.4, 1.5, 1.6
+ *** Unit 2 - Videos ---> Sections 1.3, Antiderivatives, 1.4, 1.5, 1.6
+1.3 Fundamental Theorem of Calculus I & II / Antiderivatives
+ 1.3 Fundamental Theorem of Calculus I & II / Antiderivatives
+External Url
+Fundamental Theorem of Calc (FToC): Area function 
+Links to an external site.
+External Url
+Area Accumulation Graph Analysis (OpenStax Specific) 
+Links to an external site.
+External Url
+Fundamental Theorem of Calc (FToC): Definite integrals 
+Links to an external site.
+External Url
+FToC: Setup and solve 
+Links to an external site.
+External Url
+FToC: Example 
+Links to an external site.
+External Url
+FToC: Polynomial example 
+Links to an external site.
+External Url
+FToC: Trig example 
+Links to an external site.
+External Url
+FToC: Example using area 
+Links to an external site.
+External Url
+The antiderivative 1 
+Links to an external site.
+External Url
+The antiderivative 2 
+Links to an external site.
+External Url
+The antiderivative (trig) 
+Links to an external site.
+External Url
+Find antiderivative 2 
+Links to an external site.
+External Url
+Find antiderivative 3 
+Links to an external site.
+1.3 - Continued: Working with Integrals
+ 1.3 - Continued: Working with Integrals
+External Url
+Average value of a function 
+Links to an external site.
+External Url
+Average Value: Find C Value(s) (Alta Specific) 
+Links to an external site.
+External Url
+Average value of f continued 
+Links to an external site.
+External Url
+Average temperature 
+Links to an external site.
+External Url
+Application: Average value of investment 
+Links to an external site.
+1.4 Integration Formulas and Net Change
+ 1.4 Integration Formulas and Net Change
+External Url
+Intro: Net change theorem 
+Links to an external site.
+External Url
+Net change in population 
+Links to an external site.
+External Url
+Net Displacement at Time t (Alta Specific) 
+Links to an external site.
+External Url
+Area under the curve: Interpretation, velocity 
+Links to an external site.
+External Url
+Velocity example 1 
+Links to an external site.
+External Url
+Future value 
+Links to an external site.
+External Url
+Integration: Odd/Even functions 
+Links to an external site.
+External Url
+Integration: Odd/Even function continued 
+Links to an external site.
+1.5 Substitution (u-sub)
+ 1.5 Substitution (u-sub)
+External Url
+Intro. Substitution 
+Links to an external site.
+External Url
+Intro. Substitution continued 
+Links to an external site.
+External Url
+Substitution with definite integrals 
+Links to an external site.
+External Url
+Substitution example: Rational function 
+Links to an external site.
+External Url
+Substitution example: Exponential 
+Links to an external site.
+External Url
+Substitution example: Trig 
+Links to an external site.
+External Url
+Substitution: Inverse trig example 1 
+Links to an external site.
+External Url
+Substitution: Inverse trig example 2 
+Links to an external site.
+External Url
+Substitution example: Logarithms 
+Links to an external site.
+External Url
+Substitution example: Rational function with logs 
+Links to an external site.
+External Url
+Substitution example: Composed exponential with trig 
+Links to an external site.
+External Url
+Substitution with indefinite integral 
+Links to an external site.
+1.6 Exponentials and Logarithms
+ 1.6 Exponentials and Logarithms
+External Url
+Example problems: Exponentials 
+Links to an external site.
+External Url
+Integrating exponentials: example 2 
+Links to an external site.
+External Url
+Integrating exponentials: Example 3 
+Links to an external site.
+External Url
+Integrating Natural Log (Alta Specific) 
+Links to an external site.
+*** Unit 3 - Videos ---> Sections 3.1, 3.1, 3.3, 3.4
+ *** Unit 3 - Videos ---> Sections 3.1, 3.1, 3.3, 3.4
+3.1 Integration by Parts
+ 3.1 Integration by Parts
+External Url
+Intro. Integration by Parts 
+Links to an external site.
+External Url
+Intro. Integration by Parts: Definite integral 
+Links to an external site.
+External Url
+Intro. indefinite integral continued 
+Links to an external site.
+External Url
+Intro. Integration by Parts example 1 
+Links to an external site.
+External Url
+Indefinite integral: Example 2 
+Links to an external site.
+External Url
+Indefinite integral: Example 3 
+Links to an external site.
+External Url
+Indefinite integral: Example 4, exponential 
+Links to an external site.
+External Url
+Indefinite integral: log 
+Links to an external site.
+External Url
+Indefinite integral: Trig times linear 
+Links to an external site.
+External Url
+Indefinite integral: Exponential, IBP twice
+External Url
+Indefinite integral: Exponential and trig, IBP twice and solve 
+Links to an external site.
+3.2 Trigonometric Integrals
+ 3.2 Trigonometric Integrals
+External Url
+Intro. Trigonometric integrals with an ODD power 
+Links to an external site.
+External Url
+Trig Integrals: Example 2 with ODD power 
+Links to an external site.
+External Url
+Trig Integrals: Example 3 with ODD power 
+Links to an external site.
+External Url
+Trig integral involving secant 
+Links to an external site.
+External Url
+Trig Integrals: ODD power of tangent 
+Links to an external site.
+External Url
+Trig Integrals: Power reducing example 1 
+Links to an external site.
+External Url
+Trig Integrals: All EVEN exponents 
+Links to an external site.
+3.3 Trigonometric Substitution
+ 3.3 Trigonometric Substitution
+External Url
+Intro. Trig substitution 1 
+Links to an external site.
+External Url
+Intro. Trigonometric Substitution continued 
+Links to an external site.
+External Url
+Intro. Trig substitution 2 
+Links to an external site.
+External Url
+Trig substitution example 3 
+Links to an external site.
+External Url
+Trig substitution example 4 
+Links to an external site.
+External Url
+Trig substitution example 5 
+Links to an external site.
+External Url
+Trig substitution with secant 
+Links to an external site.
+External Url
+Trig substitution with definite integral 
+Links to an external site.
+3.4 Partial Fraction Decomposition (PFD)
+ 3.4 Partial Fraction Decomposition (PFD)
+External Url
+Integration using long division 
+Links to an external site.
+External Url
+Intro. Partial fraction decomposition (PFD) 
+Links to an external site.
+External Url
+PFD example 2 
+Links to an external site.
+External Url
+PFD degree 2/3 
+Links to an external site.
+External Url
+Intro. Integration with PFD 
+Links to an external site.
+External Url
+Integration with PFD 
+Links to an external site.
+External Url
+Integration with long division 
+Links to an external site.
+*** Unit 4 - Videos ---> Sections 2.1, 2.2, 2.3, 2.4
+ *** Unit 4 - Videos ---> Sections 2.1, 2.2, 2.3, 2.4
+2.1Areas Between Curves
+ 2.1Areas Between Curves
+External Url
+Intro. Area between curves 
+Links to an external site.
+External Url
+Area between curves 2 
+Links to an external site.
+External Url
+Area between curves 3 
+Links to an external site.
+External Url
+Area between curves 4 
+Links to an external site.
+External Url
+Area between curves , respect to y 
+Links to an external site.
+2.2 Volume by Slicing
+ 2.2 Volume by Slicing
+External Url
+Intro. volume by slicing 
+Links to an external site.
+External Url
+Volume by slicing 2 
+Links to an external site.
+External Url
+Disk method 1 
+Links to an external site.
+External Url
+Disk method 2 
+Links to an external site.
+External Url
+Disk method 3 
+Links to an external site.
+External Url
+Disc method around y=1 
+Links to an external site.
+External Url
+Washer method 1 
+Links to an external site.
+External Url
+Washer method 2, around y=3 
+Links to an external site.
+External Url
+Washer method 3, around x=5 
+Links to an external site.
+2.3 Volumes of Revolution: Shell Method
+ 2.3 Volumes of Revolution: Shell Method
+External Url
+Intro. shell method 
+Links to an external site.
+External Url
+Shell method 2 
+Links to an external site.
+External Url
+Shell method 3 
+Links to an external site.
+External Url
+Shell method 4 around y-axis 
+Links to an external site.
+External Url
+Shell method around x=4 
+Links to an external site.
+2.4 Arc Length
+ 2.4 Arc Length
+External Url
+Arc length 1 
+Links to an external site.
+External Url
+Arc length 1 continued 
+Links to an external site.
+External Url
+Arc length 2 
+Links to an external site.
+External Url
+Arc length 3 
+Links to an external site.
+External Url
+Arc length 4 
+Links to an external site.
+*** Unit 5 - Videos ---> Sections 2.5, 2.6, 2.8, 3.7
+ *** Unit 5 - Videos ---> Sections 2.5, 2.6, 2.8, 3.7
+2.5 Physical Applications
+ 2.5 Physical Applications
+External Url
+Work: Spring stretch 1 
+Links to an external site.
+External Url
+Work: Spring stretch 2 
+Links to an external site.
+External Url
+Work: lifting leaking bucket 
+Links to an external site.
+External Url
+Work: Lifting bucket with cable mass 
+Links to an external site.
+External Url
+Work: Vertical pumping 
+Links to an external site.
+External Url
+Work: Vertical pumping, isosceles triangle 
+Links to an external site.
+External Url
+Work: Vertical pumping, quadratic cross sections 
+Links to an external site.
+External Url
+Hydrostatic force: Horizontal plate 
+Links to an external site.
+External Url
+Hydrostatic force: Vertical isosceles triangle 
+Links to an external site.
+External Url
+Hydrostatic force: Semicircle window 
+Links to an external site.
+3.7 Improper Integrals
+ 3.7 Improper Integrals
+External Url
+Intro. Improper integrals 
+Links to an external site.
+External Url
+Improper integrals 2, exponential integrand 
+Links to an external site.
+External Url
+Improper integral 3, exponential integrand 
+Links to an external site.
+External Url
+Improper integral 4, rational integrand 
+Links to an external site.
+External Url
+Improper integral 5, rational integrand 
+Links to an external site.
+External Url
+Improper integral: +infinity to -infinity 
+Links to an external site.
+External Url
+Improper integral: Discontinuous integrand 1 
+Links to an external site.
+External Url
+Improper integral: Discontinuous integrand 2 
+Links to an external site.

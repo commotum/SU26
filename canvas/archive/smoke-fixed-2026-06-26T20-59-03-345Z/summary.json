@@ -1,0 +1,26 @@
+{
+  "run_id": "smoke-fixed-2026-06-26T20-59-03-345Z",
+  "run_root": "/Users/jake/Developer/SU26/canvas/archive/smoke-fixed-2026-06-26T20-59-03-345Z",
+  "pages_captured": 15,
+  "manifest_rows": 15,
+  "links": 1205,
+  "iframes": 34,
+  "downloads": 4,
+  "warnings": 1,
+  "queued_remaining": 202,
+  "max_pages": 15,
+  "screenshot_mode": "none",
+  "pages_by_course": {
+    "MTH-252": 15
+  },
+  "pages_by_object_type": {
+    "course_page": 4,
+    "modules": 1,
+    "grades": 1,
+    "assignment": 1,
+    "discussions": 1,
+    "page": 5,
+    "file": 1,
+    "module_item": 1
+  }
+}

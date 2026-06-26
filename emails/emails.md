@@ -28,6 +28,8 @@ Email with details:
   - Details: [EMAIL-0001](#email-0001---summer-enrollment-revision-request)
 - EMAIL-0002 | 2026-06-04 | Complete Summer Enrollment Revision follow-up - flagged Financial Aid reminder to update expected summer enrollment status
   - Details: [EMAIL-0002](#email-0002---complete-summer-enrollment-revision-follow-up)
+- EMAIL-0027 | 2026-05-28 | Financial Aid Enrollment Revision Request - complete the unsatisfied portal request with planned credits
+  - Details: [EMAIL-0027](#email-0027---financial-aid-enrollment-revision-request)
 - EMAIL-0006 | 2026-06-26 | MTH 252 Q&A link correction - Q&A link moved to Start Here module
   - Details: [EMAIL-0006](#email-0006---mth-252-qa-link-correction)
 
@@ -170,6 +172,22 @@ Next action: Get user approval before any archive/delete/move cleanup in Outlook
 Linked task: TASK-0001.
 Deadline:
 Notes: Included MathWorks, Behance, Handshake, Xfinity, Career Development Center, EECS digests, HPC status, SLE surveys, Student Parent messages, Rec Sports, and similar routine messages. No Outlook archive/delete/move/rule action was performed.
+
+### EMAIL-0027 - Financial Aid Enrollment Revision Request
+
+Title: Financial Aid Enrollment Revision Request.
+Description: OSU Financial Aid asks Jacob to complete the unsatisfied Enrollment Revision Request with planned credits by term.
+Sender: Office of Financial Aid <financial.aid@email.oregonstate.edu>
+Received: 2026-05-28 1:34 PM
+Category: financial aid.
+Email type: personal.
+Importance: critical.
+Decision: do.
+Mailbox action: restored_unread.
+Next action: Open the Financial Aid Portal and complete the Enrollment Revision Request in the unsatisfied section of the Home tab.
+Linked task: TASK-0002.
+Deadline: as soon as possible.
+Notes: Opening naturally marked it read; Codex restored it unread because it is individualized financial-aid work.
 
 ```md
 ### EMAIL-0001 - Subject

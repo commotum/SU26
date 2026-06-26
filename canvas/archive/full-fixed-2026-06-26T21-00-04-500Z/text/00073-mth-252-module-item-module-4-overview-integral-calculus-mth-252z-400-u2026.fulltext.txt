@@ -1,0 +1,63 @@
+
+            
+
+  
+
+
+
+
+  
+    Module 4  — Overview
+    
+
+  
+  
+  
+    
+
+Introduction
+We continue with definite and indefinite integrals by introducing the idea of substitution, with various strategies, and we begin looking at antiderivatives involving transcendental exponential and logarithmic functions.  With the tools we have developed, we will often need to employ both substitution and an elementary antiderivative to evaluate integrals going forward.
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Apply the net-change theorem.
+Find displacement, net area, and or a position function over a given interval.
+Use substitution methods to evaluate definite/indefinite integrals.
+Evaluate antiderivatives for exponentials and logarithms.
+Discriminate between various integration methods.
+
+This module aligns with the following course learning outcomes: 1-4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-5)
+Complete the Achieve Assignments (MLOs 1-5)
+Submit the Written Homework (MLOs 1-5)
+Contribute to the Discussion Reflection (MLOs 1-5)
+
+    
+
+  
+  
+
+
+
+
+
+
+  
+    
+      
+         Previous
+      
+    
+    
+      
+        Next 
+      
+    
+  
+
+
+
+          

@@ -1,0 +1,573 @@
+
+            
+
+
+  
+
+
+
+
+
+  
+    
+      
+        
+          Lab 1 Report
+        
+    
+
+      
+    
+    
+      
+        
+
+      
+    
+  
+    
+
+  
+    Due
+    
+          
+                Saturday
+ by                 11:59pm
+          
+  
+    
+      Points
+      20
+    
+    
+      Submitting
+      an external tool
+    
+  
+  
+    Available
+    
+        Jun 21 at 12am - Aug 15 at 11:59pm
+    
+  
+
+  
+
+
+
+  
+    Submit Your Lab Report (Individual Submission for This Week)
+For this first lab, you will submit your work individually. Group lab reports will begin in future weeks once groups have been fully formed. This week, each student is responsible for completing their own responses and uploading their report to Gradescope. Upload your responses to the Gradescope assignment for this lab.
+If you experience technical issues or are unsure about the submission process, contact your TA as soon as possible. Group lab report submissions and shared file uploads will begin next week.
+  
+
+
+
+
+
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+  
+      
+          This tool needs to be loaded in a new browser window
+          
+              
+                  Load Lab 1 Report in a new window
+              
+          
+      
+      
+          This tool was successfully loaded in a new browser window. Reload the page to access the tool again.
+      
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+    
+      
+      
+      
+    
+    
+
+  
+    
+      
+        Description
+          
+        
+        
+          Please include a description
+        
+      
+      
+        Long Description
+          
+        
+      
+      
+        Cancel
+        Update Criterion
+      
+    
+  
+  
+    
+    
+  
+
+
+  
+  
+    
+      Additional Comments:
+    
+    
+    
+      Cancel
+      Update Comments
+    
+  
+  
+    Additional Comments:
+    
+    
+  
+
+
+  
+    
+  
+  
+    
+      
+        Rating Score
+        Rating max score
+        
+        to >
+          
+        pts
+      
+      
+        Rating Title
+        
+        
+          Please include a rating title
+        
+      
+      
+        Rating Description
+        
+      
+      
+        Cancel
+        Update Rating
+      
+    
+  
+
+
+  
+  
+  
+    
+      
+        Rubric
+      
+    
+    
+      
+        
+          Title:
+          
+        
+        
+           Find Rubric
+        
+        
+          
+            Please include a title
+          
+        
+      
+
+      
+        
+          Find a Rubric
+        
+      
+
+      
+        Title
+      
+      
+        You've already rated students with this rubric. Any major changes could affect their assessment results.
+      
+
+      
+        
+        
+          
+        
+           
+           
+           
+           
+           
+           
+             
+          
+           
+           
+             
+        
+      
+      
+        Can't change a rubric once you've started using it.
+           
+      
+    
+
+    
+      
+        
+          Title
+        
+      
+      
+        
+          Criteria
+          Ratings
+          
+            Pts
+          
+        
+      
+      
+        
+
+  
+    
+      
+        
+          
+          This criterion is linked to a Learning Outcome
+        
+        
+          Description of criterion
+          
+          
+            
+              
+            
+          
+            threshold:
+            5 pts
+          
+        
+        
+          
+            
+              
+              
+                Range
+              
+            
+          
+        
+      
+
+      
+          Edit criterion description
+          Delete criterion row
+      
+    
+  
+  
+      
+          
+            
+              
+                
+                  
+                    5
+                    to >0 pts
+                  
+                  Full Marks
+                  
+                
+                blank
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+                
+                  
+                
+            
+          
+          
+            
+              
+                
+                  
+                    0
+                    to >0 pts
+                  
+                  No Marks
+                  
+                
+                blank_2
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+            
+          
+      
+      
+        This area will be used by the assessor to leave comments related to this criterion.
+      
+  
+  
+    
+      
+           pts
+      
+    
+    
+      
+        
+            /
+        
+        5 pts
+      
+    
+    
+       -- 
+    
+    
+        
+          
+        
+        
+    
+  
+
+
+      
+  
+    
+      
+        
+          
+          This criterion is linked to a Learning Outcome
+        
+        
+          Description of criterion
+          
+          
+            
+              
+            
+          
+            threshold:
+            5 pts
+          
+        
+        
+          
+            
+              
+              
+                Range
+              
+            
+          
+        
+      
+
+      
+          Edit criterion description
+          Delete criterion row
+      
+    
+  
+  
+      
+          
+            
+              
+                
+                  
+                    5
+                    to >0 pts
+                  
+                  Full Marks
+                  
+                
+                blank
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+                
+                  
+                
+            
+          
+          
+            
+              
+                
+                  
+                    0
+                    to >0 pts
+                  
+                  No Marks
+                  
+                
+                blank_2
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+            
+          
+      
+      
+        This area will be used by the assessor to leave comments related to this criterion.
+      
+  
+  
+    
+      
+           pts
+      
+    
+    
+      
+        
+            /
+        
+        5 pts
+      
+    
+    
+       -- 
+    
+    
+        
+          
+        
+        
+    
+  
+
+    
+
+    
+      
+        
+      
+      
+        Total Points:
+            
+              5
+            
+ out of 5        
+      
+    
+  
+  
+    
+      
+        
+          
+          I'll write free-form comments when assessing students
+        
+      
+        
+          
+            
+            Remove points from rubric
+          
+        
+        
+          
+            
+            Don't post Outcomes results to Learning Mastery Gradebook
+          
+        
+        
+          
+            
+            Use this rubric for assignment grading
+          
+        
+      
+        
+          
+          Hide score total for assessment results
+        
+      
+      
+        
+          Cancel
+          Create Rubric
+        
+      
+    
+  
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+          
