@@ -23,6 +23,10 @@ Use `EMAIL-0001`, `EMAIL-0002`, and so on.
 
 `todo`, `doing`, `waiting`, `deferred`, `completed`, `cancelled`
 
+## Task Responsibility Values
+
+`user`, `codex`, `shared`, `external`
+
 ## Email Status Values
 
 `needs_review`, `actionable`, `waiting`, `reference`, `archived`, `deleted`, `noise`
@@ -34,4 +38,3 @@ Use `EMAIL-0001`, `EMAIL-0002`, and so on.
 ## Urgency Buckets
 
 `today`, `this_week`, `upcoming`, `waiting`, `someday`
-
