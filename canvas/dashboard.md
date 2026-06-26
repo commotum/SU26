@@ -13,6 +13,7 @@ Description: Navigation hub for Oregon State Canvas pages and summer term course
 - [Courses](#courses)
 - [Course Pages](#course-pages)
 - [Important Canvas Pages](#important-canvas-pages)
+- [Ignored Canvas Pages](#ignored-canvas-pages)
 
 ## Dashboard
 
@@ -38,3 +39,11 @@ Description: Navigation hub for Oregon State Canvas pages and summer term course
 
 Use each course page to track links for announcements, assignments, modules, grades, syllabus, files, and discussions after those pages are inspected.
 
+## Ignored Canvas Pages
+
+These Canvas pages are known and intentionally not part of the active summer term course workflow. Do not create course tracking pages for them unless the user explicitly asks.
+
+| Page | Description | Canvas Link | Reason |
+| --- | --- | --- | --- |
+| EECS-SR | EECS Student Resources | [Canvas](https://canvas.oregonstate.edu/courses/1807463) | Resource shell; ignore for task/course tracking. |
+| ENG-IT | Engineering IT page | [Canvas](https://canvas.oregonstate.edu/courses/2004719) | Support/resource shell; ignore for task/course tracking. |
