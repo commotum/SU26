@@ -36,8 +36,6 @@ Task with details:
   - Details: [TASK-0005](#task-0005)
 - [ ] TASK-0006 | P1 | user | PH 212 | Confirm PH 212 Lab TA meeting time - email the chosen TA and wait for confirmation before the first TA meeting next week
   - Details: [TASK-0006](#task-0006)
-- [ ] TASK-0007 | P1 | user | DAS | Review DAS Summer 2026 accommodation setup - confirm testing/accommodation arrangements before first course exam or quiz
-  - Details: [TASK-0007](#task-0007)
 
 ## This Week
 
@@ -134,19 +132,6 @@ Deadline: before first PH 212 TA meeting next week
 Acceptance: Selected TA has replied confirming the group meeting time is available.
 Blockers:
 Notes: TA meeting times are first come, first served. TA meetings and lab group reports start next week.
-
-### TASK-0007 - Review DAS Summer 2026 Accommodation Setup
-
-Title: Review DAS Summer 2026 Accommodation Setup
-Description: DAS sent testing and academic accommodation notices for summer courses that should be checked against course exam and quiz plans.
-Responsibility: user
-Source: Email
-Context: EMAIL-0081 DAS Testing Services notice for MTH 252.
-Next action: Review MTH 252 testing arrangements and confirm any instructor-proctored location meets approved accommodations; contact instructor or DAS if it does not.
-Deadline: before first course exam or quiz
-Acceptance: Course testing and accommodation arrangements are understood, and any needed instructor/DAS follow-up has been sent.
-Blockers:
-Notes: Created from EMAIL-0081; additional DAS notification emails may update this task.
 
 ```md
 ### TASK-0001 - Short Title
