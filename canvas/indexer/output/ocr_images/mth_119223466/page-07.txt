@@ -1,0 +1,18 @@
+Define R as the region bounded by the graphs of f(x) = 44/x and g(x) = x? in the interval
+[0, 2]. Which of the following represents the volume of the solid of revolution formed by
+rotating R about the line x = 3?
+2
+[ 2a(3 — x) (x2 4) dx
+0
+2
+[ 2a(3 + x) (4,/¥ — x7) dx
+0
+0
+[ 2a(3 — x) (44/¥ — x) dx
+2
+2
+° [ 2a(3 — x) (4/8 — x7) dx
+0
+2
+[ 2a(3 + x) (x? — 4,/x) dx
+0

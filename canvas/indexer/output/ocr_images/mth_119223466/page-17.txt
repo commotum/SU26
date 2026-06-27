@@ -1,0 +1,4 @@
+2.4
+Let f(x) = 2 — +. Calculate the arc length of the graph of x = g(y) over the interval x = 2 to
+x=5.
+Enter an exact answer.

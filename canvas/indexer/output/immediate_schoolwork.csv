@@ -1,0 +1,23 @@
+bucket,priority,course_code,title,due_text,evidence,url,notes
+hard_due,1,MTH-253,Unit 1 - Written Homework Assignment,Jun 26 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2053263/assignments/10553179?module_item_id=26885537,5 pts
+hard_due,2,PHY-212,Lab 1 Report,Jun 27 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10557057,20 pts
+hard_due,3,MTH-252,Achieve - 1.1 Approximating Areas,Jun 29 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2080857/assignments/10586025?module_item_id=26982551,5 pts
+hard_due,4,MTH-252,Intro Reflect 1,Jun 29 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2080857/assignments/10586044?module_item_id=26982550,5 pts
+hard_due,5,MTH-252,Module 1 Written Homework (WHW 1),Jun 29 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2080857/assignments/10586053?module_item_id=26982549,5 pts
+hard_due,6,MTH-253,Week 1 Web Homework,Jun 29 by 11:59pm,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2053263/assignments/10584258?module_item_id=26977416,5 pts
+hard_due,7,PHY-212,M2-1pre,Jul 4 at 10:00am,upcoming_due_dates.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10557070,Available Jun 27 at 10:00am; 3 pts
+missing_due_required,8,MTH-253,Unit 1 Discussion Board,Main post due Wednesday; response due Sunday,Week 1 announcement,https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558498?module_item_id=26885532,Canvas task has no parsed due text
+missing_due_required,9,MTH-253,Unit 1 Quiz,Opens Sunday 2026-06-28; closes Tuesday 2026-06-29,Week 1 announcement,https://canvas.oregonstate.edu/courses/2053263/quizzes/3159593?module_item_id=26885539,Canvas task has no parsed due text
+missing_due_required,10,MTH-253,Practice Quiz,,course_map_mth-253.md,https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050,5-point task before Quiz 1
+missing_due_required,11,MTH-252,Pre-Class Reading Quiz 1.1,,MTH-252 course calendar,https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548,Do with Week 1 MTH-252 work unless Canvas shows otherwise
+missing_due_required,12,MTH-252,Module 1 Discussion Reflection: WHW 1,Thursday of Week 2 per calendar,MTH-252 course calendar,https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475?module_item_id=26982552,Verify exact Canvas date
+missing_due_required,13,PHY-212,Course Introductions,Thursday per Lab 1 instructions,Lab 1 instructions,https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802,Required for lab group formation
+missing_due_required,14,PHY-212,Lab 1 Discussion,Jun 25 by 11:59pm,group discussion capture,https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973,Verify submitted
+missing_due_required,15,PHY-212,Lab Partner Values Survey,Jun 27 visible in module listing,module listing,https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536?module_item_id=26896963,5 pts
+missing_due_required,16,PHY-212,Proctorio Practice Quiz,Jun 29 visible in module listing,module listing,https://canvas.oregonstate.edu/courses/2053526/quizzes/3160506?module_item_id=26896961,5 pts
+missing_due_required,17,PHY-212,Lab Collaboration Contract,Jul 4 visible in module listing,module listing,https://canvas.oregonstate.edu/courses/2053526/quizzes/3160479?module_item_id=26942495,5 pts
+future_access,18,PHY-212,Lab 2 Group Report,Future lab workflow,unauthorized_investigation.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10557058,Expected Access Denied until Lab 2 opens
+past_verify,19,PHY-212,M1-0,Jun 22 at 12:44pm,past_due_or_completed.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10591118,Verify submitted/completed
+past_verify,20,PHY-212,M1-00,Jun 23 at 12:12pm,past_due_or_completed.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10592346,Verify submitted/completed
+past_verify,21,PHY-212,M1-1,Jun 24 at 1:02pm,past_due_or_completed.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10592982,Verify submitted/completed
+past_verify,22,PHY-212,M1-2,Jun 25 at 12:22pm,past_due_or_completed.csv,https://canvas.oregonstate.edu/courses/2053526/assignments/10593560,Verify submitted/completed

@@ -62,9 +62,29 @@ def sha256_file(file_path: Path) -> str:
     return digest.hexdigest()
 
 
+def destination_path_for(source_path: Path, downloaded_dir: Path, group: DownloadGroup) -> Path:
+    prefix = f"{group.course_code}_{group.canvas_file_id}_"
+    if source_path.parent.resolve() == downloaded_dir.resolve() and source_path.name.startswith(prefix):
+        return source_path
+    return downloaded_dir / f"{prefix}{safe_file_name(source_path.name)}"
+
+
 def read_csv(file_path: Path) -> list[dict[str, str]]:
     with file_path.open(newline="", encoding="utf-8") as handle:
         return list(csv.DictReader(handle))
+
+
+def read_text_overrides(file_path: Path) -> dict[tuple[str, str], dict[str, str]]:
+    if not file_path.exists():
+        return {}
+    overrides: dict[tuple[str, str], dict[str, str]] = {}
+    for row in read_csv(file_path):
+        course_code = clean_text(row.get("course_code"))
+        canvas_file_id = clean_text(row.get("canvas_file_id"))
+        text = str(row.get("text") or "").strip()
+        if course_code and canvas_file_id and text:
+            overrides[(course_code, canvas_file_id)] = row
+    return overrides
 
 
 def write_csv(file_path: Path, rows: list[dict[str, object]], fieldnames: list[str]) -> None:
@@ -104,6 +124,8 @@ def build_download_groups(download_manifest_rows: list[dict[str, str]]) -> dict[
 def match_score(local_file: Path, group: DownloadGroup) -> int:
     local_name = local_file.name.lower()
     local_norm = normalized_name(local_file.name)
+    if local_file.name.startswith(f"{group.course_code}_{group.canvas_file_id}_"):
+        return 100
     best = 0
     for manifest_name in group.file_names:
         if not manifest_name or "." not in manifest_name:
@@ -234,6 +256,7 @@ def ingest(args: argparse.Namespace) -> None:
     output_root = Path(args.output_root).expanduser().resolve()
     downloaded_dir = Path(args.downloaded_dir).expanduser().resolve()
     parsed_dir = Path(args.parsed_dir).expanduser().resolve()
+    text_overrides = read_text_overrides(Path(args.text_overrides).expanduser().resolve())
     downloaded_dir.mkdir(parents=True, exist_ok=True)
     parsed_dir.mkdir(parents=True, exist_ok=True)
 
@@ -248,9 +271,9 @@ def ingest(args: argparse.Namespace) -> None:
 
     for index, (source_path, group, score) in enumerate(matches, start=1):
         captured_file_id = f"captured-{index:04d}-{group.course_code.lower()}-{group.canvas_file_id}"
-        destination_name = f"{group.course_code}_{group.canvas_file_id}_{safe_file_name(source_path.name)}"
-        destination_path = downloaded_dir / destination_name
-        shutil.copy2(source_path, destination_path)
+        destination_path = destination_path_for(source_path, downloaded_dir, group)
+        if source_path.resolve() != destination_path.resolve():
+            shutil.copy2(source_path, destination_path)
         digest = sha256_file(destination_path)
         parse_status = "parsed"
         parser = ""
@@ -261,11 +284,26 @@ def ingest(args: argparse.Namespace) -> None:
         try:
             text, parser, page_count = extract_text(destination_path)
             if len(substantive_text(text)) < 40:
-                parse_status = "parsed_text_empty_needs_ocr"
+                override = text_overrides.get((group.course_code, group.canvas_file_id))
+                if override:
+                    text = str(override.get("text") or "").strip()
+                    parser = "manual-vision-override"
+                    parse_status = clean_text(override.get("override_status")) or "parsed"
+                    parse_error = clean_text(override.get("notes"))
+                else:
+                    parse_status = "parsed_text_empty_needs_ocr"
             parsed_path = write_parsed_markdown(parsed_dir, captured_file_id, group, destination_path, text)
         except Exception as error:
-            parse_status = "parse_failed"
-            parse_error = f"{type(error).__name__}: {error}"
+            override = text_overrides.get((group.course_code, group.canvas_file_id))
+            if override:
+                text = str(override.get("text") or "").strip()
+                parser = "manual-vision-override"
+                parse_status = clean_text(override.get("override_status")) or "parsed"
+                parse_error = f"Applied override after {type(error).__name__}: {error}. {clean_text(override.get('notes'))}"
+                parsed_path = write_parsed_markdown(parsed_dir, captured_file_id, group, destination_path, text)
+            else:
+                parse_status = "parse_failed"
+                parse_error = f"{type(error).__name__}: {error}"
 
         captured_row = {
             "captured_file_id": captured_file_id,
@@ -437,6 +475,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--output-root", default=str(output_root))
     parser.add_argument("--downloaded-dir", default=str(output_root / "downloaded_files"))
     parser.add_argument("--parsed-dir", default=str(output_root / "parsed_files"))
+    parser.add_argument("--text-overrides", default=str(repo_root / "canvas" / "indexer" / "input" / "download_text_overrides.csv"))
     return parser.parse_args()
 
 

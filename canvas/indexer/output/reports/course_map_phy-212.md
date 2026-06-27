@@ -6,12 +6,13 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - Modules: 4
 - Module items: 38
-- Tasks: 61
+- Tasks: 60
 - Surface-only Assignments/Grades rows: 12
-- Retry URLs queued: 48
-- Downloads queued for parsing: 19
-- Rule-improvement buckets: 3
-- Manual-review rows: 39
+- Retry URLs queued: 0
+- Parsed downloads: 19
+- Downloads needing action: 0
+- Rule-improvement buckets: 1
+- Manual-review rows: 93
 
 ## Modules
 
@@ -44,7 +45,7 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 ### 3. Student resources
 
-- **CHECK** [General Discussion & FAQs](https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950) - module_item_task_candidate_without_task
+- **REF** [General Discussion & FAQs](https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950) - module_item_important_reference
 - **REF** [PH 211 Instructional videos](https://canvas.oregonstate.edu/courses/2053526/pages/ph-211-instructional-videos?module_item_id=26896951) - module_item_important_reference
 - **REF** [Financial resources and more](https://canvas.oregonstate.edu/courses/2053526/pages/financial-resources-and-more?module_item_id=26896952) - module_item_reference_only
 - **REF** [Academic Misconduct Scenarios](https://canvas.oregonstate.edu/courses/2053526/pages/academic-misconduct-scenarios?module_item_id=26896953) - module_item_reference_only
@@ -59,7 +60,7 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 - **SETUP** [Module 1 | Circular Motion | Required Activities](https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-required-activities?module_item_id=26896960) - module_item_has_task
 - **TASK** [Proctorio practice quiz (Remotely Proctored)](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160506?module_item_id=26896961) (5 pts) - module_item_has_task
 - **SETUP** [Lab 1 Instructions](https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-instructions-2?module_item_id=26896962) - module_item_has_task
-- **BLOCKED** [Lab Partner Values Survey](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536?module_item_id=26896963) (5 pts) - module_item_blocked review=blocked_or_broken
+- **TASK** [Lab Partner Values Survey](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536?module_item_id=26896963) (5 pts) - module_item_has_task
 - **SETUP** [Lab Supplies](https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies?module_item_id=26896964) - module_item_has_task
 - **SETUP** [Lab 2 Instructions](https://canvas.oregonstate.edu/courses/2053526/pages/lab-2-instructions-2?module_item_id=26896965) - module_item_has_task
 - **TASK** [Lab Collaboration Contract](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160479?module_item_id=26942495) (5 pts) - module_item_has_task
@@ -82,54 +83,6 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 ## Review Queues
 
-### Retry
-
-- [capture_failed](https://canvas.oregonstate.edu/courses/2053526/assignments/10556974) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556989) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557021) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557058) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557097) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557098) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557099) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557100) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557101) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557102) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557103) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557104) - high
-- [capture_failed](https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160440) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453) - high
-- [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160454) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160454/questions/59026073) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160454/questions/59026074) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160454/questions/59026075) - high
-- ... 28 more retry URLs
-
-### Downloads To Parse
-
-- [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119256264/download?download_frd=1) - syllabus_U2026.pdf: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [CamScanner](https://canvas.oregonstate.edu/courses/2053526/files/118705530/download?wrap=1) - Gradescope: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [CamScanner](https://canvas.oregonstate.edu/courses/2053526/files/118705530/download?download_frd=1) - Gradescope: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [Scannable or GeniusScan](https://canvas.oregonstate.edu/courses/2053526/files/118706071/download?wrap=1) - Gradescope: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [Scannable or GeniusScan](https://canvas.oregonstate.edu/courses/2053526/files/118706071/download?download_frd=1) - Gradescope: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705575/download?download_frd=1) - Proctorio setup and troubleshooting: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [first day overview.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119256249/download?download_frd=1) - first day overview.pdf: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-00.pdf](https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1) - M1-00asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-01.pdf](https://canvas.oregonstate.edu/users/6660414/files/119291668/download?verifier=cdD2R6qdibRpUciTWHAs5zvLNXk26R9XpDM5z6h2&download_frd=1) - M1-1asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119256264/download?download_frd=1) - syllabus_U2026.pdf: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [Proctorio Guide.pdf](https://canvas.oregonstate.edu/courses/2053526/files/118705575/download?download_frd=1) - Proctorio Guide.pdf: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [Proctorio Guide](https://canvas.oregonstate.edu/courses/2053526/files/118705575/download?download_frd=1) - Proctorio setup and troubleshooting: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [first day overview.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119256249/download?download_frd=1) - first day overview.pdf: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-01.pdf](https://canvas.oregonstate.edu/users/6660414/files/119291668/download?verifier=cdD2R6qdibRpUciTWHAs5zvLNXk26R9XpDM5z6h2&download_frd=1) - M1-1asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-00.pdf](https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1) - M1-00asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-00.pdf](https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1) - Jacob Peterson's Quiz History: M1-00asy
-- [M1-00.pdf](https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1) - M1-00asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-01.pdf](https://canvas.oregonstate.edu/users/6660414/files/119291668/download?verifier=cdD2R6qdibRpUciTWHAs5zvLNXk26R9XpDM5z6h2&download_frd=1) - M1-1asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
-- [M1-01.pdf](https://canvas.oregonstate.edu/users/6660414/files/119291668/download?verifier=cdD2R6qdibRpUciTWHAs5zvLNXk26R9XpDM5z6h2&download_frd=1) - Jacob Peterson's Quiz History: M1-1asy
-
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 11 examples
-- review_queue / low_confidence: 3 examples
-- module_crosscheck / module_item_task_candidate_without_task: 1 examples
+- graded_task_missing_due / missing_due_text: 15 examples

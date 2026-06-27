@@ -1,0 +1,4 @@
+2.4
+3
+Let g(y) = = -1+ +. Calculate the arc length of the graph of g(y) over the interval [1, 3].
+Enter an exact answer.

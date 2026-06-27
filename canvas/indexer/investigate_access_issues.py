@@ -159,10 +159,12 @@ def resolution_from_live_and_source(
     live_row: dict[str, str] | None,
     source_page_text: str,
     source_link_texts: str,
+    course_context_text: str = "",
 ) -> tuple[str, str, str]:
     live_status = live_row.get("live_status", "") if live_row else ""
     live_text = live_row.get("text_sample", "") if live_row else ""
     source_text = f"{source_page_text} {source_link_texts}".lower()
+    course_text = f"{source_text} {course_context_text}".lower()
 
     if offline_status == "internal_canvas_question_url":
         return (
@@ -191,6 +193,12 @@ def resolution_from_live_and_source(
             "expected_access_denied_until_released",
             "The source module page explicitly says items may show Access Denied before they open.",
             "Track from syllabus/assignment dates and retry near the expected open window.",
+        )
+    if live_status == "access_denied" and "lab 2 group report" in source_text and "lab group reports will start next week" in course_text:
+        return (
+            "expected_access_denied_until_released",
+            "The Lab 2 report link is present, but a current course announcement says TA meetings and lab group reports start next week.",
+            "Treat as a future Gradescope/lab workflow item; retry when Lab 2 opens or after the TA meeting window starts.",
         )
     if live_status == "access_denied" and source_link_texts:
         return (
@@ -232,6 +240,19 @@ def investigate(args: argparse.Namespace) -> None:
     tasks_by_object = build_index(tasks, "object_id")
     module_by_object = build_index(module_items, "destination_object_id")
     page_by_id = {row.get("page_id", ""): row for row in page_inventory}
+    course_context_by_code: dict[str, str] = defaultdict(str)
+    for page in page_inventory:
+        if page.get("source_surface") not in {"announcements", "modules", "assignments", "grades"}:
+            continue
+        markdown_path = clean_text(page.get("markdown_path"))
+        if not markdown_path:
+            continue
+        absolute_markdown_path = archive_root / markdown_path
+        if absolute_markdown_path.exists():
+            course_context_by_code[clean_text(page.get("course_code"))] += "\n" + absolute_markdown_path.read_text(
+                encoding="utf-8",
+                errors="replace",
+            )[:20000]
     links_by_href: dict[str, list[dict[str, str]]] = defaultdict(list)
     for link_row in link_rows:
         href = clean_text(link_row.get("href"))
@@ -291,6 +312,7 @@ def investigate(args: argparse.Namespace) -> None:
             live_row,
             source_page_text,
             source_link_texts,
+            course_context_by_code.get(course_code, ""),
         )
 
         rows.append({

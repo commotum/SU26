@@ -118,35 +118,35 @@
       "last_capture": "2026-06-26T21:25:24.413Z"
     }
   ],
-  "capture_issues": 390,
+  "capture_issues": 370,
   "normalized": {
     "courses": 3,
     "modules": 47,
     "module_items": 375,
     "canvas_objects": 490,
     "object_pages": 584,
-    "object_evidence": 1144,
+    "object_evidence": 1226,
     "downloads": 102
   },
   "classified": {
     "classified_items": 490,
     "tasks": 366,
-    "task_evidence": 904,
-    "review_queue": 227,
+    "task_evidence": 940,
+    "review_queue": 67,
     "classification_rules": 9
   },
   "crosscheck": {
     "module_crosscheck": 375,
     "grade_task_crosscheck": 67,
-    "missing_or_suspicious": 678,
-    "summary": 75
+    "missing_or_suspicious": 386,
+    "summary": 56
   },
   "recursive": {
-    "review_state_manifest": 678,
-    "retry_manifest": 48,
+    "review_state_manifest": 386,
+    "retry_manifest": 0,
     "download_manifest": 102,
-    "rule_improvement_manifest": 14,
-    "manual_review_manifest": 272,
+    "rule_improvement_manifest": 3,
+    "manual_review_manifest": 336,
     "applied_review_overrides": 0
   },
   "reports": {
@@ -154,8 +154,8 @@
     "due_dates": 67,
     "upcoming_due_dates": 63,
     "past_due_or_completed": 4,
-    "required_prep": 123,
-    "critical_setup": 64,
+    "required_prep": 130,
+    "critical_setup": 48,
     "course_maps": 3,
     "reports_root": "/Users/jake/Developer/SU26/canvas/indexer/output/reports"
   },

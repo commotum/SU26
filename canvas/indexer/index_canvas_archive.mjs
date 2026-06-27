@@ -213,6 +213,10 @@ function isCanvasUrl(url) {
   }
 }
 
+function isCanvasTemplateFileRef(url) {
+  return /\$CANVAS_COURSE_REFERENCE\$\/file_ref\//.test(String(url || ""));
+}
+
 function extractModuleItemId(urlOrText) {
   const text = String(urlOrText || "");
   const pathMatch = text.match(/\/modules\/items\/(\d+)/);
@@ -243,6 +247,25 @@ function moduleItemObjectType(type) {
   if (normalized === "assignment") return "assignment";
   if (normalized === "context module sub header") return "module_subheader";
   return normalized.replace(/[^a-z0-9]+/g, "_") || "unknown";
+}
+
+function isContextModuleSubHeader(type) {
+  return cleanText(type).toLowerCase() === "context module sub header";
+}
+
+function isSyllabusObject(object) {
+  const url = String(object?.canonical_url || "");
+  const title = cleanText(object?.title || "").toLowerCase();
+  if (/\/assignments\/syllabus(?:[/?#]|$)/.test(url)) return true;
+  return /^syllabus for\b/.test(title);
+}
+
+function isTaskLikeDiscussionTitle(value) {
+  const title = cleanText(value).toLowerCase();
+  if (!title) return false;
+  if (/\boptional\b/.test(title) && !/\brequired\b/.test(title)) return false;
+  if (/\b(q\s*&\s*a|faq|faqs|general discussion|general questions?|questions? and answers?|help forum)\b/.test(title)) return false;
+  return /(reflection|reply|post|contribute|introductions?|submitted|required|discussion board|lab\s+\d+\s+(?:group\s+)?discussion|course introductions)/i.test(title);
 }
 
 function titleKey(value) {
@@ -393,15 +416,35 @@ function buildCourseReadout({ pageRows, linkRows, iframeRows, downloadRows, warn
   });
 }
 
-function buildCaptureIssues({ pageRows, warnings, metadataByPage }) {
+function issueWithAccessResolution(issue, accessInvestigationIndexes) {
+  const accessRow = accessInvestigationFor(accessInvestigationIndexes, issue);
+  if (!accessRow) {
+    return {
+      ...issue,
+      access_resolution_status: "",
+      access_resolution_reason: "",
+      access_final_action: "",
+    };
+  }
+  return {
+    ...issue,
+    access_resolution_status: accessRow.resolution_status || "",
+    access_resolution_reason: accessRow.resolution_reason || "",
+    access_final_action: accessRow.final_action || "",
+  };
+}
+
+function buildCaptureIssues({ pageRows, warnings, metadataByPage, accessInvestigationRows = [] }) {
   const issues = [];
+  const accessInvestigationIndexes = buildAccessInvestigationIndexes(accessInvestigationRows);
   let issueNumber = 0;
   const addIssue = (issue) => {
     issueNumber += 1;
+    const enrichedIssue = issueWithAccessResolution(issue, accessInvestigationIndexes);
     issues.push({
       issue_id: `issue-${String(issueNumber).padStart(4, "0")}`,
       severity: severityForIssue(issue.issue_type),
-      ...issue,
+      ...enrichedIssue,
     });
   };
 
@@ -436,7 +479,7 @@ function buildCaptureIssues({ pageRows, warnings, metadataByPage }) {
         detail: "Captured page appears to be unauthorized or access denied.",
       });
     }
-    if (signals.page_not_found) {
+    if (signals.page_not_found && ![row.requested_url, row.resolved_url].some(isCanvasTemplateFileRef)) {
       addIssue({
         issue_type: "page_not_found",
         course_id: row.course_id,
@@ -614,10 +657,73 @@ function evidenceStatusForDownloadAttempt(downloadAttempt) {
   return "parse_failed";
 }
 
-function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows = [] }) {
+const ACCESS_RESOLVED_STATUSES = new Set([
+  "resolved_internal_question_link",
+  "resolved_live_content_captured",
+]);
+
+const ACCESS_DEFERRED_STATUSES = new Set([
+  "expected_access_denied_until_released",
+  "locked_until_future_date",
+]);
+
+function buildAccessInvestigationIndexes(accessInvestigationRows) {
+  const byPageId = new Map();
+  const byUrl = new Map();
+  for (const row of accessInvestigationRows) {
+    if (row.page_id) byPageId.set(row.page_id, row);
+    if (row.url) byUrl.set(normalizeUrl(row.url), row);
+  }
+  return { byPageId, byUrl };
+}
+
+function accessInvestigationFor(indexes, rowOrUrl) {
+  if (!indexes) return null;
+  if (typeof rowOrUrl === "string") return indexes.byUrl.get(normalizeUrl(rowOrUrl)) || null;
+  return indexes.byPageId.get(rowOrUrl.page_id) ||
+    indexes.byUrl.get(normalizeUrl(rowOrUrl.requested_url || "")) ||
+    indexes.byUrl.get(normalizeUrl(rowOrUrl.resolved_url || "")) ||
+    null;
+}
+
+function isAccessResolved(row) {
+  return ACCESS_RESOLVED_STATUSES.has(row?.resolution_status || row?.access_resolution_status || "");
+}
+
+function isAccessDeferred(row) {
+  return ACCESS_DEFERRED_STATUSES.has(row?.resolution_status || row?.access_resolution_status || "");
+}
+
+function isAccessNonBlocking(row) {
+  return isAccessResolved(row) || isAccessDeferred(row);
+}
+
+function usefulAccessTitle(accessRow) {
+  const blocked = new Set([
+    "account",
+    "close",
+    "courses",
+    "dashboard",
+    "groups",
+    "help",
+    "history",
+    "inbox",
+    "my media",
+    "resources",
+    "skip to content",
+  ]);
+  for (const title of splitJoined(accessRow?.source_link_texts || "")) {
+    const normalized = title.toLowerCase();
+    if (!blocked.has(normalized) && normalized.length > 1) return title;
+  }
+  return "";
+}
+
+function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows = [], accessInvestigationRows = [] }) {
   const destinationIndexes = buildDestinationIndexes(pageRows);
   const pageById = new Map(pageRows.map((row) => [row.page_id, row]));
   const parsedDownloadIndexes = buildParsedDownloadIndexes(parsedDownloadRows);
+  const accessInvestigationIndexes = buildAccessInvestigationIndexes(accessInvestigationRows);
   const objectsById = new Map();
   const modulesByKey = new Map();
   const moduleRows = [];
@@ -655,18 +761,28 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
 
   for (const page of pageRows) {
     const objectId = canvasObjectIdForPage(page);
+    const accessRow = accessInvestigationFor(accessInvestigationIndexes, page);
+    const accessTitle = page.title === "Unauthorized" ? usefulAccessTitle(accessRow) : "";
+    const pageTitle = accessTitle || page.title;
+    const readStatus = isAccessResolved(accessRow)
+      ? "access_issue_resolved"
+      : isAccessDeferred(accessRow)
+        ? "access_deferred_until_available"
+        : "captured_rendered_page";
     addObject(objectsById, {
       object_id: objectId,
       course_id: page.course_id,
       course_code: page.course_code,
       object_type: page.canvas_object_type || "unknown",
       canvas_object_id: page.canvas_object_id,
-      title: page.title,
+      title: pageTitle,
       canonical_url: normalizeUrl(page.resolved_url || page.requested_url),
       first_page_id: page.page_id,
       capture_status: "captured",
-      read_status: "captured_rendered_page",
-      notes: "",
+      read_status: readStatus,
+      notes: accessRow?.resolution_status
+        ? `access_resolution=${accessRow.resolution_status}; ${accessRow.resolution_reason || ""}`.trim()
+        : "",
     });
     objectPageRows.push({
       object_id: objectId,
@@ -675,7 +791,7 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
       course_code: page.course_code,
       object_type: page.canvas_object_type || "unknown",
       canvas_object_id: page.canvas_object_id,
-      title: page.title,
+      title: pageTitle,
       requested_url: page.requested_url,
       resolved_url: page.resolved_url,
       redirected: page.redirected,
@@ -692,13 +808,15 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
       course_code: page.course_code,
       source_page_id: page.page_id,
       source_url: page.resolved_url || page.requested_url,
-      source_title: page.title,
+      source_title: pageTitle,
       module_id: "",
       module_item_id: "",
       download_id: "",
       target_page_id: page.page_id,
       target_url: page.resolved_url || page.requested_url,
-      detail: `${page.source_kind}:${page.source_surface}`,
+      detail: accessRow?.resolution_status
+        ? `${page.source_kind}:${page.source_surface}; access_resolution=${accessRow.resolution_status}; final_action=${accessRow.final_action || ""}`
+        : `${page.source_kind}:${page.source_surface}`,
     });
   }
 
@@ -764,6 +882,9 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
       if (destinationPage) {
         itemRow.destination_object_id = canvasObjectIdForPage(destinationPage);
         itemRow.capture_status = "captured";
+      } else if (!item.href && isContextModuleSubHeader(item.type)) {
+        itemRow.destination_object_id = canvasObjectIdForModuleItem(itemRow);
+        itemRow.capture_status = "structural_marker";
       } else if (!item.href) {
         itemRow.destination_object_id = canvasObjectIdForModuleItem(itemRow);
         itemRow.capture_status = "structural_no_href";
@@ -786,7 +907,10 @@ function buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseRe
           canonical_url: itemRow.href,
           first_page_id: "",
           capture_status: itemRow.capture_status,
-          read_status: itemRow.capture_status === "external_unvisited" ? "not_read_external" : "not_captured",
+          read_status:
+            itemRow.capture_status === "external_unvisited" ? "not_read_external" :
+            itemRow.capture_status === "structural_marker" ? "reference_only" :
+            "not_captured",
           notes: "Object inferred from module item listing without captured destination page.",
         });
       }
@@ -1099,11 +1223,11 @@ function classifyObject({ object, moduleItems, objectPages, objectEvidence, issu
     labels.add("course_navigation_surface");
     reasons.push("course navigation/index surface");
   }
-  if (["assignment", "quiz"].includes(objectType)) {
+  if (["assignment", "quiz"].includes(objectType) && !isSyllabusObject(object)) {
     labels.add("graded_task");
     reasons.push(`${objectType} object`);
   }
-  if (objectType === "discussion" && /(reflection|discussion|reply|post|contribute|introductions?)/i.test(title)) {
+  if (objectType === "discussion" && isTaskLikeDiscussionTitle(title)) {
     labels.add("graded_task");
     reasons.push("task-like discussion object");
   }
@@ -1138,6 +1262,14 @@ function classifyObject({ object, moduleItems, objectPages, objectEvidence, issu
   if (object.read_status === "downloaded_parse_failed") {
     labels.add("download_parse_failed");
     reasons.push("downloaded file parse failed");
+  }
+  if (object.read_status === "access_deferred_until_available") {
+    labels.add("access_deferred_until_available");
+    reasons.push("access is expected to open later");
+  }
+  if (object.read_status === "access_issue_resolved") {
+    labels.add("access_issue_resolved");
+    reasons.push("access issue resolved by investigation");
   }
   if (objectType === "external_tool" || objectType === "external_url" || /external_tool|external_unvisited/.test(moduleCaptureStatuses)) {
     labels.add("external_tool");
@@ -1254,7 +1386,8 @@ function buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIs
     const moduleItems = moduleItemsByObject.get(object.object_id) || [];
     const objectEvidence = objectEvidenceByObject.get(object.object_id) || [];
     const issues = issuesByObject.get(object.object_id) || [];
-    const issueTypes = [...new Set(issues.map((issue) => issue.issue_type))];
+    const classificationIssues = issues.filter((issue) => !isAccessNonBlocking(issue));
+    const issueTypes = [...new Set(classificationIssues.map((issue) => issue.issue_type))];
     const text = compactText([
       object.title,
       ...moduleItems.map((item) => `${item.title} ${item.source_text_sample}`),
@@ -1358,7 +1491,6 @@ function buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIs
     }
 
     const reviewReasons = [];
-    if (classification.confidence === "low") reviewReasons.push("low_confidence");
     if (classification.labels.includes("blocked_or_broken")) reviewReasons.push("blocked_or_broken");
     if (classification.labels.includes("external_tool")) reviewReasons.push("external_surface");
     if (classification.labels.includes("download_indexed_not_read")) reviewReasons.push("download_not_read");
@@ -1366,6 +1498,7 @@ function buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIs
     if (classification.labels.includes("download_parse_failed")) reviewReasons.push("download_parse_failed");
     if (moduleItems.some((item) => item.capture_status === "structural_no_href")) reviewReasons.push("structural_no_href");
     if (!objectEvidence.length) reviewReasons.push("missing_evidence");
+    if (classification.confidence === "low" && !reviewReasons.length) reviewReasons.push("low_confidence");
     for (const reason of reviewReasons) {
       addReview({
         review_reason: reason,
@@ -1543,10 +1676,14 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
     }
     if (item.capture_status === "external_unvisited") return "module_item_external_unvisited";
     if (item.capture_status === "unvisited_canvas") return "module_item_unvisited_canvas";
+    if (item.capture_status === "structural_marker") return "module_item_reference_only";
     if (item.capture_status === "structural_no_href") return "module_item_structural";
     if (task) return "module_item_has_task";
     const objectType = object?.object_type || item.destination_canvas_object_type;
-    if (["assignment", "quiz", "discussion"].includes(objectType)) return "module_item_task_candidate_without_task";
+    if (["assignment", "quiz"].includes(objectType)) return "module_item_task_candidate_without_task";
+    if (objectType === "discussion" && /(graded_task|required_ungraded_task)/.test(classified?.classification_labels || "")) {
+      return "module_item_task_candidate_without_task";
+    }
     if (classified?.importance === "high" || classified?.importance === "medium") return "module_item_important_reference";
     return "module_item_reference_only";
   };
@@ -1561,7 +1698,8 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
       ...(issuesByObject.get(item.destination_object_id) || []),
       ...(issuesByUrl.get(normalizeUrl(item.href)) || []),
     ];
-    const issueTypes = [...new Set(itemIssues.map((issue) => issue.issue_type).filter(Boolean))];
+    const blockingItemIssues = itemIssues.filter((issue) => !isAccessNonBlocking(issue));
+    const issueTypes = [...new Set(blockingItemIssues.map((issue) => issue.issue_type).filter(Boolean))];
     const evidenceTypes = [...new Set(objectEvidence.map((evidence) => evidence.evidence_type))];
     const reviewReasons = [...new Set(reviews.map((review) => review.review_reason).filter(Boolean))];
     const task = (tasksByObject.get(item.destination_object_id) || [])[0] || null;
@@ -1707,11 +1845,13 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
   }
 
   for (const issue of captureIssues.filter((row) => row.issue_type !== "redirected")) {
+    if (isAccessResolved(issue)) continue;
+    const deferredAccess = isAccessDeferred(issue);
     addSuspicion({
       course_id: issue.course_id,
       course_code: issue.course_code,
-      severity: issue.severity,
-      category: "capture_issue",
+      severity: deferredAccess ? "medium" : issue.severity,
+      category: deferredAccess ? "access_followup" : "capture_issue",
       object_id: pageToObject.get(issue.page_id) || "",
       task_id: "",
       module_id: "",
@@ -1722,10 +1862,14 @@ function buildCrosscheckOutputs({ normalizedGraph, classificationOutputs, captur
       related_url: issue.resolved_url,
       evidence_id: "",
       review_id: "",
-      status: issue.issue_type,
-      detail: issue.detail,
+      status: deferredAccess ? issue.access_resolution_status : issue.issue_type,
+      detail: deferredAccess
+        ? `${issue.access_resolution_reason}; original_issue=${issue.issue_type}; ${issue.detail}`
+        : issue.detail,
       suggested_action:
-        issue.issue_type === "capture_failed"
+        deferredAccess
+          ? (issue.access_final_action || "Track this item from syllabus/assignment dates and retry near the expected open window.")
+          : issue.issue_type === "capture_failed"
           ? "Retry this URL or manually inspect it before considering the course complete."
           : "Inspect the captured page and decide whether the blocker affects required work.",
     });
@@ -1980,9 +2124,12 @@ function hasPlaceholderCanvasUrl(row) {
   return [row.source_url, row.related_url].some((url) => /\$CANVAS_COURSE_REFERENCE\$/.test(String(url || "")));
 }
 
-function inferReviewState(row, override) {
+function inferReviewState(row, override, accessRow = null) {
   const overrideState = override ? overrideStateFromRow(override) : "";
   if (overrideState) return overrideState;
+
+  if (isAccessResolved(accessRow)) return "resolved";
+  if (isAccessDeferred(accessRow)) return "needs_manual_decision";
 
   if (row.category === "download_needs_ocr" || row.status === "downloaded_text_empty_needs_ocr" || row.status === "download_needs_ocr") {
     return "needs_ocr";
@@ -2019,11 +2166,12 @@ function nextActionForReviewState(state) {
   return "manual_review";
 }
 
-function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverrides, appliedReviewOverrides }) {
+function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverrides, appliedReviewOverrides, accessInvestigationRows = [] }) {
   const reviewStateManifest = [];
   const retryByUrl = new Map();
   const ruleGroups = new Map();
   const manualReviewManifest = [];
+  const accessInvestigationIndexes = buildAccessInvestigationIndexes(accessInvestigationRows);
   let reviewItemNumber = 0;
   let retryNumber = 0;
   let downloadNumber = 0;
@@ -2033,7 +2181,11 @@ function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverr
   for (const row of crosscheckOutputs.missingOrSuspicious) {
     reviewItemNumber += 1;
     const override = findMatchingOverride(row, reviewOverrides);
-    const state = inferReviewState(row, override);
+    const accessRow =
+      accessInvestigationFor(accessInvestigationIndexes, row) ||
+      accessInvestigationFor(accessInvestigationIndexes, row.related_url || "") ||
+      accessInvestigationFor(accessInvestigationIndexes, row.source_url || "");
+    const state = inferReviewState(row, override, accessRow);
     const reviewRow = {
       review_item_id: `ri-${String(reviewItemNumber).padStart(5, "0")}`,
       suspicion_id: row.suspicion_id,
@@ -2055,7 +2207,14 @@ function buildRecursiveOutputs({ normalizedGraph, crosscheckOutputs, reviewOverr
       evidence_id: row.evidence_id,
       review_id: row.review_id,
       override_id: override?.override_id || "",
-      override_status: override ? (state === "resolved" ? "resolved_by_override" : "override_applied") : "",
+      override_status: override
+        ? (state === "resolved" ? "resolved_by_override" : "override_applied")
+        : accessRow
+          ? (state === "resolved" ? "resolved_by_access_investigation" : "access_investigation_applied")
+          : "",
+      access_resolution_status: accessRow?.resolution_status || "",
+      access_resolution_reason: accessRow?.resolution_reason || "",
+      access_final_action: accessRow?.final_action || "",
       suggested_action: row.suggested_action,
       detail: row.detail,
     };
@@ -2308,6 +2467,8 @@ function buildReportOutputs({ normalizedGraph, classificationOutputs, crosscheck
     );
     const retryRows = recursiveOutputs.retryManifest.filter((row) => row.course_code === course.course_code);
     const downloadRows = recursiveOutputs.downloadManifest.filter((row) => row.course_code === course.course_code);
+    const parsedDownloadRows = downloadRows.filter((row) => row.execute_status === "downloaded_and_parsed");
+    const unresolvedDownloadRows = downloadRows.filter((row) => row.execute_status !== "downloaded_and_parsed");
     const ruleRows = recursiveOutputs.ruleImprovementManifest.filter((row) => row.course_code === course.course_code);
     const manualRows = recursiveOutputs.manualReviewManifest.filter((row) => row.course_code === course.course_code);
     const lines = [
@@ -2322,7 +2483,8 @@ function buildReportOutputs({ normalizedGraph, classificationOutputs, crosscheck
       `- Tasks: ${tasks.length}`,
       `- Surface-only Assignments/Grades rows: ${surfaceOnly.length}`,
       `- Retry URLs queued: ${retryRows.length}`,
-      `- Downloads queued for parsing: ${downloadRows.length}`,
+      `- Parsed downloads: ${parsedDownloadRows.length}`,
+      `- Downloads needing action: ${unresolvedDownloadRows.length}`,
       `- Rule-improvement buckets: ${ruleRows.length}`,
       `- Manual-review rows: ${manualRows.length}`,
       "",
@@ -2370,7 +2532,7 @@ function buildReportOutputs({ normalizedGraph, classificationOutputs, crosscheck
       lines.push("");
     }
 
-    if (retryRows.length || downloadRows.length || ruleRows.length || manualRows.length) {
+    if (retryRows.length || unresolvedDownloadRows.length || ruleRows.length || manualRows.length) {
       lines.push("## Review Queues", "");
       if (retryRows.length) {
         lines.push("### Retry", "");
@@ -2380,12 +2542,12 @@ function buildReportOutputs({ normalizedGraph, classificationOutputs, crosscheck
         if (retryRows.length > 20) lines.push(`- ... ${retryRows.length - 20} more retry URLs`);
         lines.push("");
       }
-      if (downloadRows.length) {
-        lines.push("### Downloads To Parse", "");
-        for (const row of downloadRows.slice(0, 20)) {
-          lines.push(`- ${markdownLink(row.file_name || row.download_id, row.href)} - ${row.source_page_title}`);
+      if (unresolvedDownloadRows.length) {
+        lines.push("### Downloads Needing Action", "");
+        for (const row of unresolvedDownloadRows.slice(0, 20)) {
+          lines.push(`- ${markdownLink(row.file_name || row.download_id, row.href)} - ${row.execute_status}; ${row.suggested_action}`);
         }
-        if (downloadRows.length > 20) lines.push(`- ... ${downloadRows.length - 20} more downloads`);
+        if (unresolvedDownloadRows.length > 20) lines.push(`- ... ${unresolvedDownloadRows.length - 20} more downloads`);
         lines.push("");
       }
       if (ruleRows.length) {
@@ -2430,6 +2592,7 @@ function buildReportOutputs({ normalizedGraph, classificationOutputs, crosscheck
     "",
     `Generated ${reportDate}.`,
     "",
+    "- [Immediate Schoolwork](immediate_schoolwork.md)",
     ...courseMaps.map((row) => `- ${markdownLink(row.course_code, row.file_name)}`),
     "- [Blocked Review](blocked_review.md)",
     "",
@@ -2458,7 +2621,7 @@ async function run({
   const reportsRoot = path.join(outputRoot, "reports");
   await mkdir(reportsRoot, { recursive: true });
 
-  const [summary, warnings, pageRows, linkRows, iframeRows, downloadRows, manifestRows, reviewOverrides, parsedDownloadRowsRaw] = await Promise.all([
+  const [summary, warnings, pageRows, linkRows, iframeRows, downloadRows, manifestRows, reviewOverrides, parsedDownloadRowsRaw, accessInvestigationRows] = await Promise.all([
     readJsonIfExists(path.join(archiveRoot, "summary.json"), {}),
     readJsonIfExists(path.join(archiveRoot, "warnings.json"), []),
     readCsv(path.join(archiveRoot, "pages.csv")),
@@ -2468,6 +2631,7 @@ async function run({
     readCsv(path.join(archiveRoot, "crawl_manifest.csv")),
     readCsvIfExists(path.join(inputRoot, "review_overrides.csv")),
     readCsvIfExists(path.join(outputRoot, "parsed_downloads.csv")),
+    readCsvIfExists(path.join(outputRoot, "unauthorized_investigation.csv")),
   ]);
 
   const parsedDownloadRows = await hydrateParsedDownloadRows(outputRoot, parsedDownloadRowsRaw);
@@ -2475,8 +2639,8 @@ async function run({
   const pageInventory = buildPageInventory(pageRows, metadataByPage);
   const sourceTypeCounts = buildSourceTypeCounts(pageRows);
   const courseReadout = buildCourseReadout({ pageRows, linkRows, iframeRows, downloadRows, warnings });
-  const captureIssues = buildCaptureIssues({ pageRows, warnings, metadataByPage });
-  const normalizedGraph = buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows });
+  const captureIssues = buildCaptureIssues({ pageRows, warnings, metadataByPage, accessInvestigationRows });
+  const normalizedGraph = buildNormalizedGraph({ pageRows, downloadRows, metadataByPage, courseReadout, parsedDownloadRows, accessInvestigationRows });
   const rawClassificationOutputs = buildClassificationOutputs({ normalizedGraph, metadataByPage, captureIssues });
   const { classificationOutputs, appliedReviewOverrides } = applyReviewOverrides({
     classificationOutputs: rawClassificationOutputs,
@@ -2488,6 +2652,7 @@ async function run({
     crosscheckOutputs,
     reviewOverrides,
     appliedReviewOverrides,
+    accessInvestigationRows,
   });
   const reportOutputs = buildReportOutputs({
     normalizedGraph,
@@ -2576,6 +2741,9 @@ async function run({
       "resolved_url",
       "source_file",
       "detail",
+      "access_resolution_status",
+      "access_resolution_reason",
+      "access_final_action",
     ]),
     "utf8",
   );
@@ -2945,6 +3113,9 @@ async function run({
       "review_id",
       "override_id",
       "override_status",
+      "access_resolution_status",
+      "access_resolution_reason",
+      "access_final_action",
       "suggested_action",
       "detail",
     ]),
@@ -3029,6 +3200,9 @@ async function run({
       "review_id",
       "override_id",
       "override_status",
+      "access_resolution_status",
+      "access_resolution_reason",
+      "access_final_action",
       "suggested_action",
       "detail",
     ]),

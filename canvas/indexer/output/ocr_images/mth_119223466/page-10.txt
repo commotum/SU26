@@ -1,0 +1,4 @@
+2.4
+Let g(y) = 4y — 2. Calculate the arc length of the graph of g(y) over the interval [2, 7].
+Enter an exact answer.
+Arc Length = | units

@@ -1,0 +1,5 @@
+R is the region bounded above by the graph of f(x) = 2x7 and below by the x-axis over the
+interval [0, 6]. Find the volume of the solid of revolution formed by revolving R around the y-
+axis.
+
+Submit an exact answer in terms of 7.

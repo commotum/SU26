@@ -6,12 +6,13 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - Modules: 7
 - Module items: 63
-- Tasks: 47
+- Tasks: 46
 - Surface-only Assignments/Grades rows: 0
 - Retry URLs queued: 0
-- Downloads queued for parsing: 31
-- Rule-improvement buckets: 4
-- Manual-review rows: 41
+- Parsed downloads: 31
+- Downloads needing action: 0
+- Rule-improvement buckets: 1
+- Manual-review rows: 47
 
 ## Modules
 
@@ -23,7 +24,7 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 - **REF** [Start Here - Instructor Information & Communication Policy](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-instructor-information-and-communication-policy?module_item_id=26885522) - module_item_reference_only
 - **REF** [Start Here: On the use of AI and academic honesty](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-on-the-use-of-ai-and-academic-honesty?module_item_id=26977675) - module_item_important_reference
 - **REF** [Start Here - Where to go for help?](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-where-to-go-for-help?module_item_id=26885523) - module_item_reference_only
-- **TASK** [General Q&A Discussion](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558499?module_item_id=26885524) - module_item_has_task
+- **REF** [General Q&A Discussion](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558499?module_item_id=26885524) - module_item_reference_only
 - **REF** [Start Here - Accessibility Statements & Privacy Policies](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-accessibility-statements-and-privacy-policies?module_item_id=26885525) - module_item_reference_only
 - **SETUP** [Start Here - Sources Cited](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-sources-cited?module_item_id=26885526) - module_item_has_task
 - **TASK** [Practice Quiz (take it before attempting Quiz 1!)](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050) (5 pts) - module_item_has_task
@@ -33,101 +34,74 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - **PREP** [Unit 1 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529) - module_item_has_task
 - **PREP** [Unit 1 - Learning Materials](https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-learning-materials?module_item_id=26885530) - module_item_has_task
-- **TASK** [Unit 1 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531) - module_item_has_task
-- **CHECK** 4 - module_item_structural review=structural_no_href
+- **REF** [Unit 1 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531) - module_item_reference_only
+- **REF** 4 - module_item_reference_only
 - **TASK** [Unit 1 Discussion Board - Submitted in Week 1 (Required)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558498?module_item_id=26885532) - module_item_has_task
 - **TASK** [Unit 1 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553179?module_item_id=26885537) due Jun 26 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals](https://canvas.oregonstate.edu/courses/2053263/assignments/10584258?module_item_id=26977416) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 1 Quiz](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159593?module_item_id=26885539) - module_item_has_task
-- **CHECK** 9 - module_item_structural review=structural_no_href
+- **REF** 9 - module_item_reference_only
 
 ### 3. Unit 2 - Week 2 and Week 3
 
 - **PREP** [Unit 2 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview?module_item_id=26885542) - module_item_has_task
-- **TASK** [Unit 2 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491?module_item_id=26885544) - module_item_has_task
-- **CHECK** 4 - module_item_structural review=structural_no_href
+- **REF** [Unit 2 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491?module_item_id=26885544) - module_item_reference_only
+- **REF** 4 - module_item_reference_only
 - **TASK** [Week 2 Web Homework: Sequences](https://canvas.oregonstate.edu/courses/2053263/assignments/10584372?module_item_id=26977767) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 2 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553180?module_item_id=26885550) due Jul 9 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 3 Web Homework: Introduction to Series](https://canvas.oregonstate.edu/courses/2053263/assignments/10584373?module_item_id=26977769) due Jul 12 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 2 Quiz](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159592?module_item_id=26885552) - module_item_has_task
-- **CHECK** 9 - module_item_structural review=structural_no_href
+- **REF** 9 - module_item_reference_only
 
 ### 4. Unit 3 - Weeks 4, 5, and 6
 
 - **PREP** [Unit 3 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-overview?module_item_id=26885555) - module_item_has_task
-- **TASK** [Unit 3 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558492?module_item_id=26885557) - module_item_has_task
-- **CHECK** 4 - module_item_structural review=structural_no_href
+- **REF** [Unit 3 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558492?module_item_id=26885557) - module_item_reference_only
+- **REF** 4 - module_item_reference_only
 - **TASK** [Week 4 Web Homework: The Divergence and Integral Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584431?module_item_id=26977967) due Jul 19 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 5 Web Homework: Comparison and Alternate Series Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584434?module_item_id=26977977) due Jul 26 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 3 Discussion Board - Submitted in Week 6 (Required)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558497?module_item_id=26885558) - module_item_has_task
 - **TASK** [Unit 3 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553181?module_item_id=26885565) due Jul 30 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 6 Web Homework: Ratio and Root Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584435?module_item_id=26977980) due Aug 2 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 3 Quiz](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159589?module_item_id=26885567) - module_item_has_task
-- **CHECK** 11 - module_item_structural review=structural_no_href
+- **REF** 11 - module_item_reference_only
 
 ### 5. Unit 4 - Weeks 7, 8, and 9
 
 - **PREP** [Unit 4 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-4-overview?module_item_id=26885570) - module_item_has_task
-- **TASK** [Unit 4 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558493?module_item_id=26885572) - module_item_has_task
-- **CHECK** 4 - module_item_structural review=structural_no_href
+- **REF** [Unit 4 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558493?module_item_id=26885572) - module_item_reference_only
+- **REF** 4 - module_item_reference_only
 - **TASK** [Week 7 Web Homework: Power Series and Functions](https://canvas.oregonstate.edu/courses/2053263/assignments/10584436?module_item_id=26977982) due Aug 9 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 8 Web Homework Taylor and Maclaurin Series](https://canvas.oregonstate.edu/courses/2053263/assignments/10584437?module_item_id=26977985) due Aug 16 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Unit 4 Discussion Board - Submitted in Week 9 (Required)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558496?module_item_id=26885573) - module_item_has_task
 - **TASK** [Unit 4 Quiz](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159590?module_item_id=26885582) - module_item_has_task
 - **TASK** [Unit 4 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553182?module_item_id=26885580) due Aug 20 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 9 Web Homework: Properties of Power Series](https://canvas.oregonstate.edu/courses/2053263/assignments/10584438?module_item_id=26977987) due Aug 23 by 11:59pm (5 pts) - module_item_has_task
-- **CHECK** 11 - module_item_structural review=structural_no_href
+- **REF** 11 - module_item_reference_only
 
 ### 6. Unit 5 - Covers Week 10
 
 - **PREP** [Unit 5 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-5-overview?module_item_id=26885585) - module_item_has_task
-- **TASK** [Unit 5 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587) - module_item_has_task
-- **CHECK** 4 - module_item_structural review=structural_no_href
+- **REF** [Unit 5 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587) - module_item_reference_only
+- **REF** 4 - module_item_reference_only
 - **TASK** [Unit 5 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553183?module_item_id=26885592) due Aug 27 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Week 10 Web Homework: Working with Taylor Series](https://canvas.oregonstate.edu/courses/2053263/assignments/10584439?module_item_id=26977989) due Aug 30 by 11:59pm (5 pts) - module_item_has_task
-- **CHECK** 7 - module_item_structural review=structural_no_href
-- **CHECK** Reminder: No unit quiz due in this module. 8 - module_item_structural review=structural_no_href
-- **CHECK** 9 - module_item_structural review=structural_no_href
+- **REF** 7 - module_item_reference_only
+- **REF** Reminder: No unit quiz due in this module. 8 - module_item_reference_only
+- **REF** 9 - module_item_reference_only
 
 ### 7. Finals Week
 
 - **REF** [Week 11 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/week-11-overview?module_item_id=26885596) - module_item_reference_only
-- **TASK** [Preparing for your Final Exam - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558495?module_item_id=26885597) - module_item_has_task
+- **REF** [Preparing for your Final Exam - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558495?module_item_id=26885597) - module_item_reference_only
 - **PREP** [MTH 253 - Final Exam Practice Problems.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558956?module_item_id=26885598) - module_item_has_task
 - **PREP** [MTH 253 - Final Exam Practice Problems - Answers.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558944?module_item_id=26885599) - module_item_has_task
-- **CHECK** 5 - module_item_structural review=structural_no_href
+- **REF** 5 - module_item_reference_only
 - **TASK** [Final Exam](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159588?module_item_id=26885601) - module_item_has_task
-- **CHECK** 7 - module_item_structural review=structural_no_href
+- **REF** 7 - module_item_reference_only
 
 ## Review Queues
 
-### Downloads To Parse
-
-- [Syllabus](https://canvas.oregonstate.edu/courses/2053263/files/119228487/download?download_frd=1) - Syllabus for SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/119228487/download?download_frd=1) - Start Here - Syllabus: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558899/download?download_frd=1) - Start Here - Syllabus: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558936/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558848/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558879/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558963/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558797/download?download_frd=1) - Unit 1 - Written Homework Assignment
-- [MTH 253 - Final Exam Practice Problems.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558956/download?download_frd=1) - MTH 253 - Final Exam Practice Problems.pdf: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [MTH 253 - Final Exam Practice Problems - Answers.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558944/download?download_frd=1) - MTH 253 - Final Exam Practice Problems - Answers.pdf: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [MTH_253_Course_Syllabus_Summer_2026.pdf](https://canvas.oregonstate.edu/courses/2053263/files/119228487/download?download_frd=1) - MTH_253_Course_Syllabus_Summer_2026.pdf: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558797/download?download_frd=1) - Unit 1 - Written Homework Assignment
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/119228487/download?download_frd=1) - Start Here - Syllabus: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558899/download?download_frd=1) - Start Here - Syllabus: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [MTH 253 Weekly Schedule.docx](https://canvas.oregonstate.edu/courses/2053263/files/118558899/download?download_frd=1) - MTH 253 Weekly Schedule.docx: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Evaluating Limits.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558936/download?download_frd=1) - Evaluating Limits.pdf: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558936/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558848/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558879/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558963/download?download_frd=1) - Unit 1 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
-- ... 11 more downloads
-
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 18 examples
-- module_crosscheck / module_item_structural: 14 examples
-- review_queue / structural_no_href: 14 examples
-- review_queue / low_confidence: 8 examples
+- graded_task_missing_due / missing_due_text: 9 examples

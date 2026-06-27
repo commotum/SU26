@@ -6,12 +6,13 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - Modules: 36
 - Module items: 274
-- Tasks: 258
+- Tasks: 260
 - Surface-only Assignments/Grades rows: 0
 - Retry URLs queued: 0
-- Downloads queued for parsing: 52
-- Rule-improvement buckets: 7
-- Manual-review rows: 192
+- Parsed downloads: 48
+- Downloads needing action: 4
+- Rule-improvement buckets: 1
+- Manual-review rows: 196
 
 ## Modules
 
@@ -24,15 +25,15 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 - **SETUP** [Achieve Registration Process_v3.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223565?module_item_id=26982524) - module_item_has_task
 - **ACTION** [Free Trial/Grace Period in Achieve (2 weeks)](https://canvas.oregonstate.edu/courses/2080857/pages/free-trial-slash-grace-period-in-achieve-2-weeks?module_item_id=26982525) - module_item_has_task
 - **PREP** [OpenStax Course Online Textbook (pdf downloadable) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982526) - module_item_has_task
-- **SETUP** Gradescope Submissions - Students are held accountable for verifying submissions 8 - module_item_structural review=structural_no_href
-- **PREP** Videos below: Show what verifying subs looks like. 9 - module_item_structural review=structural_no_href
+- **SETUP** Gradescope Submissions - Students are held accountable for verifying submissions 8 - module_item_reference_only
+- **PREP** Videos below: Show what verifying subs looks like. 9 - module_item_reference_only
 - **SETUP** [Gradescope Submission Using Phone (no audio)](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982529) - module_item_has_task
 - **SETUP** [Gradescope Submission Using Computer (no audio)](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982530) - module_item_has_task
 - **REF** [Start Here — Where to go for help?](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-where-to-go-for-help?module_item_id=26982531) - module_item_reference_only
 - **REF** [Start Here — Accessibility Statements & Privacy Policies](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-accessibility-statements-and-privacy-policies?module_item_id=26982532) - module_item_reference_only
 - **SETUP** [Start Here — Sources Cited](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-sources-cited?module_item_id=26982533) - module_item_has_task
 - **REF** [Start Here — Conclusion](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-conclusion?module_item_id=26982534) - module_item_reference_only
-- **TASK** [Q&A Discussion](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539) - module_item_has_task
+- **REF** [Q&A Discussion](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539) - module_item_reference_only
 
 ### 2. Tutoring Support and Course Resources
 
@@ -197,7 +198,7 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 ### 18. Final Exam: Available Monday - Wednesday of week 11
 
-- **CHECK** Retake - Only ONE retake submission is permitted. 1 - module_item_structural review=structural_no_href
+- **REF** Retake - Only ONE retake submission is permitted. 1 - module_item_reference_only
 - **TASK** [Final Mini-Exam 5 --> Monday to Wednesday](https://canvas.oregonstate.edu/courses/2080857/assignments/10586043?module_item_id=26982652) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Mini-Exam 1 - Retake](https://canvas.oregonstate.edu/courses/2080857/assignments/10586046?module_item_id=26982653) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Mini-Exam 2 - Retake](https://canvas.oregonstate.edu/courses/2080857/assignments/10586047?module_item_id=26982654) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
@@ -212,90 +213,90 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 - **PREP** [Upper, Lower, Left, and Right Sums Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982658) - module_item_has_task
 - **PREP** [Area under curve: Rectangles Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982659) - module_item_has_task
-- **ACTION** [Application: Area under curve: Distance Links to an external site.](https://youtu.be/DZZd1qo1n2A) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Area under curve, more rectangles Links to an external site.](https://youtu.be/B8WYjWiw5YM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Application: Area under the graph, table Links to an external site.](https://youtu.be/_lNM3EZhByw) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Area under curve: Left Sum Links to an external site.](https://youtu.be/v9WTXqKgg7I) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Area under curve: Right Sum Links to an external site.](https://youtu.be/BvwyTXeuLS0) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Midpoint rule 1 Links to an external site.](https://youtu.be/GIiRh4V9GvI) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Midpoint rule 2 Links to an external site.](https://youtu.be/LmVPqLOPsqc) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Midpoint rule with table Links to an external site.](https://youtu.be/5FYkXyyTnUE) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Application: Area under curve: Distance Links to an external site.](https://youtu.be/DZZd1qo1n2A) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve, more rectangles Links to an external site.](https://youtu.be/B8WYjWiw5YM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Application: Area under the graph, table Links to an external site.](https://youtu.be/_lNM3EZhByw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve: Left Sum Links to an external site.](https://youtu.be/v9WTXqKgg7I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve: Right Sum Links to an external site.](https://youtu.be/BvwyTXeuLS0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule 1 Links to an external site.](https://youtu.be/GIiRh4V9GvI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule 2 Links to an external site.](https://youtu.be/LmVPqLOPsqc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule with table Links to an external site.](https://youtu.be/5FYkXyyTnUE) - module_item_external_unvisited review=external_surface
 
 ### 21. 1.2 Definite Integrals
 
-- **ACTION** [Riemann sums: Right Sum Links to an external site.](https://youtu.be/PjiB_-cVly0) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Intro: Definite Integral Links to an external site.](https://youtu.be/VDOBMZRWxmw) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Using geometry Links to an external site.](https://youtu.be/jTjrLTEQEws) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Setting up the integral Links to an external site.](https://youtu.be/6pQUsnRKxSg) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Convert Riemann sum to integrals Links to an external site.](https://youtu.be/FZKRsD9FqU4) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Properties continued Links to an external site.](https://youtu.be/UgUKjUAkwN8) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integrals: Properties Links to an external site.](https://youtu.be/ycOZVVVXHvM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Intro and application Links to an external site.](https://youtu.be/HnZTll3OmIc) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Function plus constant Links to an external site.](https://youtu.be/kmnvYAS409s) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Constant*function Links to an external site.](https://youtu.be/csjUDj6HMpc) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Definite integral: Trig Links to an external site.](https://youtu.be/itmNYsvNiHs) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Riemann sums: Right Sum Links to an external site.](https://youtu.be/PjiB_-cVly0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro: Definite Integral Links to an external site.](https://youtu.be/VDOBMZRWxmw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Using geometry Links to an external site.](https://youtu.be/jTjrLTEQEws) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Setting up the integral Links to an external site.](https://youtu.be/6pQUsnRKxSg) - module_item_external_unvisited review=external_surface
+- **ACTION** [Convert Riemann sum to integrals Links to an external site.](https://youtu.be/FZKRsD9FqU4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Properties continued Links to an external site.](https://youtu.be/UgUKjUAkwN8) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integrals: Properties Links to an external site.](https://youtu.be/ycOZVVVXHvM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Intro and application Links to an external site.](https://youtu.be/HnZTll3OmIc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Function plus constant Links to an external site.](https://youtu.be/kmnvYAS409s) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Constant*function Links to an external site.](https://youtu.be/csjUDj6HMpc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Trig Links to an external site.](https://youtu.be/itmNYsvNiHs) - module_item_external_unvisited review=external_surface
 
 ### 22. 1.3 Fundamental Theorem of Calculus I & II / Antiderivatives
 
-- **ACTION** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://youtu.be/jyRdHbHeUuU) - module_item_external_unvisited review=low_confidence|external_surface
-- **PREP** [Area Accumulation Graph Analysis (OpenStax Specific) Links to an external site.](https://youtu.be/yjJ1JIvX7t4) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Fundamental Theorem of Calc (FToC): Definite integrals Links to an external site.](https://youtu.be/ZTqEj1NyGPw) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [FToC: Setup and solve Links to an external site.](https://youtu.be/YE9jpfxEFYk) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [FToC: Example Links to an external site.](https://youtu.be/gJtkTRjqM6I) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [FToC: Polynomial example Links to an external site.](https://youtu.be/X5ke8bUiiQM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [FToC: Trig example Links to an external site.](https://youtu.be/GwOhAkU-A0M) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [FToC: Example using area Links to an external site.](https://youtu.be/zdWBJTOfdiM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [The antiderivative 1 Links to an external site.](https://youtu.be/US8p_qO4Or8) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [The antiderivative 2 Links to an external site.](https://youtu.be/0s4_ojV_HNY) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [The antiderivative (trig) Links to an external site.](https://youtu.be/7TPVm_DwsYE) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Find antiderivative 2 Links to an external site.](https://youtu.be/-_FJ1V5_Fcc) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Find antiderivative 3 Links to an external site.](https://youtu.be/KM61G41NKGY) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://youtu.be/jyRdHbHeUuU) - module_item_external_unvisited review=external_surface
+- **PREP** [Area Accumulation Graph Analysis (OpenStax Specific) Links to an external site.](https://youtu.be/yjJ1JIvX7t4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Fundamental Theorem of Calc (FToC): Definite integrals Links to an external site.](https://youtu.be/ZTqEj1NyGPw) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Setup and solve Links to an external site.](https://youtu.be/YE9jpfxEFYk) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Example Links to an external site.](https://youtu.be/gJtkTRjqM6I) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Polynomial example Links to an external site.](https://youtu.be/X5ke8bUiiQM) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Trig example Links to an external site.](https://youtu.be/GwOhAkU-A0M) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Example using area Links to an external site.](https://youtu.be/zdWBJTOfdiM) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative 1 Links to an external site.](https://youtu.be/US8p_qO4Or8) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative 2 Links to an external site.](https://youtu.be/0s4_ojV_HNY) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative (trig) Links to an external site.](https://youtu.be/7TPVm_DwsYE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Find antiderivative 2 Links to an external site.](https://youtu.be/-_FJ1V5_Fcc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Find antiderivative 3 Links to an external site.](https://youtu.be/KM61G41NKGY) - module_item_external_unvisited review=external_surface
 
 ### 23. 1.3 - Continued: Working with Integrals
 
-- **ACTION** [Average value of a function Links to an external site.](https://youtu.be/2ikYbP6DpzE) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Average Value: Find C Value(s) (Alta Specific) Links to an external site.](https://youtu.be/20XiiJFlgd0) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Average value of f continued Links to an external site.](https://youtu.be/3BxBjhsoF6o) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Average temperature Links to an external site.](https://youtu.be/ba7HOTlDBec) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Application: Average value of investment Links to an external site.](https://youtu.be/80fxxec6ihM) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Average value of a function Links to an external site.](https://youtu.be/2ikYbP6DpzE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average Value: Find C Value(s) (Alta Specific) Links to an external site.](https://youtu.be/20XiiJFlgd0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average value of f continued Links to an external site.](https://youtu.be/3BxBjhsoF6o) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average temperature Links to an external site.](https://youtu.be/ba7HOTlDBec) - module_item_external_unvisited review=external_surface
+- **ACTION** [Application: Average value of investment Links to an external site.](https://youtu.be/80fxxec6ihM) - module_item_external_unvisited review=external_surface
 
 ### 24. 1.4 Integration Formulas and Net Change
 
-- **ACTION** [Intro: Net change theorem Links to an external site.](https://youtu.be/EivFp4mscX4) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Net change in population Links to an external site.](https://youtu.be/jX2MPRxtTwE) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Net Displacement at Time t (Alta Specific) Links to an external site.](https://youtu.be/HLYafwRnYyk) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Area under the curve: Interpretation, velocity Links to an external site.](https://youtu.be/Z_OHgubPJKA) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Velocity example 1 Links to an external site.](https://youtu.be/VS2CEu6qbUg) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Future value Links to an external site.](https://youtu.be/rlyoHQn8eSY) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Integration: Odd/Even functions Links to an external site.](https://youtu.be/gxcZ80pWOx0) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Integration: Odd/Even function continued Links to an external site.](https://youtu.be/MKM_E81rFII) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Intro: Net change theorem Links to an external site.](https://youtu.be/EivFp4mscX4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Net change in population Links to an external site.](https://youtu.be/jX2MPRxtTwE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Net Displacement at Time t (Alta Specific) Links to an external site.](https://youtu.be/HLYafwRnYyk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under the curve: Interpretation, velocity Links to an external site.](https://youtu.be/Z_OHgubPJKA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Velocity example 1 Links to an external site.](https://youtu.be/VS2CEu6qbUg) - module_item_external_unvisited review=external_surface
+- **ACTION** [Future value Links to an external site.](https://youtu.be/rlyoHQn8eSY) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration: Odd/Even functions Links to an external site.](https://youtu.be/gxcZ80pWOx0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration: Odd/Even function continued Links to an external site.](https://youtu.be/MKM_E81rFII) - module_item_external_unvisited review=external_surface
 
 ### 25. 1.5 Substitution (u-sub)
 
-- **ACTION** [Intro. Substitution Links to an external site.](https://youtu.be/568hUU4beuk) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Intro. Substitution continued Links to an external site.](https://youtu.be/3MbdmYeYB_I) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution with definite integrals Links to an external site.](https://youtu.be/emRDaSYCLMs) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Rational function Links to an external site.](https://youtu.be/hauyUjzRTos) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Exponential Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Trig Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution: Inverse trig example 1 Links to an external site.](https://youtu.be/J6MvP8SYVfo) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution: Inverse trig example 2 Links to an external site.](https://youtu.be/ypoOeSJjp4k) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Logarithms Links to an external site.](https://youtu.be/FJHHQdQEecE) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Rational function with logs Links to an external site.](https://youtu.be/VY5r1-9apdc) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution example: Composed exponential with trig Links to an external site.](https://youtu.be/zherIhRjLtM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Substitution with indefinite integral Links to an external site.](https://youtu.be/GQC0YcyEzto) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Intro. Substitution Links to an external site.](https://youtu.be/568hUU4beuk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Substitution continued Links to an external site.](https://youtu.be/3MbdmYeYB_I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution with definite integrals Links to an external site.](https://youtu.be/emRDaSYCLMs) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Rational function Links to an external site.](https://youtu.be/hauyUjzRTos) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Exponential Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Trig Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution: Inverse trig example 1 Links to an external site.](https://youtu.be/J6MvP8SYVfo) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution: Inverse trig example 2 Links to an external site.](https://youtu.be/ypoOeSJjp4k) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Logarithms Links to an external site.](https://youtu.be/FJHHQdQEecE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Rational function with logs Links to an external site.](https://youtu.be/VY5r1-9apdc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Composed exponential with trig Links to an external site.](https://youtu.be/zherIhRjLtM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution with indefinite integral Links to an external site.](https://youtu.be/GQC0YcyEzto) - module_item_external_unvisited review=external_surface
 
 ### 26. 1.6 Exponentials and Logarithms
 
-- **ACTION** [Example problems: Exponentials Links to an external site.](https://youtu.be/D9dqdbCgJQM) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Integrating exponentials: example 2 Links to an external site.](https://youtu.be/DffQa5SyMSE) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Integrating exponentials: Example 3 Links to an external site.](https://youtu.be/BNSonfQqHA4) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Integrating Natural Log (Alta Specific) Links to an external site.](https://youtu.be/ZL3rzP04cGQ) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Example problems: Exponentials Links to an external site.](https://youtu.be/D9dqdbCgJQM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating exponentials: example 2 Links to an external site.](https://youtu.be/DffQa5SyMSE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating exponentials: Example 3 Links to an external site.](https://youtu.be/BNSonfQqHA4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating Natural Log (Alta Specific) Links to an external site.](https://youtu.be/ZL3rzP04cGQ) - module_item_external_unvisited review=external_surface
 
 ### 27. 3.1 Integration by Parts
 
-- **ACTION** [Intro. Integration by Parts Links to an external site.](https://youtu.be/xmFK_mG120k) - module_item_external_unvisited review=low_confidence|external_surface
-- **ACTION** [Intro. Integration by Parts: Definite integral Links to an external site.](https://youtu.be/aA15lSLSxgE) - module_item_external_unvisited review=low_confidence|external_surface
+- **ACTION** [Intro. Integration by Parts Links to an external site.](https://youtu.be/xmFK_mG120k) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Integration by Parts: Definite integral Links to an external site.](https://youtu.be/aA15lSLSxgE) - module_item_external_unvisited review=external_surface
 - **PREP** [Intro. indefinite integral continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982723) - module_item_has_task
 - **PREP** [Intro. Integration by Parts example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982724) - module_item_has_task
 - **PREP** [Indefinite integral: Example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982725) - module_item_has_task
@@ -399,36 +400,13 @@ Generated 2026-06-26 from the completed Canvas crawl archive.
 
 ## Review Queues
 
-### Downloads To Parse
+### Downloads Needing Action
 
-- [MTH 252Z-400 Syllabus U26 Gilliam.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119246076/download?download_frd=1) - Syllabus and Calendar (as of 6/21) --> Both Sections 400 and 401: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [MTH 252Z-401 Syllabus U26 Gilliam.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119246078/download?download_frd=1) - Syllabus and Calendar (as of 6/21) --> Both Sections 400 and 401: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [MTH-252-Online-Course-Calendar.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119246095/download?download_frd=1) - Syllabus and Calendar (as of 6/21) --> Both Sections 400 and 401: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [Achieve Registration Process_v3.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223565/download?download_frd=1) - Achieve Registration Process_v3.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [MLC Hours.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223484/download?download_frd=1) - MLC Hours.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-1.1-to-ME1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223553/download?download_frd=1) - 252-Lecture-1.1-to-ME1.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-1.1-to-ME1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223553/download?download_frd=1) - 252-Lecture-1.1-to-ME1.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-1.3-to-ME2.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223594/download?download_frd=1) - 252-Lecture-1.3-to-ME2.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-1.3-to-ME2.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223594/download?download_frd=1) - 252-Lecture-1.3-to-ME2.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-3.1-to-ME3.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223561/download?download_frd=1) - 252-Lecture-3.1-to-ME3.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [Lecture-3.1-3.2.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223595/download?download_frd=1) - Lecture-3.1-3.2.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-3.1-to-ME3.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223561/download?download_frd=1) - 252-Lecture-3.1-to-ME3.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-2.1-to-ME4.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223597/download?download_frd=1) - 252-Lecture-2.1-to-ME4.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-2.1-to-ME4.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223597/download?download_frd=1) - 252-Lecture-2.1-to-ME4.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [Lecture-2.3-2.4.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223466/download?download_frd=1) - Lecture-2.3-2.4.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-2.5-to-ME5.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223598/download?download_frd=1) - 252-Lecture-2.5-to-ME5.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223617/download?download_frd=1) - Dr. G's Videos --> 2.5: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [252-Lecture-2.5-to-ME5.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223598/download?download_frd=1) - 252-Lecture-2.5-to-ME5.pdf: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223618/download?download_frd=1) - Dr G's Videos --> 3.7: INTEGRAL CALCULUS (MTH_252Z_400_U2026)
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223455/download?download_frd=1) - Mini-Exam 2 - Retake
-- ... 32 more downloads
+- [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 
 ### Rule Improvements
 
-- review_queue / low_confidence: 79 examples
-- graded_task_missing_due / missing_due_text: 21 examples
-- capture_issue / page_not_found: 20 examples
-- module_crosscheck / module_item_structural: 3 examples
-- review_queue / structural_no_href: 3 examples
-- review_queue / blocked_or_broken: 1 examples
-- task_without_module / blocked_or_broken: 1 examples
+- graded_task_missing_due / missing_due_text: 19 examples

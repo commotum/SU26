@@ -1,0 +1,5 @@
+3.1
+Evaluate the integral below.
+[so (In (5x)) dx
+Be sure to place the argument of any trigonometric or logarithmic functions in parentheses in
+your answer.

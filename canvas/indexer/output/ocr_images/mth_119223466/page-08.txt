@@ -1,0 +1,3 @@
+Q is the region bounded by the graph of v(y) = 4y,.x = 6, and y = 0. Find the volume of
+the solid of revolution formed by revolving Q around the x-axis.
+Submit an exact answer in terms of z.
