@@ -228,11 +228,11 @@ Category: course.
 Email type: routine.
 Importance: high.
 Decision: do.
-Mailbox action: opened.
+Mailbox action: restored_unread.
 Next action: Complete Start Here, register Achieve through Canvas, use the 14-day trial if needed, and check Gradescope.
 Linked task: TASK-0003.
 Deadline: 2026-06-29.
-Notes: Full body read and marked read because it is a routine course announcement after task logging.
+Notes: Full body read. Moved to hot and restored unread after the cold audit because it contains current MTH 252 setup, Achieve, Gradescope, and first due-date information.
 
 ### EMAIL-0073 - MTH 253 Week 1 Work
 
@@ -260,11 +260,11 @@ Category: course.
 Email type: routine.
 Importance: high.
 Decision: do.
-Mailbox action: opened.
+Mailbox action: restored_unread.
 Next action: Check Canvas grade book for M1-0 credit; if it shows zero, watch the Module 1 lecture video and submit M1-0asy.
 Linked task: TASK-0005.
 Deadline:
-Notes: Full body read. Outlook already had this message read; Codex did not change its read state.
+Notes: Full body read. Moved to hot and restored unread after the cold audit because it contains PH 212 first-day lecture, participation-credit, and make-up assignment information.
 
 ### EMAIL-0079 - MTH 252 Q&A Link Moved To Start Here
 
