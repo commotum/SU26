@@ -39,22 +39,51 @@
   - **Pre-lecture Questions:** ~3-4/week, ~28 `pre` assignments, **0.18%** each; three lowest dropped.
 
 
-## Load Summary By Type
+## Weekly Load
 
-- **Exams:** serious assessment most high-pressure weeks.
+- **Exams:** usually 1 major exam/quiz most weeks; some weeks have 2-3 stacked.
   - **MTH-252:** mini-exam about every other week.
-  - **MTH-253:** unit quiz every few weeks.
+  - **MTH-253:** unit quiz about every other week.
   - **PHY-212:** quiz about every other week, plus final.
 - **Homework:** ~5-7 items/week.
   - **MTH-252:** ~2 Achieve items and 1 WHW/week.
   - **MTH-253:** ~1 Achieve item/week, plus written homework by unit.
   - **PHY-212:** ~1-2 homework sets/week.
-- **Labs:** ~2 deliverables/week.
-  - **PHY-212:** 1 lab discussion/prep and 1 lab report/week, plus TA/group meeting.
-- **Participation:** frequent small items.
-  - **PHY-212:** ~3-4 pre-lecture items and ~3-4 participation items/week.
-  - **MTH-252:** ~1 DR and ~1-2 RQs/week.
-  - **MTH-253:** occasional heavier discussion boards.
-- **Pressure Pattern:** baseline plus spikes.
-  - **Baseline:** homework, PHY lab, and small participation.
-  - **Spikes:** PHY quiz, MTH-253 unit quiz, or MTH-252 mini-exam.
+- **Labs:** ~1.6-2 items/week.
+  - **PHY-212:** ~1 lab discussion/prep and 1 lab report/week, plus TA/group meeting.
+- **Participation:** ~10-11 items/week.
+  - **PHY-212:** ~7-8 small quizzes/week.
+  - **MTH-252:** ~1 discussion and ~2 quizzes/week.
+  - **MTH-253:** occasional discussion board.
+
+
+## Exam Schedule
+
+- **Week 1** (6/21-6/27)
+  - **No Tests**.
+- **Week 2** (6/28-7/4)
+  - **MTH-253:** Unit 1 Quiz, Tue 6/30, **10%**.
+- **Week 3** (7/5-7/11)
+  - **PHY-212:** Quiz 1, Mon 7/6, **20% counted if retained**.
+  - **MTH-252:** Mini-Exam 1, Thu 7/9, **10%**.
+- **Week 4** (7/12-7/18)
+  - **MTH-253:** Unit 2 Quiz, Mon 7/13, **10%**.
+- **Week 5** (7/19-7/25)
+  - **PHY-212:** Quiz 2, Mon 7/20, **20% counted if retained**.
+  - **MTH-252:** Mini-Exam 2, Thu 7/23, **10%**.
+- **Week 6** (7/26-8/1)
+  - **No Tests**.
+- **Week 7** (8/2-8/8)
+  - **MTH-253:** Unit 3 Quiz, Mon 8/3, **10%**.
+  - **PHY-212:** Quiz 3, Mon 8/3, **20% counted if retained**.
+  - **MTH-252:** Mini-Exam 3, Thu 8/6, **10%**.
+- **Week 8** (8/9-8/15)
+  - **PHY-212:** Final Exam, Thu 8/13, **15%**.
+- **Week 9** (8/16-8/22)
+  - **MTH-252:** Mini-Exam 4, Thu 8/20, **10%**.
+- **Week 10** (8/23-8/29)
+  - **MTH-253:** Unit 4 Quiz, Mon 8/24, **10%**.
+- **Week 11** (8/30-9/5)
+  - **MTH-253:** Final Exam, Tue 9/1, **15%**.
+  - **MTH-252:** Final Mini-Exam 5, Wed 9/2, **13%**.
+  - **MTH-252:** Mini-Exam Retakes, Wed 9/2, **optional replacement**.
