@@ -1,0 +1,2 @@
+scope,latest_fully_processed_date,timezone,updated_at,notes
+outlook_inbox_current_term,2026-07-01,America/Los_Angeles,2026-07-02,"All Outlook Inbox messages received on or before this local date have been loaded, deduped, fully processed into hot.csv or cold.csv, and staged.csv was empty at completion. Default load-inbox runs should start at the next calendar day unless the user gives an explicit scope."
