@@ -20,3 +20,14 @@ Source: archived Canvas scrape and `overview.md`.
 ### Homework
 - [ ] Mon 7/6 11:59pm: Week 2 Web Homework - Sequences, **2%**.
 - [ ] Thu 7/9 11:59pm: Unit 2 Written Homework, **3%**.
+
+## PHY-212: General Physics with Calculus
+
+### Exams
+- [ ] Mon 7/6: Quiz 1, **20% counted if retained**.
+
+### Homework
+- [ ] Fri 7/10: HW 3 (ch12a), **1%**.
+
+### Labs
+- [ ] Wed 7/8: Lab 3 - Hypothesis Testing, lab prep item.

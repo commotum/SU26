@@ -15,7 +15,7 @@ Source: archived Canvas scrape and `overview.md`.
 ## MTH-253: Sequences and Series
 
 ### Exams
-- [x] Tue 6/30 10:30pm: Unit 1 Quiz, **10%**.
+- [ ] Tue 6/30 10:30pm: Unit 1 Quiz, **10%**.
 
 ### Homework
 - [ ] Mon 6/29 11:59pm: Week 1 Web Homework, **2%**.
