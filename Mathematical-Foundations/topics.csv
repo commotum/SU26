@@ -1,0 +1,1034 @@
+course,topic-id,topic-number,topic-name
+MF1,543,1.1.1,Adding Fractions and Whole Numbers Using Models
+MF1,539,1.1.2,Adding Fractions and Whole Numbers
+MF1,544,1.1.3,Subtracting Fractions and Whole Numbers Using Models
+MF1,545,1.1.4,Subtracting Fractions and Whole Numbers
+MF1,2440,1.2.1,Least Common Multiples
+MF1,2365,1.2.2,Least Common Denominators
+MF1,2376,1.2.3,Comparing Fraction Models Using Common Denominators
+MF1,4204,1.2.4,Comparing Fractions Using Common Denominators
+MF1,2374,1.2.5,Adding Fractions With Unlike Denominators Using Models
+MF1,2372,1.2.6,Subtracting Fractions With Unlike Denominators Using Models
+MF1,2353,1.2.7,Adding Fractions With Unlike Denominators
+MF1,2357,1.2.8,Subtracting Fractions With Unlike Denominators
+MF1,2354,1.3.1,Adding Mixed Numbers With Unlike Denominators
+MF1,2356,1.3.2,Subtracting Mixed Numbers With Unlike Denominators
+MF1,525,1.3.3,Subtracting Mixed Numbers With Unlike Denominators Using Improper Fractions
+MF1,564,1.4.1,Multiplying Unit Fractions by Whole Numbers Using Models
+MF1,3968,1.4.2,Multiplying Fractions by Whole Numbers Using Models
+MF1,2360,1.4.3,Multiplying Fractions by Whole Numbers
+MF1,566,1.4.4,Multiplying Fractions by Whole Numbers: Word Problems
+MF1,2458,1.4.5,Strategies to Simplify Whole Number and Fraction Multiplication
+MF1,2379,1.4.6,Multiplying Mixed Numbers by Whole Numbers
+MF1,565,1.4.7,Multiplying Fractions by Unit Fractions Using Models
+MF1,3079,1.4.8,Multiplying Fractions Using Models
+MF1,2378,1.4.9,Multiplying Fractions
+MF1,567,1.4.10,Multiplying Fractions: Word Problems
+MF1,2459,1.4.11,Multiplying Fractions by Swapping Denominators
+MF1,2380,1.4.12,Multiplying Mixed Numbers by Fractions
+MF1,2381,1.4.13,Multiplying Mixed Numbers
+MF1,3762,1.4.14,Multiplying Mixed Numbers: Word Problems
+MF1,529,1.5.1,Dividing Whole Numbers by Unit Fractions Using Models
+MF1,533,1.5.2,Dividing Whole Numbers by Unit Fractions
+MF1,528,1.5.3,Dividing Unit Fractions by Whole Numbers Using Models
+MF1,530,1.5.4,Dividing Unit Fractions by Whole Numbers
+MF1,2388,1.5.5,Reciprocals
+MF1,2437,1.5.6,Dividing Whole Numbers by Fractions Using Models: Whole Number Results
+MF1,4698,1.5.7,Dividing Whole Numbers by Fractions Using Models: Fractional Results
+MF1,2377,1.5.8,Dividing Whole Numbers by Fractions
+MF1,2436,1.5.9,Dividing Fractions by Whole Numbers Using Models
+MF1,2369,1.5.10,Dividing Fractions by Whole Numbers
+MF1,2438,1.5.11,Dividing Fractions Using Models
+MF1,2382,1.5.12,Dividing Fractions
+MF1,534,2.1.1,Introduction to Ratios
+MF1,553,2.1.2,Equivalent Ratios
+MF1,552,2.1.3,Writing Ratios Using Fractions
+MF1,563,2.1.4,Reasoning With Equivalent Ratios
+MF1,3746,2.1.5,Further Reasoning With Equivalent Ratios
+MF1,554,2.1.6,Ratio Tables
+MF1,561,2.1.7,Graphing Ratios
+MF1,557,2.1.8,Unit Rates
+MF1,558,2.1.9,Solving Problems Using Unit Rates
+MF1,3593,2.1.10,Speed as a Unit Rate
+MF1,2553,2.2.1,Understanding Proportional Relationships Using Tables
+MF1,2552,2.2.2,Understanding Proportional Relationships Using Graphs
+MF1,2554,2.2.3,Understanding Proportional Relationships From Descriptions
+MF1,2274,2.2.4,Modeling with Direct Variation
+MF1,2273,2.2.5,Inverse Variation
+MF1,3664,2.2.6,Modeling With Inverse Variation
+MF1,236,2.3.1,Units of Length
+MF1,4196,2.3.2,Units of Mass
+MF1,4197,2.3.3,Units of Time
+MF1,4198,2.3.4,Units of Volume
+MF1,2403,2.3.5,Understanding Volume Using Unit Cubes
+MF1,3872,2.3.6,Units of Area and Volume
+MF1,3868,2.3.7,Unit Conversions Using Base Units of Mass
+MF1,3871,2.3.8,Two-Step Unit Conversions
+MF1,3869,2.3.9,Unit Conversions Using Base Units of Length
+MF1,3870,2.3.10,Unit Conversions Using Units of Time
+MF1,2229,2.3.11,Converting Units of Area to Smaller Units
+MF1,3990,2.3.12,Converting Units of Area to Larger Units
+MF1,2233,2.3.13,Converting Between Mixed Units
+MF1,2230,2.3.14,Determining Units in Formulas
+MF1,2231,2.3.15,Selecting Units for Rates of Change
+MF1,2234,2.3.16,Degrees of Accuracy
+MF1,562,2.4.1,Understanding Percentages Using Models
+MF1,2451,2.4.2,Converting Between Percentages and Fractions
+MF1,2452,2.4.3,Converting Between Percentages and Decimals
+MF1,2453,2.4.4,Finding Part of a Number Given a Whole and a Percentage
+MF1,2454,2.4.5,Finding Part of a Number Given a Whole and a Percentage: Word Problems
+MF1,2455,2.4.6,Finding a Percentage Given Two Numbers
+MF1,3754,2.4.7,Finding a Percentage Given Two Numbers: Word Problems
+MF1,2456,2.4.8,Finding a Total Given a Part and a Percentage
+MF1,6642,2.4.9,Applying Percentages in Succession
+MF1,2560,2.5.1,Applying Percentage Increases
+MF1,6643,2.5.2,Applying Percentage Decreases
+MF1,6666,2.5.3,Calculating Percentage Change
+MF1,6646,2.5.4,Finding Original Values From Percentage Increases
+MF1,6663,2.5.5,Finding Original Values From Percentage Decreases
+MF1,327,3.1.1,Subtracting a Positive Number From a Smaller Positive Number
+MF1,3720,3.1.2,Subtracting a Positive Number From a Negative Number
+MF1,3679,3.1.3,Subtracting a Positive Fraction From a Smaller Fraction
+MF1,3680,3.1.4,Subtracting a Positive Decimal From a Smaller Decimal
+MF1,329,3.1.5,Adding a Positive Number to a Negative Number
+MF1,328,3.1.6,Adding a Negative Number
+MF1,297,3.1.7,Subtracting a Negative Number
+MF1,524,3.1.8,Additive Inverses of Numbers
+MF1,1131,3.1.9,Solving Problems Using Addition and Subtraction of Rational Numbers
+MF1,2281,3.1.10,Absolute Value
+MF1,298,3.2.1,Multiplying Positive Numbers With Negative Numbers
+MF1,3718,3.2.2,Multiplying Negative Numbers
+MF1,330,3.2.3,Dividing With Negative Numbers
+MF1,4136,3.2.4,Equivalent Fractions With Negative Numbers
+MF1,3719,3.2.5,Dividing With Negative Decimals and Fractions
+MF1,2202,3.2.6,Reciprocals of Rational Numbers
+MF1,299,3.2.7,Multiplying and Dividing With Zero
+MF1,323,3.2.8,Fractions of Fractions
+MF1,1024,3.2.9,Solving Problems Using the Four Operations on Rational Numbers
+MF1,2805,3.3.1,"Divisibility of Integers by 2, 5, 10, 4, and 8"
+MF1,3543,3.3.2,"Divisibility of Integers by 3, 9, 6, and 7"
+MF1,840,3.3.3,Prime and Composite Numbers
+MF1,829,3.3.4,Prime Factors
+MF1,4250,3.3.5,The Fundamental Theorem of Arithmetic
+MF1,811,3.3.6,Finding Greatest Common Factors Using Prime Factorization
+MF1,755,3.3.7,Finding Lowest Common Multiples Using Prime Factorization
+MF1,2558,3.3.8,"Natural Numbers, Integers, and Rational Numbers"
+MF1,2564,3.3.9,Writing Repeating Decimals as Fractions
+MF1,2314,4.1.1,Introduction to Exponents
+MF1,2321,4.1.2,Evaluating Exponents
+MF1,3537,4.1.3,Evaluating Larger Exponents
+MF1,2476,4.1.4,Evaluating Exponents With Fractional Bases
+MF1,2477,4.1.5,Evaluating Exponents With Decimal Bases
+MF1,2475,4.1.6,Evaluating Whole Number Expressions Containing Exponents
+MF1,2174,4.1.7,Squaring Rational Numbers
+MF1,2195,4.1.8,Cubing Rational Numbers
+MF1,125,4.1.9,Exponents With Rational Bases
+MF1,322,4.1.10,The Zeroth Power
+MF1,652,4.1.11,Powers of Negative One
+MF1,3561,4.1.12,Negative Exponents
+MF1,267,4.2.1,The Product Rule for Exponents
+MF1,1223,4.2.2,The Quotient Rule for Exponents
+MF1,1224,4.2.3,The Power Rule for Exponents
+MF1,2012,4.2.4,The Power of Product Rule for Exponents
+MF1,1289,4.2.5,The Power of Quotient Rule for Exponents
+MF1,1457,4.2.6,Combining the Rules of Exponents
+MF1,2561,4.3.1,Evaluating Rational Number Expressions Without Exponents
+MF1,121,4.3.2,Evaluating Expressions With Positive Integer Exponents
+MF1,1987,4.3.3,Evaluating Expressions With Integer Exponents
+MF1,1822,4.4.1,The Square Root of a Perfect Square
+MF1,3552,4.4.2,Squaring a Square Root
+MF1,1819,4.4.3,The Cube Root of a Perfect Cube
+MF1,2204,4.4.4,Surds
+MF1,3709,4.4.5,Simplifying Expressions With Surds
+MF1,589,4.4.6,Evaluating Numerical Expressions Containing Radicals
+MF1,484,4.4.7,Adding and Subtracting Radicals
+MF1,1318,4.4.8,Rationalizing Denominators
+MF1,2607,4.5.1,Radicals as Fractional Exponents
+MF1,1927,4.5.2,The Product Rule for Radicals
+MF1,2240,4.5.3,The Quotient Rule for Radicals
+MF1,63,5.1.1,Introduction to Algebraic Expressions
+MF1,3721,5.1.2,Constructing Algebraic Expressions
+MF1,64,5.1.3,Evaluating Linear Expressions
+MF1,2183,5.1.4,Evaluating Rational Expressions
+MF1,643,5.1.5,Identifying Terms in Linear Expressions
+MF1,645,5.1.6,Identifying Coefficients and Constants
+MF1,85,5.1.7,The Greatest Common Factor of Two Linear Expressions
+MF1,644,5.2.1,Identifying Like Terms in Linear Expressions
+MF1,134,5.2.2,Collecting Like Terms in Linear Expressions
+MF1,135,5.2.3,Applying the Distributive Law With Linear Expressions
+MF1,3847,5.2.4,The Distributive Law With Three Terms
+MF1,137,5.2.5,Distributing the Negative Sign in a Linear Expression
+MF1,138,5.2.6,Simplifying Linear Expressions Using the Distributive Law
+MF1,3873,5.2.7,Simplifying Linear Expressions When a Group of Terms Is Subtracted
+MF1,2244,5.2.8,Simplifying Linear Expressions Containing Fractions
+MF1,87,5.2.9,Factoring Linear Expressions
+MF1,1412,5.3.1,Solving Linear Equations by Trial and Error
+MF1,65,5.3.2,Solving One-Step Addition and Subtraction Equations
+MF1,40,5.3.3,Solving One-Step Multiplication and Division Equations
+MF1,66,5.4.1,Solving Two-Step Equations
+MF1,67,5.4.2,Solving Linear Equations With Fractional Coefficients
+MF1,2270,5.4.3,Solving Linear Equations With Decimal Coefficients
+MF1,343,5.4.4,Solving Linear Equations With Variables on Both Sides
+MF1,651,5.4.5,Solving Linear Equations by Clearing a Rational Expression
+MF1,1413,5.4.6,Solving Linear Equations Using Cross-Multiplication
+MF1,356,5.4.7,Solving Two-Variable Equations
+MF1,1414,5.4.8,Linear Equations With Infinitely Many Solutions
+MF1,5572,5.4.9,Linear Equations With No Solutions
+MF1,3747,5.4.10,Solving Linear Equations With Unknown Coefficients
+MF1,3752,5.4.11,Solving Linear Equations With Unknown Coefficients by Factoring
+MF1,354,5.4.12,Solving Many-Variable Equations
+MF1,2213,5.5.1,Interpreting Linear Expressions
+MF1,426,5.5.2,Modeling With Linear Equations
+MF1,178,5.6.1,Inequalities
+MF1,2310,5.6.2,Compound Inequalities
+MF1,387,5.6.3,Verifying Solutions of Linear Inequalities
+MF1,38,5.6.4,Solving One-Step Linear Inequalities
+MF1,4021,5.6.5,Solving Two-Step Inequalities
+MF1,4031,5.6.6,Representing Solutions to Inequalities on Number Lines
+MF1,4034,5.6.7,Further Solving Linear Inequalities
+MF1,388,5.6.8,Solving Compound Inequalities
+MF1,239,5.6.9,Interval Notation
+MF1,4028,5.6.10,Unbounded Intervals
+MF1,458,5.6.11,Unions of Intervals
+MF1,347,5.6.12,Intersections of Intervals
+MF1,1576,5.6.13,Compound OR Inequalities
+MF1,350,5.6.14,Compound AND Inequalities
+MF1,430,5.7.1,Solving Equations Using the Square Root Method
+MF1,3748,5.7.2,Solving Equations With Odd Exponents Using the Nth Root Method
+MF1,1587,5.7.3,Solving Equations With Even Exponents Using the Nth Root Method
+MF1,92,6.1.1,The Cartesian Coordinate System
+MF1,573,6.1.2,Distances Between Points in the Coordinate Plane
+MF1,94,6.1.3,Two-Variable Linear Equations and Their Solutions
+MF1,95,6.1.4,Graphing Linear Equations
+MF1,97,6.1.5,Horizontal and Vertical Lines
+MF1,396,6.1.6,Calculating Slopes of Straight Lines
+MF1,1240,6.1.7,Equations of Lines in Slope-Intercept Form
+MF1,398,6.1.8,Properties of Lines Given in Slope-Intercept Form
+MF1,418,6.1.9,Equations of Lines in Point-Slope Form
+MF1,839,6.1.10,Equations of Lines in Standard Form
+MF1,3725,6.1.11,Properties of Lines Given in Standard Form
+MF1,837,6.1.12,Parallel Lines in the Coordinate Plane
+MF1,653,6.2.1,Modeling With Linear Equations in Two Variables
+MF1,1588,6.2.2,Analyzing and Interpreting Graphs of Linear Equations
+MF1,3765,6.2.3,Further Modeling With Linear Equations in Two Variables
+MF1,1589,6.2.4,Distance-Time Graphs
+MF1,2327,6.2.5,Speed-Time Graphs
+MF1,1590,6.2.6,Calculating Distance From a Speed-Time Graph
+MF1,2225,6.3.1,Introduction to Systems of Linear Equations
+MF1,487,6.3.2,Solving Systems of Equations by Substitution
+MF1,742,6.3.3,Introduction to the Elimination Method
+MF1,4026,6.3.4,Solving Systems of Linear Equations Using Elimination: One Transformation
+MF1,4236,6.3.5,Solving Systems of Linear Equations Using Elimination: Two Transformations
+MF1,1045,6.3.6,Systems of Linear Equations With Fractional Coefficients
+MF1,1081,6.3.7,Systems of Linear Equations With Decimal Coefficients
+MF1,101,6.3.8,Solving Systems of Nonlinear Equations Using Graphs
+MF1,493,6.3.9,Systems of Equations With No Solutions and Infinitely Many Solutions
+MF1,4638,6.3.10,Consistency and Dependency in Linear Systems
+MF1,408,6.3.11,Calculating the Intersection of Two Lines
+MF1,380,7.1.1,Writing Radical Expressions Using Fractional Exponents
+MF1,376,7.1.2,The Square Root of a Perfect Square With Algebraic Expressions
+MF1,3729,7.1.3,The Square Root of a Perfect Square With Domain Restrictions
+MF1,381,7.1.4,The Cube Root of a Perfect Cube With Algebraic Expressions
+MF1,389,7.1.5,Simplifying Square Root Expressions Using the Product Rule
+MF1,390,7.1.6,Simplifying Square Root Expressions Using the Quotient Rule
+MF1,3848,7.1.7,Combining Radical Expressions Using the Product Rule
+MF1,2184,7.1.8,Evaluating Algebraic Radical Expressions
+MF1,3756,7.1.9,Adding and Subtracting Radical Expressions
+MF1,1297,7.2.1,Equivalent Expressions With Fractions
+MF1,68,7.2.2,Simplifying Rational Expressions
+MF1,423,7.2.3,Simplifying Rational Expressions by Factoring
+MF1,355,7.2.4,Splitting Rational Expressions Into Separate Terms
+MF1,1415,7.3.1,Solving Rational Equations Containing One Fractional Term
+MF1,698,7.3.2,Solving Rational Equations Using Cross-Multiplication
+MF1,3555,7.3.3,Solving Rational Equations Containing Binomials Using Cross-Multiplication
+MF1,266,7.3.4,Solving Rational Equations Using the Flip Method
+MF1,470,8.1.1,Introduction to Functions
+MF1,631,8.1.2,Visual Representations of Functions
+MF1,3821,8.1.3,Graphs of Functions
+MF1,802,8.1.4,The Domain of a Function
+MF1,1888,8.1.5,Global Extrema of Functions
+MF1,2048,8.1.6,End Behavior of Functions
+MF1,754,8.1.7,The Range of a Function
+MF1,3728,8.1.8,The Range of a Function: Advanced Cases
+MF1,2022,8.1.9,The Roots of a Function
+MF1,1628,8.1.10,Increasing and Decreasing Functions
+MF1,165,8.1.11,Piecewise Functions
+MF1,2220,8.1.12,Modeling With Linear Functions
+MF1,6219,8.1.13,Constructing Linear Functions
+MF1,96,9.1.1,Absolute Value Expressions
+MF1,75,9.1.2,Rules of Absolute Value
+MF1,3536,9.1.3,Further Rules of Absolute Value
+MF1,384,9.1.4,Absolute Value Equations
+MF1,4029,9.1.5,Further Absolute Value Equations
+MF1,451,9.1.6,Absolute Value Inequalities
+MF1,790,9.1.7,Absolute Value Graphs
+MF1,452,9.1.8,Vertical Reflections of Absolute Value Graphs
+MF1,1244,9.1.9,Stretches of Absolute Value Graphs
+MF1,3559,9.1.10,Combining Transformations of Absolute Value Graphs
+MF1,1884,9.1.11,Domain and Range of Absolute Value Functions
+MF1,71,10.1.1,The Product Rule for Exponents With Algebraic Expressions
+MF1,374,10.1.2,The Quotient Rule for Exponents With Algebraic Expressions
+MF1,362,10.1.3,The Power Rule for Exponents With Algebraic Expressions
+MF1,1331,10.1.4,The Power of Product Rule With Algebraic Expressions
+MF1,1428,10.1.5,The Power of Quotient Rule With Algebraic Expressions
+MF1,1417,10.1.6,Combining the Rules of Exponents With Algebraic Expressions
+MF1,391,10.2.1,Solving Exponential Equations
+MF1,1499,10.2.2,Creating Exponential Growth Expressions
+MF1,142,10.2.3,Creating Exponential Decay Expressions
+MF1,1153,10.3.1,Exponential Functions
+MF1,2471,10.3.2,Modeling Exponential Growth With Functions
+MF1,2465,10.3.3,Interpreting Exponential Growth
+MF1,2464,10.3.4,Solving Exponential Growth Problems
+MF1,2472,10.3.5,Modeling Exponential Decay With Functions
+MF1,1629,10.3.6,Interpreting Exponential Decay
+MF1,2466,10.3.7,Solving Exponential Decay Problems
+MF1,1530,10.3.8,Graphing Exponential Growth Functions
+MF1,1531,10.3.9,Graphing Exponential Decay Functions
+MF1,655,11.1.1,Introduction to Polynomials
+MF1,657,11.1.2,The Degree of a Polynomial
+MF1,1783,11.1.3,Simplifying Polynomials
+MF1,349,11.1.4,The Distributive Law for Polynomials
+MF1,81,11.1.5,Adding and Subtracting Polynomials
+MF1,79,11.1.6,"Monomials, Binomials and Trinomials"
+MF1,371,11.1.7,Multiplying Binomials
+MF1,361,11.1.8,Multiplying Polynomials
+MF1,360,11.1.9,Squaring Binomials
+MF1,1157,11.1.10,Expanding Binomials Using Pascal's Triangle
+MF1,2275,11.1.11,The Difference of Squares Formula
+MF1,2181,11.2.1,The Greatest Common Factor of Two Monomials
+MF1,353,11.2.2,Factoring Polynomials Using GCFs
+MF1,352,11.2.3,Factoring Perfect Square Trinomials
+MF1,382,11.2.4,Factoring Perfect Square Trinomials With Leading Coefficients
+MF1,370,11.2.5,Factoring Differences of Squares
+MF1,89,11.2.6,Factoring Trinomials
+MF1,3577,11.2.7,Factoring Trinomials Using Common Factors
+MF1,372,11.2.8,Factoring Trinomials With Leading Coefficients
+MF1,4951,11.2.9,Further Factoring Trinomials With Leading Coefficients
+MF1,1378,12.1.1,"Points, Lines, Rays, and Segments"
+MF1,3979,12.1.2,Parallel and Perpendicular Lines
+MF1,1379,12.1.3,Measures of Segments
+MF1,1462,12.1.4,Congruent Segments
+MF1,1463,12.1.5,Midpoints
+MF1,1500,12.1.6,Collinear Points
+MF1,2278,12.1.7,The Segment Addition Postulate
+MF1,2172,12.2.1,Angles and Measures of Angles
+MF1,3980,12.2.2,Measuring Angles Using a Protractor
+MF1,1505,12.2.3,Sums of Angles
+MF1,1509,12.2.4,"Right, Straight, Full, and Null Angles"
+MF1,1510,12.2.5,"Acute, Obtuse, and Reflex Angles"
+MF1,3554,12.2.6,Congruent Angles
+MF1,1507,12.2.7,Vertical Angles
+MF1,1437,12.2.8,Solving Problems With Angles
+MF1,1639,12.3.1,Complementary Angles
+MF1,6207,12.3.2,Non-Adjacent Complementary Angles
+MF1,1511,12.3.3,Supplementary Angles
+MF1,421,12.3.4,Corresponding Angles
+MF1,4019,12.3.5,Alternate Angles
+MF1,4104,12.3.6,Consecutive Angles
+MF1,1508,12.3.7,Angle Bisectors
+MF1,521,12.3.8,Segment Bisectors and the Perpendicular Bisector Theorem
+MF1,1404,12.4.1,Circles
+MF1,3565,12.4.2,"Arcs, Segments, and Sectors of Circles"
+MF1,460,12.4.3,The Circumference of a Circle
+MF1,1745,12.4.4,Areas of Circles
+MF1,496,13.1.1,Interior Angles of Triangles
+MF1,1458,13.1.2,Exterior Angles of Triangles
+MF1,1601,13.1.3,Classifying Triangles
+MF1,766,13.1.4,The Triangle Inequality
+MF1,1403,13.1.5,The Isosceles Triangle Theorem
+MF1,1644,13.1.6,Heights of Triangles
+MF1,433,13.1.7,The Pythagorean Theorem
+MF1,263,13.1.8,Isosceles Right Triangles
+MF1,262,13.1.9,30-60-90 Triangles
+MF1,1317,13.2.1,Polygons
+MF1,1319,13.2.2,Interior Angles of Polygons
+MF1,1321,13.2.3,Exterior Angles of Polygons
+MF1,1515,13.2.4,Congruent Polygons
+MF1,1322,13.2.5,Regular Polygons
+MF1,1386,13.2.6,The Perimeter of a Polygon
+MF1,1459,13.2.7,Classifying Quadrilaterals
+MF1,1461,13.2.8,Properties of Rectangles and Squares
+MF1,1352,13.3.1,Areas of Rectangles and Squares
+MF1,1397,13.3.2,Areas of Triangles
+MF1,1353,13.3.3,Areas of Trapezoids
+MF1,1468,13.3.4,Areas and Perimeters of Composite Shapes
+MF2,813,1.1.1,Introduction to Quadratic Equations
+MF2,1423,1.1.2,Solving Perfect Square Quadratic Equations
+MF2,1425,1.1.3,Perfect Square Quadratic Equations with One or No Solutions
+MF2,1424,1.1.4,The Zero Product Rule for Solving Quadratic Equations
+MF2,394,1.1.5,Solving Quadratic Equations Using a Difference of Squares
+MF2,393,1.1.6,Solving Quadratic Equations with No Constant Term
+MF2,375,1.1.7,Solving Quadratic Equations by Factoring
+MF2,1422,1.1.8,Solving Quadratic Equations with Leading Coefficients by Factoring
+MF2,450,1.1.9,Completing the Square
+MF2,3842,1.1.10,Completing the Square With Odd Linear Terms
+MF2,3824,1.1.11,Completing the Square With Leading Coefficients
+MF2,419,1.1.12,Solving Quadratic Equations by Completing the Square
+MF2,3849,1.1.13,Solving Quadratic Equations With Leading Coefficients by Completing the Square
+MF2,422,1.1.14,The Quadratic Formula
+MF2,425,1.1.15,The Discriminant of a Quadratic Equation
+MF2,6266,1.1.16,Determining Unknown Parameters in Quadratic Equations With One Real Solution
+MF2,6092,1.1.17,Equating Polynomial Coefficients
+MF2,729,1.1.18,Vieta's Formulas
+MF2,453,1.2.1,Graphing Elementary Quadratic Functions
+MF2,117,1.2.2,Vertical Reflections of Quadratic Functions
+MF2,84,1.2.3,Graphs of General Quadratic Functions
+MF2,661,1.2.4,Roots of Quadratic Functions
+MF2,1429,1.2.5,The Discriminant of a Quadratic Function
+MF2,704,1.2.6,The Axis of Symmetry of a Parabola
+MF2,1451,1.2.7,The Average of the Roots Formula
+MF2,814,1.2.8,The Vertex Form of a Parabola
+MF2,3546,1.2.9,Writing the Equation of a Parabola in Vertex Form
+MF2,1882,1.2.10,Domain and Range of Quadratic Functions
+MF2,410,1.2.11,Solving Systems of Nonlinear Equations
+MF2,6341,1.2.12,Finding Intersections of Lines and Quadratic Functions
+MF2,3830,1.2.13,Inverses of Quadratic Functions
+MF2,688,1.2.14,Modeling Downwards Vertical Motion
+MF2,942,2.1.1,Closure Properties of Polynomials
+MF2,2625,2.1.2,The Least Common Multiple of Two Monomials
+MF2,2626,2.1.3,The Least Common Multiple of Two Polynomials
+MF2,469,2.1.4,Determining the Roots of Polynomials
+MF2,480,2.1.5,Solving Polynomial Equations Using the GCF
+MF2,727,2.1.6,Solving Cubic Equations by Grouping
+MF2,1653,2.1.7,Graphing Elementary Cubic Functions
+MF2,2050,2.1.8,End Behavior of Polynomials
+MF2,2337,2.2.1,Further Factoring of Polynomials Using GCFs
+MF2,660,2.2.2,Factoring Higher-Order Polynomials as a Difference of Squares
+MF2,428,2.2.3,Factoring Cubic Expressions by Grouping
+MF2,441,2.2.4,Factoring Sums and Differences of Cubes
+MF2,2336,2.2.5,Factoring Biquadratic Expressions
+MF2,728,2.3.1,Dividing Polynomials Using Synthetic Division
+MF2,2013,2.3.2,Dividing Polynomials by Linear Binomials Using Long Division
+MF2,427,2.3.3,Dividing Polynomials Using Long Division
+MF2,2883,2.3.4,Dividing Polynomials by Manipulating Rational Expressions
+MF2,846,2.4.1,The Factor Theorem
+MF2,3738,2.4.2,Determining Polynomial Coefficients Using the Factor Theorem
+MF2,2119,2.4.3,Factoring Cubic Polynomials Using the Factor Theorem
+MF2,104,2.4.4,Factoring Quartic Polynomials Using the Factor Theorem
+MF2,88,2.4.5,Multiplicities of the Roots of Polynomials
+MF2,847,2.4.6,The Remainder Theorem
+MF2,757,2.4.7,The Rational Roots Theorem
+MF2,1654,2.5.1,Graphing Cubic Curves Containing Three Distinct Real Roots
+MF2,1656,2.5.2,Graphing Cubic Curves Containing a Double Root
+MF2,2084,2.5.3,Graphing Cubic Curves Containing One Distinct Real Root
+MF2,2049,2.5.4,Graphing General Polynomials
+MF2,2205,3.1.1,The Real Number System
+MF2,2034,3.1.2,Sums and Products of Rational and Irrational Numbers
+MF2,14,3.2.1,Imaginary Numbers
+MF2,464,3.2.2,Quadratic Equations with Purely Imaginary Solutions
+MF2,735,3.2.3,Complex Numbers
+MF2,31,3.2.4,Adding and Subtracting Complex Numbers
+MF2,33,3.2.5,Multiplying Complex Numbers
+MF2,895,3.2.6,Solving Quadratic Equations With Complex Roots
+MF2,32,3.2.7,The Cyclic Property of the Imaginary Unit
+MF2,157,3.3.1,The Complex Plane
+MF2,34,3.3.2,The Magnitude of a Complex Number
+MF2,893,3.3.3,The Argument of a Complex Number
+MF2,140,4.1.1,The Arithmetic of Functions
+MF2,1985,4.1.2,Function Composition
+MF2,3817,4.1.3,Describing Function Composition
+MF2,2707,4.1.4,Local Extrema of Functions
+MF2,1886,4.1.5,One-To-One Functions
+MF2,753,4.1.6,Introduction to Inverse Functions
+MF2,627,4.1.7,Calculating the Inverse of a Function
+MF2,756,4.1.8,Graphs of Inverse Functions
+MF2,3734,4.1.9,Domain and Range of Inverse Functions
+MF2,1889,4.1.10,Invertible Functions
+MF2,2978,4.1.11,Plotting X as a Function of Y
+MF2,2148,4.1.12,Periodic Functions
+MF2,725,4.1.13,Even and Odd Functions
+MF2,2046,4.1.14,Unbounded Behavior of Functions Near a Point
+MF2,1251,4.2.1,Vertical Translations of Functions
+MF2,1584,4.2.2,Horizontal Translations of Functions
+MF2,1252,4.2.3,Vertical Stretches of Functions
+MF2,1586,4.2.4,Horizontal Stretches of Functions
+MF2,1150,4.2.5,Vertical Reflections of Functions
+MF2,1585,4.2.6,Horizontal Reflections of Functions
+MF2,1254,4.2.7,Combining Graph Transformations: Two Operations
+MF2,634,4.2.8,Combining Graph Transformations: Three or More Operations
+MF2,3845,4.2.9,Constructing Functions Using Transformations
+MF2,2841,4.2.10,Combining Reflections With Other Graph Transformations
+MF2,141,4.2.11,Finding Points on Transformed Curves
+MF2,3683,4.2.12,The Domain and Range of Transformed Functions
+MF2,379,5.1.1,Converting From Exponential to Logarithmic Form
+MF2,457,5.1.2,Converting From Logarithmic to Exponential Form
+MF2,378,5.1.3,Evaluating Logarithms
+MF2,818,5.1.4,The Natural Logarithm
+MF2,726,5.1.5,The Common Logarithm
+MF2,1599,5.1.6,Simplifying Logarithmic Expressions
+MF2,1473,5.2.1,The Product Rule for Logarithms
+MF2,1474,5.2.2,The Quotient Rule for Logarithms
+MF2,1475,5.2.3,The Power Rule for Logarithms
+MF2,30,5.2.4,Combining the Laws of Logarithms
+MF2,28,5.2.5,The Change of Base Formula for Logarithms
+MF2,1482,5.3.1,Solving Exponential Equations Using Logarithms
+MF2,870,5.3.2,Solving Equations Containing the Exponential Function
+MF2,1583,5.3.3,Solving Exponential Equations With Different Bases
+MF2,3737,5.3.4,Solving Exponential Equations With Different Bases Using Logarithms
+MF2,2979,5.3.5,Solving Exponential Equations Using the Zero-Product Property
+MF2,226,5.4.1,Solving Logarithmic Equations
+MF2,1551,5.4.2,Solving Logarithmic Equations Containing the Natural Logarithm
+MF2,1594,5.4.3,Solving Logarithmic Equations Using the Laws of Logarithms
+MF2,3832,5.4.4,Solving Logarithmic Equations by Combining the Laws of Logarithms
+MF2,1643,5.4.5,Solving Logarithmic Equations With Logarithms on Both Sides
+MF2,817,5.5.1,Vertical Translations of Exponential Growth Functions
+MF2,456,5.5.2,Vertical Translations of Exponential Decay Functions
+MF2,1682,5.5.3,Vertical Reflections of Exponential Functions
+MF2,6351,5.5.4,Combining Graph Transformations of Exponential Functions
+MF2,1609,5.5.5,Properties of Transformed Exponential Functions
+MF2,1472,5.5.6,Inverses of Exponential and Logarithmic Functions
+MF2,1532,5.6.1,Graphing Logarithmic Functions
+MF2,1707,5.6.2,Combining Graph Transformations of Logarithmic Functions
+MF2,1610,5.6.3,Properties of Transformed Logarithmic Functions
+MF2,1676,6.1.1,Simplifying Rational Expressions Using Polynomial Factorization
+MF2,437,6.1.2,Adding and Subtracting Rational Expressions
+MF2,3739,6.1.3,Adding Rational Expressions With No Common Factors in the Denominator
+MF2,435,6.1.4,Multiplying Rational Expressions
+MF2,436,6.1.5,Dividing Rational Expressions
+MF2,1060,6.1.6,Expressing Rational Functions as Sums of Partial Fractions
+MF2,440,6.2.1,Rational Equations With Three Terms
+MF2,708,6.2.2,Advanced Rational Equations
+MF2,2033,6.3.1,Graphing Reciprocal Functions
+MF2,3735,6.3.2,Graph Transformations of Reciprocal Functions
+MF2,455,6.3.3,Combining Graph Transformations of Reciprocal Functions
+MF2,2082,6.3.4,Domain and Range of Transformed Reciprocal Functions
+MF2,3944,6.3.5,Inverses of Reciprocal Functions
+MF2,434,6.3.6,Finding Intersections of Lines and Reciprocal Functions
+MF2,133,6.3.7,Roots of Rational Functions
+MF2,807,6.3.8,Vertical Asymptotes of Rational Functions
+MF2,808,6.3.9,Horizontal Asymptotes of Rational Functions
+MF2,599,6.4.1,Rationalizing Denominators of Algebraic Expressions
+MF2,86,6.4.2,Rationalizing Denominators With Two Terms
+MF2,6185,6.4.3,Further Rationalizing Denominators of Algebraic Expressions
+MF2,116,6.5.1,Solving Radical Equations
+MF2,3943,6.5.2,Inverses of Radical Functions
+MF2,2038,6.5.3,Graphing the Square Root Function
+MF2,1540,6.5.4,Graph Transformations of Square Root Functions
+MF2,454,6.5.5,Graphing the Cube Root Function
+MF2,1875,6.5.6,Properties of Transformed Square Root Functions
+MF2,1600,6.5.7,The Domain of a Transformed Radical Function
+MF2,3741,6.5.8,The Range of a Transformed Radical Function
+MF2,3530,6.5.9,Roots of Transformed Radical Functions
+MF2,2271,7.1.1,Introduction to Sequences
+MF2,1226,7.1.2,Recursive Sequences
+MF2,73,7.1.3,Fibonacci Sequences
+MF2,673,7.1.4,Sigma Notation
+MF2,3958,7.1.5,Properties of Finite Series
+MF2,667,7.2.1,Arithmetic Sequences
+MF2,3695,7.2.2,Recursive Formulas for Arithmetic Sequences
+MF2,668,7.2.3,The Nth Term of an Arithmetic Sequence
+MF2,2214,7.2.4,Translating Between Explicit and Recursive Formulas for Arithmetic Sequences
+MF2,669,7.2.5,Finding the Common Difference of an Arithmetic Sequence
+MF2,1346,7.2.6,Finding the Nth Term of an Arithmetic Sequence Given Two Terms
+MF2,672,7.2.7,Determining Indexes of Terms in Arithmetic Sequences
+MF2,679,7.3.1,Introduction to Geometric Sequences
+MF2,1818,7.3.2,The Recursive Formula for a Geometric Sequence
+MF2,680,7.3.3,The Nth Term of a Geometric Sequence
+MF2,2215,7.3.4,Translating Between Explicit and Recursive Formulas for Geometric Sequences
+MF2,2534,7.3.5,Finding the Common Ratio of a Geometric Sequence Given Two Terms
+MF2,685,7.3.6,Determining Indexes of Terms in Geometric Sequences
+MF2,3556,8.1.1,Finding Equations of Parallel Lines
+MF2,1427,8.1.2,Perpendicular Lines in the Coordinate Plane
+MF2,3562,8.1.3,Finding Equations of Perpendicular Lines
+MF2,485,8.1.4,Midpoints in the Coordinate Plane
+MF2,459,8.1.5,The Distance Formula
+MF2,526,8.1.6,The Shortest Distance Between a Point and a Line
+MF2,512,8.1.7,The Distance Formula in Three Dimensions
+MF2,1516,8.2.1,Translations of Geometric Figures
+MF2,1517,8.2.2,Rotations of Geometric Figures
+MF2,3823,8.2.3,Rotating Objects in the Coordinate Plane Using Functions
+MF2,1518,8.2.4,Reflections of Geometric Figures in the Cartesian Plane
+MF2,3535,8.2.5,Reflections of Figures Across Arbitrary Lines
+MF2,2216,8.2.6,Dilations of Geometric Figures
+MF2,577,8.2.7,Dilations of Figures in the Coordinate Plane
+MF2,2217,8.2.8,Stretches of Geometric Figures
+MF2,1363,8.2.9,Combining Stretches of Geometric Figures
+MF2,483,8.2.10,Combining Geometric Transformations
+MF2,2218,8.2.11,Rigid Motions and Congruence
+MF2,490,8.2.12,Similarity and Similar Polygons
+MF2,491,8.2.13,Similarity Transformations
+MF2,2226,8.2.14,Reflective Symmetry
+MF2,2227,8.2.15,Rotational Symmetry
+MF2,2467,8.3.1,Identifying Three-Dimensional Shapes
+MF2,2484,8.3.2,"Faces, Vertices, and Edges of Polyhedrons"
+MF2,2468,8.3.3,Nets of Polyhedrons
+MF2,2469,8.3.4,Finding Surface Areas Using Nets
+MF2,1467,8.3.5,Volumes of Cubes
+MF2,1753,8.3.6,Volumes of Rectangular Solids
+MF2,681,8.3.7,Surface Areas of Cubes
+MF2,1146,8.3.8,Volumes of Spheres
+MF2,1765,8.3.9,Surface Areas of Spheres
+MF2,1144,8.3.10,Volumes of Cylinders
+MF2,1762,8.3.11,Surface Areas of Cylinders
+MF2,2849,8.3.12,Euler's Formula for Polyhedra
+MF2,1826,8.3.13,The Five Platonic Solids
+MF2,1597,9.1.1,Angles and Sides in Right Triangles
+MF2,609,9.1.2,The Trigonometric Ratios
+MF2,633,9.1.3,Calculating Trigonometric Ratios Using the Pythagorean Theorem
+MF2,629,9.1.4,Calculating Side Lengths of Right Triangles Using Trigonometry
+MF2,610,9.1.5,Calculating Angles in Right Triangles Using Trigonometry
+MF2,611,9.1.6,The Reciprocal Trigonometric Ratios
+MF2,510,9.1.7,Trigonometric Functions of Complementary Angles
+MF2,765,9.1.8,Special Trigonometric Ratios
+MF2,1608,9.1.9,Calculating Areas of Right Triangles Using Trigonometry
+MF2,764,9.1.10,Introduction to Radians
+MF2,516,9.1.11,Trigonometric Ratios With Radians
+MF2,168,9.2.1,The Law of Sines
+MF2,169,9.2.2,The Law of Cosines
+MF2,1275,9.2.3,The Area of a General Triangle
+MF2,1848,9.3.1,Angles in the Coordinate Plane
+MF2,167,9.3.2,Negative Angles in the Coordinate Plane
+MF2,261,9.3.3,Coterminal Angles
+MF2,1456,9.3.4,Calculating Reference Angles
+MF2,112,9.3.5,Properties of the Unit Circle in the First Quadrant
+MF2,204,9.3.6,Extending the Trigonometric Ratios Using the Unit Circle
+MF2,4037,9.3.7,Extending the Trigonometric Ratios Using Angles in Radians
+MF2,166,9.3.8,Extending the Trigonometric Ratios to Negative Angles
+MF2,3829,9.3.9,Extending the Trigonometric Ratios to Large Angles
+MF2,1453,9.3.10,Using the Pythagorean Identity in the First Quadrant
+MF2,2021,9.3.11,Extending the Pythagorean Identity to All Quadrants
+MF2,269,9.4.1,Finding Trigonometric Ratios of Quadrantal Angles
+MF2,3568,9.4.2,Trigonometric Ratios of Quadrantal Angles Outside the Standard Range
+MF2,268,9.4.3,Finding Trigonometric Ratios of Special Angles Using the Unit Circle
+MF2,3766,9.4.4,Evaluating Trigonometric Expressions
+MF2,1844,9.4.5,Further Extensions of the Special Trigonometric Ratios
+MF2,1491,9.5.1,Graphing Sine and Cosine
+MF2,1493,9.5.2,Graphing Tangent and Cotangent
+MF2,1573,9.5.3,Graphing Secant and Cosecant
+MF2,3540,9.6.1,Describing Properties of the Sine Function
+MF2,3557,9.6.2,Describing Properties of the Cosine Function
+MF2,3558,9.6.3,Describing Properties of the Tangent Function
+MF2,3563,9.6.4,Describing Properties of the Secant Function
+MF2,3567,9.6.5,Describing Properties of the Cosecant Function
+MF2,3566,9.6.6,Describing Properties of the Cotangent Function
+MF2,206,9.7.1,Vertical Translations of Trigonometric Functions
+MF2,1661,9.7.2,Vertical Stretches of Trigonometric Functions
+MF2,1659,9.7.3,Horizontal Translations of Trigonometric Functions
+MF2,784,9.7.4,Horizontal Stretches of Trigonometric Functions
+MF2,275,9.7.5,Combining Graph Transformations of Sine and Cosine
+MF2,654,9.7.6,Graph Transformations of Tangent and Cotangent
+MF2,3850,9.7.7,Combining Graph Transformations of Tangent and Cotangent
+MF2,776,9.7.8,Combining Graph Transformations of Secant and Cosecant
+MF2,259,9.7.9,Graphing Reflections of Trigonometric Functions
+MF2,2062,9.8.1,Properties of Transformed Sine and Cosine Functions
+MF2,5088,9.8.2,Finding Zeros and Extrema of Transformed Sine and Cosine Functions
+MF2,2064,9.8.3,Properties of Transformed Tangent and Cotangent Functions
+MF2,778,9.8.4,Properties of Transformed Secant and Cosecant Functions
+MF2,1107,10.1.1,Introduction to Vectors
+MF2,1100,10.1.2,The Triangle Law for the Addition of Two Vectors
+MF2,1101,10.1.3,The Magnitude of a Vector
+MF2,1102,10.1.4,Problem Solving Using Vector Diagrams
+MF2,1103,10.1.5,Parallel Vectors
+MF2,1104,10.1.6,Unit Vectors
+MF2,1105,10.1.7,Linear Combinations of Vectors and Their Properties
+MF2,1106,10.1.8,Describing the Position Vector of a Point Using Known Vectors
+MF2,1165,10.2.1,Two-Dimensional Vectors Expressed in Component Form
+MF2,244,10.2.2,Addition and Scalar Multiplication of Cartesian Vectors in 2D
+MF2,176,10.2.3,Calculating the Magnitude of Cartesian Vectors in 2D
+MF2,461,11.1.1,The Finite Limit of a Function
+MF2,472,11.1.2,The Left and Right-Sided Limits of a Function
+MF2,625,11.1.3,Finding the Existence of a Limit Using One-Sided Limits
+MF2,1873,11.1.4,Limits at Infinity from Graphs
+MF2,1814,11.1.5,Infinite Limits from Graphs
+MF2,1716,11.2.1,"Limits of Power Functions, and the Constant Rule for Limits"
+MF2,1914,11.2.2,The Sum Rule for Limits
+MF2,1246,11.2.3,The Product and Quotient Rules for Limits
+MF2,37,11.2.4,The Power and Root Rules for Limits
+MF2,1263,11.3.1,Limits at Infinity of Polynomials
+MF2,1905,11.3.2,Limits of Reciprocal Functions
+MF2,1717,11.3.3,Limits of Exponential Functions
+MF2,1377,11.3.4,Limits of Logarithmic Functions
+MF2,1986,11.3.5,Limits of Radical Functions
+MF2,1719,11.3.6,Limits of Trigonometric Functions
+MF2,1958,11.3.7,Limits of Reciprocal Trigonometric Functions
+MF2,1262,11.3.8,Limits of Piecewise Functions
+MF2,1813,11.3.9,Calculating Limits of Rational Functions by Factoring
+MF2,462,11.4.1,Determining Continuity from Graphs
+MF2,314,11.4.2,Defining Continuity at a Point
+MF2,474,11.4.3,Left and Right Continuity
+MF2,612,11.4.4,Continuity Over an Interval
+MF2,336,12.1.1,The Average Rate of Change of a Function
+MF2,1208,12.1.2,The Average Rate of Change of a Function over a Varying Interval
+MF2,337,12.1.3,The Instantaneous Rate of Change of a Function at a Point
+MF2,812,12.1.4,Defining the Derivative Using Derivative Notation
+MF2,35,12.1.5,The Power Rule for Differentiation
+MF2,278,12.1.6,The Sum and Constant Multiple Rules for Differentiation
+MF2,332,12.1.7,Calculating the Slope of a Tangent Line Using Differentiation
+MF2,986,12.1.8,Calculating the Equation of a Tangent Line Using Differentiation
+MF2,987,12.1.9,Calculating the Equation of a Normal Line Using Differentiation
+MF2,296,12.1.10,Interpreting the Meaning of the Derivative in Context
+MF2,1114,12.2.1,Differentiating Exponential Functions
+MF2,1116,12.2.2,Differentiating Logarithmic Functions
+MF2,280,12.2.3,Differentiating Trigonometric Functions
+MF2,281,12.2.4,Second and Higher-Order Derivatives
+MF2,1109,12.2.5,The Product Rule for Differentiation
+MF2,1110,12.2.6,The Quotient Rule for Differentiation
+MF2,1249,12.2.7,Calculating Derivatives From Data and Tables
+MF2,1117,12.2.8,Calculating Derivatives From Graphs
+MF2,1686,12.2.9,Differentiating Reciprocal Trigonometric Functions
+MF2,1108,12.3.1,The Chain Rule for Differentiation
+MF2,1007,12.3.2,The Chain Rule With Exponential Functions
+MF2,1036,12.3.3,The Chain Rule With Logarithmic Functions
+MF2,305,12.3.4,The Chain Rule With Trigonometric Functions
+MF2,1115,12.3.5,Selecting Procedures for Calculating Derivatives
+MF2,308,12.4.1,The Antiderivative
+MF2,43,12.4.2,The Constant Multiple Rule for Indefinite Integrals
+MF2,3769,12.4.3,The Sum Rule for Indefinite Integrals
+MF2,1361,12.4.4,Integrating the Reciprocal Function
+MF2,312,12.4.5,Integrating Exponential Functions
+MF2,285,12.4.6,Integrating Trigonometric Functions
+MF2,1634,13.1.1,The Mean of a Data Set
+MF2,1632,13.1.2,Variance and Standard Deviation
+MF2,126,13.1.3,Estimating Means and Variances For Grouped Data
+MF2,3591,13.1.4,Covariance
+MF2,5204,13.1.5,Sums of Squares
+MF2,711,13.1.6,The Z-Score
+MF2,2585,13.2.1,Scatter Plots
+MF2,2609,13.2.2,Trend Lines
+MF2,3753,13.2.3,Making Predictions Using Trend Lines
+MF2,734,13.2.4,Linear Correlation
+MF2,1056,13.2.5,The Linear Correlation Coefficient
+MF2,1057,13.2.6,Linear Regression
+MF2,3595,13.2.7,Residuals and Residual Plots
+MF2,736,13.2.8,Selecting a Regression Model
+MF2,45,14.1.1,Sets
+MF2,130,14.1.2,Experimental Probability
+MF2,1121,14.1.3,Sample Spaces and Events in Probability
+MF2,709,14.1.4,Single Events in Probability
+MF2,1120,14.1.5,The Complement of an Event
+MF2,793,14.1.6,Venn Diagrams in Probability
+MF2,2826,14.2.1,The Union of Sets
+MF2,2827,14.2.2,The Intersection of Sets
+MF2,131,14.2.3,Compound Events in Probability From Experimental Data
+MF2,794,14.2.4,Computing Probabilities for Compound Events Using Venn Diagrams
+MF2,4361,14.2.5,Computing Probabilities of Events Containing Complements Using Venn Diagrams
+MF2,161,14.3.1,The Rules of Sum and Product
+MF2,774,14.3.2,Factorials
+MF2,3710,14.3.3,Factorials in Variable Expressions
+MF2,775,14.3.4,Ordering Objects
+MF2,703,14.3.5,Permutations
+MF2,705,14.3.6,Combinations
+MF2,132,14.3.7,Computing Probabilities Using Combinatorics
+MF3,3404,1.1.1,Pascal's Triangle and the Binomial Coefficients
+MF3,1156,1.1.2,Expanding a Binomial Using Binomial Coefficients
+MF3,3764,1.1.3,The Special Case of the Binomial Theorem
+MF3,1158,1.1.4,Approximating Values Using the Binomial Theorem
+MF3,779,1.2.1,Expressing an Arithmetic Series in Sigma Notation
+MF3,675,1.2.2,Finding the Sum of an Arithmetic Series
+MF3,677,1.2.3,Finding the First Term of an Arithmetic Series
+MF3,676,1.2.4,Calculating the Number of Terms in an Arithmetic Series
+MF3,1016,1.3.1,The Sum of a Finite Geometric Series
+MF3,692,1.3.2,The Sum of the First N Terms of a Geometric Series
+MF3,1017,1.3.3,Writing Geometric Series in Sigma Notation
+MF3,690,1.3.4,Sums of Finite Geometric Series Given in Sigma Notation
+MF3,1088,1.4.1,Convergence of Geometric Sequences
+MF3,3838,1.4.2,Further Convergence of Geometric Sequences
+MF3,981,1.4.3,Infinite Series and Partial Sums
+MF3,982,1.4.4,Convergent and Divergent Infinite Series
+MF3,983,1.4.5,Properties of Infinite Series
+MF3,4052,1.4.6,Further Properties of Infinite Series
+MF3,691,1.4.7,Finding the Sum of an Infinite Geometric Series
+MF3,686,1.4.8,Writing an Infinite Geometric Series in Sigma Notation
+MF3,1020,1.4.9,Sums of Infinite Geometric Series Given in Sigma Notation
+MF3,684,1.4.10,Convergence of Geometric Series
+MF3,1495,2.1.1,Solving Elementary Quadratic Inequalities
+MF3,468,2.1.2,Solving Quadratic Inequalities From Graphs
+MF3,3833,2.1.3,Solving Quadratic Inequalities Using the Graphical Method
+MF3,118,2.1.4,Solving Quadratic Inequalities Using the Sign Table Method
+MF3,2982,2.1.5,Solving Inequalities Involving Positive and Negative Factors
+MF3,2855,2.1.6,Inequalities Involving Powers of Binomials
+MF3,2147,2.1.7,Solving Polynomial Inequalities Using a Graphical Method
+MF3,2162,2.1.8,Solving Polynomial Inequalities Using the Sign Table Method
+MF3,3355,2.1.9,Solving Rational Inequalities
+MF3,2859,2.1.10,Solving Inequalities Involving Exponential Functions and Polynomials
+MF3,2856,2.1.11,Solving Radical Inequalities
+MF3,2857,2.1.12,Solving Inequalities Involving Exponential Functions
+MF3,2858,2.1.13,Solving Inequalities Involving Logarithmic Functions
+MF3,1004,2.1.14,Solving Inequalities Involving Geometric Sequences
+MF3,665,2.2.1,Graphing Strict Two-Variable Linear Inequalities
+MF3,3827,2.2.2,Graphing Non-Strict Two-Variable Linear Inequalities
+MF3,3822,2.2.3,Further Graphing of Two-Variable Linear Inequalities
+MF3,1535,2.2.4,Systems of Linear Inequalities
+MF3,2076,2.2.5,Solving Two-Variable Nonlinear Inequalities
+MF3,3684,2.2.6,Further Solving of Two-Variable Nonlinear Inequalities
+MF3,803,3.1.1,Graphing Curves Defined Parametrically
+MF3,1255,3.1.2,Cartesian Equations of Parametric Curves
+MF3,1257,3.1.3,Finding Intersections of Parametric Curves and Lines
+MF3,798,3.1.4,Differentiating Parametric Curves
+MF3,799,3.1.5,Calculating Tangent and Normal Lines with Parametric Equations
+MF3,431,3.1.6,Second Derivatives of Parametric Equations
+MF3,997,3.1.7,The Arc Length of a Parametric Curve
+MF3,935,3.2.1,Introduction to Polar Coordinates
+MF3,936,3.2.2,Converting from Polar Coordinates to Cartesian Coordinates
+MF3,937,3.2.3,Polar Equations of Circles Centered at the Origin
+MF3,2173,3.2.4,Polar Equations of Radial Lines
+MF3,998,3.2.5,Differentiating Curves Given in Polar Form
+MF3,3854,3.2.6,Further Differentiation of Curves Given in Polar Form
+MF3,1000,3.2.7,Finding the Area of a Polar Region
+MF3,999,3.2.8,The Arc Length of a Polar Curve
+MF3,1183,4.1.1,Circles in the Coordinate Plane
+MF3,842,4.1.2,Equations of Circles Centered at the Origin
+MF3,843,4.1.3,Equations of Circles
+MF3,666,4.1.4,Determining Circle Properties by Completing the Square
+MF3,844,4.1.5,Calculating Circle Intercepts
+MF3,845,4.1.6,Intersections of Circles with Lines
+MF3,806,4.1.7,Parametric Equations of Circles
+MF3,1125,4.2.1,Upward and Downward Opening Parabolas
+MF3,1124,4.2.2,Left and Right Opening Parabolas
+MF3,1128,4.2.3,The Vertex of a Parabola
+MF3,3534,4.2.4,Calculating the Vertex of a Parabola by Completing the Square
+MF3,1132,4.2.5,Calculating Intercepts of Parabolas
+MF3,875,4.2.6,Parametric Equations of Parabolas
+MF3,2837,4.2.7,"Parametric Equations of Parabolas Centered at (h,k)"
+MF3,853,4.3.1,Introduction to Ellipses
+MF3,848,4.3.2,Equations of Ellipses Centered at the Origin
+MF3,849,4.3.3,Equations of Ellipses Centered at a General Point
+MF3,852,4.3.4,Finding the Center and Axes of Ellipses by Completing the Square
+MF3,850,4.3.5,Finding Intercepts of Ellipses
+MF3,2746,4.3.6,Parametric Equations of Ellipses
+MF3,871,4.4.1,Equations of Hyperbolas Centered at the Origin
+MF3,733,4.4.2,Equations of Hyperbolas Centered at a General Point
+MF3,872,4.4.3,Asymptotes of Hyperbolas Centered at the Origin
+MF3,1029,4.4.4,Asymptotes of Hyperbolas Centered at a General Point
+MF3,874,4.4.5,Finding Intercepts and Intersections of Hyperbolas
+MF3,873,4.4.6,Parametric Equations of Horizontal Hyperbolas
+MF3,2981,4.4.7,Parametric Equations of Vertical Hyperbolas
+MF3,1483,5.1.1,Graphing the Inverse Sine Function
+MF3,1486,5.1.2,Graphing the Inverse Cosine Function
+MF3,1487,5.1.3,Graphing the Inverse Tangent Function
+MF3,209,5.1.4,Evaluating Expressions Containing Inverse Trigonometric Functions
+MF3,3811,5.1.5,Limits of Inverse Trigonometric Functions
+MF3,913,5.2.1,Elementary Trigonometric Equations Containing Sine
+MF3,914,5.2.2,Elementary Trigonometric Equations Containing Cosine
+MF3,915,5.2.3,Elementary Trigonometric Equations Containing Tangent
+MF3,1565,5.2.4,Elementary Trigonometric Equations Containing Secant
+MF3,1566,5.2.5,Elementary Trigonometric Equations Containing Cosecant
+MF3,1567,5.2.6,Elementary Trigonometric Equations Containing Cotangent
+MF3,947,5.2.7,Solving Trigonometric Equations Using the Sin-Cos-Tan Identity
+MF3,1258,5.2.8,General Solutions of Elementary Trigonometric Equations
+MF3,1259,5.2.9,General Solutions of Trigonometric Equations With Transformed Functions
+MF3,923,5.2.10,Trigonometric Equations Containing Transformed Tangent Functions
+MF3,203,5.3.1,Simplifying Expressions Using Basic Trigonometric Identities
+MF3,207,5.3.2,Simplifying Expressions Using the Pythagorean Identity
+MF3,205,5.3.3,Alternate Forms of the Pythagorean Identity
+MF3,1454,5.3.4,Simplifying Expressions Using the Secant-Tangent Identity
+MF3,3857,5.3.5,Alternate Forms of the Secant-Tangent Identity
+MF3,1455,5.3.6,Simplifying Trigonometric Expressions Using the Cotangent-Cosecant Identity
+MF3,270,5.4.1,The Sum and Difference Formulas for Sine
+MF3,274,5.4.2,The Sum and Difference Formulas for Cosine
+MF3,1076,5.4.3,Writing Sums of Trigonometric Functions in Amplitude-Phase Form
+MF3,271,5.4.4,The Double-Angle Formula for Sine
+MF3,831,5.4.5,The Double-Angle Formula for Cosine
+MF3,892,6.1.1,The Complex Conjugate
+MF3,905,6.1.2,Special Properties of the Complex Conjugate
+MF3,1647,6.1.3,The Complex Conjugate and the Roots of a Quadratic Equation
+MF3,227,6.1.4,Dividing Complex Numbers
+MF3,159,6.1.5,Solving Equations by Equating Real and Imaginary Parts
+MF3,696,6.1.6,Extending Polynomial Identities to the Complex Numbers
+MF3,894,6.2.1,The Polar Form of a Complex Number
+MF3,925,6.2.2,De Moivre's Theorem
+MF3,898,6.2.3,Euler's Formula
+MF3,3400,6.2.4,The Roots of Unity
+MF3,4050,6.2.5,Properties of Roots of Unity
+MF3,724,6.3.1,The Fundamental Theorem of Algebra for Quadratic Equations
+MF3,896,6.3.2,The Fundamental Theorem of Algebra with Cubic Equations
+MF3,3653,6.3.3,Solving Cubic Equations With Complex Roots
+MF3,897,6.3.4,The Fundamental Theorem of Algebra with Quartic Equations
+MF3,3657,6.3.5,Solving Quartic Equations With Complex Roots
+MF3,463,7.1.1,L'Hopital's Rule
+MF3,1087,7.1.2,Limits of Sequences
+MF3,606,7.1.3,Special Limits Involving Sine
+MF3,2610,7.1.4,Limits Involving the Exponential Function
+MF3,1815,7.1.5,Vertical Asymptotes of Rational Functions
+MF3,1903,7.1.6,Limits at Infinity and Horizontal Asymptotes of Rational Functions
+MF3,604,7.1.7,Calculating Limits of Radical Functions Using Conjugate Multiplication
+MF3,607,7.1.8,Evaluating Limits at Infinity by Comparing Relative Magnitudes of Functions
+MF3,1245,7.1.9,Determining Limits of Sequences Using Relative Magnitudes
+MF3,2006,7.2.1,Continuity of Functions
+MF3,2150,7.2.2,The Intermediate Value Theorem
+MF3,57,8.1.1,Implicit Differentiation
+MF3,3216,8.1.2,"Calculating Slopes of Circles, Ellipses, and Parabolas"
+MF3,1784,8.1.3,Calculating dy/dx Using dx/dy
+MF3,1785,8.1.4,Differentiating Inverse Functions
+MF3,291,8.1.5,Differentiating an Inverse Function at a Point
+MF3,303,8.1.6,Differentiating Inverse Trigonometric Functions
+MF3,1721,8.1.7,Differentiating Inverse Reciprocal Trigonometric Functions
+MF3,342,8.1.8,Integration Using Inverse Trigonometric Functions
+MF3,1691,8.2.1,Continuity and Differentiability of Functions
+MF3,288,8.2.2,The Mean Value Theorem
+MF3,313,8.2.3,Global vs. Local Extrema and Critical Points
+MF3,3571,8.2.4,The Extreme Value Theorem
+MF3,752,8.2.5,Using Differentiation to Calculate Critical Points
+MF3,1359,8.2.6,Determining Intervals on Which a Function Is Increasing or Decreasing
+MF3,1360,8.2.7,Using the First Derivative Test to Classify Local Extrema
+MF3,364,8.2.8,The Candidates Test
+MF3,363,8.2.9,Intervals of Concavity
+MF3,3846,8.2.10,Relating Concavity to the Second Derivative
+MF3,1046,8.2.11,Points of Inflection
+MF3,339,8.2.12,The Second Derivative Test
+MF3,621,8.2.13,Approximating Functions Using Local Linearity and Linearization
+MF3,992,8.3.1,Estimating Derivatives Using a Forward Difference Quotient
+MF3,993,8.3.2,Estimating Derivatives Using a Backward Difference Quotient
+MF3,640,8.3.3,Estimating Derivatives Using a Central Difference Quotient
+MF3,1177,8.4.1,Second-Degree Taylor Polynomials
+MF3,3825,8.4.2,Analyzing Second-Degree Taylor Polynomials
+MF3,1222,8.4.3,Third-Degree Taylor Polynomials
+MF3,3771,8.4.4,Higher-Degree Taylor Polynomials
+MF3,340,8.4.5,Maclaurin Series
+MF3,3826,8.4.6,Taylor Series
+MF3,885,8.4.7,Representing Functions as Power Series
+MF3,884,8.4.8,Recognizing Standard Maclaurin Series
+MF3,477,9.1.1,Approximating Areas With the Left Riemann Sum
+MF3,1281,9.1.2,Approximating Areas With the Right Riemann Sum
+MF3,1042,9.1.3,Left and Right Riemann Sums in Sigma Notation
+MF3,945,9.1.4,Approximating Areas With the Trapezoidal Rule
+MF3,1086,9.2.1,Defining Definite Integrals Using Left and Right Riemann Sums
+MF3,283,9.2.2,The Fundamental Theorem of Calculus
+MF3,3575,9.2.3,Applying the Fundamental Theorem of Calculus to Exponential and Trigonometric Functions
+MF3,1685,9.2.4,The Sum and Constant Multiple Rules for Definite Integrals
+MF3,632,9.2.5,Properties of Definite Integrals Involving the Limits of Integration
+MF3,1040,9.3.1,The Area Bounded by a Curve and the X-Axis
+MF3,1041,9.3.2,The Area Bounded by a Curve and the Y-Axis
+MF3,2975,9.3.3,Evaluating Definite Integrals Using Symmetry
+MF3,1432,9.3.4,Finding the Area Between a Curve and the X-Axis When They Intersect
+MF3,1200,9.3.5,Calculating the Definite Integral of a Function Given Its Graph
+MF3,626,9.3.6,Definite Integrals of Piecewise Functions
+MF3,333,9.4.1,The Integral as an Accumulation Function
+MF3,613,9.4.2,The Second Fundamental Theorem of Calculus
+MF3,1203,9.5.1,The Average Value of a Function
+MF3,395,9.5.2,The Area Between Curves Expressed as Functions of X
+MF3,760,9.5.3,The Arc Length of a Planar Curve
+MF3,334,10.1.1,Integrating Algebraic Functions Using Substitution
+MF3,331,10.1.2,Integrating Linear Rational Functions Using Substitution
+MF3,443,10.1.3,Integration Using Substitution
+MF3,1159,10.1.4,Calculating Definite Integrals Using Substitution
+MF3,316,10.1.5,Further Integration of Algebraic Functions Using Substitution
+MF3,1112,10.1.6,Integrating Exponential Functions Using Linear Substitution
+MF3,3770,10.1.7,Integrating Exponential Functions Using Substitution
+MF3,478,10.1.8,Integrating Trigonometric Functions Using Substitution
+MF3,1161,10.1.9,Integrating Logarithmic Functions Using Substitution
+MF3,315,10.1.10,Integration by Substitution With Inverse Trigonometric Functions
+MF3,282,10.2.1,Integration Using Basic Trigonometric Identities
+MF3,1037,10.2.2,Integration Using the Pythagorean Identities
+MF3,1038,10.2.3,Integration Using the Double-Angle Formulas
+MF3,338,10.3.1,Integrating Functions Using Polynomial Division
+MF3,444,10.3.2,Integrating Functions by Completing the Square
+MF3,317,10.4.1,Introduction to Integration by Parts
+MF3,1140,10.4.2,Using Integration by Parts to Calculate Integrals With Logarithms
+MF3,416,10.4.3,Applying the Integration By Parts Twice
+MF3,424,10.4.4,Integration by Parts in Cyclic Cases
+MF3,1060,10.5.1,Expressing Rational Functions as Sums of Partial Fractions
+MF3,1062,10.5.2,Expressing Rational Functions with Repeated Factors as Sums of Partial Fractions
+MF3,1063,10.5.3,Expressing Rational Functions with Irreducible Quadratic Factors as Sums of Partial Fractions
+MF3,445,10.5.4,Integrating Rational Functions Using Partial Fractions
+MF3,446,10.5.5,Integrating Rational Functions with Repeated Factors
+MF3,447,10.5.6,Integrating Rational Functions with Irreducible Quadratic Factors
+MF3,758,10.6.1,Improper Integrals
+MF3,4004,10.6.2,Improper Integrals Involving Exponential Functions
+MF3,4005,10.6.3,Improper Integrals Involving Arctangent
+MF3,1382,10.6.4,Improper Integrals Over the Real Line
+MF3,759,10.6.5,Improper Integrals of the Second Kind
+MF3,284,11.1.1,Calculating Velocity for Straight-Line Motion Using Differentiation
+MF3,824,11.1.2,Calculating Acceleration for Straight-Line Motion Using Differentiation
+MF3,3581,11.1.3,Determining Characteristics of Moving Objects Using Differentiation
+MF3,762,11.1.4,Calculating Velocity Using Integration
+MF3,3582,11.1.5,Determining Characteristics of Moving Objects Using Integration
+MF3,335,11.1.6,Calculating the Position Function of a Particle Using Integration
+MF3,3576,11.1.7,Calculating the Displacement of a Particle Using Integration
+MF3,2036,11.2.1,Velocity and Acceleration for Plane Motion
+MF3,3767,11.2.2,Calculating Displacement for Plane Motion
+MF3,763,11.2.3,Calculating Velocity for Plane Motion Using Differentiation
+MF3,825,11.2.4,Calculating Acceleration for Plane Motion Using Differentiation
+MF3,826,11.2.5,Finding Velocity Vectors in Two Dimensions Using Integration
+MF3,648,11.2.6,Finding Displacement Vectors in Two Dimensions Using Integration
+MF3,620,11.3.1,Rates of Change in Applied Contexts
+MF3,1044,11.3.2,Introduction to Related Rates
+MF3,4059,11.3.3,Related Rates With Implicit Functions
+MF3,287,11.3.4,Calculating Related Rates With Circles and Spheres
+MF3,345,11.3.5,Calculating Related Rates Using the Pythagorean Theorem
+MF3,1211,11.3.6,Solving Optimization Problems Using Derivatives
+MF3,1216,11.3.7,Optimizing Distances
+MF3,4218,11.3.8,Optimizing Distances to Curves
+MF3,3215,12.1.1,Introduction to Differential Equations
+MF3,1181,12.1.2,Verifying Solutions of Differential Equations
+MF3,1061,12.1.3,Solving First-Order ODEs Using Direct Integration
+MF3,466,12.1.4,Solving First-Order ODEs Using Separation of Variables
+MF3,1179,12.1.5,Solving First-Order IVPs Using Separation of Variables
+MF3,2976,12.1.6,Qualitative Analysis of First-Order ODEs
+MF3,2023,12.1.7,Modeling With First-Order ODEs
+MF3,602,12.2.1,Euler's Method: Calculating One Step
+MF3,3668,12.2.2,Euler's Method: Calculating Multiple Steps
+MF3,1166,13.1.1,Three-Dimensional Vectors in Component Form
+MF3,175,13.1.2,Addition and Scalar Multiplication of Cartesian Vectors in 3D
+MF3,1277,13.1.3,Calculating the Magnitude of Cartesian Vectors in 3D
+MF3,243,13.2.1,Calculating the Dot Product Using Angle and Magnitude
+MF3,177,13.2.2,Calculating the Dot Product Using Components
+MF3,1278,13.2.3,The Angle Between Two Vectors
+MF3,1285,13.2.4,Calculating a Scalar Projection
+MF3,1295,13.2.5,Calculating a Vector Projection
+MF3,246,13.3.1,The Cross Product of Two Vectors
+MF3,4858,13.3.2,Properties of the Cross Product
+MF3,245,13.3.3,Calculating the Cross Product Using Determinants
+MF3,1299,13.3.4,Finding Areas Using the Cross Product
+MF3,1286,13.3.5,The Scalar Triple Product
+MF3,1287,13.3.6,Volumes of Parallelepipeds
+MF3,475,13.4.1,Defining Vector-Valued Functions
+MF3,4139,13.4.2,Differentiating Vector-Valued Functions
+MF3,1085,13.4.3,Integrating Vector-Valued Functions
+MF3,861,14.1.1,Introduction to Matrices
+MF3,1167,14.1.2,Index Notation for Matrices
+MF3,29,14.1.3,Adding and Subtracting Matrices
+MF3,1168,14.1.4,Properties of Matrix Addition
+MF3,146,14.1.5,Scalar Multiplication of Matrices
+MF3,862,14.1.6,"Zero, Square, Diagonal and Identity Matrices"
+MF3,232,14.1.7,The Transpose of a Matrix
+MF3,1195,14.2.1,Multiplying a Matrix by a Column Vector
+MF3,147,14.2.2,Multiplying Square Matrices
+MF3,1198,14.2.3,Conformability for Matrix Multiplication
+MF3,1196,14.2.4,Multiplying Matrices
+MF3,1725,14.2.5,Powers of Matrices
+MF3,1171,14.2.6,Multiplying a Matrix by the Identity Matrix
+MF3,1724,14.2.7,Properties of Matrix Multiplication
+MF3,1729,14.2.8,Representing 2x2 Systems of Equations Using a Matrix Product
+MF3,155,14.2.9,Representing 3x3 Systems of Equations Using a Matrix Product
+MF3,152,14.3.1,The Determinant of a 2x2 Matrix
+MF3,1169,14.3.2,The Geometric Interpretation of the 2x2 Determinant
+MF3,233,14.3.3,The Minors of a 3x3 Matrix
+MF3,153,14.3.4,The Determinant of a 3x3 Matrix
+MF3,863,14.4.1,Introduction to the Inverse of a Matrix
+MF3,864,14.4.2,Inverses of 2x2 Matrices
+MF3,154,14.4.3,Calculating the Inverse of a 3x3 Matrix Using the Cofactor Method
+MF3,934,14.4.4,Solving 2x2 Systems of Equations Using Inverse Matrices
+MF3,1023,14.4.5,Solving Systems of Equations Using Inverse Matrices
+MF3,865,14.5.1,Introduction to Linear Transformations
+MF3,1959,14.5.2,The Standard Matrix of a Linear Transformation
+MF3,2706,14.5.3,Linear Transformations of Points and Lines in the Plane
+MF3,866,14.5.4,Linear Transformations of Objects in the Plane
+MF3,867,14.5.5,Dilations and Reflections as Linear Transformations
+MF3,1358,14.5.6,Shear and Stretch as Linear Transformations
+MF3,931,14.5.7,Right-Angle Rotations as Linear Transformations
+MF3,932,14.5.8,Rotations as Linear Transformations
+MF3,933,14.5.9,Combining Linear Transformations Using 2x2 Matrices
+MF3,988,14.5.10,Inverting Linear Transformations
+MF3,989,14.5.11,Area Scale Factors of Linear Transformations
+MF3,1351,14.5.12,Singular Linear Transformations in the Plane
+MF3,324,15.1.1,Conditional Probabilities From Venn Diagrams
+MF3,715,15.1.2,The Multiplication Law for Conditional Probability
+MF3,773,15.1.3,The Law of Total Probability
+MF3,183,15.1.4,Independent Events
+MF3,740,15.1.5,The Addition Law of Probability
+MF3,4315,15.1.6,Applying the Addition Law With Event Complements
+MF3,1154,15.1.7,Mutually Exclusive Events
+MF3,1290,15.2.1,Probability Mass Functions of Discrete Random Variables
+MF3,2024,15.2.2,Cumulative Distribution Functions for Discrete Random Variables
+MF3,730,15.2.3,Expected Values of Discrete Random Variables
+MF3,3281,15.2.4,The Binomial Distribution
+MF3,1395,15.2.5,Modeling With the Binomial Distribution
+MF3,3284,15.2.6,The Geometric Distribution
+MF3,2839,15.2.7,Modeling With the Geometric Distribution
+MF3,265,15.3.1,The Standard Normal Distribution
+MF3,4420,15.3.2,Symmetry Properties of the Standard Normal Distribution
+MF3,1843,15.3.3,The Normal Distribution
+MF3,1470,15.3.4,Mean and Variance of the Normal Distribution
+MF3,3214,15.3.5,Percentage Points of the Standard Normal Distribution
+MF3,788,15.3.6,Modeling With the Normal Distribution
