@@ -1,0 +1,151 @@
+module-id,module-code,module-name
+121714,MF1.1.1,Adding and Subtracting Fractions and Whole Numbers
+121715,MF1.1.2,Adding and Subtracting Fractions
+121716,MF1.1.3,Adding and Subtracting Mixed Numbers
+121717,MF1.1.4,Multiplying Fractions
+121718,MF1.1.5,Dividing Fractions
+121719,MF1.2.1,Ratios
+122642,MF1.2.2,Proportional Relationships
+121720,MF1.2.3,Working With Units
+121721,MF1.2.4,Percentages
+124146,MF1.2.5,Percentage Change
+121722,MF1.3.1,Addition and Subtraction of Rational Numbers
+121723,MF1.3.2,Multiplication and Division of Rational Numbers
+121724,MF1.3.3,Number Theory
+121725,MF1.4.1,Exponents
+121726,MF1.4.2,The Rules of Exponents
+121727,MF1.4.3,Order of Operations
+121728,MF1.4.4,Radicals
+121729,MF1.4.5,The Rules of Radicals
+121730,MF1.5.1,Algebraic Expressions
+121731,MF1.5.2,Simplifying Linear Expressions
+121732,MF1.5.3,Solving One-Step Linear Equations
+121733,MF1.5.4,Solving Multi-Step Linear Equations
+121734,MF1.5.5,Modeling With Linear Equations
+121735,MF1.5.6,Solving Linear Inequalities
+121736,MF1.5.7,Nonlinear Equations
+121737,MF1.6.1,Graphs of Linear Equations
+121738,MF1.6.2,Modeling With Two-Variable Linear Equations
+121739,MF1.6.3,Systems of Linear Equations
+121740,MF1.7.1,Radical Expressions
+121741,MF1.7.2,Rational Expressions
+121742,MF1.7.3,Rational Equations
+121743,MF1.8.1,Functions
+121744,MF1.9.1,"Absolute Value Expressions, Equations & Inequalities"
+121745,MF1.10.1,Rules of Exponents
+121746,MF1.10.2,Exponential Expressions and Equations
+121747,MF1.10.3,Exponential Functions
+121748,MF1.11.1,Polynomials
+121749,MF1.11.2,Factoring Polynomials
+121750,MF1.12.1,Introduction to Geometry
+121751,MF1.12.2,Angles
+121752,MF1.12.3,Advanced Angles
+121753,MF1.12.4,Circles
+121754,MF1.13.1,Triangles
+121755,MF1.13.2,Polygons
+121756,MF1.13.3,Area and Perimeter
+120233,MF2.1.1,Quadratic Equations
+120234,MF2.1.2,Quadratic Functions
+120235,MF2.2.1,Polynomials
+120236,MF2.2.2,Factoring Polynomials
+120237,MF2.2.3,Dividing Polynomials
+120238,MF2.2.4,Polynomial Theorems
+120239,MF2.2.5,Graphs of Polynomials
+120240,MF2.3.1,The Number System
+120241,MF2.3.2,Introduction to Complex Numbers
+120242,MF2.3.3,The Complex Plane
+120243,MF2.4.1,Functions
+120244,MF2.4.2,Graph Transformations of Functions
+120245,MF2.5.1,Introduction to Logarithms
+120246,MF2.5.2,The Laws of Logarithms
+120247,MF2.5.3,Exponential Equations
+120248,MF2.5.4,Logarithmic Equations
+120249,MF2.5.5,Graphs of Exponential Functions
+120250,MF2.5.6,Graphs of Logarithmic Functions
+120251,MF2.6.1,Rational Expressions
+120252,MF2.6.2,Rational Equations
+120253,MF2.6.3,Rational Functions
+123918,MF2.6.4,Radical Expressions
+120254,MF2.6.5,Radical Functions
+120255,MF2.7.1,Introduction to Sequences
+120256,MF2.7.2,Arithmetic Sequences
+120257,MF2.7.3,Geometric Sequences
+120258,MF2.8.1,Coordinate Geometry
+120259,MF2.8.2,Geometric Transformations
+120260,MF2.8.3,Solid Geometry
+120261,MF2.9.1,Introduction to Trigonometry
+120262,MF2.9.2,Trigonometry with General Triangles
+120263,MF2.9.3,The Unit Circle
+120264,MF2.9.4,Special Trigonometric Ratios
+120265,MF2.9.5,Graphing Trigonometric Functions
+120266,MF2.9.6,Properties of Trigonometric Functions
+120267,MF2.9.7,Graph Transformations of Trigonometric Functions
+120268,MF2.9.8,Properties of Transformed Trigonometric Functions
+120269,MF2.10.1,Introduction to Vectors
+120270,MF2.10.2,Vectors in 2D Cartesian Coordinates
+120271,MF2.11.1,Estimating Limits from Graphs
+120272,MF2.11.2,The Algebra of Limits
+120273,MF2.11.3,Limits of Functions
+120274,MF2.11.4,Continuity
+120275,MF2.12.1,Introduction to Differentiation
+120276,MF2.12.2,Derivatives of Functions and the Rules of Differentiation
+120277,MF2.12.3,Differentiating Composite Functions
+120278,MF2.12.4,Indefinite Integrals
+120279,MF2.13.1,Analyzing Data
+120280,MF2.13.2,Correlation and Regression
+120281,MF2.14.1,Introduction to Probability
+120282,MF2.14.2,Compound Events in Probability
+120283,MF2.14.3,Combinatorics
+123372,MF3.1.1,The Binomial Theorem
+123370,MF3.1.2,Arithmetic Series
+123371,MF3.1.3,Finite Geometric Series
+123422,MF3.1.4,Infinite Series
+123373,MF3.2.1,Single-Variable Inequalities
+123374,MF3.2.2,Two-Variable Inequalities
+123375,MF3.3.1,Parametric Equations
+123376,MF3.3.2,Polar Coordinates
+123377,MF3.4.1,Circles
+123378,MF3.4.2,Parabolas
+123379,MF3.4.3,Ellipses
+123380,MF3.4.4,Hyperbolas
+123381,MF3.5.1,The Inverse Trigonometric Functions
+123382,MF3.5.2,Elementary Trigonometric Equations
+123383,MF3.5.3,Trigonometric Identities
+123384,MF3.5.4,The Sum and Difference Formulas
+123385,MF3.6.1,Further Complex Numbers
+123386,MF3.6.2,Euler's Formula
+123387,MF3.6.3,The Fundamental Theorem of Algebra
+123388,MF3.7.1,Limits
+123389,MF3.7.2,Continuity
+123390,MF3.8.1,Differentiating Implicit and Inverse Functions
+123391,MF3.8.2,Analytical Applications of Differentiation
+123393,MF3.8.3,Estimating Derivatives
+123392,MF3.8.4,Taylor Series
+123394,MF3.9.1,Approximating Areas with Riemann Sums
+123395,MF3.9.2,Definite Integrals
+123396,MF3.9.3,The Area Under a Curve
+123397,MF3.9.4,Accumulation Functions
+123398,MF3.9.5,Applications of Integration
+123399,MF3.10.1,Integration Using Substitution
+123400,MF3.10.2,Integration Using Trigonometric Identities
+123401,MF3.10.3,Special Techniques for Integration
+123402,MF3.10.4,Integration by Parts
+123403,MF3.10.5,Integration Using Partial Fractions
+123404,MF3.10.6,Improper Integrals
+123405,MF3.11.1,"Displacement, Velocity, and Acceleration"
+123406,MF3.11.2,The Planar Motion of a Particle
+123407,MF3.11.3,Related Rates and Optimization
+123408,MF3.12.1,Introduction to Differential Equations
+123409,MF3.12.2,Numerical Solutions of Differential Equations
+123410,MF3.13.1,Vectors in 3D Cartesian Coordinates
+123411,MF3.13.2,The Dot Product
+123412,MF3.13.3,The Cross Product
+123413,MF3.13.4,Vector-Valued Functions
+123414,MF3.14.1,Introduction to Matrices
+123415,MF3.14.2,Matrix Multiplication
+123416,MF3.14.3,Determinants
+123417,MF3.14.4,The Inverse of a Matrix
+123418,MF3.14.5,Linear Transformations
+123419,MF3.15.1,Probability
+123420,MF3.15.2,Discrete Random Variables
+123421,MF3.15.3,The Normal Distribution
