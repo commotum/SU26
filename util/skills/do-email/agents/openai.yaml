@@ -1,0 +1,4 @@
+interface:
+  display_name: "Do Email"
+  short_description: "Load and process the Outlook queue"
+  default_prompt: "Use $do-email to load Outlook Inbox messages and process each staged email into hot or cold."

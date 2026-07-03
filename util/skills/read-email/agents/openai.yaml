@@ -1,0 +1,4 @@
+interface:
+  display_name: "Read Email"
+  short_description: "Fully read one email and complete its CSV row"
+  default_prompt: "Use $read-email to read one unprocessed email fully and complete its CSV entry."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Load Inbox"
+  short_description: "Stage recent Outlook surface metadata"
+  default_prompt: "Use $load-inbox to stage recent Outlook Inbox messages since the saved checkpoint or requested start date into the email CSV."
