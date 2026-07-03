@@ -32,6 +32,8 @@ Task with details:
   - Details: [TASK-0007](#task-0007)
 - [ ] TASK-0003 | P1 | user | MTH 252 | Set up MTH 252 access - review Start Here module, register Achieve through Canvas, and watch for Gradescope setup by 2026-06-29
   - Details: [TASK-0003](#task-0003)
+- [ ] TASK-0012 | P1 | user | MTH 252 | Complete MTH 252 Week 1 extension work - finish Gilliam-extended Week 1 material by 2026-07-06
+  - Details: [TASK-0012](#task-0012)
 - [ ] TASK-0004 | P1 | user | MTH 253 | Complete MTH 253 Unit 1 work - discussion main post due 2026-06-24, written homework due 2026-06-26, response post due 2026-06-28, Achieve and quiz due 2026-06-29
   - Details: [TASK-0004](#task-0004)
 - [ ] TASK-0005 | P1 | user | PH 212 | Verify PH 212 first-day participation - confirm M1-0 credit or complete M1-0asy
@@ -97,12 +99,12 @@ Title: Set Up MTH 252 Access
 Description: MTH 252 requires Start Here module completion, Achieve registration through Canvas, and awareness of Gradescope setup.
 Responsibility: user
 Source: Canvas announcement email
-Context: EMAIL-0003, EMAIL-0006, EMAIL-0072, EMAIL-0079, EMAIL-0095, EMAIL-0099, EMAIL-0100, EMAIL-0105, EMAIL-0109, EMAIL-0110, EMAIL-0114, EMAIL-0120, EMAIL-0134, EMAIL-0137, EMAIL-0142, and EMAIL-0146 from INTEGRAL CALCULUS (MTH_252Z_400_U2026), Gradescope, Learning Materials, and OpenStax.
+Context: EMAIL-0003, EMAIL-0006, EMAIL-0072, EMAIL-0079, EMAIL-0095, EMAIL-0099, EMAIL-0100, EMAIL-0105, EMAIL-0109, EMAIL-0110, EMAIL-0114, EMAIL-0120, EMAIL-0134, EMAIL-0137, EMAIL-0142, EMAIL-0146, and EMAIL-0150 from INTEGRAL CALCULUS (MTH_252Z_400_U2026), Gradescope, Learning Materials, and OpenStax.
 Next action: Click through every Start Here module link, register Achieve from inside Canvas using the Learning Materials access-code email, watch the welcome video, use module lecture notes/videos, review the Mini-Exam 1 Canvas page and study resources, enroll in the correct MTH 252 Gradescope section, and verify submissions by refreshing after upload.
 Deadline: 2026-06-29
 Acceptance: Start Here is complete, Achieve access works from Canvas, Gradescope details are checked, and first due dates are tracked.
 Blockers:
-Notes: EMAIL-0072 confirms Start Here, Achieve-inside-Canvas registration, first due date 2026-06-29, and Gradescope setup timing. EMAIL-0079 is the current Q&A-link correction and was left unread for visibility. EMAIL-0095 confirms Start Here, syllabus/schedule, module assignments, and Q&A discussion expectations. EMAIL-0099 points to the welcome video. EMAIL-0100 says Gradescope was expected to come online 2026-06-23. EMAIL-0105 gives Gradescope section entry codes and warns to verify uploaded pages by refreshing rather than relying on receipt emails. EMAIL-0109 confirms MTH 252 Gradescope section 400 enrollment. EMAIL-0110 points to module lecture videos and annotated notes. EMAIL-0114 gives optional Discord/MSLC support. EMAIL-0120 contains the Achieve access-code redemption instructions and was left unread. EMAIL-0134 answers common course questions about asynchronous structure, OpenStax, Achieve, extensions, Gradescope, and Discord. EMAIL-0137 resends Gradescope access/submission rules. EMAIL-0142 is an OpenStax verification PIN and was left unread. EMAIL-0146 says the instructor is available July 2-3 for Zoom/questions, will send a check-in video about updates and Mini-Exam 1, and that the Mini-Exam 1 Canvas page is open with study resources.
+Notes: EMAIL-0072 confirms Start Here, Achieve-inside-Canvas registration, first due date 2026-06-29, and Gradescope setup timing. EMAIL-0079 is the current Q&A-link correction and was left unread for visibility. EMAIL-0095 confirms Start Here, syllabus/schedule, module assignments, and Q&A discussion expectations. EMAIL-0099 points to the welcome video. EMAIL-0100 says Gradescope was expected to come online 2026-06-23. EMAIL-0105 gives Gradescope section entry codes and warns to verify uploaded pages by refreshing rather than relying on receipt emails. EMAIL-0109 confirms MTH 252 Gradescope section 400 enrollment. EMAIL-0110 points to module lecture videos and annotated notes. EMAIL-0114 gives optional Discord/MSLC support. EMAIL-0120 contains the Achieve access-code redemption instructions and was left unread. EMAIL-0134 answers common course questions about asynchronous structure, OpenStax, Achieve, extensions, Gradescope, and Discord. EMAIL-0137 resends Gradescope access/submission rules. EMAIL-0142 is an OpenStax verification PIN and was left unread. EMAIL-0146 says the instructor is available July 2-3 for Zoom/questions, will send a check-in video about updates and Mini-Exam 1, and that the Mini-Exam 1 Canvas page is open with study resources. EMAIL-0150 gives MSLC summer hours: Monday-Thursday 10 AM-4 PM through 2026-08-14, virtual support Monday-Thursday 5-8 PM PDT, and exam proctoring whenever MSLC is open.
 
 ### TASK-0004 - Complete MTH 253 Unit 1 Work
 
@@ -207,6 +209,19 @@ Deadline: 2026-07-02 10:00
 Acceptance: M21-pre upload is confirmed in Gradescope/Canvas, and the Quiz 1 upload workflow is understood.
 Blockers:
 Notes: EMAIL-0144 and EMAIL-0145 were restored unread because they are current PH 212 course/deadline updates.
+
+### TASK-0012 - Complete MTH 252 Week 1 Extension Work
+
+Title: Complete MTH 252 Week 1 Extension Work
+Description: Michael Gilliam said he would set extensions for MTH 252 Week 1 material to be due Monday after Jacob's family medical situation request.
+Responsibility: user
+Source: Email
+Context: EMAIL-0149 from Gilliam, Michael in the Extension Request Due to Family Medical Situation thread.
+Next action: Check MTH 252 Canvas, Achieve, and Gradescope for Gilliam's Week 1 extension dates, then complete all covered Week 1 material by 2026-07-06.
+Deadline: 2026-07-06
+Acceptance: MTH 252 Week 1 assignments covered by Gilliam's extension are submitted or confirmed complete.
+Blockers:
+Notes: EMAIL-0149 was restored unread because it is a direct instructor reply granting the extension. Gilliam invited follow-up if more extension time is needed.
 
 ```md
 ### TASK-0001 - Short Title
