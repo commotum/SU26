@@ -1,43 +1,55 @@
 # Mathematical Foundations Navigation Guide
 
-This guide describes how to navigate the Math Academy Mathematical Foundations data on the Ubuntu desktop over the `eve` SSH alias.
+This guide describes how to navigate the local Math Academy Mathematical Foundations data in `/Users/jake/Developer/MA`.
 
-## Quick SSH Access
+## Quick Local Access
 
-From this Mac/project environment:
-
-```sh
-ssh eve
-```
-
-Once connected:
+From this repo:
 
 ```sh
-cd ~/Developer/MA
+cd /Users/jake/Developer/MA
 ```
 
-Useful one-shot commands from this repo without opening an interactive SSH session:
+Useful local commands:
 
 ```sh
-ssh eve "cd ~/Developer/MA && pwd"
-ssh eve "ls ~/Developer/MA/DATA"
-ssh eve "find ~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations -maxdepth 3 -type f | sort"
+ls /Users/jake/Developer/MA/DATA
+find /Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations -maxdepth 3 -type f | sort
 ```
 
-## Main Remote Roots
+## Main Local Roots
 
-- `~/Developer/MA`
-  - Main Math Academy repository/data workspace on `eve`.
-- `~/Developer/MA/DATA`
+- `/Users/jake/Developer/MA`
+  - Main local Math Academy repository/data workspace.
+- `/Users/jake/Developer/MA/DATA`
   - Global extracted data tables and shared course-map copies.
-- `~/Developer/MA/DATA/Lessons`
+- `/Users/jake/Developer/MA/DATA/Lessons`
   - Global lesson folder. Contains about 2,964 numbered lesson directories.
-- `~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations`
+- `/Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations`
   - Canonical course folders for Mathematical Foundations I, II, and III.
+
+## Project-Local Combined Outputs
+
+Path: `/Users/jake/Developer/SU26/Mathematical-Foundations`
+
+These files are derived from the local `/Users/jake/Developer/MA` source data for the three Mathematical Foundations courses.
+
+- `topics.csv`
+  - Header: `course,topic-id,topic-number,topic-name`
+  - 1,034 lines total. Combines MF1, MF2, and MF3 course-specific `Topics.csv` files with a `course` column.
+- `prerequisites.csv`
+  - Header: `topic,requires`
+  - 2,216 lines total. Contains global prerequisite rows for the topics in `topics.csv`.
+- `units.csv`
+  - Header: `unit-id,unit-code,unit-name`
+  - 43 lines total. Uses global `/Users/jake/Developer/MA/DATA/Units.csv` rows for units used by MF1, MF2, and MF3.
+- `modules.csv`
+  - Header: `module-id,module-code,module-name`
+  - 151 lines total. Uses global `/Users/jake/Developer/MA/DATA/Modules.csv` rows for modules used by MF1, MF2, and MF3.
 
 ## Global DATA Atlas
 
-Path: `~/Developer/MA/DATA`
+Path: `/Users/jake/Developer/MA/DATA`
 
 Core CSVs:
 
@@ -83,7 +95,7 @@ Shared course-map copies:
 Base path:
 
 ```sh
-cd ~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations
+cd /Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations
 ```
 
 The three canonical folders are:
@@ -108,7 +120,7 @@ Each course folder has the same basic shape:
 Path:
 
 ```sh
-~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I
+/Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I
 ```
 
 Key files:
@@ -139,7 +151,7 @@ Key files:
 Path:
 
 ```sh
-~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-II
+/Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-II
 ```
 
 Key files:
@@ -170,7 +182,7 @@ Key files:
 Path:
 
 ```sh
-~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-III
+/Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-III
 ```
 
 Key files:
@@ -218,25 +230,25 @@ Key files:
 List the three MF course maps:
 
 ```sh
-ssh eve "find ~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations -maxdepth 2 -name 'Course-Map-*.md' -print | sort"
+find /Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations -maxdepth 2 -name 'Course-Map-*.md' -print | sort
 ```
 
 Open MF I graph files:
 
 ```sh
-ssh eve "ls ~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I/GRAPH-Mathematical-Foundations-I"
+ls /Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I/GRAPH-Mathematical-Foundations-I
 ```
 
 Check global lesson folders:
 
 ```sh
-ssh eve "find ~/Developer/MA/DATA/Lessons -maxdepth 1 -mindepth 1 -type d | wc -l"
-ssh eve "find ~/Developer/MA/DATA/Lessons -maxdepth 1 -mindepth 1 -type d | sort | head"
+find /Users/jake/Developer/MA/DATA/Lessons -maxdepth 1 -mindepth 1 -type d | wc -l
+find /Users/jake/Developer/MA/DATA/Lessons -maxdepth 1 -mindepth 1 -type d | sort | head
 ```
 
 Inspect CSV headers:
 
 ```sh
-ssh eve "head -n 1 ~/Developer/MA/DATA/Prerequisites.csv"
-ssh eve "head -n 1 ~/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I/GRAPH-Mathematical-Foundations-I/Topics.csv"
+head -n 1 /Users/jake/Developer/MA/DATA/Prerequisites.csv
+head -n 1 /Users/jake/Developer/MA/COURSES/Math-Academy/Mathematical-Foundations/Mathematical-Foundations-I/GRAPH-Mathematical-Foundations-I/Topics.csv
 ```
