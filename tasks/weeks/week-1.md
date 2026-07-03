@@ -1,3 +1,5 @@
+DO NOT EDIT THESE FILES DURING CANVAS SCRAPES. THESE ARE MY PERSONAL RECORDS. ONLY EDIT WHEN INSTRUCTED.
+
 # Week 1 Todo (6/21-6/27)
 
 Source: archived Canvas scrape and `overview.md`.
