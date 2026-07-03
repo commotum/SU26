@@ -8,14 +8,14 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Fri 6/26 11:59pm: Unit 1 Written Homework, **3%**.
 
 ### Participation
-- [ ] Wed 6/24: Unit 1 Discussion Board main post, part of **3.34%** item.
+- [X] Wed 6/24: Unit 1 Discussion Board main post, part of **3.34%** item.
 
 ## PHY-212: General Physics with Calculus
 
 ### Labs
-- [ ] Thu 6/25 11:59pm: Lab 1 Discussion, **1.05%**.
-- [ ] Sat 6/27: Lab Partner Values Survey, lab setup item.
-- [ ] Sat 6/27 11:59pm: Lab 1 Report, **2.09%**.
+- [X] Thu 6/25 11:59pm: Lab 1 Discussion, **1.05%**.
+- [X] Sat 6/27: Lab Partner Values Survey, lab setup item.
+- [X] Sat 6/27 11:59pm: Lab 1 Report, **2.09%**.
 
 ### Participation
 - [ ] Mon 6/22: M1-0, about **0.18%**.
