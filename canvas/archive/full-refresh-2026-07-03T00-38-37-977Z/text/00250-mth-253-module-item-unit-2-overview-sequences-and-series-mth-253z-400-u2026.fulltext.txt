@@ -1,0 +1,53 @@
+
+            
+
+  
+
+
+
+    Unit 2 - Overview
+    
+
+  
+    
+
+
+Introduction
+In this unit we will learn about sequences and series. What specifically is a sequence, and what do we need to know about them? What is a series, and how does it differ from a sequence? This unit will answer each of these questions!
+Unit Learning Outcomes
+After successful completion of this week, you will be able to: 
+
+Construct formulas that generate explicitly defined sequences. 
+Determine the limiting behavior of some simple recursively defined sequences (function iteration). 
+Evaluate if a sequence converges or diverges. 
+Assess if a series is convergent or divergent from the partial sums.
+Evaluate the convergence or divergence of geometric and telescoping series. 
+
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following:
+
+Supplemental Reading Optional: Sections 5.1Links to an external site. and 5.2Links to an external site. in OpenStax Volume 2Links to an external site.. 
+Complete online Homework Assignment - Week 2 Web Homework and Week 3 Web Homework. Submitted in Achieve.
+Complete Written Homework #2 due by Thursday of Week 3. Submitted in GradeScope.
+Submit the Unit 2 Quiz. Submitted in Canvas Quizzes.
+
+
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

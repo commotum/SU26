@@ -1,0 +1,382 @@
+Hw 1 - Rotational Motion
+Started: Jul 2 at 3:30pm
+Quiz Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+ 
+Flag question: Question 1
+Question 1
+1 pts
+
+A wheel spins with an angular speed of 120 revolutions per minute.
+
+What is its angular speed in radians per second?
+
+Group of answer choices
+π
+2π
+4π
+6π
+ 
+Flag question: Question 2
+Question 2
+2 pts
+
+An object travels along a circular trajectory of radius r.
+
+At one instant, the particle’s speed is v and increasing at a constant rate a.
+
+Assuming the object speeds up at this same rate, how much time will it take to complete one revolution?
+
+Hint: Your answer r,v,a must all be positive!
+
+Group of answer choices
+−v−
+√
+v2+4πar
+
+
+a
+−v+
+√
+v2+4πar
+
+
+a
+v
+
+
+a
+v+
+√
+v2+4πar
+
+
+a
+v+
+√
+v2+4πar
+
+
+ar
+ 
+Flag question: Question 3
+Question 3
+1 pts
+
+The z-component of the angular acceleration of an object moving along a circular trajectory has αz(t)=Bt2+C, where B and C are constants of the appropriate dimension.
+
+What SI units is B measured in?
+
+Group of answer choices
+m/s2
+m/s3
+m/s4
+rad/s2
+rad/s3
+rad/s4
+ 
+Flag question: Question 4
+Question 4
+1 pts
+
+The z-component of the angular acceleration of an object moving along a circular trajectory has αz(t)=Bt2+C, where B and C are constants of the appropriate dimension.
+
+Let ωz(t) denote the z component of the object's angular velocity. If ωz(0 s)=ω0, what is ωz(t)?
+
+Group of answer choices
+Bt3+Ct2+ω0t
+Bt3+Ct+ω0
+2Bt+ω0
+2Bt
+B
+
+
+3
+t3+Ct+ω0
+B
+
+
+3
+t3+Ct+ω0t
+ 
+Flag question: Question 5
+Question 5
+1 pts
+
+The z-component of the angular acceleration of an object moving along a circular trajectory has αz(t)=Bt2+C, where B and C are constants of the appropriate dimension.
+
+Let ωz(t) and θz(t) denote the z components of the object's angular velocity and position, respectively.
+
+If ωz(0 s)=ω0 and θz(0 s)=θ0, what is θz(t)?
+
+Group of answer choices
+Bt4+Ct2+ω0t+θ0
+B
+
+
+3
+t4+Ct2+ω0t+θ0
+B
+
+
+12
+t4+
+C
+
+
+2
+t2
+B
+
+
+12
+t4+
+C
+
+
+2
+t2+ω0t+θ0
+Bt4+Ct2+ω0t
+ 
+Flag question: Question 6
+Question 6
+1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ its velocity, ω its angular speed, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+v
+ is perpendicular to 
+→
+r
+.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 7
+Question 7
+1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+a
+ is perpendicular to 
+→
+r
+.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 8
+Question 8
+1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+v
+ has magnitude rω.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 9
+Question 9
+1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+a
+ has magnitude 
+v2
+
+
+r
+=ω2r.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 10
+Question 10
+1 pts
+
+Now consider an object undergoing non-uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+v
+ is perpendicular to 
+→
+r
+.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 11
+Question 11
+1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+a
+ is perpendicular to 
+→
+r
+.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 12
+Question 12
+1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let 
+→
+r
+ be the position of the object relative to the circle's center, 
+→
+v
+ the velocity of the object, ω the angular speed of the object, and 
+→
+a
+ its acceleration.
+
+True or false: 
+→
+v
+ has magnitude rω.
+
+Group of answer choices
+True
+False
+ 
+Flag question: Question 13
+Question 13
+1 pts
+
+An object is moving counterclockwise along the circular trajectory depicted in the diagrams below.
+
+If the object is speeding up, which arrow represents its acceleration?
+
+Group of answer choices
+A
+B
+C
+D
+E
+ 
+Flag question: Question 14
+Question 14
+2 pts
+
+The plot below shows the z-component of the angular position of an object over a 5 second time interval. Select the option which shows the z-component of the object's corresponding angular velocity over that same interval.
+
+Group of answer choices
+ 
+Flag question: Question 15
+Question 15
+2 pts
+
+The plot below shows the plot of the z-component of the angular position of an object over a 5 second time interval. Select the option which shows the z-component of the object's corresponding angular acceleration over that same interval.
+
+Group of answer choices
+Not saved Submit Quiz

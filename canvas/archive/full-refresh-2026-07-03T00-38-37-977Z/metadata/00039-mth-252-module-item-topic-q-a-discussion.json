@@ -1,0 +1,1668 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Manage Discussion by Kathryn Gates",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Expand discussion thread from Kathryn Gates2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Reply to post from Kathryn GatesReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Manage Discussion by Kathryn Gates",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "Reply to post from Kathryn GatesReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "Manage Discussion by Abigail Macmillan",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 13,
+      "text": "Reply to post from Abigail MacmillanReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 14,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 15,
+      "text": "Manage Discussion by Ava Wilson",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 16,
+      "text": "Expand discussion thread from Ava Wilson1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 17,
+      "text": "Reply to post from Ava WilsonReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 18,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 19,
+      "text": "Manage Discussion by Karsten Crisp",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 20,
+      "text": "Expand discussion thread from Karsten Crisp1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 21,
+      "text": "Reply to post from Karsten CrispReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 22,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 23,
+      "text": "Manage Discussion by Teague Owen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 24,
+      "text": "Expand discussion thread from Teague Owen2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 25,
+      "text": "Reply to post from Teague OwenReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 26,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 27,
+      "text": "Manage Discussion by Brian Telles",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 28,
+      "text": "Expand discussion thread from Brian Telles2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 29,
+      "text": "Reply to post from Brian TellesReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 30,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 31,
+      "text": "Manage Discussion by Brad Price",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 32,
+      "text": "Expand discussion thread from Brad Price2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 33,
+      "text": "Reply to post from Brad PriceReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 34,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 35,
+      "text": "Manage Discussion by David Carter",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 36,
+      "text": "Expand discussion thread from David Carter3 Replies, 3 Unread3 Replies, 3 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 37,
+      "text": "Reply to post from David CarterReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 38,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 39,
+      "text": "Manage Discussion by Lillian Ku",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 40,
+      "text": "Expand discussion thread from Lillian Ku2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 41,
+      "text": "Reply to post from Lillian KuReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 42,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 43,
+      "text": "Manage Discussion by David Carter",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 44,
+      "text": "Expand discussion thread from David Carter2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 45,
+      "text": "Reply to post from David CarterReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 46,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 47,
+      "text": "Manage Discussion by Cameron von Ahlefeld",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 48,
+      "text": "Reply to post from Cameron von AhlefeldReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 49,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 50,
+      "text": "Manage Discussion by Joshua Baughman",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 51,
+      "text": "Expand discussion thread from Joshua Baughman2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 52,
+      "text": "Reply to post from Joshua BaughmanReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 53,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 54,
+      "text": "Manage Discussion by Lidza Louina",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 55,
+      "text": "Expand discussion thread from Lidza Louina4 Replies, 4 Unread4 Replies, 4 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 56,
+      "text": "Reply to post from Lidza LouinaReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 57,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 58,
+      "text": "Manage Discussion by Kathryn Gates",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 59,
+      "text": "Expand discussion thread from Kathryn Gates7 Replies, 7 Unread7 Replies, 7 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 60,
+      "text": "Reply to post from Kathryn GatesReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 61,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Q&A DiscussionQ&A Discussion"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Reply from Kathryn Gates"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Reply from Kathryn Gates"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Reply from Abigail Macmillan"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Reply from Ava Wilson"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Reply from Karsten Crisp"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Reply from Teague Owen"
+    },
+    {
+      "index": 7,
+      "level": "H2",
+      "text": "Reply from Brian Telles"
+    },
+    {
+      "index": 8,
+      "level": "H2",
+      "text": "Reply from Brad Price"
+    },
+    {
+      "index": 9,
+      "level": "H2",
+      "text": "Reply from David Carter"
+    },
+    {
+      "index": 10,
+      "level": "H2",
+      "text": "Reply from Lillian Ku"
+    },
+    {
+      "index": 11,
+      "level": "H2",
+      "text": "Reply from David Carter"
+    },
+    {
+      "index": 12,
+      "level": "H2",
+      "text": "Reply from Cameron von Ahlefeld"
+    },
+    {
+      "index": 13,
+      "level": "H2",
+      "text": "Reply from Joshua Baughman"
+    },
+    {
+      "index": 14,
+      "level": "H2",
+      "text": "Reply from Lidza Louina"
+    },
+    {
+      "index": 15,
+      "level": "H2",
+      "text": "Reply from Kathryn Gates"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort by45 Replies, 45 Unread45 Replies, 45 UnreadUnsubscribedManage DiscussionDiscussion Topic: Q&A DiscussionQ&A Discussion Use this discussion board to address items having to do with the class in general (assignments, deadlines, technical problems, etc.). Instead of emailing the instructor regarding items others may also have questions about, use this forum so that all may benefit from the questions and answers provided. Anyone should feel free to provide answers or suggestions to various questions. If you have questions of a personal nature, please email your instructor privately. ReplyMark post as readKathryn GatesJun 30 8:44pm | Last reply Jul 1 6:10pmManage Discussion by Kathryn GatesReply from Kathryn GatesAnother question regarding our WHW#2 homework! We're assigned problem 1.2.75, but that problem appears to be missing from the book. Am I missing something? Thanks everyone!Expand discussion thread from Kathryn Gates2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Kathryn GatesReply Mark as ReadMark as ReadMark post as readKathryn GatesJun 30 8:38pmManage Discussion by Kathryn GatesReply from Kathryn GatesHello everyone! Is anyone else confused by problem 1.1.30 in our WHW#2 homework? Here's its directions: In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\" I'm specifically confused by the last sentence of the directions. I'm assuming by agree it means if the two sums are equivalent, but I'm not sure what 'neither' means in this scenario. Neither in regard to what two options? Thank you!Reply to post from Kathryn GatesReply Mark as ReadMark as ReadMark post as readAbigail Macmillan (She/Her/Hers)Jun 30 8:15amManage Discussion by Abigail MacmillanReply from Abigail MacmillanHello! Are the note pages we are given supposed to correspond with the lecture videos on YouTube, or are we supposed to generate our own note sheets for those? Thank you!Reply to post from Abigail MacmillanReply Mark as ReadMark as ReadMark post as readAWAva WilsonJun 29 6:07pm | Last reply Jun 29 7:29pmManage Discussion by Ava WilsonReply from Ava WilsonHey, Is everyone's gradescope working? Mine says the course hasn't been created yet. Expand discussion thread from Ava Wilson1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Ava WilsonReply Mark as ReadMark as ReadDeleted by Blakely AndersonDeleted Jun 29 11:50amMark post as readKarsten CrispJun 29 10:52am | Last reply Jun 29 11:59amManage Discussion by Karsten CrispReply from Karsten CrispHey, I have been having problems with trying to find the homework problems. I go into the book they gave us, and there is no 1.1 problem 13. I also can't find any of those problems.Expand discussion thread from Karsten Crisp1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Karsten CrispReply Mark as ReadMark as ReadMark post as readTOTeague OwenJun 26 10:13pm | Last reply Jun 29 12:01pmManage Discussion by Teague OwenReply from Teague OwenHi Everyone, i'm having some connective issues with achieve where sometimes it will crash when I attempt to access different weeks besides the current one. Is anyone else having this issue?Expand discussion thread from Teague Owen2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Teague OwenReply Mark as ReadMark as ReadMark post as readBTBrian TellesJun 26 11:15am | Last reply Jun 29 12:03pmManage Discussion by Brian TellesReply from Brian TellesHi everyone, Can someone explain to me what problem 35 in the written homework is asking? I understand it's in sigma notation so is it asking for us to expand the whole thing?Expand discussion thread from Brian Telles2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Brian TellesReply Mark as ReadMark as ReadDeleted by Cameron von AhlefeldDeleted Jun 26 11:18amMark post as readBPBrad PriceJun 25 11:09pm | Last reply Jun 29 12:05pmManage Discussion by Brad PriceReply from Brad PriceHello everyone! Is calculating the Riemann Sum still the same formula regardless of the shape of the curve? The first few examples would be a smoother curve going in one direction, but a later example had a curve between intervals that went up, down, and up again. Does the equation on that curve with the endpoint/rectangle change based on the difference of curves within the intervals, if the curve is a lower height at one point and back to a higher height? Is the formula the same regardless of the shape?Expand discussion thread from Brad Price2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Brad PriceReply Mark as ReadMark as ReadMark post as readDavid CarterJun 25 4:41pm | Last reply Jun 29 12:06pmManage Discussion by David CarterReply from David CarterHey everyone, How do we access the Riemann Sum Calculator? There are questions on achieve that require the calculator.Expand discussion thread from David Carter3 Replies, 3 Unread3 Replies, 3 UnreadReply to post from David CarterReply Mark as ReadMark as ReadMark post as readLillian KuJun 25 4:03pm | Last reply Jun 29 10:50amManage Discussion by Lillian KuReply from Lillian KuHi Everyone! Does anyone know where I can find out how the \"Achieve\" homeworks are graded? I just finished the first Achieve hw, and the grade on Achieve (100) is not the same as what's listed on my \"Grade\" page (much lower than 100). It says we have unlimited attempts and no penalty for incorrect attempts, but I'm curious if the grade we actually receive is lower based on the number of questions we get wrong and the number of attempts we take on a questions. Expand discussion thread from Lillian Ku2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Lillian KuReply Mark as ReadMark as ReadMark post as readDavid CarterJun 25 2:52pm | Last reply Jun 29 11:44amManage Discussion by David CarterReply from David CarterHey everyone, I noticed that I have not been able to access module 1 or 2 yet, but module 3 is available is anyone else having this problem?Expand discussion thread from David Carter2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from David CarterReply Mark as ReadMark as ReadMark post as readCameron von AhlefeldJun 24 12:57pmManage Discussion by Cameron von AhlefeldReply from Cameron von AhlefeldHello all, It seems like I still do not have access to Gradescope, or the class has not been created yet. Dr. Gilliam sent an announcement yesterday that it would be up around 5pm Jun 23. It is now 1 pm Jun 24th, and I am still unable to access it. When I hit the Gradescope link on Canvas, I get an error message \"Course hasn't been created. Reach out to your instructor or email help@gradescope.com.\" Is anyone else having the same problem?Reply to post from Cameron von AhlefeldReply Mark as ReadMark as ReadMark post as readJoshua BaughmanJun 24 11:13am | Last reply Jun 24 2:12pmManage Discussion by Joshua BaughmanReply from Joshua BaughmanHello everyone. Has anyone found a faster way to get to this Q&A section? Currently I have only found one pathway. Click on Modules -> Tutoring Support -> Q&A. Expand discussion thread from Joshua Baughman2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Joshua BaughmanReply Mark as ReadMark as ReadMark post as readLLLidza Louina (She/Her/Hers)Jun 23 6:45am | Last reply Jun 24 6:36pmManage Discussion by Lidza LouinaReply from Lidza LouinaHey all, I was looking at Gradescope submissions, and I don’t seem to have access when I click the link on the assignment. I see an error: “Course hasn't been created. Reach out to your instructor or email help@gradescope.com.” It gives me the option to join using a code. Is the code listed somewhere? Thanks in advance. Expand discussion thread from Lidza Louina4 Replies, 4 Unread4 Replies, 4 UnreadReply to post from Lidza LouinaReply Mark as ReadMark as ReadMark post as readKathryn GatesJun 22 3:23pm | Last reply Jun 29 12:07pmManage Discussion by Kathryn GatesReply from Kathryn GatesHello everyone! I want to make sure this isn't just an issue on my end, but can anyone else access the achieve homework? I've registered, bought access, and it's correctly synced to this class, but all the assignments are listed as not yet posted. Are they not available yet? Thank you!Expand discussion thread from Kathryn Gates7 Replies, 7 Unread7 Replies, 7 UnreadReply to post from Kathryn GatesReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "45 Replies, 45 Unread45 Replies, 45 UnreadUnsubscribedManage DiscussionDiscussion Topic: Q&A DiscussionQ&A Discussion Use this discussion board to address items having to do with the class in general (assignments, deadlines, technical problems, etc.). Instead of emailing the instructor regarding items others may also have questions about, use this forum so that all may benefit from the questions and answers provided. Anyone should feel free to provide answers or suggestions to various questions. If you have questions of a personal nature, please email your instructor privately. Reply"
+    },
+    {
+      "index": 5,
+      "text": "45 Replies, 45 Unread"
+    },
+    {
+      "index": 6,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: Q&A Discussion"
+    },
+    {
+      "index": 9,
+      "text": "Mark post as readKathryn GatesJun 30 8:44pm | Last reply Jul 1 6:10pmManage Discussion by Kathryn GatesReply from Kathryn GatesAnother question regarding our WHW#2 homework! We're assigned problem 1.2.75, but that problem appears to be missing from the book. Am I missing something? Thanks everyone!Expand discussion thread from Kathryn Gates2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Kathryn GatesReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 10,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 11,
+      "text": "Manage Discussion by Kathryn Gates"
+    },
+    {
+      "index": 12,
+      "text": "Reply from Kathryn Gates"
+    },
+    {
+      "index": 13,
+      "text": "Expand discussion thread from Kathryn Gates"
+    },
+    {
+      "index": 14,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 15,
+      "text": "Reply to post from Kathryn Gates"
+    },
+    {
+      "index": 16,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 17,
+      "text": "Mark post as readKathryn GatesJun 30 8:38pmManage Discussion by Kathryn GatesReply from Kathryn GatesHello everyone! Is anyone else confused by problem 1.1.30 in our WHW#2 homework? Here's its directions: In the following exercises, graph the function then use a calculator or a computer program to evaluate the following left and right endpoint sums. If the two agree, say \"neither.\" I'm specifically confused by the last sentence of the directions. I'm assuming by agree it means if the two sums are equivalent, but I'm not sure what 'neither' means in this scenario. Neither in regard to what two options? Thank you!Reply to post from Kathryn GatesReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 18,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 19,
+      "text": "Manage Discussion by Kathryn Gates"
+    },
+    {
+      "index": 20,
+      "text": "Reply from Kathryn Gates"
+    },
+    {
+      "index": 21,
+      "text": "Reply to post from Kathryn Gates"
+    },
+    {
+      "index": 22,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 23,
+      "text": "Mark post as readAbigail Macmillan (She/Her/Hers)Jun 30 8:15amManage Discussion by Abigail MacmillanReply from Abigail MacmillanHello! Are the note pages we are given supposed to correspond with the lecture videos on YouTube, or are we supposed to generate our own note sheets for those? Thank you!Reply to post from Abigail MacmillanReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 24,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 25,
+      "text": "Manage Discussion by Abigail Macmillan"
+    },
+    {
+      "index": 26,
+      "text": "Reply from Abigail Macmillan"
+    },
+    {
+      "index": 27,
+      "text": "Reply to post from Abigail Macmillan"
+    },
+    {
+      "index": 28,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 29,
+      "text": "Mark post as readAWAva WilsonJun 29 6:07pm | Last reply Jun 29 7:29pmManage Discussion by Ava WilsonReply from Ava WilsonHey, Is everyone's gradescope working? Mine says the course hasn't been created yet. Expand discussion thread from Ava Wilson1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Ava WilsonReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 30,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 31,
+      "text": "Manage Discussion by Ava Wilson"
+    },
+    {
+      "index": 32,
+      "text": "Reply from Ava Wilson"
+    },
+    {
+      "index": 33,
+      "text": "Expand discussion thread from Ava Wilson"
+    },
+    {
+      "index": 34,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 35,
+      "text": "Reply to post from Ava Wilson"
+    },
+    {
+      "index": 36,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 37,
+      "text": "Mark post as readKarsten CrispJun 29 10:52am | Last reply Jun 29 11:59amManage Discussion by Karsten CrispReply from Karsten CrispHey, I have been having problems with trying to find the homework problems. I go into the book they gave us, and there is no 1.1 problem 13. I also can't find any of those problems.Expand discussion thread from Karsten Crisp1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Karsten CrispReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 38,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 39,
+      "text": "Manage Discussion by Karsten Crisp"
+    },
+    {
+      "index": 40,
+      "text": "Reply from Karsten Crisp"
+    },
+    {
+      "index": 41,
+      "text": "Expand discussion thread from Karsten Crisp"
+    },
+    {
+      "index": 42,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 43,
+      "text": "Reply to post from Karsten Crisp"
+    },
+    {
+      "index": 44,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 45,
+      "text": "Mark post as readTOTeague OwenJun 26 10:13pm | Last reply Jun 29 12:01pmManage Discussion by Teague OwenReply from Teague OwenHi Everyone, i'm having some connective issues with achieve where sometimes it will crash when I attempt to access different weeks besides the current one. Is anyone else having this issue?Expand discussion thread from Teague Owen2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Teague OwenReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 46,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 47,
+      "text": "Manage Discussion by Teague Owen"
+    },
+    {
+      "index": 48,
+      "text": "Reply from Teague Owen"
+    },
+    {
+      "index": 49,
+      "text": "Expand discussion thread from Teague Owen"
+    },
+    {
+      "index": 50,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 51,
+      "text": "Reply to post from Teague Owen"
+    },
+    {
+      "index": 52,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 53,
+      "text": "Mark post as readBTBrian TellesJun 26 11:15am | Last reply Jun 29 12:03pmManage Discussion by Brian TellesReply from Brian TellesHi everyone, Can someone explain to me what problem 35 in the written homework is asking? I understand it's in sigma notation so is it asking for us to expand the whole thing?Expand discussion thread from Brian Telles2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Brian TellesReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 54,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 55,
+      "text": "Manage Discussion by Brian Telles"
+    },
+    {
+      "index": 56,
+      "text": "Reply from Brian Telles"
+    },
+    {
+      "index": 57,
+      "text": "Expand discussion thread from Brian Telles"
+    },
+    {
+      "index": 58,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 59,
+      "text": "Reply to post from Brian Telles"
+    },
+    {
+      "index": 60,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 61,
+      "text": "Mark post as readBPBrad PriceJun 25 11:09pm | Last reply Jun 29 12:05pmManage Discussion by Brad PriceReply from Brad PriceHello everyone! Is calculating the Riemann Sum still the same formula regardless of the shape of the curve? The first few examples would be a smoother curve going in one direction, but a later example had a curve between intervals that went up, down, and up again. Does the equation on that curve with the endpoint/rectangle change based on the difference of curves within the intervals, if the curve is a lower height at one point and back to a higher height? Is the formula the same regardless of the shape?Expand discussion thread from Brad Price2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Brad PriceReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 62,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 63,
+      "text": "Manage Discussion by Brad Price"
+    },
+    {
+      "index": 64,
+      "text": "Reply from Brad Price"
+    },
+    {
+      "index": 65,
+      "text": "Expand discussion thread from Brad Price"
+    },
+    {
+      "index": 66,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 67,
+      "text": "Reply to post from Brad Price"
+    },
+    {
+      "index": 68,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 69,
+      "text": "Mark post as readDavid CarterJun 25 4:41pm | Last reply Jun 29 12:06pmManage Discussion by David CarterReply from David CarterHey everyone, How do we access the Riemann Sum Calculator? There are questions on achieve that require the calculator.Expand discussion thread from David Carter3 Replies, 3 Unread3 Replies, 3 UnreadReply to post from David CarterReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 70,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 71,
+      "text": "Manage Discussion by David Carter"
+    },
+    {
+      "index": 72,
+      "text": "Reply from David Carter"
+    },
+    {
+      "index": 73,
+      "text": "Expand discussion thread from David Carter"
+    },
+    {
+      "index": 74,
+      "text": "3 Replies, 3 Unread"
+    },
+    {
+      "index": 75,
+      "text": "Reply to post from David Carter"
+    },
+    {
+      "index": 76,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 77,
+      "text": "Mark post as readLillian KuJun 25 4:03pm | Last reply Jun 29 10:50amManage Discussion by Lillian KuReply from Lillian KuHi Everyone! Does anyone know where I can find out how the \"Achieve\" homeworks are graded? I just finished the first Achieve hw, and the grade on Achieve (100) is not the same as what's listed on my \"Grade\" page (much lower than 100). It says we have unlimited attempts and no penalty for incorrect attempts, but I'm curious if the grade we actually receive is lower based on the number of questions we get wrong and the number of attempts we take on a questions. Expand discussion thread from Lillian Ku2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Lillian KuReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 78,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 79,
+      "text": "Manage Discussion by Lillian Ku"
+    },
+    {
+      "index": 80,
+      "text": "Reply from Lillian Ku"
+    },
+    {
+      "index": 81,
+      "text": "Expand discussion thread from Lillian Ku"
+    },
+    {
+      "index": 82,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 83,
+      "text": "Reply to post from Lillian Ku"
+    },
+    {
+      "index": 84,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 85,
+      "text": "Mark post as readDavid CarterJun 25 2:52pm | Last reply Jun 29 11:44amManage Discussion by David CarterReply from David CarterHey everyone, I noticed that I have not been able to access module 1 or 2 yet, but module 3 is available is anyone else having this problem?Expand discussion thread from David Carter2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from David CarterReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 86,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 87,
+      "text": "Manage Discussion by David Carter"
+    },
+    {
+      "index": 88,
+      "text": "Reply from David Carter"
+    },
+    {
+      "index": 89,
+      "text": "Expand discussion thread from David Carter"
+    },
+    {
+      "index": 90,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 91,
+      "text": "Reply to post from David Carter"
+    },
+    {
+      "index": 92,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 93,
+      "text": "Mark post as readCameron von AhlefeldJun 24 12:57pmManage Discussion by Cameron von AhlefeldReply from Cameron von AhlefeldHello all, It seems like I still do not have access to Gradescope, or the class has not been created yet. Dr. Gilliam sent an announcement yesterday that it would be up around 5pm Jun 23. It is now 1 pm Jun 24th, and I am still unable to access it. When I hit the Gradescope link on Canvas, I get an error message \"Course hasn't been created. Reach out to your instructor or email help@gradescope.com.\" Is anyone else having the same problem?Reply to post from Cameron von AhlefeldReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 94,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 95,
+      "text": "Manage Discussion by Cameron von Ahlefeld"
+    },
+    {
+      "index": 96,
+      "text": "Reply from Cameron von Ahlefeld"
+    },
+    {
+      "index": 97,
+      "text": "Reply to post from Cameron von Ahlefeld"
+    },
+    {
+      "index": 98,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 99,
+      "text": "Mark post as readJoshua BaughmanJun 24 11:13am | Last reply Jun 24 2:12pmManage Discussion by Joshua BaughmanReply from Joshua BaughmanHello everyone. Has anyone found a faster way to get to this Q&A section? Currently I have only found one pathway. Click on Modules -> Tutoring Support -> Q&A. Expand discussion thread from Joshua Baughman2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Joshua BaughmanReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 100,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 101,
+      "text": "Manage Discussion by Joshua Baughman"
+    },
+    {
+      "index": 102,
+      "text": "Reply from Joshua Baughman"
+    },
+    {
+      "index": 103,
+      "text": "Expand discussion thread from Joshua Baughman"
+    },
+    {
+      "index": 104,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 105,
+      "text": "Reply to post from Joshua Baughman"
+    },
+    {
+      "index": 106,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 107,
+      "text": "Mark post as readLLLidza Louina (She/Her/Hers)Jun 23 6:45am | Last reply Jun 24 6:36pmManage Discussion by Lidza LouinaReply from Lidza LouinaHey all, I was looking at Gradescope submissions, and I don’t seem to have access when I click the link on the assignment. I see an error: “Course hasn't been created. Reach out to your instructor or email help@gradescope.com.” It gives me the option to join using a code. Is the code listed somewhere? Thanks in advance. Expand discussion thread from Lidza Louina4 Replies, 4 Unread4 Replies, 4 UnreadReply to post from Lidza LouinaReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 108,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 109,
+      "text": "Manage Discussion by Lidza Louina"
+    },
+    {
+      "index": 110,
+      "text": "Reply from Lidza Louina"
+    },
+    {
+      "index": 111,
+      "text": "Expand discussion thread from Lidza Louina"
+    },
+    {
+      "index": 112,
+      "text": "4 Replies, 4 Unread"
+    },
+    {
+      "index": 113,
+      "text": "Reply to post from Lidza Louina"
+    },
+    {
+      "index": 114,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 115,
+      "text": "Mark post as readKathryn GatesJun 22 3:23pm | Last reply Jun 29 12:07pmManage Discussion by Kathryn GatesReply from Kathryn GatesHello everyone! I want to make sure this isn't just an issue on my end, but can anyone else access the achieve homework? I've registered, bought access, and it's correctly synced to this class, but all the assignments are listed as not yet posted. Are they not available yet? Thank you!Expand discussion thread from Kathryn Gates7 Replies, 7 Unread7 Replies, 7 UnreadReply to post from Kathryn GatesReply Mark as ReadMark as Read"
+    },
+    {
+      "index": 116,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 117,
+      "text": "Manage Discussion by Kathryn Gates"
+    },
+    {
+      "index": 118,
+      "text": "Reply from Kathryn Gates"
+    },
+    {
+      "index": 119,
+      "text": "Expand discussion thread from Kathryn Gates"
+    },
+    {
+      "index": 120,
+      "text": "7 Replies, 7 Unread"
+    },
+    {
+      "index": 121,
+      "text": "Reply to post from Kathryn Gates"
+    },
+    {
+      "index": 122,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 123,
+      "text": "Previous Next"
+    },
+    {
+      "index": 124,
+      "text": "Previous"
+    },
+    {
+      "index": 125,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Q&A Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2080857/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476",
+      "index": 17,
+      "raw_href": "/courses/2080857/discussion_topics/11593476",
+      "rel": "",
+      "target": "",
+      "text": "Q&A Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6396420",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6396420",
+      "rel": "",
+      "target": "",
+      "text": "Abigail Macmillan (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6693928",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6693928",
+      "rel": "",
+      "target": "",
+      "text": "Ava Wilson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6710616",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6710616",
+      "rel": "",
+      "target": "",
+      "text": "Karsten Crisp",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6707013",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6707013",
+      "rel": "",
+      "target": "",
+      "text": "Teague Owen",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "rel": "",
+      "target": "",
+      "text": "Brian Telles",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6739747",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6739747",
+      "rel": "",
+      "target": "",
+      "text": "Brad Price",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "rel": "",
+      "target": "",
+      "text": "David Carter",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6672407",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6672407",
+      "rel": "",
+      "target": "",
+      "text": "Lillian Ku",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "rel": "",
+      "target": "",
+      "text": "David Carter",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6698707",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6698707",
+      "rel": "",
+      "target": "",
+      "text": "Cameron von Ahlefeld",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "rel": "",
+      "target": "",
+      "text": "Joshua Baughman",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6757193",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6757193",
+      "rel": "",
+      "target": "",
+      "text": "Lidza Louina (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982534",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982534",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6396420",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6396420",
+      "rel": "",
+      "target": "",
+      "text": "Abigail Macmillan (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6693928",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6693928",
+      "rel": "",
+      "target": "",
+      "text": "Ava Wilson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6710616",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6710616",
+      "rel": "",
+      "target": "",
+      "text": "Karsten Crisp",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6707013",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6707013",
+      "rel": "",
+      "target": "",
+      "text": "Teague Owen",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "rel": "",
+      "target": "",
+      "text": "Brian Telles",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6739747",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6739747",
+      "rel": "",
+      "target": "",
+      "text": "Brad Price",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "rel": "",
+      "target": "",
+      "text": "David Carter",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6672407",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6672407",
+      "rel": "",
+      "target": "",
+      "text": "Lillian Ku",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6588475",
+      "rel": "",
+      "target": "",
+      "text": "David Carter",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6698707",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6698707",
+      "rel": "",
+      "target": "",
+      "text": "Cameron von Ahlefeld",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "rel": "",
+      "target": "",
+      "text": "Joshua Baughman",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6757193",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6757193",
+      "rel": "",
+      "target": "",
+      "text": "Lidza Louina (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6772350",
+      "rel": "",
+      "target": "",
+      "text": "Kathryn Gates",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982534",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982534",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades2"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982539",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Topic: Q&A Discussion",
+  "page_id": "00039-mth-252-module-item-topic-q-a-discussion",
+  "captured_at": "2026-07-03T00:41:06.322Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Q&A Discussion",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11593476",
+  "html_sha256": "08b141a7db199cdc8279cbb53e87853db7a35cab49045e819e131ab510a1da41",
+  "text_sha256": "970e8f9e36c8761058c09f9d6d99d263462eabbc0226f539c359f0d08e78d775",
+  "requires_external_handler": false
+}

@@ -1,0 +1,753 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Unit 1 - Overview"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Introduction"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Unit Learning Outcomes"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Task List"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Previous Next"
+    },
+    {
+      "index": 9,
+      "text": "Previous"
+    },
+    {
+      "index": 10,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Unit 1 - Overview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages",
+      "index": 16,
+      "raw_href": "/courses/2053263/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 17,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 19,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 20,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 21,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 24,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 25,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Discussion Board",
+      "title": "Unit 1 Discussion Board - Submitted in Week 1 (Required)"
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/2-2-the-limit-of-a-function",
+      "index": 30,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/2-2-the-limit-of-a-function",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "2.2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws",
+      "index": 31,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "2.3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes",
+      "index": 32,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "4.6Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-8-lhopitals-rule",
+      "index": 33,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-8-lhopitals-rule",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "4.8Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-1",
+      "index": 34,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "index": 35,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "3.7Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2",
+      "index": 36,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258",
+      "rel": "",
+      "target": "",
+      "text": "Week 1 Web Homework",
+      "title": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Written Homework",
+      "title": "Unit 1 - Written Homework Assignment"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Quiz",
+      "title": "Unit 1 Quiz (Remotely Proctored)"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": "Modules"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885527",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885527",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Discussion Board",
+      "title": "Unit 1 Discussion Board - Submitted in Week 1 (Required)"
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/2-2-the-limit-of-a-function",
+      "index": 1,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/2-2-the-limit-of-a-function",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "2.2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws",
+      "index": 2,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/2-3-the-limit-laws",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "2.3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes",
+      "index": 3,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-6-limits-at-infinity-and-asymptotes",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "4.6Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-8-lhopitals-rule",
+      "index": 4,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-8-lhopitals-rule",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "4.8Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-1",
+      "index": 5,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "index": 6,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/3-7-improper-integrals",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "3.7Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2",
+      "index": 7,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258",
+      "rel": "",
+      "target": "",
+      "text": "Week 1 Web Homework",
+      "title": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Written Homework",
+      "title": "Unit 1 - Written Homework Assignment"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Quiz",
+      "title": "Unit 1 Quiz (Remotely Proctored)"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": "Modules"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885527",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885527",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades2"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885529",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-1-overview?module_item_id=26885529",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Unit 1 - Overview: SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+  "page_id": "00242-mth-253-module-item-unit-1-overview-sequences-and-series-mth-253z-400-u2026",
+  "captured_at": "2026-07-03T00:52:04.898Z",
+  "source_kind": "module_item",
+  "discovered_from": "00010-mth-253-modules-course-modules-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "Unit 1 - Overview",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "unit-1-overview",
+  "html_sha256": "b0ddbd2515f015edcc9eb91f8c1fa278a141c10b9415fdc3ee0000ebcc671f63",
+  "text_sha256": "adaf906ddb8020edb88ef861d894b13137e479ae60311f6d64da8ee6aab6e062",
+  "requires_external_handler": false
+}

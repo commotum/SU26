@@ -1,0 +1,1920 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Update Syllabus",
+      "type": "submit"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 13,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 14,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 15,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 16,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 17,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 18,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 19,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 20,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 21,
+      "text": "due by 10am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 22,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 23,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 24,
+      "text": "due by 2pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 25,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 26,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 27,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 28,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 29,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 30,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 31,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 32,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 33,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 34,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 35,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 36,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 37,
+      "text": "to do: 12am",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 38,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 39,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 40,
+      "text": "to do: 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 41,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 42,
+      "text": "due by 11:59pm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 43,
+      "text": "due by 11:59pm",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "method": "post",
+      "text": "Syllabus Description: Show Course Summary Cancel Update Syllabus"
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Course Syllabus"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Course Summary:"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Course Summary"
+    },
+    {
+      "index": 2,
+      "text": "Quiz"
+    },
+    {
+      "index": 3,
+      "text": "Quiz"
+    },
+    {
+      "index": 4,
+      "text": "Quiz"
+    },
+    {
+      "index": 5,
+      "text": "Quiz"
+    },
+    {
+      "index": 6,
+      "text": "Discussion Checkpoint"
+    },
+    {
+      "index": 7,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 8,
+      "text": "Quiz"
+    },
+    {
+      "index": 9,
+      "text": "Quiz"
+    },
+    {
+      "index": 10,
+      "text": "Assignment"
+    },
+    {
+      "index": 11,
+      "text": "Discussion Checkpoint"
+    },
+    {
+      "index": 12,
+      "text": "Quiz"
+    },
+    {
+      "index": 13,
+      "text": "Quiz"
+    },
+    {
+      "index": 14,
+      "text": "Quiz"
+    },
+    {
+      "index": 15,
+      "text": "Quiz"
+    },
+    {
+      "index": 16,
+      "text": "Quiz"
+    },
+    {
+      "index": 17,
+      "text": "Quiz"
+    },
+    {
+      "index": 18,
+      "text": "Quiz"
+    },
+    {
+      "index": 19,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 20,
+      "text": "Assignment"
+    },
+    {
+      "index": 21,
+      "text": "Quiz"
+    },
+    {
+      "index": 22,
+      "text": "Quiz"
+    },
+    {
+      "index": 23,
+      "text": "Quiz"
+    },
+    {
+      "index": 24,
+      "text": "Assignment"
+    },
+    {
+      "index": 25,
+      "text": "Quiz"
+    },
+    {
+      "index": 26,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 27,
+      "text": "Assignment"
+    },
+    {
+      "index": 28,
+      "text": "Quiz"
+    },
+    {
+      "index": 29,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 30,
+      "text": "Assignment"
+    },
+    {
+      "index": 31,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 32,
+      "text": "Assignment"
+    },
+    {
+      "index": 33,
+      "text": "Quiz"
+    },
+    {
+      "index": 34,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 35,
+      "text": "Assignment"
+    },
+    {
+      "index": 36,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 37,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 38,
+      "text": "Assignment"
+    },
+    {
+      "index": 39,
+      "text": "Page"
+    },
+    {
+      "index": 40,
+      "text": "Discussion Topic"
+    },
+    {
+      "index": 41,
+      "text": "Assignment"
+    },
+    {
+      "index": 42,
+      "text": "Quiz"
+    },
+    {
+      "index": 43,
+      "text": "Assignment"
+    },
+    {
+      "index": 44,
+      "text": "Assignment"
+    },
+    {
+      "index": 45,
+      "text": "Assignment"
+    },
+    {
+      "index": 46,
+      "text": "Assignment"
+    },
+    {
+      "index": 47,
+      "text": "Assignment"
+    },
+    {
+      "index": 48,
+      "text": "Assignment"
+    },
+    {
+      "index": 49,
+      "text": "Assignment"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 16,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 17,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 18,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 19,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 20,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 21,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 22,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 23,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 24,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 25,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 26,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Jump to Today",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008",
+      "rel": "",
+      "target": "",
+      "text": "M1-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694",
+      "rel": "",
+      "target": "",
+      "text": "M1-0asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960",
+      "rel": "",
+      "target": "",
+      "text": "M1-2pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695",
+      "rel": "",
+      "target": "",
+      "text": "M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Reply to Topic",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950",
+      "rel": "",
+      "target": "",
+      "text": "M1-1asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Required Replies (4)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029",
+      "rel": "",
+      "target": "",
+      "text": "Lab Partner Values Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984",
+      "rel": "",
+      "target": "",
+      "text": "Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970",
+      "rel": "",
+      "target": "",
+      "text": "M1-3pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001",
+      "rel": "",
+      "target": "",
+      "text": "Proctorio practice quiz (Remotely Proctored)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995",
+      "rel": "",
+      "target": "",
+      "text": "M1-4pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971",
+      "rel": "",
+      "target": "",
+      "text": "M1-5pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557003",
+      "index": 49,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557003",
+      "rel": "",
+      "target": "",
+      "text": "M1-3asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557038",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557038",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070",
+      "rel": "",
+      "target": "",
+      "text": "M2-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556953",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556953",
+      "rel": "",
+      "target": "",
+      "text": "M1-4asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556940",
+      "index": 53,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556940",
+      "rel": "",
+      "target": "",
+      "text": "Hw 2 - Rotational Dynamics",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557021",
+      "index": 54,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557021",
+      "rel": "",
+      "target": "",
+      "text": "M1-5asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557058",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557058",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974",
+      "rel": "",
+      "target": "",
+      "text": "Lab Collaboration Contract",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557037",
+      "index": 57,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557037",
+      "rel": "",
+      "target": "",
+      "text": "Lab 3 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557059",
+      "index": 58,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557059",
+      "rel": "",
+      "target": "",
+      "text": "Lab 3 Group report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586342",
+      "index": 59,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586342",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group Check-In Survey (Lab 3)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557041",
+      "index": 60,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557041",
+      "rel": "",
+      "target": "",
+      "text": "Lab 4 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557060",
+      "index": 61,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557060",
+      "rel": "",
+      "target": "",
+      "text": "Lab 4 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557039",
+      "index": 62,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557039",
+      "rel": "",
+      "target": "",
+      "text": "Lab 5 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557061",
+      "index": 63,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557061",
+      "rel": "",
+      "target": "",
+      "text": "Lab 5 Group report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586343",
+      "index": 64,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586343",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group Check-In Survey (Lab 5)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557035",
+      "index": 65,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557035",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557047",
+      "index": 66,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557047",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 1 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "index": 67,
+      "raw_href": "/courses/2053526/discussion_topics/11563812",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Optional Step: Find Group Members",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557040",
+      "index": 68,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557040",
+      "rel": "",
+      "target": "",
+      "text": "Lab 6 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557062",
+      "index": 69,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557062",
+      "rel": "",
+      "target": "",
+      "text": "Lab 6 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/project-%7C-reminder-submit-presentations-next-week",
+      "index": 70,
+      "raw_href": "/courses/2053526/pages/project-%7C-reminder-submit-presentations-next-week",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Reminder: Submit Presentations Next Week",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557045",
+      "index": 71,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557045",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 2 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557046",
+      "index": 72,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557046",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 2 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557025",
+      "index": 73,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557025",
+      "rel": "",
+      "target": "",
+      "text": "PH 212e Lab Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118",
+      "index": 74,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118",
+      "rel": "",
+      "target": "",
+      "text": "M1-0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346",
+      "index": 75,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346",
+      "rel": "",
+      "target": "",
+      "text": "M1-00",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982",
+      "index": 76,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982",
+      "rel": "",
+      "target": "",
+      "text": "M1-1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560",
+      "index": 77,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560",
+      "rel": "",
+      "target": "",
+      "text": "M1-2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595057",
+      "index": 78,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595057",
+      "rel": "",
+      "target": "",
+      "text": "M1-3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595549",
+      "index": 79,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595549",
+      "rel": "",
+      "target": "",
+      "text": "M1-4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10597145",
+      "index": 80,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10597145",
+      "rel": "",
+      "target": "",
+      "text": "M1-5",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus#",
+      "index": 0,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Jump to Today",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557008",
+      "rel": "",
+      "target": "",
+      "text": "M1-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590694",
+      "rel": "",
+      "target": "",
+      "text": "M1-0asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556960",
+      "rel": "",
+      "target": "",
+      "text": "M1-2pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695",
+      "rel": "",
+      "target": "",
+      "text": "M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Reply to Topic",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556950",
+      "rel": "",
+      "target": "",
+      "text": "M1-1asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Required Replies (4)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557029",
+      "rel": "",
+      "target": "",
+      "text": "Lab Partner Values Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556984",
+      "rel": "",
+      "target": "",
+      "text": "Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556970",
+      "rel": "",
+      "target": "",
+      "text": "M1-3pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557001",
+      "rel": "",
+      "target": "",
+      "text": "Proctorio practice quiz (Remotely Proctored)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556995",
+      "rel": "",
+      "target": "",
+      "text": "M1-4pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556971",
+      "rel": "",
+      "target": "",
+      "text": "M1-5pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557003",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557003",
+      "rel": "",
+      "target": "",
+      "text": "M1-3asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557038",
+      "index": 18,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557038",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070",
+      "index": 19,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557070",
+      "rel": "",
+      "target": "",
+      "text": "M2-1pre",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556953",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556953",
+      "rel": "",
+      "target": "",
+      "text": "M1-4asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556940",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556940",
+      "rel": "",
+      "target": "",
+      "text": "Hw 2 - Rotational Dynamics",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557021",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557021",
+      "rel": "",
+      "target": "",
+      "text": "M1-5asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557058",
+      "index": 23,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557058",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974",
+      "index": 24,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556974",
+      "rel": "",
+      "target": "",
+      "text": "Lab Collaboration Contract",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557037",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557037",
+      "rel": "",
+      "target": "",
+      "text": "Lab 3 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557059",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557059",
+      "rel": "",
+      "target": "",
+      "text": "Lab 3 Group report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586342",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586342",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group Check-In Survey (Lab 3)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557041",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557041",
+      "rel": "",
+      "target": "",
+      "text": "Lab 4 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557060",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557060",
+      "rel": "",
+      "target": "",
+      "text": "Lab 4 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557039",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557039",
+      "rel": "",
+      "target": "",
+      "text": "Lab 5 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557061",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557061",
+      "rel": "",
+      "target": "",
+      "text": "Lab 5 Group report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586343",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10586343",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group Check-In Survey (Lab 5)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557035",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557035",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 1 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557047",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557047",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 1 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563812",
+      "index": 35,
+      "raw_href": "/courses/2053526/discussion_topics/11563812",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Optional Step: Find Group Members",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557040",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557040",
+      "rel": "",
+      "target": "",
+      "text": "Lab 6 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557062",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557062",
+      "rel": "",
+      "target": "",
+      "text": "Lab 6 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/project-%7C-reminder-submit-presentations-next-week",
+      "index": 38,
+      "raw_href": "/courses/2053526/pages/project-%7C-reminder-submit-presentations-next-week",
+      "rel": "",
+      "target": "",
+      "text": "🤔 Project | Reminder: Submit Presentations Next Week",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557045",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557045",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 2 Discussion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557046",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557046",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 2 Group Report",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557025",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557025",
+      "rel": "",
+      "target": "",
+      "text": "PH 212e Lab Survey",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10591118",
+      "rel": "",
+      "target": "",
+      "text": "M1-0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592346",
+      "rel": "",
+      "target": "",
+      "text": "M1-00",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10592982",
+      "rel": "",
+      "target": "",
+      "text": "M1-1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10593560",
+      "rel": "",
+      "target": "",
+      "text": "M1-2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595057",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595057",
+      "rel": "",
+      "target": "",
+      "text": "M1-3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595549",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10595549",
+      "rel": "",
+      "target": "",
+      "text": "M1-4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10597145",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10597145",
+      "rel": "",
+      "target": "",
+      "text": "M1-5",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades10"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+  "source_surface": "syllabus",
+  "tables": [
+    {
+      "caption": "Course Summary",
+      "index": 0,
+      "text": "Course Summary Date Details Due Wed Jun 24, 2026 Quiz M1-1pre due by 10am Quiz M1-0asy due by 2pm Thu Jun 25, 2026 Quiz M1-2pre due by 10am Quiz M1-00asy due by 2pm Discussion Checkpoint Course Introductions Reply to Topic due by 11:59pm Discussion Topic Lab 1 Discussion due by 11:59pm Fri Jun 26, 2026 Quiz M1-1asy due by 2pm Sat Jun 27, 2026 Quiz M1-2asy due by 2pm Assignment Lab 1 Report due by 11:59pm Discussion Checkpoint Course Introductions Required Replies (4) due by 11:59pm Quiz Lab Partner Values Survey due by 11:59pm Sun Jun 28, 2026 Quiz Hw 1 - Rotational Motion due by 11:59pm Mon Jun 29, 2026 Quiz M1-3pre due by 10am Quiz Proctorio practice quiz (Remotely Proctored) due by 11:59pm Tue Jun 30, 2026 Quiz M1-4pre due by 10am Wed Jul 1, 2026 Quiz M1-5pre due by 10am Quiz M1-3asy due by 2pm Discussion Topic Lab 2 Discussion due by 11:59pm Thu Jul 2, 2026 Assignment M2-1pre due by 10am Quiz M1-4asy due by 2pm Fri Jul 3, 2026 Quiz Hw 2 - Rotational Dynamics due by 11:59pm Sat Jul 4, 2026 Quiz M1-5asy due by 2pm Assignment Lab 2 Group Report due by 11:59pm Quiz Lab Collaboration Contract due by 11:59pm Wed Jul 8, 2026 Discussion Topic Lab 3 Discussion due by 11:59pm Sat Jul 11, 2026 Assignment Lab 3 Group report due by 11:59pm Quiz Lab Group Check-In Survey (Lab 3) due by 11:59pm Wed Jul 15, 2026 Discussion Topic Lab 4 Discussion due by 11:59pm Sat Jul 18, 2026 Assignment Lab 4 Group Report due by 11:59pm Wed Jul 22, 2026 Discussion Topic Lab 5 Discussion due by 11:59pm Sat Jul 25, 2026 Assignment Lab 5 Group report due by 11:59pm Quiz Lab Group Check-In Survey (Lab 5) due by 11:59pm Wed Jul 29, 2026 Discussion Topic Capstone Lab Week 1 Discussion due by 11:59pm Sat Aug 1, 2026 Assignment Capstone Lab Week 1 Group Report due by 11:59pm Mon Aug 3, 2026 Discussion Topic 🤔 Project | Optional Step: Find Group Members to do: 12am Wed Aug 5, 2026 Discussion Topic Lab 6 Discussion due by 11:59pm Sat Aug 8, 2026 Assignment Lab 6 Group Report due by 11:59pm Mon Aug 10, 2026 Page 🤔 Project | Reminder: Submit Presentations Next Week to do: 11:59pm Wed Aug 12, 2026 Discussion Topic Capstone Lab Week 2 Discussion due by 11:59pm Sat Aug 15, 2026 Assignment Capstone Lab Week 2 Group Report due by 11:59pm Quiz PH 212e Lab Survey due by 11:59pm Assignment M1-0 Assignment M1-00 Assignment M1-1 Assignment M1-2 Assignment M1-3 Assignment M1-4 Assignment M1-5"
+    }
+  ],
+  "title": "Syllabus for GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00022-phy-212-syllabus-syllabus-for-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-03T00:40:11.476Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "syllabus",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "assignment",
+  "canvas_object_id": "syllabus",
+  "html_sha256": "7a0f888621282a5e589a144851cfff378bdd09042de9a656f3ccce527de9d332",
+  "text_sha256": "7c4ba05878da0455c16d87aa05d7872c66b5f759a4b5b02e3bdf51b9c9056d9c",
+  "requires_external_handler": false
+}

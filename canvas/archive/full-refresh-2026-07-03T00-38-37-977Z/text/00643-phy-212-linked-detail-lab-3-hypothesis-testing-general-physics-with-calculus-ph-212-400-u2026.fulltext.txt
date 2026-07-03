@@ -1,0 +1,501 @@
+
+            
+
+  
+
+
+
+    Lab 3 Hypothesis Testing
+    
+
+  
+    
+PH212 – General Physics with Calculus
+Experimental goal: Determine whether the measured horizontal launch distances of rolling objects support the predicted dependence on rotational inertia and identify which physical mechanisms best explain any differences between experimental results and theoretical predictions.
+A fundamental part of the scientific process is testing hypotheses by comparing experimental results to theoretical predictions. In this lab, you will use a physical model to predict the motion of a rolling object and then design an experiment to test whether those predictions accurately describe the real system. By analyzing trends, uncertainties, and discrepancies between theory and experiment, you will evaluate how well the model represents the observed behavior.
+
+
+
+
+As you work through the lab:
+Q#: Bold, numbered items reference things that need to be included in your lab report questions to answer, data, plots, or drawings■ Items with a square bullet are action items you’ll need to do to progress through the lab.➤ Items with an arrow are hints, tips, or things to keep in mind when completing tasks.
+Boxed information is about either the expectations for your lab reports or key concepts for the course.
+
+
+
+
+.Learning ObjectivesLearning goal: Use quantitative comparisons, uncertainty analysis, and trend-based reasoning to evaluate a theoretical model and interpret if there are any unaccounted physical effects. 
+This lab activity is designed to help students practice the following skills:
+
+
+
+Develop and test a physical model by making quantitative predictions.
+Collect and analyze experimental data to compare with theoretical values.
+Evaluate how well experimental results support a hypothesis using trends and uncertainty.
+Interpret discrepancies between theory and experiment by identifying relevant physical mechanisms.
+Draw evidence-based conclusions using clear, scientific reasoning.
+
+
+
+Equipment
+
+
+
+Three small objects that roll easily and can be dropped on your floor
+Raised level platform (like a table or countertop)
+Plane (e.g. clipboard, hardback textbook)
+Tape measure or string and ruler
+Paper
+Pencil
+Marking sheet (plain paper is okay, but prefer aluminum foil, or carbon copy paper)
+2 hard horizontal surfaces of different heights without beveled edges (e.g. table, dresser, etc.)
+4” x 6” card (index card, post card, very thin piece of cardboard, etc.)
+Sticky tape
+Refer to Lab materials page on canvas for future lab supplies needed
+
+
+
+ 
+Part 1: Introduction
+In this lab, you will use the same physical setup as in the Projectile Motion lab in PH 211, but with a new goal: to develop and test a theoretical model that predicts the horizontal launch distance of a rolling object. As shown in Figure 1, a round object is released from rest from a ramp of height , gaining speed as gravitational potential energy is converted into translational and rotational kinetic energy. When the object leaves the edge of the table with horizontal velocity , it enters free fall and drops a vertical distance . The objective is to predict how the horizontal distance  is affected by the inertia of the object.
+
+
+
+Ring/Hollow cylinder (e.g., roll of tape)
+
+
+
+I=12m(r2inner+r2outer)I = \frac{1}{2}m(r^2_{inner}+r^2_{outer})
+
+
+Solid sphere (e.g., medicine ball)
+
+
+
+I=25mr2I = \frac{2}{5}mr^2
+
+
+Thin spherical shell (e.g., tennis ball)
+
+
+
+I=23mr2I = \frac{2}{3}mr^2
+
+
+Disk/cylinder (e.g., coin)
+
+
+
+I=12mr2I = \frac{1}{2}mr^2
+
+
+
+Table 1: Moment of inertia for common household objects
+ 
+
+Figure 1: Schematic drawing of the experiment.
+ 
+The analysis is divided into two parts. First, energy conservation is used to determine the object’s speed v0v_0 at the bottom of the ramp. Second, projectile motion is used to predict the horizontal range Δx\Delta x.
+Using energy conservation to predict the velocity
+At the top of the ramp, the object has gravitational potential energy . At the bottom, this energy is converted into translational and rotational kinetic energy:
+mgΔh=12mv20+12Iω20mg \Delta h = \frac{1}{2}mv_0^2+\frac{1}{2}I\omega_0^2
+Here, mm is the mass of the object, v0v_0 is its linear velocity, ω0\omega_0 is its angular velocity (the rotational speed in radians per second), and I is the object’s moment of inertia. For rolling without slipping, the linear and angular velocities are related by v0=rω0v_0=r\omega_0, allowing this expression to be written as
+mgΔh=v202(m+Ir2)mg \Delta h = \frac{v_0^2}{2}(m+\frac{I}{r^2})
+where rr is the outer radius of the rolling object. Defining a “shape factor” κ\kappa for the object, κ=I/mr2\kappa=I/mr^2 , then  
+gΔh=v202(1+κ)g \Delta h = \frac{v_0^2}{2}(1+\kappa)
+
+
+
+For a hoop: κ\kappa = 1
+For a hollow cylinder: κ\kappa = I=12(r2inner+r2outer)/r2outerI = \frac{1}{2}(r^2_{inner}+r^2_{outer})/r^2_{outer}
+Solid cylinder: κ\kappa = 1/2
+Solid sphere: κ\kappa = 2/5
+
+
+
+(Note that mass cancels out of this expression; only the geometry via κ\kappa matters.)
+ 
+After leaving the table, the object is no longer rolling and undergoes projectile motion. Assuming negligible air resistance and an initial horizontal velocity v0v_0, the horizontal displacement is given by
+Δx=v0Δt\Delta x = v_0 \Delta t
+Where Δt\Delta t only depends on the table height, yy, and gg: Δt=√2yg\Delta t = \sqrt{\frac{2y}{g}}
+Q1: Form a hypothesis to predict the horizontal range and how the range scales with objects with different inertia.
+
+
+
+
+
+
+
+
+
+ Substitute the expression for v0v_0into the projectile-motion equation to obtain a theoretical prediction for Δx\Delta x in terms of Δh\Delta h, yy, and κ\kappa. 
+ Based on your equation, describe how the horizontal range Δx\Delta x is expected to depend on the inertia of the object.
+
+
+
+
+
+
+
+
+
+ 
+Part 2: Plan the Experiment
+In this experiment, you will test how the launch distance depends on rotational inertia by rolling three different objects from the same starting height hh. Each object accelerates down the ramp, leaves the table with a horizontal launch velocity, and then lands on the floor in free fall. For each object, you will measure the horizontal distance dd, and compare the measured ranges both to one another and to the theoretical model that predicts how dd scales with κ\kappa. Refer to Figure 2 for a diagram of the setup. Refer to Table 1 for a list of moments of inertia for common objects.
+ 
+Q2: What data do you need to collect in order to confirm the hypotheses – or in other words, what quantities will you need to measure and how many trials will you test? List the steps you will follow to collect your data.
+ 
+As you learned in the previous lab, all measurements have inherent uncertainty – there is a limit to what we can know about the measurand. For your reference, here is the list of common sources of uncertainty to consider:
+
+the effects of environmental conditions on the measurement
+your judgement in reading analogue instruments
+the sensitivity of your instruments (e.g. the digital scale)
+the rating or stated calibration of the instrument
+approximations and assumptions that you make while doing the experiment
+variations in repeated readings made under apparently identical conditions
+
+ 
+Q3: Consider sources of uncertainty in your planned experiment.
+
+
+
+
+
+
+
+
+
+ You will be measuring the distance dd that the object travels. Which items from the list above are likely to be a significant source of uncertainty in your individual measurements?
+ For each source you said was significant, estimate a value for the uncertainty associated with it and provide a justification for that value. Then, combine the values by adding them in quadrature.
+
+
+
+
+
+
+
+
+
+➤  Remember, independent uncertainties add in quadrature using the formula Δttotal=√(Δt1)2+(Δt2)2+...\Delta t_{total} = \sqrt{(\Delta t_1)^2 + (\Delta t_2)^2 + ...}
+ 
+Part 3: Collect Data
+You are now ready to perform your experiment.
+Procedure
+
+Figure 2: Inclined plane setup for rolling objects so they enter free-fall.
+
+Select and prepare a horizontal launch surface.Use a level or phone app to check if the table or elevated surface is horizontal. If it's not, adjust it or find another surface.
+ Build your inclined plane.
+
+Create a ramp that makes an angle between 20° and 45° with the horizontal. Secure it so that its bottom end stops a few centimeters before the edge of the table.
+
+ Smooth the transition to the table.
+
+Tape a card or thin surface to the bottom of the ramp to help the object roll smoothly onto the horizontal surface. This ensures the object exits the table with mostly horizontal velocity.
+
+Measure the ramp angle.Carefully measure the angle of inclination using a protractor or app. Adjust and rebuild as needed to stay within the 20–45° range.
+
+
+Figure 3: How to find the edge of the table
+ 
+
+ Mark the edge of the table.
+
+Hang a string with a small object (like a paperclip) over the edge to find a vertical reference point. Let it settle, then mark the spot directly below it on the floor or on a landing sheet. This helps with accurate horizontal distance measurements.
+
+Figure 4: When a coin lands on aluminum foil, it leaves an impression which indicates how far it travelled in free fall.
+ 
+
+Prepare the landing area.Predict where the object will land, then place a large sheet of foil, carbon copy paper, or other marking material on the floor in that area. Foil should be placed on a soft surface like a towel; carbon paper should be on a hard surface.
+ Conduct your first trial.
+
+Place the object at the top of the ramp and release it without pushing. It should roll down, travel across the horizontal surface, and launch off the edge.
+
+Mark and measure the landing point.
+
+Record where the object hits the landing surface. Measure the horizontal distance d from the table edge to the landing point.
+
+Repeat the trial for the same height.Conduct multiple trials (e.g., 3 or more) for the same starting height to account for variation and improve reliability.
+ Repeat for additional objects.
+
+Using the same starting height, repeat steps 7–9 for each of the remaining objects. Ensure that all objects are released from the same position on the ramp so that they begin with the same drop height. Record the horizontal range for each object to compare how the launch distance depends on rotational inertia.
+ 
+Q4: For each run that you do, record your measurements in the form of a data table with labeled columns, including units. This should include only what you measured (no analysis/calculations). It should also include the uncertainty in each measurement, which you estimated for one of the questions in Part 2. You can report each value in A ± ∆A format, or you can use separate columns with your measurement in one column and the uncertainty in another. Include each group member’s table in your report.
+ 
+Part 4: Analyze the Data and Compare Results
+In this section, you will analyze your measured data by comparing experimental results to theoretical predictions. You will quantify how closely your measurements match the model, examine the size and direction of any discrepancies, and evaluate whether the observed trends are consistent with the predicted dependence on rotational inertia.
+Q5: Quantify the difference between your results and your theoretical predictions.
+
+
+
+
+
+
+
+
+
+ Using your measured ramp height hh and table drop height Δy\Delta y, compute the theoretical horizontal range for each object.
+ Compare your theoretical and measured values by computing the percent difference: %difference=dmeasured−dtheorydtheory×100\% difference=\frac{d_{measured}-d_{theory}}{d_{theory}}\times100
+ Use your range experimental uncertainty to determine whether your measurements are consistent with the theoretical prediction. State yes/no and briefly explain. 
+ Rank your three objects from largest to smallest value of inertia and rank your three objects from largest to smallest measured range. Do these rankings match what you expect? 
+
+
+
+
+
+
+
+
+
+ 
+Q6: Interpret the difference between theory and experiment. For each object, identify the direction of the discrepancy:
+
+
+
+
+
+
+
+
+
+Consistent with uncertainty (no clear difference from theory)
+Small but systematic (always larger or always smaller than theory)
+Large compared to uncertainty
+
+
+
+
+
+
+
+
+
+ 
+After completing your individual analysis, compare results with your group to look for patterns that may not be visible in a single data set. By examining similarities and differences across group members, you will identify shared trends, systematic effects, and variations that help clarify how well the theoretical model describes the physical system.
+Q7: Look for group level trends within your data. 
+
+
+
+
+
+
+
+
+
+ Across your group, do most groupmates see the same direction of discrepancy?
+
+Is the experimental range mostly larger than predicted? Mostly smaller? Or mixed depending on object?
+
+
+ Is the discrepancy similar across all three objects, or does it depend on inertia?
+
+Larger/smaller deviations for objects with higher/lower inertia? No clear pattern?
+
+
+ Does every groupmate have the same ranking of ranges?
+
+If not, what do you notice?
+
+
+
+
+
+
+
+
+
+
+
+ 
+Part 5: Draw Conclusions
+In this section, you will interpret your results by considering physical effects that were not included in the ideal theoretical model. By examining trends across objects and the size and direction of discrepancies between measured and predicted values, you will evaluate how real-world mechanisms influence the motion and help explain why experimental results may differ from ideal predictions.
+Q8: Interpret the physical meaning of the trends in your group. If your measured distances are larger than theory predicts, what assumption in the model might be under-estimating the launch speed? If distances are smaller than predicted, where might energy have been lost before launch, or motion deviated from ideal projectile motion? If the direction of discrepancy differs between objects, do the discrepancies depend on rotational inertia? If so, what does that suggest about how realistic the rolling-without-slipping assumption is for each object? Consider these mechanisms:
+
+
+
+
+
+
+
+
+
+ Rolling friction: Would increased rolling friction affect all objects the same way, or would it depend on their shape or inertia?
+ Wobble or vibration (especially hollow objects): Do any of your objects wobble or rattle while rolling? If so, how might that motion change how the object’s energy is distributed?
+ Launch not perfectly horizontal: If the object leaves the table at a slight upward or downward angle instead of perfectly horizontal, how would that change the range?
+ Air drag / flight effects: If drag plays a role, would it affect faster-moving objects more or less than slower ones?
+ Energy lost before leaving the table: Is there any part of the motion where the object might still be losing energy even after leaving the ramp? How could you tell?
+
+
+
+
+
+
+
+
+
+ 
+Q9: Explain which of the mechanisms listed above is most consistent with your data.
+
+
+
+
+
+
+
+
+
+ Which mechanism best explains the direction of your discrepancy? 
+ Does your explanation predict the same trend for all three objects? 
+ If the mechanism(s) were the dominant cause, what else would you expect to see in the data? 
+ What additional measurement could help you test whether your explanation is correct?
+
+
+
+
+
+
+
+
+
+ 
+Q10: Do your results support the hypotheses? Write an evidence-based conclusion.
+
+
+
+
+
+
+
+
+
+ Do your measured values agree with the theoretical values within experimental uncertainty? If they do not agree exactly, do the differences show a consistent pattern (for example, measured values mostly larger, mostly smaller, or varying with rotational inertia)?
+ Did your measured ordering of ranges match the predicted ordering based on the inertia of the objects? Was this trend consistent across your group members?
+
+
+
+
+
+
+
+
+
+➤ Based on your discussion of Q8 and Q9 and, make sure to mention here any direction and size of the discrepancies you observed and any physical mechanisms that could reasonably explain why your results differ
+ 
+Part 6: Reflect on the activity 
+In this lab, you used experimental data to test theoretical predictions rather than to obtain a single “correct” value. This reflection is intended to help you think about how hypotheses are evaluated using evidence, trends, and comparisons, and how discrepancies between theory and experiment can inform your understanding of the physical system.
+Q11: Each lab member should write an individual concise paragraph reflecting on the lab. Identify each contribution by name. Each should specifically address the following:
+
+
+
+
+
+
+
+
+
+Before starting this lab, what did you think would determine how far each object would travel? After analyzing your data, including any differences between theory and experiment, how did your understanding change about which physical factors actually matter?
+Which comparison helped you most in deciding whether the hypotheses were supported (comparing individual values, comparing trends across objects, or comparing results across your group)? Why do you think that comparison was most informative?
+
+
+
+
+
+
+
+
+
+ 
+Part 7: Capstone Component – Conclusion
+In scientific writing, the Conclusion section is where you interpret your results and explain what they reveal about the physical system being studied. Rather than repeating calculations, a strong conclusion connects your experimental evidence back to the original hypotheses, evaluates how well the theoretical model describes the data, and considers the role of uncertainty and non-ideal physical effects. This section demonstrates how experimental results are used to assess the validity of a model.
+In this activity, you will write a complete Conclusion section based on your group’s investigation of how the horizontal launch distance of a rolling object depends on its rotational inertia. You will use trends in your data, comparisons to theoretical predictions, and discussion of discrepancies to determine whether the hypotheses are supported.
+ 
+Q12: Write a Conclusion section for this lab experiment. Refer below for guidance on what to include in the Conclusion.
+ 
+II. Conclusion Structure:
+
+
+
+Restate the Purpose (1–2 sentences) What was the physical situation you were testing?
+
+➤  What was the goal of the experiment involving rolling objects and projectile motion?
+➤  What two hypotheses were you testing about how the horizontal launch distance depends on rotational inertia?
+
+
+Summary of Key Results (2–4 sentences)
+
+➤  How did the measured horizontal ranges compare for objects with different values of inertia?
+➤  Did the ordering of measured ranges match the predicted ordering based on inertia?
+➤  How closely did the measured values agree with the theoretical predictions overall?
+
+
+Interpretation of Results (2–3 sentences)
+
+➤  Indicate which tables best communicate your group’s results and their associated uncertainty intervals or include them again here.
+
+
+Limitations and Uncertainty (1–2 sentences) Were there sources of error or assumptions in your setup that could have affected the result?
+
+➤  Which physical mechanisms not included in the ideal model (e.g., rolling friction, wobble, launch angle, energy losses) are most likely to have affected your results? Did these effects appear to depend on the object’s inertia?
+
+
+Closing Reflection (1–2 sentences) 
+
+➤  What did this experiment help you understand about using trends and uncertainty to evaluate a theoretical model?
+➤  How confident are you in your conclusions, and what change would most improve the test of the hypotheses in a future experiment?
+
+
+
+
+
+ 
+Part 8: Lab Group Check-In Survey
+This short survey helps your TA monitor group dynamics and support you during the labs. Please answer honestly about how your group is working together. Your responses will remain anonymous unless you choose to include your name. The survey is worth 5 points toward your lab grade and is graded only on completion, not on the content of your answers. Use this as a chance to raise any concerns to your TA (for example, if group members are not contributing to the lab report) or if you would like your TA to address anything during your lab meetings. Please complete this survey by the same deadline as your lab report submission.
+
+Lab Group Check-In Survey (Lab 3)
+
+ 
+Part 9: Submit Your Group’s Lab Report
+Make sure everyone’s name is on your group’s lab report. If you submit through Gradescope, remember to add everyone in your group to the assignment. This is done at the end of the submission process.
+
+How to add group members to your submission in Gradescope is outlined here
+
+ 
+ 
+Appendix – Reference Information
+This section contains key information from previous labs:
+
+What is Uncertainty?
+Sources of Uncertainty
+Variables and Parameters
+
+ 
+What is Uncertainty?
+Uncertainty is the acknowledgement that we cannot measure things exactly, and so any conclusion based on measurements will always include a range of possible answers. When making a measurement, there is no single “true value” of the measurand (measured quantity) that we can determine. Instead, we can define an interval that defines the range of values that we think are probable for the measurand. The narrower the interval, the more precisely we can approximate the measurand.
+When including uncertainty in a value, we report it as A ± ΔA. We believe the value is A, but we’re unable to rule out the possibility that it’s higher or lower by an amount ΔA. (Sometimes it’s written +Δ1 / -Δ2 if the higher and lower ranges are different.) For example, a time might be reported as 2.45 s ± 0.03 s.
+ 
+Sources of Uncertainty:
+The uncertainty in a measurement can be due to a combination of several factors. A crucial aspect of experimentation is to identify all such sources of uncertainty and to numerically estimate their effect on your measurement result.
+Common sources of uncertainty include:
+
+the effects of environmental conditions on the measurement
+your judgement in reading analogue instruments
+the sensitivity of your instruments (e.g. the digital scale)
+the rating or stated calibration of the instrument
+approximations and assumptions that you make while doing the experiment
+variations in repeated readings made under apparently identical conditions
+
+ 
+Variables and Parameters
+It will help you when designing your experiment to think about the different types of numerical quantities that are involved. It will make your explanation clearer if you label the different quantities appropriately.
+Independent variable: In an experiment you will usually vary one quantity at a time in a controlled manner. This is the independent variable. Typically, you’re trying to discover how the independent variable affects the system.
+Dependent variables: Your hypothesis should predict the behavior of other quantities in your system as the independent variable is changed. These other quantities are referred to as the dependent variables because their values depend on the value of the independent variable.
+Parameters: There are other quantities you should specify because they may influence your results, but that will remain fixed throughout the experiment. These are referred to as parameters. Examples could be the length of a track or the mass of an object. The key is that a parameter doesn’t change at any time in the experiment.
+In short, parameters are fixed, and variables change. The change is either under your control (independent) or a response to the experiment (dependent).
+
+
+
+
+
+
+
+          

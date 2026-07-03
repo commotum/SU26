@@ -1,0 +1,620 @@
+# Lab 2: Uncertainty Propagation: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-uncertainty-propagation
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/pages/lab-2-uncertainty-propagation
+- Captured: 2026-07-03T01:17:53.687Z
+- Canvas object: page lab-2-uncertainty-propagation
+- Redirected: yes
+
+## Headings
+- H1: Lab 2: Uncertainty Propagation
+- H2: PH212 – General Physics with Calculus
+- H2: Part 0: Finalizing the Lab Collaboration Contract
+- H2: Part 1: Introduction
+- H2: Part 2: Gathering Data
+- H3: Part 3: Combining Data
+- H3: Part 4: Using Your Group Data to Place a Beach Safety Line
+- H3: Part 5: Capstone Component - Results
+- H3: I. Results Structure:
+- H3: Part 6: Submit Your Group’s Lab Report
+
+## Visible Text
+Lab 2: Uncertainty Propagation
+PH212 – General Physics with Calculus
+
+Experimental goal: To estimate a conservative safety-line distance a typical beachgoer can realistically reach before a surge wave arrives.
+
+In this lab, students will measure their own walking speeds, estimate wave periods from coastal video footage, and model human reaction time as a fraction of the wave period. These values will be combined to determine how much time a person has to move before a surge crest arrives, and how far they could realistically travel in that time. Students will propagate uncertainty at each step and use uncertainty intervals — rather than single values — to inform the placement of a conservative “beach safety line.” Through this process, students will explore how uncertainty influences confidence in conclusions and why safety decisions must account for variation in both physical systems and human behavior.
+
+As you work through the lab:
+
+Q#: Bold, numbered items reference things that need to be included in your lab report questions to answer, data, plots, or drawings
+■ Items with a square bullet are action items you’ll need to do to progress through the lab.
+➤ Items with an arrow are hints, tips, or things to keep in mind when completing tasks.
+
+Boxed information is about either the expectations for your lab reports or key concepts for the course.
+
+.
+Learning Objectives
+Learning goal: Explore how uncertainty propagates through multi-step calculations and how uncertainty ranges influence safety decisions in real-world contexts such as evacuation planning.
+
+This lab activity is designed to help students practice the following skills:
+
+Propagate uncertainty through derived quantities.
+Distinguish between measurement uncertainty and real variation.
+Use uncertainty to justify a conservative safety-line recommendation.
+Communicate results in a scientific Results section.
+
+Related Documents
+
+- Lab collaboration contract
+
+Equipment
+
+Stopwatch
+Tape measure, pedometer, or Google Maps
+Refer to Lab materials page on canvas for future lab supplies needed
+
+ 
+
+Part 0: Finalizing the Lab Collaboration Contract
+
+Using the class-generated values from last week, we have created a Lab Collaboration Contract. This document outlines shared expectations for how to be a respectful and reliable lab partner. It includes norms around communication, teamwork, accountability, and what to do if challenges arise — such as a group member not responding or being unable to participate during a given week. This agreement is meant to help you and your team build trust and work effectively together, even in an online setting.
+
+Q1: Read and sign the Lab Collaboration Contract. Verify you have read the contract by responding to this question with either statement (include each person’s statement in the lab report.): 
+
+■  I, [Insert Name], understand and agree to the terms of the contract.
+
+■  I have questions about the contract that I would like to discuss with the TA.
+
+ 
+
+Part 1: Introduction
+
+	
+
+You’re on a beach when lifeguards notice an unusually strong surge of water (a “bore”–like wave) moving toward shore. To help protect beachgoers, they mark a safety line along the beach. In this lab, the safety line represents the maximum distance seaward (toward the water) that a person can safely be and still have enough time to walk inland before the surge crest arrives. Anyone starting landward of this line has a reasonable time buffer to reach higher ground, while anyone farther seaward may not. Under the simplifying assumption that the waves are approximately periodic and move at a consistent speed, the safety line acts as a “play zone boundary” — a limit on how close to the water a typical beachgoer can be while still being able to reach safety in time.
+
+As a consultant, your job is to decide whether an average beachgoer like you can consistently reach the safety line before the surge arrives. Because real measurements aren’t perfect, you must include uncertainty in your calculations and in your conclusion — just like scientists and emergency planners do when designing tsunami evacuation zones.
+
+In this activity, you will estimate how far seaward a typical beachgoer can safely be and still have enough time to walk inland before a surge crest arrives. You will work with measured quantities that include uncertainty to determine a conservative location for the safety line — the maximum distance toward the water from which a person can reliably reach safety in time. First, you will measure your own walking (or light-jogging) speed using repeated distance-and-time measurements and use those results to determine an average “evacuation speed” and its uncertainty. Next, you will estimate the wave period from video, model reaction time as a fraction of that period, and propagate uncertainty to determine how much time a person actually has to move before the surge arrives. You will then combine available walking time with evacuation speed to estimate the maximum safe starting distance, including uncertainty ranges rather than a single value. Finally, you will use these uncertainty intervals to recommend a conservative safety-line position, similar to how tsunami evacuation planners choose boundaries that account for variation in both physical conditions and human behavior.
+
+ 
+
+Part 2: Gathering Data
+
+To evaluate whether a beachgoer can reach the safety line in time, you first need an estimate of a realistic evacuation walking (or light-jogging) speed. In this part, you will measure your own speed over a measured distance using multiple trials, so that you can calculate both an average speed and the uncertainty in that value.
+
+Q2: Estimate your individual evacuation walking speed (with uncertainty). Choose one straight path that you can walk at a steady pace. Measure or estimate the distance of this path (using a measuring tape, GPS/pedometer app, or map tool). You will walk this same distance for all trials. Include each group member’s response and table in your report.
+
+Clearly describe the distance you used and how you measured or estimated it. Record the distance and its uncertainty on your table.
+Walk the distance at a pace that you think a typical beachgoer could maintain during an evacuation. Use a stopwatch or timing app to record the time for at least 5 trials of the same motion.
+Compute your average distance, 
+𝑑
+¯
+, and its uncertainty, 
+Δ
+𝑑
+. Compute your average time, 
+𝑡
+¯
+, and its uncertainty, 
+Δ
+𝑡
+.
+
+ In this lab, your walking speed is calculated using v = d/t, but both the distance  and the time  have uncertainty. That means your final value for  is not exact and it depends on how much each of those measurements could have been off. Instead of using absolute uncertainties, we look at the fractional (or percentage) ones: 
+Δ
+𝑑
+/
+𝑑
+ and 
+Δ
+𝑡
+/
+𝑡
+.
+
+Distance uncertainty and time uncertainty affect the speed independently. We can combine them like perpendicular components or add them in quadrature.
+
+(
+Δ
+𝑣
+𝑣
+𝑎
+𝑣
+𝑔
+)
+2
+=
+(
+Δ
+𝑑
+𝑑
+¯
+)
+2
++
+(
+Δ
+𝑡
+𝑡
+¯
+)
+2
+
+Then we multiply by v to get the absolute uncertainty:
+
+Δ
+𝑣
+=
+𝑣
+𝑎
+𝑣
+𝑔
+(
+Δ
+𝑑
+𝑑
+¯
+)
+2
++
+(
+Δ
+𝑡
+𝑡
+¯
+)
+2
+ 
+
+This tells us how much the distance-uncertainty contribution and the time-uncertainty contribution combine to affect the final speed.
+
+Q3: Calculate your walking speed 
+𝑣
+=
+𝑑
+¯
+/
+𝑡
+¯
+ and propagate uncertainty to find the uncertainty in your speed: 
+Δ
+𝑣
+=
+𝑣
+𝑎
+𝑣
+𝑔
+(
+Δ
+𝑑
+𝑑
+¯
+)
+2
++
+(
+Δ
+𝑡
+𝑡
+¯
+)
+2
+. Report each group members values in the report in the form 
+𝑣
+=
+𝑣
+𝑎
+𝑣
+𝑔
+±
+Δ
+𝑣
+.
+
+ 
+
+Q4: Briefly explain which contributed more to your speed uncertainty — distance or time — and how can you tell?
+
+ 
+
+Estimating Wave Period from Video
+
+To help predict when a larger surge or wave might arrive at the shore, we first need to estimate the wave period — the average time between repeating waves. In this activity, you will use a beach video to measure the time between successive wave crests as they pass the same fixed point on the screen. If there is no obvious object to use as a marker, you can create one by holding your mouse cursor, your finger, or a small sticky note at a specific point on the wave line and keeping it there throughout the measurement.
+
+You will start your timer when a wave crest reaches your chosen marker point, then record the time each time the next crest reaches that same point again. After timing several waves, you will divide the total elapsed time by the number of wave intervals to find the average wave period and use the variation in your timings to estimate the uncertainty.
+
+Q5: Using the
+beach video
+Links to an external site.
+, choose a fixed reference point on the screen (such as your mouse cursor, your finger, or the edge of a sticky note) and keep it in the same place for the entire measurement. Start your timer when a wave crest reaches that point, and record the time each time the next crest reaches the same point again. Each timing between two consecutive crests counts as one wave interval.
+
+Record wave-interval times at four different points in the video (representing different times of day / camera views). Organize your measurements in a data table and include each group member’s table in your report. Compute the average wave period 
+𝑇
+¯
+ by dividing the total elapsed time by the number of intervals: 
+𝑇
+¯
+ = (total time) / (# wave intervals). You have enough time per camera view to record at least 2 wave intervals.
+Estimate the uncertainty in the wave period using the spread in your measured intervals (use half-range or standard deviation, depending on course convention), and report your result in the form: 
+𝑇
+=
+𝑇
+¯
+±
+Δ
+𝑇
+. Report each group member’s wave period and uncertainty in the report.
+Explain whether your uncertainty mainly comes from timing reaction error or from variability in the waves themselves. How can you tell?
+
+➤  When comparing sources of uncertainty, look at the spread of the individual wave-interval measurements. If the intervals are fairly consistent but your timing varies when you start/stop the stopwatch, the uncertainty is likely due to reaction timing. If the intervals themselves differ noticeably from wave to wave (even with careful timing), the uncertainty is more likely due to real variability in the waves.
+
+ 
+
+Part 3: Combining Data
+
+In this part of the activity, your group will combine your individual results to estimate the walking speed of a “typical beachgoer” and the average wave period at this beach. You will then use these values — along with a realistic reaction-time assumption — to decide where a safety line should be placed so that people have enough time to react and move before the surge arrives. Your goal is not just to produce a number, but to design a safety line that remains reasonable even when uncertainties and delays are taken into account
+
+Q6: Estimate your group evacuation walking speed, 
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+.
+
+Using your response in Q3, compute the group average walking speed: 
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+=
+𝑚
+𝑒
+𝑎
+𝑛
+(
+𝑣
+1
+,
+𝑣
+2
+,
+.
+.
+.
+)
+.
+Compute the spread of speeds across the group (use half-range or standard deviation of the velocities) and treat this as the group uncertainty.
+Report your result as 
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+=
+𝑣
+𝑎
+𝑣
+𝑔
+±
+Δ
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+. Briefly explain what your group uncertainty represents. Does it mostly reflect real differences in how fast people in your group walk, or measurement uncertainty within each person’s data collection? Use evidence to support your answer.
+
+➤  Compare how large the spread between group members’ speeds is vs. how large each person’s individual uncertainty was (
+Δ
+𝑣
+𝑖
+) and describe which contribution appears larger and why.
+
+ 
+
+Q7: Combine your group’s wave period measurements in the same way as the evacuation walking speed.
+
+Using your response in Q5, compute the group average walking speed: 
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+=
+𝑚
+𝑒
+𝑎
+𝑛
+(
+𝑇
+1
+,
+𝑇
+2
+,
+.
+.
+.
+)
+.
+Estimate the spread of wave periods across the group to determine the group uncertainty (use half-range or standard deviation of the velocities.
+Report your result as 
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+=
+𝑇
+𝑎
+𝑣
+𝑔
+±
+Δ
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+. Briefly explain what your group uncertainty represents. Does it mostly reflect differences in timing reaction and viewing choices or real variability in the waves? Use evidence to support your answer.
+
+In real emergency situations, people do not begin moving the instant they notice a surge or unusual wave behavior. They need time to recognize what is happening, decide to react, and start walking. For this lab, your group will decide what fraction of a wave period is a reasonable estimate for this reaction delay.
+
+Q8: Decide as a group what fraction of the wave period to represent reaction time (for example, one-third of a period, one-half of a period, etc.). Think about how a wave develops from a small disturbance into a clear crest or highest visible region. At what point in the wave cycle do you think a typical beachgoer would realistically recognize that the incoming wave is unusual or dangerous?
+
+Choose a fraction of the wave period, 
+𝑓
+, a person would have to react: 
+𝑡
+𝑟
+𝑒
+𝑎
+𝑐
+𝑡
+=
+𝑓
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+. Briefly explain your reasoning.
+Using your chosen fraction, write an expression for the time available for walking after the reaction delay but before the wave arrives: 
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+=
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+−
+𝑡
+𝑟
+𝑒
+𝑎
+𝑐
+𝑡
+=
+(
+1
+−
+𝑓
+)
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+Estimate the uncertainty walking time. Report your final value in the form: 
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+=
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+±
+Δ
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+.
+
+➤  If the reaction time is 
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+=
+(
+1
+−
+𝑓
+)
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+, the propagated uncertainty is 
+Δ
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+=
+(
+1
+−
+𝑓
+)
+Δ
+𝑇
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+. If a quantity is defined as a constant fraction of a measured value, its uncertainty scales by the same fraction.
+
+ 
+
+Part 4: Using Your Group Data to Place a Beach Safety Line
+
+In this part, you will use your group walking speed and reaction-time model to decide how far inland a safety line should be placed so that a typical beachgoer can realistically reach it before the surge (wave crest) arrives.
+
+Q9: Estimate the maximum distance a person could walk to safety.
+
+Using your group walking speed, 
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+, and the time available for walking, 
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+, estimate the maximum distance a typical person could walk in that available time.
+Propagate the uncertainties using 
+(
+Δ
+𝑑
+𝑚
+𝑎
+𝑥
+𝑑
+𝑚
+𝑎
+𝑥
+)
+2
+=
+(
+Δ
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+𝑣
+𝑔
+𝑟
+𝑜
+𝑢
+𝑝
+)
+2
++
+(
+Δ
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+𝑡
+𝑤
+𝑎
+𝑙
+𝑘
+)
+2
+. Report your result in the form: 
+𝑑
+𝑚
+𝑎
+𝑥
+=
+𝑑
+±
+Δ
+𝑑
+Based on your result in part b and the uncertainty interval, choose a conservative safety-line distance from the waterline that you think is realistic for planners to use. State your recommended safety-line distance and explain how your choice relates to your uncertainty interval.
+
+ 
+
+Q10: Reflect on the activity using uncertainty propagation to inform safety and decision making. Each lab member should write an individual, concise paragraph reflecting on this lab. Identify each reflection by name. Your response should specifically address the following:
+
+One new thing you learned about propagation of uncertainty and how it affected your results — either in your own measurements or in your group’s combined values (for example, how uncertainty changed your confidence in the walking speed, wave timing, or safety distance).
+How your individual measurements compared to the group’s, such as differences in walking speed, wave period, or uncertainty spread. Briefly discuss how these differences influenced your confidence in the final safety-line decision.
+How this lab changed your thinking about real-world safety decisions that rely on measurements and uncertainty (such as evacuation planning, engineering limits, or public safety guidelines).
+
+ 
+
+Part 5: Capstone Component - Results
+
+In scientific writing, the Results section presents the core findings of your experiment without interpretation or explanation. This section is critical because it forms the foundation for any analysis or conclusion that follows. Clear, accurate reporting of results allows others to understand your data and judge the validity of your experiment. In this lab, your group collected and analyzed data to estimate a realistic walking speed for a typical beachgoer, measured the wave period from video observations, modeled reaction delay, and used these results (with propagated uncertainty) to propose a safety-line distance.
+
+In this activity, you will practice writing a Results section that clearly reports these quantities and their uncertainties, along with any calculated values (such as reaction time, available walking time, and maximum safe distance). The goal is to communicate your findings accurately and concisely so that a reader could understand your results and evaluate your group’s safety-line recommendation based on the reported data alone. This exercise will help you build skills in scientific reporting and prepare you for writing full lab reports later in the term.
+
+Q11: Write a Results section for this lab experiment. Refer below as guidance how to structure the Results.
+
+I. Results Structure:
+Overview of the Experiment (1–2 sentences): What was the system you studied? What type of data did you collect? What was the goal of the experiment?
+➤ What physical situation were you modeling and what measurements did you collect/estimate?
+➤ What was the purpose of those measurements in relation to determining a safety line?
+Key Quantitative Results (2–4 sentences)
+➤ What was the group walking speed, wave period, chosen available walking time?
+➤ Where did your group place the beach safety line?
+Visual Representation of Results (1–2 sentences) What plots or tables best communicate your findings? Reference them in the text or include it again here.
+➤ Indicate which tables best communicate your group’s results and their associated uncertainty intervals or include them again here.
+Trends and Patterns Observed (1–2 sentences) What general behaviors did the data show? Did it support the expected model? How did you know the data supported/refuted the model?
+➤ You may address how results varied between group members or time samples, which quantities showed the most spread or uncertainty, and whether group variation was larger than individual measurement uncertainty.
+Part 6: Submit Your Group’s Lab Report
+
+Make sure everyone’s name is on your group’s lab report. If you submit through Gradescope, remember to add everyone in your group to the assignment. This is done at the end of the submission process.
+
+How to add group members to your submission in Gradescope is outlined here
+
+## Links
+- lab supplies needed -> https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies
+- Lab Collaboration Contract -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160479
+- Lab Collaboration Contract -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160479
+- beach videoLinks to an external site. -> https://youtu.be/9UnmxIbYMTA?si=lRSzlxNjQNDeSyk3
+- https://youtu.be/9UnmxIbYMTA?si=lRSzlxNjQNDeSyk3 -> https://youtu.be/9UnmxIbYMTA?si=lRSzlxNjQNDeSyk3
+- How to add group members to your submission in Gradescope is outlined here -> https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+
+## Hidden Text
+- Links to an external site.

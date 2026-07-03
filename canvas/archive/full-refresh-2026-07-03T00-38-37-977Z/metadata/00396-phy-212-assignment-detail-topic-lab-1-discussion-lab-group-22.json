@@ -1,0 +1,656 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Collapse Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Manage Discussion by Roshell Lamug",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Reply to post from Roshell LamugReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Lab 1 Discussion - Lab Group 22Lab 1 Discussion - Lab Group 22"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Discussion Instructions"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Coordinating With Your Group"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Support Resources"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Reply from Roshell Lamug"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenCollapse ThreadsFilter bySearch entries or author...Sort byDue Jun 25 11:59pm Available from Jun 21 until Aug 1510 points possible1 Reply1 ReplyUnsubscribedManage DiscussionDiscussion Topic: Lab 1 Discussion - Lab Group 22Lab 1 Discussion - Lab Group 22 Purpose This discussion is designed to help your group establish clear communication and identify shared availability for working together throughout the term. Use this space to discuss your weekly schedules and determine common times when your group can meet to collaborate and meet with your TA. If scheduling conflicts arise or you have concerns about availability, contact your TA as soon as possible for support. Discussion Instructions To complete your individual discussion post, open the lab handout, then post your answers to Questions Q1–Q4 in your group's discussion thread. Your discussion is meant to initiate the lab exercise and begin the conversation that leads to finding group meeting times. Link to lab handout page: Lab 1 Team Building and Uncertainty Refresher Coordinating With Your Group After completing your post, begin communicating with your group to identify common meeting times. You may use this discussion board, Zoom, Teams, email, or another platform. As a group, you should: confirm that all members have made contact Start by identifying your group members. You can find your assigned group on Canvas under the “People” or “Groups” section. compare weekly availability posted in the Google doc identify at least one shared time for group collaboration identify possible times to meet with your TA and secure a time slot in their schedule in the Course Information module If your group cannot find overlapping availability, notify your lead TA so they can help resolve scheduling issues. During this first week, anyone available early in the week is encouraged to take initiative in starting communication. Collaboration and professional communication are shared responsibilities. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets ReplyRLRoshell Lamug (She/Her/Hers)Jun 19 10:50pmManage Discussion by Roshell LamugReply from Roshell LamugWelcome to PH 212! Now that you’ve identified your group, your next step is to finalize your meeting times. Open the Google Doc below and add your availability. Use your initials to mark your available times. If another group member has the same initials, use additional letters to create a unique abbreviation. For example: Jane Doe → JaD and John Doe → JoD Google Doc link: https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharingLinks to an external site. Review your group members’ availability and identify overlapping times. Agree on a weekly group meeting time and your preferred meeting format (Zoom, Microsoft Teams, in-person, etc.). Find a 30-minute time block when your group can meet with a Lab TA. Compare your group’s availability with the schedules of all Lab TAs (linked on the TA Information page). Claim a time slot and email your TA to confirm. Set up a group communication channel (e.g., Teams chat and/or group email) to coordinate going forward. If your group cannot find a common time or has conflicts with all of the TA’s availability, email the lead TA as soon as possible so accommodation can be made.Reply to post from Roshell LamugReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "1 Reply1 ReplyUnsubscribedManage DiscussionDiscussion Topic: Lab 1 Discussion - Lab Group 22Lab 1 Discussion - Lab Group 22 Purpose This discussion is designed to help your group establish clear communication and identify shared availability for working together throughout the term. Use this space to discuss your weekly schedules and determine common times when your group can meet to collaborate and meet with your TA. If scheduling conflicts arise or you have concerns about availability, contact your TA as soon as possible for support. Discussion Instructions To complete your individual discussion post, open the lab handout, then post your answers to Questions Q1–Q4 in your group's discussion thread. Your discussion is meant to initiate the lab exercise and begin the conversation that leads to finding group meeting times. Link to lab handout page: Lab 1 Team Building and Uncertainty Refresher Coordinating With Your Group After completing your post, begin communicating with your group to identify common meeting times. You may use this discussion board, Zoom, Teams, email, or another platform. As a group, you should: confirm that all members have made contact Start by identifying your group members. You can find your assigned group on Canvas under the “People” or “Groups” section. compare weekly availability posted in the Google doc identify at least one shared time for group collaboration identify possible times to meet with your TA and secure a time slot in their schedule in the Course Information module If your group cannot find overlapping availability, notify your lead TA so they can help resolve scheduling issues. During this first week, anyone available early in the week is encouraged to take initiative in starting communication. Collaboration and professional communication are shared responsibilities. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets Reply"
+    },
+    {
+      "index": 5,
+      "text": "1 Reply"
+    },
+    {
+      "index": 6,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: Lab 1 Discussion - Lab Group 22"
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "RLRoshell Lamug (She/Her/Hers)Jun 19 10:50pmManage Discussion by Roshell LamugReply from Roshell LamugWelcome to PH 212! Now that you’ve identified your group, your next step is to finalize your meeting times. Open the Google Doc below and add your availability. Use your initials to mark your available times. If another group member has the same initials, use additional letters to create a unique abbreviation. For example: Jane Doe → JaD and John Doe → JoD Google Doc link: https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharingLinks to an external site. Review your group members’ availability and identify overlapping times. Agree on a weekly group meeting time and your preferred meeting format (Zoom, Microsoft Teams, in-person, etc.). Find a 30-minute time block when your group can meet with a Lab TA. Compare your group’s availability with the schedules of all Lab TAs (linked on the TA Information page). Claim a time slot and email your TA to confirm. Set up a group communication channel (e.g., Teams chat and/or group email) to coordinate going forward. If your group cannot find a common time or has conflicts with all of the TA’s availability, email the lead TA as soon as possible so accommodation can be made.Reply to post from Roshell LamugReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 13,
+      "text": "Manage Discussion by Roshell Lamug"
+    },
+    {
+      "index": 14,
+      "text": "Reply from Roshell Lamug"
+    },
+    {
+      "index": 15,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 16,
+      "text": "Reply to post from Roshell Lamug"
+    },
+    {
+      "index": 17,
+      "text": "Mark as Unread"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 0,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22 Lab 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 15,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 16,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973",
+      "index": 17,
+      "raw_href": "/groups/733396/discussion_topics/11579973",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 18,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/announcements",
+      "index": 19,
+      "raw_href": "/groups/733396/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/wiki",
+      "index": 20,
+      "raw_href": "/groups/733396/wiki",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/users",
+      "index": 21,
+      "raw_href": "/groups/733396/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 22,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/files",
+      "index": 23,
+      "raw_href": "/groups/733396/files",
+      "rel": "",
+      "target": "",
+      "text": "Files",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/collaborations",
+      "index": 24,
+      "raw_href": "/groups/733396/collaborations",
+      "rel": "",
+      "target": "",
+      "text": "Collaborations",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-0-team-building-and-uncertainty-refresher",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-0-team-building-and-uncertainty-refresher",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Team Building and Uncertainty Refresher",
+      "title": "Lab 0: Team Building and Uncertainty Refresher"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2021556/pages/scanning-resources",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2021556/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 27,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 28,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 29,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 30,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 31,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 32,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6388600",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6388600",
+      "rel": "",
+      "target": "",
+      "text": "Roshell Lamug (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharing",
+      "index": 34,
+      "raw_href": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharingLinks to an external site.",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-0-team-building-and-uncertainty-refresher",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-0-team-building-and-uncertainty-refresher",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Team Building and Uncertainty Refresher",
+      "title": "Lab 0: Team Building and Uncertainty Refresher"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2021556/pages/scanning-resources",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2021556/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 2,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 3,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 4,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 5,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 6,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 7,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6388600",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6388600",
+      "rel": "",
+      "target": "",
+      "text": "Roshell Lamug (She/Her/Hers)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharing",
+      "index": 9,
+      "raw_href": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://docs.google.com/document/d/1gzyjmoLBkVOGDtHhMcbabWekr3kLTgtqxdvD13zpCMk/edit?usp=sharingLinks to an external site.",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557036",
+  "resolved_url": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973",
+  "source_surface": "assignment_detail",
+  "tables": [],
+  "title": "Topic: Lab 1 Discussion - Lab Group 22",
+  "page_id": "00396-phy-212-assignment-detail-topic-lab-1-discussion-lab-group-22",
+  "captured_at": "2026-07-03T01:05:26.682Z",
+  "source_kind": "assignment_detail",
+  "discovered_from": "00019-phy-212-assignments-assignments-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Lab 1 Discussion",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11579973",
+  "html_sha256": "afa73431caa900448426a4c2ce33603dd2ce860f45b3b9c4aca180083a9ed86a",
+  "text_sha256": "a0018b38f0983931403025664e5ea1b74e079fc52a50d18b7985442e118d070b",
+  "requires_external_handler": false
+}

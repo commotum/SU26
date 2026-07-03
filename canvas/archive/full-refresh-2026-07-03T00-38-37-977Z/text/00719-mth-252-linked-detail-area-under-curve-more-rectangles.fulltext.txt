@@ -1,0 +1,32 @@
+
+            
+  Area under curve, more rectangles
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Area under curve, more rectangles in a new window
+      
+    
+
+
+  
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          

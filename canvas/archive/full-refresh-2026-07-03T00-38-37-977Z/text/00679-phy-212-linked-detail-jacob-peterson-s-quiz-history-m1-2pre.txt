@@ -1,0 +1,11 @@
+M1-2pre Results for Jacob Peterson
+Score for this attempt: 3 out of 3
+Submitted Jun 25 at 9:41am
+This attempt took 2 minutes.
+ 
+Correct answer
+Question 1
+3 / 3 pts
+A particle moves in non-uniform circular motion according to the function θ(t) = At2 - Bt3 where A = 2.8 rad/s2 and B = 1.1 rad/s3. What is the angular speed of the particle at t = 1.3 seconds? Enter your answer in rad/s (just enter the value, not the units in your answer).
+1.7 (with margin: 0)
+Quiz Score: 3 out of 3

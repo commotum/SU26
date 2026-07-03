@@ -1,0 +1,105 @@
+
+            
+
+
+
+
+
+
+  
+
+
+    
+      Pre-Class Reading Quiz - 1.3 (RQ-1.3) 
+    
+    
+
+
+
+    
+        
+    
+    
+        
+
+
+
+  
+    Due
+    
+        
+          Jul 13 at 11:59pm
+        
+    
+  
+
+  
+    Points
+    10
+  
+
+  
+    Questions
+    4
+  
+  
+  
+    Available
+    
+        after Jul 1 at 12am
+    
+  
+
+  
+    Time Limit
+    
+        None
+    
+  
+
+    
+      Allowed Attempts
+      
+          2
+      
+    
+
+
+
+  Instructions
+  
+    Purpose
+The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation.  
+Instructions
+Complete this quiz after reading through the corresponding section of the OpenStax textbook.
+Reading: https://openstax.org/books/calculus-volume-2/pages/1-3-the-fundamental-theorem-of-calculusLinks to an external site.
+ 
+  
+
+    
+
+
+          
+            Take the Quiz
+          
+
+    
+
+  
+
+  
+  
+
+
+
+  
+//<![CDATA[
+(window.prefetched_xhrs = (window.prefetched_xhrs || {}))["/api/v1/courses/2080857/lti_apps/launch_definitions?placements%5B%5D=assignment_view"] = fetch("/api/v1/courses/2080857/lti_apps/launch_definitions?placements%5B%5D=assignment_view", {"credentials":"same-origin","headers":{"Accept":"application/json+canvas-string-ids, application/json","X-Requested-With":"XMLHttpRequest"}})
+//]]>
+
+
+  
+
+
+
+          

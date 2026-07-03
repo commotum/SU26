@@ -1,0 +1,32 @@
+
+            
+  Trig substitution with definite integral
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Trig substitution with definite integral in a new window
+      
+    
+
+
+  
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          

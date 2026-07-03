@@ -1,0 +1,854 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "TA Info & Scheduler"
+    },
+    {
+      "index": 1,
+      "level": "H3",
+      "text": "Scheduler of TA Availabilities:"
+    },
+    {
+      "index": 2,
+      "level": "H3",
+      "text": "Wormhole Help Sessions:"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Previous Next"
+    },
+    {
+      "index": 9,
+      "text": "Previous"
+    },
+    {
+      "index": 10,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) TA Info & Scheduler",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:lamugr@oregonstate.edu",
+      "index": 33,
+      "raw_href": "mailto:lamugr@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "lamugr@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/spreadsheets/d/1ckvA0GojYc7L2C6PTn2YQZgsudJDRSuCxscxJbM7Isg/edit?usp=sharing",
+      "index": 34,
+      "raw_href": "https://docs.google.com/spreadsheets/d/1ckvA0GojYc7L2C6PTn2YQZgsudJDRSuCxscxJbM7Isg/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:dimmittk@oregonstate.edu",
+      "index": 35,
+      "raw_href": "mailto:dimmittk@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "dimmittk@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/my/dimmittkphysicszoom?pwd=RDYvNHU1ejVHOUpHaFBnaVJGeU9rQT09",
+      "index": 36,
+      "raw_href": "https://oregonstate.zoom.us/my/dimmittkphysicszoom?pwd=RDYvNHU1ejVHOUpHaFBnaVJGeU9rQT09",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/document/d/1sC-sFmQWfZNBFR1ZYq7-5ZvcdpzfAuhAfBI1o6Hs63o/edit?usp=sharing",
+      "index": 37,
+      "raw_href": "https://docs.google.com/document/d/1sC-sFmQWfZNBFR1ZYq7-5ZvcdpzfAuhAfBI1o6Hs63o/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:garcaida@oregonstate.edu",
+      "index": 38,
+      "raw_href": "mailto:garcaida@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "garcaida@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/3094564556?pwd=XqSBa9lI1FTVpAJcMvptRADQXVYR1b.1",
+      "index": 39,
+      "raw_href": "https://oregonstate.zoom.us/j/3094564556?pwd=XqSBa9lI1FTVpAJcMvptRADQXVYR1b.1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:kijeskym@oregonstate.edu",
+      "index": 40,
+      "raw_href": "mailto:kijeskym@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "kijeskym@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/9358410853?pwd=57ceUx9KFXUbDwNwabdLAq3Vyye2kI.1",
+      "index": 41,
+      "raw_href": "https://oregonstate.zoom.us/j/9358410853?pwd=57ceUx9KFXUbDwNwabdLAq3Vyye2kI.1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://1drv.ms/x/c/007227674f2080fc/IQAJ_mkQyo0yQo9pW9hEqsppAbdM7siSxxZqX2vyaUZnxbI?e=ihwOxh",
+      "index": 42,
+      "raw_href": "https://1drv.ms/x/c/007227674f2080fc/IQAJ_mkQyo0yQo9pW9hEqsppAbdM7siSxxZqX2vyaUZnxbI?e=ihwOxh",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:omearama@oregonstate.edu",
+      "index": 43,
+      "raw_href": "mailto:omearama@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "omearama@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/4018352485?pwd=YitEdWYwRGRLaG5raDUwMU1wYlRHQT09",
+      "index": 44,
+      "raw_href": "https://oregonstate.zoom.us/j/4018352485?pwd=YitEdWYwRGRLaG5raDUwMU1wYlRHQT09",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:criswesi@oregonstate.edu",
+      "index": 45,
+      "raw_href": "mailto:criswesi@oregonstate.edu",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://physics.oregonstate.edu/wormhole-physics-help-center",
+      "index": 46,
+      "raw_href": "https://physics.oregonstate.edu/wormhole-physics-help-center",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Wormhole Schedule",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896939",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896939",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/27007746",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/27007746",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "mailto:lamugr@oregonstate.edu",
+      "index": 0,
+      "raw_href": "mailto:lamugr@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "lamugr@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/spreadsheets/d/1ckvA0GojYc7L2C6PTn2YQZgsudJDRSuCxscxJbM7Isg/edit?usp=sharing",
+      "index": 1,
+      "raw_href": "https://docs.google.com/spreadsheets/d/1ckvA0GojYc7L2C6PTn2YQZgsudJDRSuCxscxJbM7Isg/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:dimmittk@oregonstate.edu",
+      "index": 2,
+      "raw_href": "mailto:dimmittk@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "dimmittk@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/my/dimmittkphysicszoom?pwd=RDYvNHU1ejVHOUpHaFBnaVJGeU9rQT09",
+      "index": 3,
+      "raw_href": "https://oregonstate.zoom.us/my/dimmittkphysicszoom?pwd=RDYvNHU1ejVHOUpHaFBnaVJGeU9rQT09",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://docs.google.com/document/d/1sC-sFmQWfZNBFR1ZYq7-5ZvcdpzfAuhAfBI1o6Hs63o/edit?usp=sharing",
+      "index": 4,
+      "raw_href": "https://docs.google.com/document/d/1sC-sFmQWfZNBFR1ZYq7-5ZvcdpzfAuhAfBI1o6Hs63o/edit?usp=sharing",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:garcaida@oregonstate.edu",
+      "index": 5,
+      "raw_href": "mailto:garcaida@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "garcaida@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/3094564556?pwd=XqSBa9lI1FTVpAJcMvptRADQXVYR1b.1",
+      "index": 6,
+      "raw_href": "https://oregonstate.zoom.us/j/3094564556?pwd=XqSBa9lI1FTVpAJcMvptRADQXVYR1b.1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:kijeskym@oregonstate.edu",
+      "index": 7,
+      "raw_href": "mailto:kijeskym@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "kijeskym@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/9358410853?pwd=57ceUx9KFXUbDwNwabdLAq3Vyye2kI.1",
+      "index": 8,
+      "raw_href": "https://oregonstate.zoom.us/j/9358410853?pwd=57ceUx9KFXUbDwNwabdLAq3Vyye2kI.1",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://1drv.ms/x/c/007227674f2080fc/IQAJ_mkQyo0yQo9pW9hEqsppAbdM7siSxxZqX2vyaUZnxbI?e=ihwOxh",
+      "index": 9,
+      "raw_href": "https://1drv.ms/x/c/007227674f2080fc/IQAJ_mkQyo0yQo9pW9hEqsppAbdM7siSxxZqX2vyaUZnxbI?e=ihwOxh",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Link to SchedulerLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:omearama@oregonstate.edu",
+      "index": 10,
+      "raw_href": "mailto:omearama@oregonstate.edu",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "omearama@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://oregonstate.zoom.us/j/4018352485?pwd=YitEdWYwRGRLaG5raDUwMU1wYlRHQT09",
+      "index": 11,
+      "raw_href": "https://oregonstate.zoom.us/j/4018352485?pwd=YitEdWYwRGRLaG5raDUwMU1wYlRHQT09",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click for Zoom LinkLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:criswesi@oregonstate.edu",
+      "index": 12,
+      "raw_href": "mailto:criswesi@oregonstate.edu",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://physics.oregonstate.edu/wormhole-physics-help-center",
+      "index": 13,
+      "raw_href": "https://physics.oregonstate.edu/wormhole-physics-help-center",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Wormhole Schedule",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896939",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896939",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/27007746",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/27007746",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades10"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896940",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940",
+  "source_surface": "module_item",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Lead TA: Roshell Lamug (lamugr@oregonstate.edu) Please email her regarding any lab questions. (1) TA Name (2) Schedule of Availability (3) TA Email (4) Assigned Group Numbers (will be updated as groups are signing up) (5) Zoom Link For Meetings Kevin Dimmitt Link to Scheduler Links to an external site. MAX ALLOWED = 11 dimmittk@oregonstate.edu 2, 4, 5, 6, 7, 9, 14, 21 Click for Zoom Link Links to an external site. Aidan Garcia St. George Link to Scheduler Links to an external site. MAX ALLOWED = 11 garcaida@oregonstate.edu 3, 8, 12, 13, 20 Click for Zoom Link Links to an external site. Mary Kijesky Link to Scheduler MAX ALLOWED = 7 kijeskym@oregonstate.edu Click for Zoom Link Links to an external site. Matthew O'Meara Link to Scheduler Links to an external site. MAX ALLOWED = 11 omearama@oregonstate.edu 16, 17, 18, 22, 30, 37 Click for Zoom Link Links to an external site."
+    }
+  ],
+  "title": "TA Info & Scheduler: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00334-phy-212-module-item-ta-info-scheduler-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-03T00:57:08.695Z",
+  "source_kind": "module_item",
+  "discovered_from": "00018-phy-212-modules-course-modules-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "TA Info & Scheduler",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "ta-info-and-scheduler",
+  "html_sha256": "77730af34ee81486bd638a05ea76d4a508760ba16f556682c6d808ea8ac8b343",
+  "text_sha256": "b3f7273cb5872f3b893459bec91263e04a090e3e788d076963bc99b63b02e59e",
+  "requires_external_handler": false
+}

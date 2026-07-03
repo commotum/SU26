@@ -1,0 +1,834 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 8 — Learning Materials and Practice Activities 🕓 3 - 5 hours"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Intro"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Riemann Sum Calculator (RSC)"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Videos"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Practice Activities"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 15,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 16,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 17,
+      "text": "Previous Next"
+    },
+    {
+      "index": 18,
+      "text": "Previous"
+    },
+    {
+      "index": 19,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 8 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 26,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 27,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/3B2YQbEzshg",
+      "index": 28,
+      "raw_href": "https://youtu.be/3B2YQbEzshg",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume of Revolution – Shell Method about x = 0 (the y-axis)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fm2jphatd&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wblhfZcWaJURbPDzQACQqsM4RXCtWdsDCjKeRUrMEU8%3D&reserved=0",
+      "index": 29,
+      "raw_href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fm2jphatd&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wblhfZcWaJURbPDzQACQqsM4RXCtWdsDCjKeRUrMEU8%3D&reserved=0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/m2jphatdLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fv7ymgg9x&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=L%2BajXGCJUBVyCE0MugJ8qFzD2O55fZNR4jnArlRLdDY%3D&reserved=0",
+      "index": 30,
+      "raw_href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fv7ymgg9x&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=L%2BajXGCJUBVyCE0MugJ8qFzD2O55fZNR4jnArlRLdDY%3D&reserved=0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/v7ymgg9xLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/DHCWM-Pg_Yw",
+      "index": 31,
+      "raw_href": "https://youtu.be/DHCWM-Pg_Yw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 0 - Example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/aW_3JoRHsPU",
+      "index": 32,
+      "raw_href": "https://youtu.be/aW_3JoRHsPU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 0 - Example 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/fAKmfe_5QWw",
+      "index": 33,
+      "raw_href": "https://youtu.be/fAKmfe_5QWw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 4 – Example 3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/pCMkHkprN0I",
+      "index": 34,
+      "raw_href": "https://youtu.be/pCMkHkprN0I",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about the y = 0 (the x-axis)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Sa2FDL3hmJo",
+      "index": 35,
+      "raw_href": "https://youtu.be/Sa2FDL3hmJo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about y = 1 – Example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/seoFxrNL85c",
+      "index": 36,
+      "raw_href": "https://youtu.be/seoFxrNL85c",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Introduction to Arc Length – Part 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/AQdFBK5N",
+      "index": 37,
+      "raw_href": "https://www.geogebra.org/m/AQdFBK5N",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/AQdFBK5NLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/QttlclJGxJQ",
+      "index": 38,
+      "raw_href": "https://youtu.be/QttlclJGxJQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of Linear FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/cw76RZ_fsZI",
+      "index": 39,
+      "raw_href": "https://youtu.be/cw76RZ_fsZI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of a Radical FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/0j227VZN0X8",
+      "index": 40,
+      "raw_href": "https://youtu.be/0j227VZN0X8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of a Quadratic Function (using integral table)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 41,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982619",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982619",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982621",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982621",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 0,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 1,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/3B2YQbEzshg",
+      "index": 2,
+      "raw_href": "https://youtu.be/3B2YQbEzshg",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume of Revolution – Shell Method about x = 0 (the y-axis)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fm2jphatd&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wblhfZcWaJURbPDzQACQqsM4RXCtWdsDCjKeRUrMEU8%3D&reserved=0",
+      "index": 3,
+      "raw_href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fm2jphatd&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=wblhfZcWaJURbPDzQACQqsM4RXCtWdsDCjKeRUrMEU8%3D&reserved=0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/m2jphatdLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fv7ymgg9x&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=L%2BajXGCJUBVyCE0MugJ8qFzD2O55fZNR4jnArlRLdDY%3D&reserved=0",
+      "index": 4,
+      "raw_href": "https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.geogebra.org%2Fm%2Fv7ymgg9x&data=05%7C01%7Cmichael.gilliam%40oregonstate.edu%7C419c86ceb0434d29c68108db8e3d1844%7Cce6d05e13c5e4d6287a84c4a2713c113%7C0%7C0%7C638260165266551973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=L%2BajXGCJUBVyCE0MugJ8qFzD2O55fZNR4jnArlRLdDY%3D&reserved=0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/v7ymgg9xLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/DHCWM-Pg_Yw",
+      "index": 5,
+      "raw_href": "https://youtu.be/DHCWM-Pg_Yw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 0 - Example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/aW_3JoRHsPU",
+      "index": 6,
+      "raw_href": "https://youtu.be/aW_3JoRHsPU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 0 - Example 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/fAKmfe_5QWw",
+      "index": 7,
+      "raw_href": "https://youtu.be/fAKmfe_5QWw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about x = 4 – Example 3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/pCMkHkprN0I",
+      "index": 8,
+      "raw_href": "https://youtu.be/pCMkHkprN0I",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about the y = 0 (the x-axis)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Sa2FDL3hmJo",
+      "index": 9,
+      "raw_href": "https://youtu.be/Sa2FDL3hmJo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Shell Method about y = 1 – Example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/seoFxrNL85c",
+      "index": 10,
+      "raw_href": "https://youtu.be/seoFxrNL85c",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Introduction to Arc Length – Part 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/AQdFBK5N",
+      "index": 11,
+      "raw_href": "https://www.geogebra.org/m/AQdFBK5N",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.geogebra.org/m/AQdFBK5NLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/QttlclJGxJQ",
+      "index": 12,
+      "raw_href": "https://youtu.be/QttlclJGxJQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of Linear FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/cw76RZ_fsZI",
+      "index": 13,
+      "raw_href": "https://youtu.be/cw76RZ_fsZI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of a Radical FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/0j227VZN0X8",
+      "index": 14,
+      "raw_href": "https://youtu.be/0j227VZN0X8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Finding Arc Length of a Quadratic Function (using integral table)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 15,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982619",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982619",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982621",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982621",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades2"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982620",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/module-8-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982620",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 8 — Learning Materials and Practice Activities 🕓 3 - 5 hours: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00122-mth-252-module-item-module-8-learning-materials-and-practice-activities-3-5-hours-integral-calculus-mth-252z-400-u20",
+  "captured_at": "2026-07-03T00:45:34.995Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Module 8 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-8-learning-materials-and-practice-activities-3-5-hours-2",
+  "html_sha256": "2d2f93a05145d9ea98740ca015c7a04950fc3502297fd8b1ec011c8890ac81ee",
+  "text_sha256": "7e600b1f2d3e29f1ce3e0ca090864e4bfd6d6df330a1de265bd505e8b19f9f43",
+  "requires_external_handler": false
+}

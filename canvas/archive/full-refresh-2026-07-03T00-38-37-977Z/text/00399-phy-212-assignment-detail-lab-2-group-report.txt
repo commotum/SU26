@@ -1,0 +1,16 @@
+Lab 2 Group Report 
+Due Saturday by 11:59pm Points 20 Submitting an external tool Available Jun 28 at 12am - Aug 15 at 11:59pm
+Submit Your Group's Lab Report
+
+Now that you have collected data from your experiment, please work with your group to finalize your answers and upload your single group report to Gradescope.
+
+Only one file should be uploaded for the group.
+Include the names of all group members who contributed to the lab report within the PDF document AND on the Gradescope submission (refer to the picture below).
+Adding names to the Gradescope submission can only be done at the end of the submission process. Gradescope instructions for adding Group members
+Note: Only completing the discussion post does not count as contributing to the lab report.
+When submitting on Gradescope, assign each question to the correct page of your report to ensure proper grading.
+
+If a group member’s name is missing from the submission, they will not receive credit for the lab.
+
+This tool needs to be loaded in a new browser window
+Load Lab 2 Group Report in a new window

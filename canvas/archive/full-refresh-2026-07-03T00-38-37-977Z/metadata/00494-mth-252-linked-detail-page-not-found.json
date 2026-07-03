@@ -1,0 +1,193 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Whoops... Looks like nothing is here!"
+    },
+    {
+      "index": 1,
+      "level": "H1",
+      "text": "Page Not Found"
+    }
+  ],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1#content",
+      "index": 0,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 1,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 3,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 4,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 5,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 6,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 7,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 9,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    }
+  ],
+  "main_links": [],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc6fcafc40b3ad850007aa23c360c3b10?wrap=1",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Page Not Found",
+  "page_id": "00494-mth-252-linked-detail-page-not-found",
+  "captured_at": "2026-07-03T01:11:01.939Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00113-mth-252-module-item-dr-gs-videos-2-1-2-2-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Lecture-2.1-to-ME4 pages 5 - 14.pdf",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "page",
+  "canvas_object_id": "$CANVAS_COURSE_REFERENCE$",
+  "html_sha256": "8067d870e1cc6e369034a05866dc7d9fd25ba5e31a4d844947cffd1231fa67b3",
+  "text_sha256": "1f3cad7f917aec981713b153906f275d6d7a2e253849ec562fee4847f84aa6ab",
+  "requires_external_handler": false
+}

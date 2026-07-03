@@ -1,0 +1,829 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Subscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Manage Discussion by Jacob Peterson",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Reply to post from Jacob PetersonReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Manage Discussion by Mallory Gilbert",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Reply to post from Mallory GilbertReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "Manage Discussion by Isaac Hoover",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "Reply to post from Isaac HooverReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 13,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Lab 2 Discussion - Lab Group 22Lab 2 Discussion - Lab Group 22"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Discussion Instructions"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Coordinating With Your Group"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Support Resources"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Grading Criteria"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Reply from Jacob Peterson"
+    },
+    {
+      "index": 7,
+      "level": "H2",
+      "text": "Reply from Mallory Gilbert"
+    },
+    {
+      "index": 8,
+      "level": "H2",
+      "text": "Reply from Isaac Hoover"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort byDue Jul 1 11:59pm Available from Jun 28 until Aug 1510 points possible3 Replies3 RepliesSubscribedManage DiscussionDiscussion Topic: Lab 2 Discussion - Lab Group 22Lab 2 Discussion - Lab Group 22Purpose This discussion is for your group to coordinate and track progress on your lab report. Use it to share updates, confirm responsibilities, and ensure everyone is contributing on schedule. Your posts should reflect what you’ve completed, what’s in progress, and what still needs to be done before your group report due Saturday. Discussion Instructions To complete your individual discussion post, open the lab handout, then post your answers to Questions Q1–Q5 in your group's discussion thread. (Due Wednesday) Your discussion is meant to initiate the lab exercise and begin the conversation that leads to your group lab report. Link to lab handout page: Lab 2 Uncertainty Propagation Coordinating With Your Group Begin communicating with your lab group to prepare your group lab report, due Saturday. Use this discussion board, Zoom, or another platform to collaborate. Start by if a new member has been added to your group this week, please introduce yourself and bring them up to speed. You can identify your group members by clicking on “People” in the discussion. To contact them, you can: Email them using your Outlook student account by searching their name in the directory, Message them through the Canvas Inbox tool, or Post an announcement within the discussion board. The current Group Leader should: Create a shared Google Doc for writing the group lab report. Create a shared spreadsheet for sharing and recording measurements/calculations. Share both files with all group members and ensure they have editing access. Paste the link to the shared spreadsheet and Google Doc in this discussion thread by Thursday morning. If no spreadsheet has been shared by then, any member is welcome to step in and create one. Communication and collaboration are everyone's responsibility! If you have unresponsive group members who have not contributed to the group report, please email to your Lab TA. Remember, all members are expected to contribute to both planning and writing, and the Group Leader’s role is to facilitate—not do all the work. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets Grading Criteria Your discussion post is worth a maximum of 5 points. Late submissions will lose one point per day, up to a maximum deduction of 50%. Use the rubric to evaluate your own work and ensure your discussion meets the requirements of the discussion questions. How do I view the rubric for my graded discussion? An additional 5 points can be earned by meeting with your TA and actively participating in the discussion. Come to the meeting prepared with substantial questions and be ready to engage. Turn on your webcam and interact with both your group members and your TA.ReplyJacob PetersonJul 2 2:46pmManage Discussion by Jacob PetersonReply from Jacob PetersonQ1: I, Jacob Peterson, understand and agree to the terms of the contract. Q2: I measured a 15.49 m walking path using 50 shoe lengths. My shoe length was 12.2 in, or 0.30988 m. I estimate the distance uncertainty as half a shoe length (Delta d = 0.30988/2 = 0.15 m). So the distance was: 15.49 m ± 0.15 m Trial Distance d (m) Time t (s) 1 15.49 11.0 2 15.49 10.8 3 15.49 11.5 4 15.49 10.9 5 15.49 11.2 Quantity Value Average distance d_avg (m) 15.49 Distance uncertainty Delta d (m) 0.15 Average time t_avg (s) 11.08 Time uncertainty Delta t (s) 0.35 Q3: v = 15.49/11.08 = 1.40 m/s Delta v = 1.40 * sqrt((0.15/15.49)^2 + (0.35/11.08)^2) = 0.05 m/s v_walk = 1.40 ± 0.05 m/s Q4: Delta d/d = 0.15/15.49 = 0.0097 Delta t/t = 0.35/11.08 = 0.032 The time uncertainty contributed more because Delta t/t is larger than Delta d/d. Q5: Formula used: T_wave = total time / number of wave intervals Delta T_wave = (max interval - min interval)/2 Q5A: Reference point used: Stump in the water, mid screen. Trial/view Wave interval time (s) 1 10.1 2 10.0 3 10.4 4 10.6 Q5B: Quantity Value Average wave period T_wave (s) 10.3 Wave period uncertainty Delta T_wave (s) 1.1 T_wave = 10.3 ± 1.1 s Q5C: Most of the uncertainty comes from the waves not being perfectly consistent and from judging which part of the wave counted as the crest. The timing differences were bigger than normal stopwatch reaction time, so the spread was probably due more to wave variation than just human timing error.Reply to post from Jacob PetersonReplyunread Mark as UnreadMark as UnreadMGMallory GilbertJul 1 10:53pm | Last edited Jul 2 11:28amManage Discussion by Mallory GilbertReply from Mallory GilbertQ1. I, Mallory Gilbert, understand and agree to the terms of the contract. Q2. A) I used a tape measure to measure 13 m. Uncertainty is in inches and seconds. Trial Time 1 8.64 2 8.6 3 8.44 4 8.02 5 8.22 Uncertainty (d) Average Distance (m) Uncertainty (t) Average Time 0.0005 13 0.005 8.384 Q3. Calculated velocity is 1.55 m/sec +/- 0.00502494 Q4. Time had a greater affect on uncertainty because measuring distance was highly accurate and the stopwatch I used only went to a hundredth of a second. Q5. Trial Time (sec) Average (sec) Standard Deviation 1 16 11.75 6.020797289 2 4 3 17 4 10 Reply to post from Mallory GilbertReplyunread Mark as UnreadMark as UnreadIHIsaac HooverJul 1 10:03pmManage Discussion by Isaac HooverReply from Isaac HooverQ1: I, Isaac Hoover, understand and agree to the terms of the contract. Q2: I used the goal line to the 25 yard line on a football field, a distance of 22.86m. I time myself with my phone, and I would give an uncertainty of 0.3m Trial Distance Time (s) 1 22.86m 16.4 2 22.86m 15.9 3 22.86m 17.1 4 22.86m 16.0 5 22.86m 16.6 Average time is 16.4s, time uncertainty is 0.6s. the distance can be said to be 22.86m +/- 0.3m and the time can be said to be 16.4s +/- 0.6s Q3: Speed in calculated at 1.394 m/s, uncertainty is +/- 0.05 m/s Q4: time contributed more to the speed uncertainty, since the delta t / t term is greater than the delta d / d term. Q5: Im genuinely not sure how you want me to measure the wave period from the video. Time start (s) time end (s) period (s) Reply to post from Isaac HooverReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "3 Replies3 RepliesSubscribedManage DiscussionDiscussion Topic: Lab 2 Discussion - Lab Group 22Lab 2 Discussion - Lab Group 22Purpose This discussion is for your group to coordinate and track progress on your lab report. Use it to share updates, confirm responsibilities, and ensure everyone is contributing on schedule. Your posts should reflect what you’ve completed, what’s in progress, and what still needs to be done before your group report due Saturday. Discussion Instructions To complete your individual discussion post, open the lab handout, then post your answers to Questions Q1–Q5 in your group's discussion thread. (Due Wednesday) Your discussion is meant to initiate the lab exercise and begin the conversation that leads to your group lab report. Link to lab handout page: Lab 2 Uncertainty Propagation Coordinating With Your Group Begin communicating with your lab group to prepare your group lab report, due Saturday. Use this discussion board, Zoom, or another platform to collaborate. Start by if a new member has been added to your group this week, please introduce yourself and bring them up to speed. You can identify your group members by clicking on “People” in the discussion. To contact them, you can: Email them using your Outlook student account by searching their name in the directory, Message them through the Canvas Inbox tool, or Post an announcement within the discussion board. The current Group Leader should: Create a shared Google Doc for writing the group lab report. Create a shared spreadsheet for sharing and recording measurements/calculations. Share both files with all group members and ensure they have editing access. Paste the link to the shared spreadsheet and Google Doc in this discussion thread by Thursday morning. If no spreadsheet has been shared by then, any member is welcome to step in and create one. Communication and collaboration are everyone's responsibility! If you have unresponsive group members who have not contributed to the group report, please email to your Lab TA. Remember, all members are expected to contribute to both planning and writing, and the Group Leader’s role is to facilitate—not do all the work. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets Grading Criteria Your discussion post is worth a maximum of 5 points. Late submissions will lose one point per day, up to a maximum deduction of 50%. Use the rubric to evaluate your own work and ensure your discussion meets the requirements of the discussion questions. How do I view the rubric for my graded discussion? An additional 5 points can be earned by meeting with your TA and actively participating in the discussion. Come to the meeting prepared with substantial questions and be ready to engage. Turn on your webcam and interact with both your group members and your TA.Reply"
+    },
+    {
+      "index": 5,
+      "text": "3 Replies"
+    },
+    {
+      "index": 6,
+      "text": "Subscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: Lab 2 Discussion - Lab Group 22"
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Jacob PetersonJul 2 2:46pmManage Discussion by Jacob PetersonReply from Jacob PetersonQ1: I, Jacob Peterson, understand and agree to the terms of the contract. Q2: I measured a 15.49 m walking path using 50 shoe lengths. My shoe length was 12.2 in, or 0.30988 m. I estimate the distance uncertainty as half a shoe length (Delta d = 0.30988/2 = 0.15 m). So the distance was: 15.49 m ± 0.15 m Trial Distance d (m) Time t (s) 1 15.49 11.0 2 15.49 10.8 3 15.49 11.5 4 15.49 10.9 5 15.49 11.2 Quantity Value Average distance d_avg (m) 15.49 Distance uncertainty Delta d (m) 0.15 Average time t_avg (s) 11.08 Time uncertainty Delta t (s) 0.35 Q3: v = 15.49/11.08 = 1.40 m/s Delta v = 1.40 * sqrt((0.15/15.49)^2 + (0.35/11.08)^2) = 0.05 m/s v_walk = 1.40 ± 0.05 m/s Q4: Delta d/d = 0.15/15.49 = 0.0097 Delta t/t = 0.35/11.08 = 0.032 The time uncertainty contributed more because Delta t/t is larger than Delta d/d. Q5: Formula used: T_wave = total time / number of wave intervals Delta T_wave = (max interval - min interval)/2 Q5A: Reference point used: Stump in the water, mid screen. Trial/view Wave interval time (s) 1 10.1 2 10.0 3 10.4 4 10.6 Q5B: Quantity Value Average wave period T_wave (s) 10.3 Wave period uncertainty Delta T_wave (s) 1.1 T_wave = 10.3 ± 1.1 s Q5C: Most of the uncertainty comes from the waves not being perfectly consistent and from judging which part of the wave counted as the crest. The timing differences were bigger than normal stopwatch reaction time, so the spread was probably due more to wave variation than just human timing error.Reply to post from Jacob PetersonReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 13,
+      "text": "Manage Discussion by Jacob Peterson"
+    },
+    {
+      "index": 14,
+      "text": "Reply from Jacob Peterson"
+    },
+    {
+      "index": 15,
+      "text": "Reply to post from Jacob Peterson"
+    },
+    {
+      "index": 16,
+      "text": "Mark as Unread"
+    },
+    {
+      "index": 17,
+      "text": "MGMallory GilbertJul 1 10:53pm | Last edited Jul 2 11:28amManage Discussion by Mallory GilbertReply from Mallory GilbertQ1. I, Mallory Gilbert, understand and agree to the terms of the contract. Q2. A) I used a tape measure to measure 13 m. Uncertainty is in inches and seconds. Trial Time 1 8.64 2 8.6 3 8.44 4 8.02 5 8.22 Uncertainty (d) Average Distance (m) Uncertainty (t) Average Time 0.0005 13 0.005 8.384 Q3. Calculated velocity is 1.55 m/sec +/- 0.00502494 Q4. Time had a greater affect on uncertainty because measuring distance was highly accurate and the stopwatch I used only went to a hundredth of a second. Q5. Trial Time (sec) Average (sec) Standard Deviation 1 16 11.75 6.020797289 2 4 3 17 4 10 Reply to post from Mallory GilbertReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 18,
+      "text": "Manage Discussion by Mallory Gilbert"
+    },
+    {
+      "index": 19,
+      "text": "Reply from Mallory Gilbert"
+    },
+    {
+      "index": 20,
+      "text": "Reply to post from Mallory Gilbert"
+    },
+    {
+      "index": 21,
+      "text": "Mark as Unread"
+    },
+    {
+      "index": 22,
+      "text": "IHIsaac HooverJul 1 10:03pmManage Discussion by Isaac HooverReply from Isaac HooverQ1: I, Isaac Hoover, understand and agree to the terms of the contract. Q2: I used the goal line to the 25 yard line on a football field, a distance of 22.86m. I time myself with my phone, and I would give an uncertainty of 0.3m Trial Distance Time (s) 1 22.86m 16.4 2 22.86m 15.9 3 22.86m 17.1 4 22.86m 16.0 5 22.86m 16.6 Average time is 16.4s, time uncertainty is 0.6s. the distance can be said to be 22.86m +/- 0.3m and the time can be said to be 16.4s +/- 0.6s Q3: Speed in calculated at 1.394 m/s, uncertainty is +/- 0.05 m/s Q4: time contributed more to the speed uncertainty, since the delta t / t term is greater than the delta d / d term. Q5: Im genuinely not sure how you want me to measure the wave period from the video. Time start (s) time end (s) period (s) Reply to post from Isaac HooverReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 23,
+      "text": "Manage Discussion by Isaac Hoover"
+    },
+    {
+      "index": 24,
+      "text": "Reply from Isaac Hoover"
+    },
+    {
+      "index": 25,
+      "text": "Reply to post from Isaac Hoover"
+    },
+    {
+      "index": 26,
+      "text": "Mark as Unread"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 0,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22 Lab 2 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 15,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 16,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976",
+      "index": 17,
+      "raw_href": "/groups/733396/discussion_topics/11579976",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 18,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/announcements",
+      "index": 19,
+      "raw_href": "/groups/733396/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/wiki",
+      "index": 20,
+      "raw_href": "/groups/733396/wiki",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/users",
+      "index": 21,
+      "raw_href": "/groups/733396/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 22,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/files",
+      "index": 23,
+      "raw_href": "/groups/733396/files",
+      "rel": "",
+      "target": "",
+      "text": "Files",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/collaborations",
+      "index": 24,
+      "raw_href": "/groups/733396/collaborations",
+      "rel": "",
+      "target": "",
+      "text": "Collaborations",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-uncertainty-propagation",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-uncertainty-propagation",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Uncertainty Propagation",
+      "title": "Lab 1: Uncertainty Propagation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources-2",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources-2",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 27,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 28,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 29,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 30,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 31,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 32,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "index": 33,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I view the rubric for my graded discussion?",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6687629",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6687629",
+      "rel": "",
+      "target": "",
+      "text": "Mallory Gilbert",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6621301",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6621301",
+      "rel": "",
+      "target": "",
+      "text": "Isaac Hoover",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-uncertainty-propagation",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-uncertainty-propagation",
+      "rel": "",
+      "target": "",
+      "text": "Lab 2 Uncertainty Propagation",
+      "title": "Lab 1: Uncertainty Propagation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources-2",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources-2",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 2,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 3,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 4,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 5,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 6,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 7,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "index": 8,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How do I view the rubric for my graded discussion?",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6687629",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6687629",
+      "rel": "",
+      "target": "",
+      "text": "Mallory Gilbert",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6621301",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6621301",
+      "rel": "",
+      "target": "",
+      "text": "Isaac Hoover",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557038",
+  "resolved_url": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579976",
+  "source_surface": "assignment_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Trial Distance d (m) Time t (s) 1 15.49 11.0 2 15.49 10.8 3 15.49 11.5 4 15.49 10.9 5 15.49 11.2"
+    },
+    {
+      "caption": "",
+      "index": 1,
+      "text": "Quantity Value Average distance d_avg (m) 15.49 Distance uncertainty Delta d (m) 0.15 Average time t_avg (s) 11.08 Time uncertainty Delta t (s) 0.35"
+    },
+    {
+      "caption": "",
+      "index": 2,
+      "text": "Trial/view Wave interval time (s) 1 10.1 2 10.0 3 10.4 4 10.6"
+    },
+    {
+      "caption": "",
+      "index": 3,
+      "text": "Quantity Value Average wave period T_wave (s) 10.3 Wave period uncertainty Delta T_wave (s) 1.1"
+    },
+    {
+      "caption": "",
+      "index": 4,
+      "text": "Trial Time 1 8.64 2 8.6 3 8.44 4 8.02 5 8.22"
+    },
+    {
+      "caption": "",
+      "index": 5,
+      "text": "Uncertainty (d) Average Distance (m) Uncertainty (t) Average Time 0.0005 13 0.005 8.384"
+    },
+    {
+      "caption": "",
+      "index": 6,
+      "text": "Trial Time (sec) Average (sec) Standard Deviation 1 16 11.75 6.020797289 2 4 3 17 4 10"
+    },
+    {
+      "caption": "",
+      "index": 7,
+      "text": "Trial Distance Time (s) 1 22.86m 16.4 2 22.86m 15.9 3 22.86m 17.1 4 22.86m 16.0 5 22.86m 16.6"
+    },
+    {
+      "caption": "",
+      "index": 8,
+      "text": "Time start (s) time end (s) period (s)"
+    }
+  ],
+  "title": "Topic: Lab 2 Discussion - Lab Group 22",
+  "page_id": "00398-phy-212-assignment-detail-topic-lab-2-discussion-lab-group-22",
+  "captured_at": "2026-07-03T01:05:34.084Z",
+  "source_kind": "assignment_detail",
+  "discovered_from": "00019-phy-212-assignments-assignments-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Lab 2 Discussion",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11579976",
+  "html_sha256": "4dc78125ce6be6b6bc12f911a6d7ac3abf2216d0fb0245e03cb4ab2cd4077d72",
+  "text_sha256": "a724651c0358754207b582819b26f1d44c8d1bd18cf3c2fa2b13937267d50b42",
+  "requires_external_handler": false
+}

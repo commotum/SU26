@@ -1,0 +1,1282 @@
+<html dir="ltr" lang="en"><bettercampus-components style="opacity: 1; transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1);"></bettercampus-components><head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#334451">
+  
+  <meta name="robots" content="noindex,nofollow">
+  <meta name="apple-itunes-app" content="app-id=480883488"><link rel="manifest" href="/web-app-manifest/manifest.json">
+  <meta name="sentry-trace" content="75f7d0ccb8f94ef09989b825f08e44be-640d92b878654eed-0">
+  <title>Week 5 Web Homework: Comparison and Alternate Series Tests</title>
+
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Regular-bd03a2cc27.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Bold-cccb897485.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="preload" href="https://du11hjcvx0uqb.cloudfront.net/dist/fonts/lato/extended/Lato-Italic-4eb103b4d1.woff2" as="font" type="font/woff2" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css" media="screen">
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-9dec371ad57e3dd0396f0b2eddb63479.css" media="all">
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/common-f65087a90f.css" media="all">
+  <link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/assignments-cdf6c0c9a8.css" media="screen"><link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/learning_outcomes-a4b89c382c.css" media="screen"><link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/new_user_tutorials-6b15f87caf.css" media="screen">
+  <link rel="apple-touch-icon" href="https://du11hjcvx0uqb.cloudfront.net/dist/images/apple-touch-icon-585e5d997d.png">
+  <link rel="icon" type="image/x-icon" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20data-codex-favicon-badge%3D%22codex-favicon-badge%22%20width%3D%2232%22%20height%3D%2232%22%20viewBox%3D%220%200%2032%2032%22%3E%3Cimage%20href%3D%22data%3Aimage%2Fbmp%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAGFklEQVR4nKwX329TVfg75961BTY2NjZo10VQAmFsu8MFF0YLxfhkxCw%2B%2BONFo%2FiqRnwQffAPMJpo1DemJL5AYoJo4oIxWluHmWbSblh%2FJMjYaIvAWNlwW9t77vH77u0tt3dtIYQvac69536%2Ff1eFO4CMRFQWjeoSgF8Ja8d0EE%2BAgFYFwYknAAxFQgaY%2FCIQn3zdSVuPP68nmM7L%2BflNdN4YHGyUILcroLS7hRMoxItBEAzeaNLje1qff9DJqxowqAOZcE9BgKJ2xZOcGCKykQlrsh5NIJ5kt%2Bm1PHomj%2FTra%2BGv8kBmYGBtZp8WsgQpDWgZy0QGNtK3893dHmDGgVrMDMF2yxLP7AHtIB4epG8iXpdD2nZZRR53C2fr9HfwNu68Z1LvJet7UqlCIDYVgyV1HUj2ITp3hn747SO66zybmCQ8U5ABT1UIYvBXNqy95lagIgRkuVu4CYqx0x%2Bd%2BpuY06sdDieK%2By69X3uGSTjhZiUZ2xfgLb%2FYyWkqYGdrrfjmlZtrtkSnC04BmXD%2FMFKespjCswV%2B8%2FTW6PRKhUE1%2BKlKsenqVSiQR80QWMJ7CtWQJbD3iHHZtWVL5JtlJAPC65c3edy0SPNZNZ550XCBhJs4ZH3GuO43dLjoLi8p4ajqFcdFESaYVP70x5OPWUoBp7Jc8qzME4%2BgssED0ahheygzpE0IRXTdnDOCra2ed1FKRewFggIND%2Fk9zemKHJjd292qeho0yYxsHhanyfJsuDctgQdKgl9lS%2BpIYGJiCWpAOqS9xBiMlEwYw6YUoupp9%2FMNQnhFHoS%2BNZrI2fiqbU3r%2BPgt%2BDmVQ41%2BqHA1Vh8epgIcZHalac6oJdzy5vw5sCPP%2BAUSviuV0iEF1xw8TZlt4%2BMLLBPuO46ZuaMzltxLyHZsbERyazqsvcKAzQbiiS%2FhLsCqAOZH%2FA%2Fc365Guhs7oqlb2XDfWcPgRRUEe5Qp0GVmrNVkYjayHVNye76O5W6givAutq1qOmRQVlepyY2Sk7C%2F5NjsUI%2FuTL4bc0Uvuaxezd8tVBtGztLEXNS5O%2FNb2pQRq%2Bf3D6f39%2F16LdK9Fu4BTMVROLbgqXSo75AlvPeMEwdFq%2BpqQhYuPZ3COFLNLkCdqVkLTCOGtGV88OHbV9YV3%2BPGWz0cDOaF%2BwgC4LbLdfDcUQHGmdVegQ1jI%2FqERjHcA5illis245LyKXryabpTuPxulQKUCM4Lb8F7lIgLSu6Mr%2Bh7W96D%2BwkoBJTM3qLvyIqa%2B5r4BMYmhyuxRJErXLlSfgWhUUMiYuqCZqOwq6HOVuMGc28oKUE87Fli3fHIbXlsmdMOBwY7RptMMH7%2BfLWSw2b1VsbIPQJ3CW1t3m3Ykl%2Bs9m2z0jxGslDI5yrw0VUrme3y8mAJ9X0PjB00v0k4zJbVE7VmAVlOwiUYv9O7wdhoMJZ43MnbbaApzHZvNrz7QDbc%2F%2FGV%2FX1HbATBjB77mYFsdCvqfN7V0YHdVXaadHjNpWy6GNnio3dq57RVY5veXWEoCc%2FC3DZRkFPUGFz%2B%2BMYfnzyEq9SP6IV%2FArHECxUKF%2BYXQRFS6EYw6O1YsLteOtR7EqSyuXMsQQadxm36SSdXGseYJDs6PBsvlUMwO6QtYk9sBDdIGAn8lHzZPagyIS2GLgmTpYrBRry69w1KOFvBaZhWfaLlpFt4iekMjukHKkLQdTbZBNWAwWFaVs2R6mTB2Pt00taM8%2F%2FbhTX%2FlpUjT1DmVxdOpb6m1w6BahPQmVfYBq%2BQ824Cvq5If04uOe8644nT4Fhq3f0C%2B%2F9z1YTj34x2UratlIwVMd8STSxkI707QfA%2FKoh0%2BM8pyBpWNFj4Hmqv1OGYo8kQTobxhx1d2ATB2Pau6MR1513Vf0YXI%2F0tTk%2BQZ0g5mow6znN0%2Bmg1OmoyVOfkUcp2XMt%2Fc1oecAknqNFmcyvWXyw5I8yuaO1w7dHUUi3hYFpuRO1w4oZ1TphuljPegq85D3O3qitdi1lpmZgbHFxP2U1n3rOEcecRqAPU4YLx5PPm9hMZaCWr6y01NQeNbYm5rCKQEtJQOBZxzj3ACKi2BRgLWBXlOeCHppz9XEvO%2FwAAAP%2F%2FPNEv0wAAAAZJREFUAwBpw%2F07c7yNKgAAAABJRU5ErkJggg%3D%3D%22%20width%3D%2232%22%20height%3D%2232%22%20opacity%3D%220.3%22%20%2F%3E%3Cpath%20d%3D%22M3.04536%204.45259C2.7582%203.60299%203.60299%202.7582%204.45259%203.04536L14.1828%206.33403C15.1637%206.66558%2015.0872%208.08006%2014.0715%208.39045L10.2994%209.54319C9.93919%209.65327%209.65327%209.93919%209.54319%2010.2994L8.39046%2014.0715C8.08007%2015.0872%206.66558%2015.1637%206.33404%2014.1828L3.04536%204.45259Z%22%20fill%3D%22black%22%20stroke%3D%22white%22%20stroke-width%3D%221.5%22%20stroke-linejoin%3D%22round%22%20paint-order%3D%22stroke%20fill%22%20transform%3D%22translate(-2%20-2)%20scale(2.1)%22%20%2F%3E%3C%2Fsvg%3E" data-codex-favicon-badge="true" data-codex-original-favicon-href="https://du11hjcvx0uqb.cloudfront.net/dist/images/favicon-e10d657a73.ico">
+  <link rel="stylesheet" href="https://instructure-uploads.s3.amazonaws.com/account_10020000000097009/attachments/94832167/themeNoHistory.css" media="all">
+  
+  <script>if (navigator.userAgent.match(/(MSIE|Trident\/)/)) location.replace('/ie-is-not-supported.html')</script>
+  <script>
+    INST = {"environment":"production","allowMediaComments":true,"kalturaSettings":{"domain":"nv.instructuremedia.com","resource_domain":"nv.instructuremedia.com","rtmp_domain":"iad.rtmp.instructuremedia.com","partner_id":"9","subpartner_id":"0","player_ui_conf":"0","kcw_ui_conf":"0","upload_ui_conf":"0","max_file_size_bytes":534773760,"do_analytics":false,"hide_rte_button":true,"js_uploader":true},"logPageViews":true,"editorButtons":[{"name":"Commons Favorites","id":110946,"favorite":false,"url":"https://lor.instructure.com/api/lti/favorite-resources","icon_url":"https://lor.instructure.com/img/icon_commons.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":true,"on_by_default":false,"description":"\u003cp\u003eFind and share course content\u003c/p\u003e\n"},{"name":"LibApps Library Content","id":115898,"favorite":false,"url":"https://osulibrary.libapps.com/libapps/lti_launch_manual.php","icon_url":"https://libapps.s3.amazonaws.com/apps/libapps/images/favicon_lib.png","canvas_icon_class":null,"width":800,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eAdd content from LibGuides, E-Reserves, LibCal, and LibAnswers directly into your LMS course pages.\u003c/p\u003e\n"},{"name":"Alexander Street Video","id":197502,"favorite":false,"url":"https://video.alexanderstreet.com/lti/search-widget","icon_url":"https://video.alexanderstreet.com/assets/lti/favicon-16x16.png","canvas_icon_class":null,"width":800,"height":600,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eSearch and embed Alexander Street video\u003c/p\u003e\n"},{"name":"Interactive Content – H5P","id":199836,"favorite":false,"url":"https://oregonstate.h5p.com/lti/launch","icon_url":"https://oregonstate.h5p.com/img/h5p-icon.png","canvas_icon_class":"icon-lti","width":1024,"height":768,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eCreate, share and reuse interactive HTML5 content in your browser\u003c/p\u003e\n"},{"name":"Embed My Media","id":234128,"favorite":true,"url":"https://kaltura.oregonstate.edu","icon_url":"https://lmsadmin-dev.isadm.oregonstate.edu/static/filmstrip_RCE.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eKaltura 1.3\u003c/p\u003e\n"},{"name":"Pearson Links","id":268485,"favorite":false,"url":"https://interop.pearson.com/launch","icon_url":"https://www.pearson.com/us/content/dam/one-dot-com/one-dot-com/us/en/images/PearsonThumbprint-RGB-127x138.png/_jcr_content/renditions/cq5dam.web.1600.9600.png","canvas_icon_class":null,"width":800,"height":400,"use_tray":false,"on_by_default":false,"description":"\u003cp\u003eAccess Pearson\u003c/p\u003e\n"}]};
+    ENV = {"ASSET_HOST":"https://du11hjcvx0uqb.cloudfront.net","active_brand_config_json_url":"https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-9dec371ad57e3dd0396f0b2eddb63479.json","active_brand_config":null,"confetti_branding_enabled":false,"url_to_what_gets_loaded_inside_the_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-9dec371ad57e3dd0396f0b2eddb63479.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-97ab6cfd40.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css"],"url_for_high_contrast_tinymce_editor_css":["https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-9dec371ad57e3dd0396f0b2eddb63479.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/bundles/what_gets_loaded_inside_the_tinymce_editor-97ab6cfd40.css","https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/no_variables/bundles/fonts-eb4a10fb18.css"],"captcha_site_key":"6LftyLgZAAAAAC10tel8XGucbApMIY8-uFB_yVcN","current_user_id":"6660414","current_user_global_id":"10020000006660414","current_user_uuid":"rYmrChleJgKlHikqjguJRbDFND1TTEhv77iRSKHH","current_user_usage_metrics_id":"5ef3f9f5ab1c33da23f6f8842dae0006e2481db9d0d68ce7c1cad7fa0fec8842","current_user_roles":["user","student"],"current_user_is_student":true,"current_user_types":[],"current_user_disabled_inbox":false,"current_user_visited_tabs":null,"discussions_reporting":false,"files_domain":"cluster26.canvas-user-content.com","group_information":null,"DOMAIN_ROOT_ACCOUNT_ID":"10020000000097009","DOMAIN_ROOT_ACCOUNT_UUID":"mkT1vKLKrCmrR7ihhnxLncnbr1oG1FeTsM6PXayL","CAREER_THEME_URL":null,"CAREER_DARK_THEME_URL":null,"k12":false,"help_link_name":"Help","help_link_icon":"help","ADA_CHATBOT_ENABLED":false,"use_high_contrast":true,"auto_show_cc":false,"disable_celebrations":false,"disable_keyboard_shortcuts":false,"LTI_LAUNCH_FRAME_ALLOWANCES":["geolocation *","microphone *","camera *","midi *","encrypted-media *","autoplay *","clipboard-write *","display-capture *","fullscreen *"],"DEEP_LINKING_POST_MESSAGE_ORIGIN":"https://canvas.oregonstate.edu","comment_library_suggestions_enabled":false,"SETTINGS":{"open_registration":false,"collapse_global_nav":false,"release_notes_badge_disabled":false,"can_add_pronouns":true,"show_sections_in_course_tray":false,"enable_content_a11y_checker":false,"suppress_assignments":false,"filter_speed_grader_by_student_group":false},"RAILS_ENVIRONMENT":"production","use_dyslexic_font":false,"IN_PACED_COURSE":false,"SENTRY_FRONTEND":{"dsn":"https://355a1d96717e4038ac25aa852fa79a8f@relay-iad.sentry.insops.net/388","org_slug":"instructure","base_url":"https://sentry.insops.net","normalized_route":"/courses/{course_id}/assignments/{id}","errors_sample_rate":"0.005","traces_sample_rate":"0.005","url_deny_pattern":"instructure-uploads.*amazonaws.com","revision":"canvas-lms@20260701.445"},"DATA_COLLECTION_ENDPOINT":"https://canvas-frontend-data-iad-prod.inscloudgate.net/submit","DOMAIN_ROOT_ACCOUNT_SFID":"001A000000YO1ntIAD","DIRECT_SHARE_ENABLED":false,"CAN_VIEW_CONTENT_SHARES":false,"FEATURES":{"account_level_blackout_dates":false,"assignment_edit_placement_not_on_announcements":false,"a11y_checker_ga2_features":true,"block_content_editor_toolbar_reorder":false,"commons_new_quizzes":true,"create_external_apps_side_tray_overrides":false,"dashboard_graphql_integration":false,"developer_key_user_agent_alert":true,"disallow_threaded_replies_fix_alert":true,"disallow_threaded_replies_manage":true,"discussion_ai_survey_link":false,"discussion_checkpoints":true,"discussion_permalink":true,"enhanced_course_creation_account_fetching":false,"explicit_latex_typesetting":false,"feature_flag_ui_sorting":true,"files_a11y_rewrite":true,"files_a11y_rewrite_toggle":true,"files_a11y_folder_duplicates":true,"horizon_course_setting":false,"instui_for_import_page":true,"instui_header":false,"media_links_use_attachment_id":true,"multiselect_gradebook_filters":true,"new_quizzes_media_type":true,"new_quizzes_navigation_updates":true,"non_admin_access_token_expiration":false,"permanent_page_links":true,"rce_a11y_resize":true,"rce_find_replace":true,"require_mfa_verification_for_removal":false,"render_both_to_do_lists":false,"scheduled_feedback_releases":true,"speedgrader_studio_media_capture":true,"validate_call_to_action":false,"block_content_editor_ai_alt_text":true,"ux_list_concluded_courses_in_bp":true,"a11y_checker_ga1":false,"accessibility_automatic_scanning":false,"account_level_mastery_scales":true,"ai_rubrics":false,"ams_root_account_integration":false,"ams_advanced_content_organization":false,"buttons_and_icons_root_account":true,"canvas_apps_sub_account_access":true,"cookie_consent_necessary":false,"course_pace_allow_bulk_pace_assign":false,"course_pace_download_document":false,"course_pace_draft_state":false,"course_pace_pacing_status_labels":false,"course_pace_pacing_with_mastery_paths":false,"course_pace_time_selection":false,"course_pace_weighted_assignments":false,"course_paces_skip_selected_days":false,"create_course_subaccount_picker":true,"disable_iframe_sandbox_file_show":false,"discussion_insights":false,"discussion_summary":false,"extended_submission_state":false,"file_verifiers_for_quiz_links":true,"grading_rubrics_pagination":false,"institutional_tags":false,"instui_nav":false,"login_registration_ui_identity":false,"lock_lti_registrations":true,"lti_apps_page_instructors":false,"lti_asset_processor":true,"lti_asset_processor_discussions":false,"lti_deactivate_registrations":false,"lti_link_to_apps_from_developer_keys":true,"lti_registrations_next":true,"lti_registrations_templates":false,"lti_registrations_usage_data":true,"lti_registrations_usage_data_dev":false,"lti_registrations_usage_data_low_usage":false,"lti_registrations_usage_tab":false,"lti_toggle_placements":true,"substitution_variable_display":false,"mobile_offline_mode":false,"modules_requirements_allow_percentage":false,"nav_menu_links":false,"new_quizzes_ai_quiz_generation":false,"non_scoring_rubrics":true,"oak_for_admins":false,"oak_for_teachers":false,"product_tours":false,"project_lhotse":false,"rce_asr_captioning_improvements":false,"rce_lite_enabled_speedgrader_comments":true,"rce_transform_loaded_content":false,"react_discussions_post":true,"restrict_student_access":false,"rubric_criterion_range":true,"rubrics_page_pagination":false,"scheduled_page_publication":true,"send_usage_metrics":true,"send_usage_metrics_after_consent":false,"smart_search":false,"top_navigation_placement":false,"translate_inbox_messages":false,"translation":false,"youtube_migration":false,"educator_dashboard":false,"widget_dashboard":false,"default_discussion_options":false,"course_navigation_and_feature_options_permissions":false,"account_survey_notifications":true,"embedded_release_notes":false,"pendo_extended":false,"canvas_k6_theme":false,"lti_asset_processor_course":false,"new_math_equation_handling":true,"youtube_overlay":true,"rce_studio_embed_improvements":false,"a11y_checker_ai_table_caption_generation":false,"a11y_checker_ai_alt_text_generation":false,"a11y_checker_close_issues":true,"a11y_checker_additional_resources":true,"peer_review_allocation_and_grading":false},"EXPECTED_USAGE_METRICS_BEHAVIOR":"track_usage","PRE_COOKIE_CONSENT":"true","PENDO_APP_ID":"1ca366f1-739e-4565-52d2-9e6f6a8d438f","PENDO_APP_ENV":"io","current_user":{"id":"6660414","anonymous_id":"3yr7i","display_name":"Jacob Peterson","avatar_image_url":"https://canvas.oregonstate.edu/images/thumbnails/115931682/PyazF7HXLqdIx88UacqdhcDItL6i1JMqq4ZSqbDE","html_url":"https://canvas.oregonstate.edu/about/6660414","pronouns":null,"avatar_is_fallback":false,"email":"peterj29@oregonstate.edu"},"current_user_is_admin":false,"page_view_update_url":"/page_views/896adeaa-afa1-4178-8e98-d991dbaf40ad?page_view_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpIjoiODk2YWRlYWEtYWZhMS00MTc4LThlOTgtZDk5MWRiYWY0MGFkIiwidSI6MTAwMjAwMDAwMDY2NjA0MTQsImMiOiIyMDI2LTA3LTAzVDAwOjUzOjAzLjE2WiJ9.M0yMVhdAK6sPC0wmzLoVW0jpRCJSxHcSJ5SGC6zQnHY","context_asset_string":"course_2053263","ping_url":"https://canvas.oregonstate.edu/api/v1/courses/2053263/ping","TIMEZONE":"America/Los_Angeles","CONTEXT_TIMEZONE":"America/Los_Angeles","LOCALES":["en"],"BIGEASY_LOCALE":"en_US","FULLCALENDAR_LOCALE":"en","MOMENT_LOCALE":"en","rce_auto_save_max_age_ms":86400000,"K5_USER":false,"USE_CLASSIC_FONT":false,"K5_HOMEROOM_COURSE":false,"K5_SUBJECT_COURSE":false,"OAK_SESSION_KEY":"igniteAgent","LOCALE_TRANSLATION_FILE":"https://du11hjcvx0uqb.cloudfront.net/dist/javascripts/translations/en-a011737ece.json","ACCOUNT_ID":"144377","user_cache_key":"1f5f4c6844b6b80f255aabd47882ed72fb754d99a3c79cc4dd3fa051f84da5a9d0c00fa49f8d8be1438b3c7afce453d1affd6498a711a12d31111186ea263751","horizon_course":false,"HORIZON_ACCOUNT":false,"current_context":{"id":"2053263","name":"SEQUENCES AND SERIES (MTH_253Z_400_U2026)","type":"Course","url":"https://canvas.oregonstate.edu/courses/2053263"},"ASSIGNMENT_POINTS_POSSIBLE":100.0,"media_comment_asset_string":"user_6660414","LTI_TOOL":"true","LTI_TOOL_ID":"118915","LTI_TOOL_SELECTION_WIDTH":null,"LTI_TOOL_SELECTION_HEIGHT":null,"ASSET_PROCESSOR_EULA_LAUNCH_URLS":[],"COURSE_ID":"2053263","MODULE_ITEM_ID":"26977977","ROOT_OUTCOME_GROUP":{"id":"883541","title":"SEQUENCES AND SERIES (MTH_253Z_400_U2026)","vendor_guid":null,"url":"/api/v1/courses/2053263/outcome_groups/883541","subgroups_url":"/api/v1/courses/2053263/outcome_groups/883541/subgroups","outcomes_url":"/api/v1/courses/2053263/outcome_groups/883541/outcomes","can_edit":false,"import_url":"/api/v1/courses/2053263/outcome_groups/883541/import","context_id":"2053263","context_type":"Course","description":null},"HAS_GRADING_PERIODS":false,"VALID_DATE_RANGE":{"start_at":{"date":null,"date_context":"term"},"end_at":{"date":"2026-09-23T06:59:00Z","date_context":"term"}},"POST_TO_SIS":false,"DUE_DATE_REQUIRED_FOR_ACCOUNT":false,"ALLOW_ASSIGN_TO_DIFFERENTIATION_TAGS":true,"CAN_MANAGE_DIFFERENTIATION_TAGS":false,"PEER_REVIEW_ALLOCATION_AND_GRADING_ENABLED":false,"HAS_PEER_REVIEW_SUB_ASSIGNMENT":false,"CAN_EDIT_ASSIGNMENTS":false,"SECTION_LIST":[{"id":"2337186","name":"SEQUENCES AND SERIES (MTH_253Z_400_U2026)","start_at":null,"end_at":null,"override_course_and_term_dates":false}],"SUBMISSION_ID":"239680043","FIRST_ANNOTATION_SUBMISSION":false,"PERMISSIONS":{"manage_rubrics":false},"ASSIGNMENT_ID":"10584434","ASSIGNMENT_POINTS":100.0,"assigned_rubric":null,"rubric_association":null,"rubric_self_assessment_enabled":false,"can_update_rubric_self_assessment":false,"ACCOUNT_LEVEL_MASTERY_SCALES":true,"ai_rubrics_enabled":false,"rubric_self_assessment_ff_enabled":false,"LTI_TOOL_FORM_ID":"163","badge_counts":{"submissions":2},"notices":[],"active_context_tab":"assignments"};
+    BRANDABLE_CSS_HANDLEBARS_INDEX = [["new_styles_normal_contrast","new_styles_high_contrast","new_styles_normal_contrast_rtl","new_styles_high_contrast_rtl","new_styles_normal_contrast_dyslexic","new_styles_high_contrast_dyslexic","new_styles_normal_contrast_dyslexic_rtl","new_styles_high_contrast_dyslexic_rtl"],{"10":["908ffbc673",0,"d5c9044c6e",2,0,0,2,2],"15":["c8540c43a4",0,"0a2196be1d",2,0,0,2,2],"19":["df5777ed9c"],"61":["a59552c3a9","f422322d14","02f07b6f81","11cd014ca5",0,1,2,3],"67":["5ccf03149a",0,"8353320b7e",2,0,0,2,2],"71":["fbcc288ac6","a8457d691f","4d67034074","0af11e68eb",0,1,2,3],"06":["ba28819778",0,"96b99aafe5",2,0,0,2,2],"f0":["b349f31f5e",0,0,0,0,0,0,0],"c8":["e491a7fa98","a8dd47600a","7dea8eec45","7fa17eb83a",0,1,2,3],"1e":["a09f0d6787","4259d41d1d","980eba8f31","eebc7f4cb4",0,1,2,3],"0c":["4dae5befd2",0,"c18876be89",2,0,0,2,2],"da":["b5a7f9cd8f","6e65f5abf7","773390ae11","6481b459be",0,1,2,3],"1d":["2128789890",0,"e568085637",2,0,0,2,2],"08":["64bff5a97d"],"e2":["79d37f210d"],"9f":["d39b291ba6",0,0,0,0,0,0,0],"2b":["a296da0dea","ba8d07e773","b5215c2cd5","7534d3090c",0,1,2,3],"c2":["402203a2ae"],"c5":["b5d5bef953","09b4a0b487","27a133737e","2098769aea",0,1,2,3],"f2":["51574f9b13"],"2c":["8a926fc28b",0,0,0,0,0,0,0],"9c":["15ece4dc59",0,"232d77deea",2,0,0,2,2]}];
+      Object.defineProperty(window, 'REMOTES', {
+        value: (function deepFreeze(o) {
+          if (o && typeof o === 'object') {
+            for (var k in o) deepFreeze(o[k]);
+            Object.freeze(o);
+          }
+          return o;
+        })({}),
+        writable: false,
+        configurable: false,
+        enumerable: true,
+      });
+  </script>
+  <script type="text/javascript">
+    window.CANVAS_COOKIE_CONSENT_STATE = true;
+  </script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/default/variables-high_contrast-9dec371ad57e3dd0396f0b2eddb63479.js" defer="defer"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-6699c54112.js" defer="defer"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/America/Los_Angeles-6699c54112.js" defer="defer"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/timezone/en_US-80a0ce259b.js" defer="defer"></script>
+  <script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/react-entry-b11c73bc925c9149.js" crossorigin="anonymous" defer="defer"></script><script src="https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/main-entry-85a7d0d62f3e549c.js" crossorigin="anonymous" defer="defer"></script>
+<script>
+//<![CDATA[
+(window.bundles || (window.bundles = [])).push('external_tools_show');
+(window.bundles || (window.bundles = [])).push('edit_rubric');
+(window.bundles || (window.bundles = [])).push('module_sequence_footer');
+(window.bundles || (window.bundles = [])).push('navigation_header');
+//]]>
+</script>
+  
+<style type="text/css"></style><style>
+	.bettercampus-subpage-cta {
+		display: inline-flex;
+		margin-left: auto;
+	}
+
+	.bettercampus-subpage-cta-btn {
+		display: flex;
+		align-items: center;
+		gap: 8px;
+		padding: 8px 16px;
+		background: var(--bcbackground-0, #ffffff);
+		color: var(--bctext-0, #273540);
+		border: 2px solid var(--bcborders, #e8eaec);
+		border-radius: 8px;
+		cursor: pointer;
+		transition: all 0.2s;
+		font-size: 14px;
+		font-weight: 500;
+		box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+		white-space: nowrap;
+	}
+
+	.bettercampus-subpage-cta-btn:hover {
+		opacity: 0.9;
+		box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+	}
+
+	.bettercampus-subpage-cta-btn img {
+		height: 16px;
+		width: 16px;
+		object-fit: contain;
+	}
+
+	@media print {
+		.bettercampus-subpage-cta {
+			display: none !important;
+		}
+	}
+</style><style id="bettercampus-canvas-tray-stacking">
+					#nav-tray-portal { position: relative !important; z-index: 1100 !important; }
+					#header { z-index: 1200 !important; }
+					#nav-tray-portal > span > span { box-shadow: none !important; }
+				</style><style id="bettercampus-course-home-edit-styles">
+	.bettercampus-course-home-edit {
+		display: flex;
+		align-items: center;
+		margin-top: 4px;
+		margin-left: 0;
+	}
+
+	.bettercampus-course-home-edit button {
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		width: 28px;
+		height: 28px;
+		background: transparent;
+		color: var(--bctext-1, #6b7280);
+		border: 1px solid transparent;
+		border-radius: 999px;
+		cursor: pointer;
+		transition: all 0.2s ease;
+	}
+
+	.bettercampus-course-home-edit button:hover {
+		background: var(--bcbackground-0, #ffffff);
+		color: var(--bctext-0, #273540);
+		border-color: var(--bcborders, #e8eaec);
+	}
+
+	@media print {
+		.bettercampus-course-home-edit {
+			display: none !important;
+		}
+	}
+</style><style id="bettercanvas-theme-preset">
+        body {
+            transition: background-color 0.3s ease !important;
+				}
+				:root {
+					--bcsidebar-selection: var(--bctext-0);
+    --bcbackground-0-ungradient:#ffffff;--bcbackground-0:#ffffff;--bcbackground-1-ungradient:#f2f4f4;--bcbackground-1:#f2f4f4;--bcbackground-2-ungradient:#e4e8e8;--bcbackground-2:#e4e8e8;--bcborders-ungradient:#e8eaec;--bcborders:#e8eaec;--bcbuttons-ungradient:#e8eaec;--bcbuttons:#e8eaec;--bccards-ungradient:#ffffff;--bccards:#ffffff;--bclinks-ungradient:#4a90e2;--bclinks:#4a90e2;--bcsidebar-ungradient:var(--ic-brand-global-nav-bgd);--bcsidebar:var(--ic-brand-global-nav-bgd);--bcsidebar-text-ungradient:var(--ic-brand-global-nav-menu-item__text-color);--bcsidebar-text:var(--ic-brand-global-nav-menu-item__text-color);--bctext-0-ungradient:#273540;--bctext-0:#273540;--bctext-1-ungradient:#777777;--bctext-1:#777777;--bctext-2-ungradient:#737373;--bctext-2:#737373;--bcshadow: 0 0 10px 0 #3c3c3c40;--bcwidget-bg: var(--bcbackground-1);--bcwidget-inner-bg: var(--bcbackground-1);}</style><style id="darkcss">
+		:root {
+			--ic-brand-global-nav-bgd__dark: #1A2229;
+			--ic-brand-global-nav-menu-item__text-color__dark: #D9D9D9;
+		}
+		
+		/*
+		*,
+		*::before,
+		*::after {
+			transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease, fill 0.3s ease, stroke 0.3s ease !important;
+		}
+		*/
+		
+		/* Disable transitions on elements that shouldn't animate */
+		.no-transition,
+		.no-transition *,
+		input[type="range"]::-webkit-slider-thumb,
+		input[type="range"]::-moz-range-thumb {
+			transition: none !important;
+		}
+	.bc-bg-0 { background: var(--bcbackground-0) !important; }.bc-bg-1 { background: var(--bcbackground-1) !important; }.bc-bg-2 { background: var(--bcbackground-2) !important; }.bc-bg-3 { background: #2A2A2A !important; }.bc-bg-4 { background: #2E2E2E !important; }.bc-bg-5 { background: #313131 !important; }.bc-text-0 { color: var(--bctext-0) !important; }.bc-text-1 { color: var(--bctext-1) !important; }.bc-text-2 { color: var(--bctext-2) !important; }.bc-text-3 { color: #BCBCBC !important; }.bc-text-4 { color: #CDCDCD !important; }.bc-text-5 { color: #DEDEDE !important; }.bc-border { border-color: var(--bcborders) !important; }.bc-txt-link { color: var(--bctextlinks) !important; }div:has(> [data-testid="dashboard-tabs"]), div[data-testid="dashboard-tabs"], div[data-testid="dashboard-tabs"] > *, div[class*="tabs__panelsContainer"], #dashboard, div[data-cid="Transition"], div[class*="view-panel__content"], div[data-testid="dashboard-tab-content"], span[data-testid="widget-columns"], span[data-testid="widget-columns"] > * { background: none !important; } #application.ic-app { background-attachment: fixed !important; } section[data-testid*="-widget"] label[data-cid="TextInput"] input { background: transparent !important; } .no-touch .ic-DashboardCard:hover { box-shadow: 0 4px 10px rgb(0 0 0) !important; } #course_select_menu, #assignment_sort_order_select_menu, #TextInput_0 { border: none !important; } .nav_list li.navitem { border-width: 0 1px 1px !important; } .discussion-entries .entry .entry, .kl_image_white_border { border: 0 !important; } .discussion-section.message_wrapper table { border: 4px solid red !important; } .extension-linkpreview, .hypodivcalc, .kl_shadow_2, .kl_shadow_b2, .tox .tox-split-button:hover { box-shadow: none !important; } #kl_wrapper_3.kl_colored_headings #kl_modules h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3 i, #kl_wrapper_3.kl_colored_headings_box_left > div > h3 i { border: none !important; } .extension-aldue:hover, .ic-DashboardCard, .navigation-tray-container, .bettercanvas-gpa-card { box-shadow: 0 2px 5px #00000080 !important; } .ui-datepicker .ui-datepicker-time, .ui-datepicker .ui-dialog .ui-datepicker-time, .ui-dialog .ui-datepicker .ui-datepicker-time, .ui-dialog .ui-dialog-buttonpane, hr { border-top: none !important; } #right-side .shared-space h2 { border-bottom-style: none !important; } #kl_content_block_0 h3:nth-child(1) i, #kl_custom_block_0 h3:nth-child(1) i, #kl_custom_block_1 h3:nth-child(1) i, #kl_custom_block_2 h3:nth-child(1) i { border: 0 !important; } .ig-header .name { text-shadow: none !important; } #right-side .events_list .event-details:after, #right-side .events_list .todo-details:after, #right-side .to-do-list .event-details:after, #right-side .to-do-list .todo-details:after { display: none !important; } .muted-notice { background-image: none !important; } .message-list .read-state.read:before { background: none !important; } .ic-DashboardCard__header-button, .ic-app-header__secondary-navigation { background: none !important; border: none !important; } .published-status.published .icon-publish::before { color: #0b874b !important; } .ic-app-header { background-size: cover !important; background-position: center !important; } .ic-app-header__logomark-container { background: none !important; } .ic-DashboardCard, .ic-DashboardCard__header_content, .bettercanvas-assignment-container, .recent_feedback .event-details { background: none !important; } body { background-attachment: fixed !important; } .with-left-side #left-side, #left-side { background: transparent !important; } body, #application.ic-app { background-size: cover !important; background-position: center !important; background-attachment: fixed !important; }#announcementWrapper > div > div, #breadcrumbs, #calendar-app .fc-agendaWeek-view .fc-body, #calendar-app .fc-event, #calendar-app .fc-month-view .fc-body, #calendar-drag-and-drop-container .fc-agendaWeek-view .fc-body, #calendar-drag-and-drop-container .fc-event, #calendar-drag-and-drop-container .fc-month-view .fc-body, #content-wrapper .user_content.not_design_tools h3, #context-list-holder, .bettercanvas-course-credit, #kl_banner, #kl_banner_left, #kl_banner_right, #kl_content_block_0, #kl_custom_block_0, #kl_custom_block_1, #kl_custom_block_2, #kl_readings p, #kl_wrapper_3, #kl_wrapper_3 .ic-Table, #kl_wrapper_3 .table, #kl_wrapper_3.kl_colored_headings #kl_banner #kl_banner_left, #kl_wrapper_3.kl_colored_headings #kl_banner .kl_subtitle, #kl_wrapper_3.kl_colored_headings > div, #kl_wrapper_3.kl_colored_headings_box_left > div, #media_comment_maybe, #minical, #nav-tray-portal > span > span, #questions .group_top, #questions.assessing, #syllabus tr.date.date_passed td, #syllabus tr.date.date_passed th, #undated-events, #undated-events .event, .Day-styles__root, .EmptyDays-styles__root, .Grouping-styles__title, .Grouping-styles__title::after, .PlannerHeader-styles__root, .ac-result-container, .agenda-wrapper, .al-options, .bettercanvas-assignment-container, .bjXfh_daKB, .bjXfh_daKB span, .bottom-reply-with-box, .canvas-rce__skins--root, .ccWIh_bGBk, .closed-for-comments-discussions-v2__wrapper, .conversations .panel, .dCppM_ddES, .discussion-section h4, .discussion-section p, .discussion-section ul, .discussion_entry, .discussions-v2__container-image, .discussions-v2__placeholder, .dpCPB_caGd, .dropdown-menu, .dropdown-menu .divider, .even .slick-cell, .event-details, .fLzZc_bGBk, .form, .form-dialog .form-controls, .header-bar, .ic-Dashboard-header__layout, .ic-Dashboard-header__title, .ic-DashboardCard, .ic-discussion-row, .ic-notification__content, .ig-list .ig-row.ig-row-empty, .instructure_file_link, .item-group-condensed .ig-header, .item-group-condensed .ig-row, .item-group-condensed .item-group-expandable, .item-group-container, .item-group-expandable .emptyMessage, .kl_image_round_white_border, .kl_image_white_border, .kl_mod_text, .message-list .messages > li, .module-sequence-footer .module-sequence-footer-content, .nav-icon, .outcomes-browser .outcomes-content, .outcomes-browser .outcomes-main, .outcomes-browser .outcomes-sidebar, .pages.show .page-title, .pagination ul > li > a, .pagination ul > li > span, .pinned-discussions-v2__wrapper, .popover, .question, .question_editing, .quiz-submission, .rubric_container .rubric_title, .submission-details-comments .comments, .submission-late-pill span, .submission-missing-pill span, .toolbarView .headerBar, .tox .tox-menubar, .tox .tox-split-button .tox-tbtn.tox-split-button__chevron, .tox .tox-toolbar, .tox .tox-toolbar__overflow, .tox .tox-toolbar__primary, .tox:not(.tox-tinymce-inline) .tox-editor-header, .ui-datepicker .ui-datepicker-time, .ui-datepicker .ui-dialog .ui-datepicker-time, .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header, .ui-dialog .ui-datepicker .ui-datepicker-time, .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header, .ui-dialog .ui-dialog-buttonpane, .ui-dialog .ui-dialog-titlebar.ui-widget-header, .ui-kyle-menu, .ui-tabs .ui-tabs-nav .kl_panel_heading.ui-state-default:not(.ui-tabs-active), .ui-tabs .ui-tabs-nav li.ui-state-hover, .ui-tabs .ui-tabs-nav li.ui-tabs-active, .ui-tabs .ui-tabs-nav li:hover, .ui-tabs .ui-tabs-panel, .ui-widget-content, .unpinned-discussions-v2__wrapper, .unpublished_courses_redesign .ic-DashboardCard__box__header, body, code, img.kl_image_round_white_border, img.kl_image_white_border, .bettercanvas-course-percent, pre, table.summary tbody th, table.summary td, .erWSf_bGBk, .fdyuz_bGBk, .eHzxc_bGBk, .dNoYT_bGBk, .fOyUs_fZwI, .fOyUs_kXoP, .tox .tox-edit-area__iframe, .dLyYq_bGBk, .quiz_comment, .discussion-entries .entry, .file-upload-submission, .ftPBL_bGBk:not(.ftPBL_bGiS), .ColorPicker__Container, #right_side .content_box, .jumbotron, .card, .ac-token, .error_box .error_text, table.seas-homepage-table, .assignment-student-header, #calendar-list-holder, #other-calendars-list-holder, #undated-events, .ic-app-course-menu.with-left-side #left-side.XOwIb_eLeB:not([aria-selected]):not([aria-disabled]):hover, .XOwIb_eLeB[aria-selected], span.fOyUs_bGBk.fOyUs_desw.bDzpk_bGBk.bDzpk_busO.bDzpk_cQFX.bDzpk_bZNM, .bettercanvas-todo-complete-btn, div[style*="background-color: #fff"], div[style*="background: #fff"], div[style*="background-color: #ffffff"], div[style*="background: #ffffff"], span[style*="background-color: #fff"], span[style*="background: #fff"], #right_side div.comment, .fOyUs_dUgE, .fOyUs_bvKN, .css-1fwux0x-view--block, .css-1v8v5q1-optionItem, #comments-tray, .css-vxe90h-view--inlineBlock, .bettercanvas-todo-actions, .css-sg1rn7-view, #bettercanvas-todo-new-btn, .bettercanvas-sidebar-dropdown-open .bettercanvas-sidebar-item, #bettercanvas-search-input, .bettercanvas-sidebar-dropdown-open .bettercanvas-sidebar-item:hover, #bettercanvas-todosidebar-time, #bettercanvas-todo-controls, .bettercanvas-todo-time-arrow, #bettercanvas-todo-course-filter-options, #bettercanvas-todo-creator-container, #bettercanvas-todo-creator-optional-header span, #bettercanvas-updatev1, #bettercanvas-search-results-container, #bettercanvas-search-popup-container::after, #bettercanvas-todo-creator::before, div[data-testid="tool-bar"] { background: var(--bcbackground-0) !important; } #minical .fc-widget-content { border: 1px solid var(--bcbackground-0) !important; } #kl_wrapper_3.kl_colored_headings #kl_banner .kl_subtitle { border-top: 3px solid var(--bcbackground-0) !important; border-bottom: 3px solid var(--bcbackground-0) !important; } span[style*="background-color: #fbeeb8"], .bettercanvas-todo-label { color: var(--bcbackground-0) !important; } .eHQDY_dTxv { stroke: var(--bcbackground-0) !important; } section[data-testid*="-widget"], div[data-testid="feedback-question-tile"] { background: var(--bcwidget-bg, var(--bcbackground-0)) !important; } #bettercanvas-search-filters button.active, .bettercanvas-search-item-icon, #bettercanvas-tooltip, #bettercanvas-todo-creator-submit, .bettercanvas-todo-control-btn.active svg, .bettercanvas-todosidebar-time-item.active .bettercanvas-todosidebar-time-item-text, .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .menu-item__text, .ic-app-header__menu-list-item--active svg, .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link { color: var(--bcbackground-0) !important; } .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active svg { fill: var(--bcbackground-0) !important; } /* -------------------------------------------------------------------------- */ /* Canvas: Course Files (new Files UI) */ /* -------------------------------------------------------------------------- */ html.bettercampus-course-files-page .ic-Table, html.bettercampus-course-files-page table { background: var(--bcbackground-0) !important; } html.bettercampus-course-files-page .ic-Table tbody td, html.bettercampus-course-files-page .ic-Table tbody th, html.bettercampus-course-files-page table tbody td, html.bettercampus-course-files-page table tbody th { background: var(--bcbackground-0) !important; } html.bettercampus-course-files-page .ef-header, html.bettercampus-course-files-page .ef-directory-header, html.bettercampus-course-files-page .ef-main, html.bettercampus-course-files-page .ef-main .ef-folder-content, html.bettercampus-course-files-page .ef-footer { background: var(--bcbackground-0) !important; }#calendar-app .fc-agendaWeek-view .fc-event, #calendar-drag-and-drop-container .fc-agendaWeek-view .fc-event, #context-list .context_list_context:hover, #google_docs_tree li.file:hover, #planner-today-btn, #questions.assessment_results .question .header, #syllabus tr.date.related td, #syllabus tr.date.related th, #syllabus tr.date.selected td, #syllabus tr.date.selected th, .Button, .ac-input-box, .agenda-day.agenda-today, .bettercanvas-assignment-container:hover, .btn, .discussion-reply-box, .discussions-v2__wrapper > span > span > span > span > button > span, .dropdown-menu li > a:focus, .dropdown-menu li > a:hover, .dropdown-submenu:hover > a, .ef-item-row:hover, .extension-linkpreview, .fOyUs_bGBk.fOyUs_desw.bDzpk_bGBk.bDzpk_busO.bDzpk_fZWR.bDzpk_qOas, .fc-event .fc-bg, .hypodivcalc, .ic-Table.ic-Table--striped tbody tr:nth-child(odd), .mini_calendar .day.has_event, .odd .slick-cell, .outcomes-browser .outcomes-toolbar, .question .header, .slick-header-column, .stream-details tr:hover, .stream_header:hover, .submission_attachment button > span, .tox .tox-menu, .tray-with-space-for-global-nav > div > span > form > button > span, .ui-button, .ui-tabs .ui-tabs-nav li.ui-tabs-active, .uneditable-input, .yyQPt_cSXm, div.checkbox, input[type="color"], input[type="date"], input[type="datetime-local"], input[type="datetime"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea, thead th, ul.outcome-level li.selected a, .eMdva_bgqc, .fQfxa_dqAF.fQfxa_buuG, div.form-column-right label:hover, div.overrides-column-right label:hover, .ic-tokeninput-input, .ic-tokens, .ic-tokeninput-list, .DyQTK_ddES, #gradebook_header, table.seas-homepage-table tr:nth-child(odd), #assignments-student-footer, .muted-notice, .kl_panels_wrapper .ui-accordion-header, .kl_wrapper .ui-accordion-header, .list-view a.active, #calendars-context-list .context_list_context:hover, #other-calendars-context-list .context_list_context:hover, .bettercanvas-todo-complete-btn:hover, .bettercanvas-custom-btn, .bettercanvas-skeleton-text, .bettercanvas-hover-preview, .bettercanvas-gpa-edit-btn, div[style*="background-color: rgb(229, 242, 248)"], div[style*="background-color: rgb(245, 245, 245)"], .css-7naoe-textInp, .css-7naoe-textInput__facade, #assignment_sort_order_select_menu, #course_select_menu, .css-1dn3ise-textInput__facade, .css-1veueey-textInput__facade, .bettercanvas-todo-action:hover, .bettercanvas-todosidebar-time-item.active, .bettercanvas-todo-actions-btn:hover, #bettercanvas-updatev1 button, #bettercanvas-todo-new-btn:hover, .bettercanvas-todoitem-options:hover, section[data-testid*="-widget"] label[data-cid="TextInput"] > span:first-child, section[data-testid*="-widget"] ul[data-cid="List"], section[data-testid*="-widget"] li[data-cid="ListItem"], section[data-testid*="-widget"] div:not(.bc-grade-card-header):not(.bc-new-dash-assignments):not([data-testid^="statistics-card-"]), div[data-testid^="todo-item-"], div[data-testid^="course-progress-item-"], span[data-testid^="listed-course-work-item"], span[data-testid^="listed-course-work-item"] > div, span[data-testid^="listed-course-work-item"] div span[direction="row"], span[data-testid^="listed-course-work-item"] div span[direction="row"] > span, span[data-testid^="listed-course-work-item"] div span[direction="row"] span[direction="column"], span[data-testid^="listed-course-work-item"] div span[direction="row"] span[direction="column"] > span { background: var(--bcwidget-inner-bg, var(--bcbackground-1)) !important; } .ic-DashboardCard__placeholder-svg .ic-DashboardCard__placeholder-animates > * { fill: var(--bcbackground-1) !important; } .bettercanvas-hover-preview::after { background: linear-gradient(0deg, var(--bcbackground-1) 50%, transparent); } html.bettercampus-course-files-page .ic-Table thead th, html.bettercampus-course-files-page table thead th { background: var(--bcbackground-1) !important; } html.bettercampus-course-files-page .ic-Table tbody tr:nth-child(even) td, html.bettercampus-course-files-page .ic-Table tbody tr:nth-child(even) th, html.bettercampus-course-files-page table tbody tr:nth-child(even) td, html.bettercampus-course-files-page table tbody tr:nth-child(even) th { background: var(--bcbackground-1) !important; } html.bettercampus-course-files-page .ef-header button, html.bettercampus-course-files-page .ef-directory-header button, html.bettercampus-course-files-page .ef-header a[role="button"], html.bettercampus-course-files-page .ef-directory-header a[role="button"] { background: var(--bcbackground-1) !important; }section[data-testid*="-widget"] label[data-cid="TextInput"] span, section[data-testid*="-widget"] label[data-cid="TextInput"] input { background: var(--bcbackground-2) !important; } section[data-testid*="-widget"] [data-cid="Checkbox"] span[class*="toggleFacade__facade"] { background: var(--bcbackground-2) !important; } section[data-testid*="-widget"] button[data-cid*="Button"], section[data-testid*="-widget"] button[data-cid*="Button"] span, section[data-testid*="-widget"] span[data-testid*="-avatar"], section[data-testid*="-widget"] span[class*="-avatar"] { background: var(--bcbackground-2) !important; } .Button--active.ui-button, .Button.Button--active, .Button.active, .active.ui-button, .btn.Button--active, .btn.active, .btn.ui-button.ui-state-active, .message-list .message-count, .mini_calendar .day.today, .ui-button.ui-state-active, .ui-button.ui-state-active.ui-state-hover, .ui-button.ui-state-active:hover, .ui-progressbar .btn.ui-button.ui-widget-header, .ui-progressbar .ui-button.ui-widget-header, ::-webkit-scrollbar-thumb, .ic-unread-badge__total-count, #calendar-app .fc-month-view .fc-today, section[data-testid*="-widget"] div[data-testid^="statistics-card-"], section[data-testid*="-widget"] div[data-testid^="statistics-card-"] > *, span[data-testid^="listed-course-work-item"] div:has(> span > [data-testid$="-icon"]), span[data-testid*="-status-pill-"], span[data-testid^="listed-course-work-item"] span[data-testid*="-status-pill-"] span[direction="row"], span[data-testid^="listed-course-work-item"] span[data-testid*="-status-pill-"] span[direction="row"] > *, section[data-testid*="-widget"] div[data-testid^="course-grade-card"] { background: var(--bcbackground-2) !important; } section[data-testid*="-widget"] span span div[data-testid^="statistics-card-"][class] > div[class] { background: var(--bcbackground-2) !important; }section[data-testid*="-widget"] label[data-cid="TextInput"] span, section[data-testid*="-widget"] label[data-cid="TextInput"] input { border-color: var(--bcborders) !important; } section[data-testid*="-widget"] [data-cid="Checkbox"] span[class*="toggleFacade__facade"] { border-color: var(--bcborders) !important; } section[data-testid*="-widget"] button[data-cid*="Button"], section[data-testid*="-widget"] button[data-cid*="Button"] span, section[data-testid*="-widget"] span[data-testid*="-avatar"], section[data-testid*="-widget"] span[class*="-avatar"] { border-color: var(--bcborders) !important; } #calendar-drag-and-drop-container .fc-row .fc-content-skeleton td, #calendar-drag-and-drop-container .fc-row .fc-helper-skeleton td, .bettercanvas-course-credit, #kl_content_block_0, #kl_custom_block_0, #kl_custom_block_1, #kl_custom_block_2, #kl_wrapper_3.kl_colored_headings > div, #kl_wrapper_3.kl_colored_headings_box_left > div, #minical, #questions .group_bottom, #questions .group_top, #quiz_edit_wrapper #quiz_tabs #quiz_options_form .option-group, #quiz_show .description.teacher-version, .Button, .Container__DueDateRow, .CourseImageSelector, .ac-input-box, .ac-result-container, .ajas-search-widget__form input, .btn, .calendar .fc-row .fc-content-skeleton td, .calendar .fc-row .fc-helper-skeleton td, .closed-for-comments-discussions-v2__wrapper, .discussion-entries .entry, .discussion-reply-box, .discussion_entry > .discussion-entry-reply-area, .discussions-v2__wrapper > span > span > span > span > button > span, .form-actions, .ic-flash-error, .ic-flash-info, .ic-flash-success, .ic-flash-warning, .ig-list .ig-row, .item-group-condensed .ig-header, .item-group-condensed .item-group-expandable, .mini-cal-header, .mini_calendar, .outcomes-browser .outcomes-main, .outcomes-browser .outcomes-toolbar, .panel-border, .pinned-discussions-v2__wrapper, .question, .question .header, .question_editing, .quiz-submission, .rubric_container td, .rubric_container th, .submission-details-container, .submission_attachment button > span, .table-bordered, .toolbarView .headerBar, .tray-with-space-for-global-nav > div > span > form > button > span, .ui-button, .uneditable-input, .unpinned-discussions-v2__wrapper, form.question_form .form_answers .answer, .bettercanvas-course-percent, input[type="color"], input[type="date"], input[type="datetime-local"], input[type="datetime"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], select, textarea, .fdyuz_bGBk, .tox .tox-edit-area, .quiz_comment, .ic-tokens, .ic-tokeninput-list, .DyQTK_ddES, .ac-token, .muted-notice, .ui-state-default, .ui-widget-header .ui-state-default, .ui-widget-content, .bettercanvas-custom-btn, .bettercanvas-gpa-edit-btn, .css-26xxi8-view--block, .css-9fqfm7-view--block, .bettercanvas-todo-actions, .bettercanvas-todo-list-container, #bettercanvas-todosidebar-time, #bettercanvas-todo-controls, .bettercanvas-todo-time-arrow, #bettercanvas-todo-new-section, #bettercanvas-todo-new-btn, #bettercanvas-searchbar-container, #bettercanvas-todo-course-filter-options, #bettercanvas-todo-creator-container, #bettercanvas-updatev1 button { border: 1px solid var(--bcborders) !important; } #content-wrapper .user_content.not_design_tools table td, #content-wrapper .user_content.not_design_tools table th, table.seas-homepage-table, .avatar, .css-7naoe-textInput__facade, .css-1dn3ise-textInput__facade { border: 2px solid var(--bcborders) !important; } #assignment_show .student-assignment-overview, #grades_summary th.title, #kl_wrapper_3.kl_colored_headings h4, #kl_wrapper_3.kl_colored_headings_box_left h4, #minical .fc-toolbar, #quiz_show ul#quiz_student_details, #right-side .h2, #right-side h2, .CompletedItemsFacade-styles__root, .Container__DueDateRow-item, .EmptyDays-styles__root, .PlannerItem-styles__root, .agenda-day, .blnAQ_kWwi, .container_0 .slick-cell, .container_1 .slick-cell, .conversations .panel, .course_details td, .dropdown-menu .divider, .ef-directory-header, .ef-header, .event-details-content, .event-details-footer, .event-details-header, .header-bar, .hr, .ic-Action-header.ic-Action-header--before-item-groups, .ic-Dashboard-header__layout, .ic-Table td, .ic-Table th, .ic-app-nav-toggle-and-crumbs, .item-group-condensed .ig-row, .message-detail.conversations__message-detail .message-content > li, .message-detail.conversations__message-detail .message-header, .message-detail.span8 .message-content > li, .message-detail.span8 .message-header, .message-list .messages > li, .nav_list li.disabled, .page-action-list a, .page-header, .quiz-header, .recent-activity-header, .recent_activity > li, .slick-header-column.ui-state-default, .submission-details-header__heading-and-grades, .ui-datepicker .ui-dialog .ui-widget-header.ui-datepicker-header, .ui-dialog .ui-datepicker .ui-widget-header.ui-datepicker-header, .ui-dialog .ui-dialog-titlebar.ui-widget-header, .unpublished_courses_redesign .ic-DashboardCard__box__header, legend, table.summary caption, table.summary tbody th, table.summary td, table.summary thead th, .communication_message, .file-upload-submission, .submission-details-header__heading-and-grades, #right_side .content_box, .assignment-student-header, .bettercanvas-gpa-course, #bettercanvas-search-results h3, #bettercanvas-todo-course-filter { border-bottom: 1px solid var(--bcborders) !important; } #planner-today-btn, .al-options, .border, .dpCPB_caGd, .fc-unthemed .fc-divider, .fc-unthemed .fc-popover, .fc-unthemed .fc-row, .fc-unthemed tbody, .fc-unthemed td, .fc-unthemed th, .fc-unthemed thead, .qBMHb_cSXm, .tox .tox-collection--list .tox-collection__group, .tox .tox-menu, .ui-tabs .ui-tabs-nav li.ui-tabs-active, .ui-tabs .ui-tabs-nav li.ui-tabs-active.ui-state-hover, .ui-tabs .ui-tabs-nav li.ui-tabs-active:hover, .ui-tabs .ui-tabs-nav li:hover, .ui-tabs .ui-tabs-panel, .fOyUs_dsNY, .fOyUs_tIxX, .fQfxa_dqAF.fQfxa_buuG, .question .question_comment.question_neutral_comment, #assignments-student-footer, .MyTable, #inbox-conversation-holder *, .css-1vqfmz1-view { border-color: var(--bcborders) !important; } .discussion-section.message_wrapper table { border: 4px solid var(--bcborders) !important; } .nav_list li.navitem { border: solid var(--bcborders) !important; } #questions .assessment_question_bank, #questions .insufficient_count_warning, #questions .question_holder.group, .container_0 .slick-cell, .container_1 .slick-cell, .ef-main .ef-folder-content, .rubric_container .rubric_title, .slick-header-column.ui-state-default, .topic .entry-content, body.responsive_awareness .message-list-scroller, ul.outcome-level { border-right: 1px solid var(--bcborders) !important; } #questions .assessment_question_bank, #questions .insufficient_count_warning, #questions .question_holder.group, .container_0 .slick-cell:first-child, .container_0 .slick-header-column:first-child, .outcomes-browser .outcomes-content, .rubric_container .rubric_title, .table-bordered td, .table-bordered th, .topic .entry-content, .submission-details-comments .comments { border-left: 1px solid var(--bcborders) !important; } #assignment_show .student-assignment-overview, #grades_summary tr.final_grade, #quiz_show ul#quiz_student_details, .discussion-entries .entry .entry, .ef-footer, .entry > .bottom-reply-with-box .discussion-entry-reply-area, .form-dialog .form-controls, .ic-app-footer, .module-sequence-footer .module-sequence-footer-content, .question.matching_question .answer, .question.multiple_answers_question .answer, .question.multiple_choice_question .answer, .question.true_false_question .answer, .rubric_container .rubric_title, .slick-header-column.ui-state-default, .table td, .table th, .dNoYT_bGBk { border-top: 1px solid var(--bcborders) !important; } .discussions-v2__container-image { border: 0.125rem dashed var(--bcborders) !important; } .ac-result-wrapper:before { border-bottom: 10px solid var(--bcborders); } .eIQkd_bGBk, .ui-tabs .ui-tabs-nav, .eHzxc_bGBk, .quiz_comment:after, .quiz_comment:before { border-bottom-color: var(--bcborders) !important; } #bettercanvas-todo-creator-optional-header::before { background: var(--bcborders); } /* -------------------------------------------------------------------------- */ /* Canvas: Course Files (new Files UI) */ /* -------------------------------------------------------------------------- */ html.bettercampus-course-files-page .ic-Table, html.bettercampus-course-files-page table { border-color: var(--bcborders) !important; } html.bettercampus-course-files-page .ic-Table thead th, html.bettercampus-course-files-page table thead th { border-color: var(--bcborders) !important; } html.bettercampus-course-files-page .ic-Table tbody td, html.bettercampus-course-files-page .ic-Table tbody th, html.bettercampus-course-files-page table tbody td, html.bettercampus-course-files-page table tbody th { border-color: var(--bcborders) !important; } html.bettercampus-course-files-page .ef-header, html.bettercampus-course-files-page .ef-directory-header, html.bettercampus-course-files-page .ef-main, html.bettercampus-course-files-page .ef-main .ef-folder-content, html.bettercampus-course-files-page .ef-footer { border-color: var(--bcborders) !important; } html.bettercampus-course-files-page .ef-header button, html.bettercampus-course-files-page .ef-directory-header button, html.bettercampus-course-files-page .ef-header a[role="button"], html.bettercampus-course-files-page .ef-directory-header a[role="button"] { border-color: var(--bcborders) !important; }#calendar-app .fc-month-view .fc-today, #calendar-drag-and-drop-container .fc-month-view .fc-today, #content-wrapper .user_content.not_design_tools table tbody tr:nth-child(even) td, #kl_content_block_0 h3:nth-child(1) i, #kl_custom_block_0 h3:nth-child(1) i, #kl_custom_block_1 h3:nth-child(1) i, #kl_custom_block_2 h3:nth-child(1) i, .ajas-search-widget__btn--search, .alert-info, .discussion-section.alert .discussion-points, .discussion-section.alert .discussion-title, .extension-linkpreview:hover, .ic-Table.ic-Table--hover-row tbody tr.ic-Table__row--bg-alert:hover, .ic-Table.ic-Table--hover-row tbody tr.ic-Table__row--bg-danger:hover, .ic-Table.ic-Table--hover-row tbody tr.ic-Table__row--bg-neutral:hover, .ic-Table.ic-Table--hover-row tbody tr.ic-Table__row--bg-success:hover, .ic-Table.ic-Table--hover-row tbody tr:hover, .ic-flash-error, .ic-flash-info, .ic-flash-success, .ic-flash-warning, .ig-list .ig-row:hover, .context_module_item.context_module_item_hover, .tox .tox-mbtn--active, .tox .tox-mbtn:hover:not(:disabled):not(.tox-mbtn--active), .tox .tox-split-button .tox-tbtn.tox-split-button__chevron:hover, .tox .tox-split-button:hover, .tox .tox-tbtn.tox-tbtn--enabled:hover, .tox .tox-tbtn:hover, .ui-menu .ui-menu-item .ui-progressbar a.ui-widget-header, .ui-menu .ui-menu-item a.ui-state-active, .ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-hover, .ui-progressbar .ui-menu .ui-menu-item a.ui-widget-header, ::-webkit-scrollbar-track, div.checkbox:hover, .gradebook-cell.grayed-out, .baylor-table tr:nth-of-type(2n + 1) { background: var(--bcbuttons) !important; } #kl_content_block_0 h3:nth-child(1), #kl_content_block_0 h3:nth-child(1) i, #kl_custom_block_0 h3:nth-child(1), #kl_custom_block_0 h3:nth-child(1) i, #kl_custom_block_1 h3:nth-child(1), #kl_custom_block_1 h3:nth-child(1) i, #kl_custom_block_2 h3:nth-child(1), #kl_custom_block_2 h3:nth-child(1) i, #kl_wrapper_3.kl_colored_headings #kl_modules h3, #kl_wrapper_3.kl_colored_headings #kl_modules h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default), #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3 i, #kl_wrapper_3.kl_colored_headings_box_left > div > h3 i, #kl_wrapper_3.kl_colored_headings_box_left > div > h3:not(.ui-state-default), #kl_wrapper_3.kl_emta h3:not(.ui-state-default), .ic-app-header__menu-list-link:focus, .kl_flex_column h4, .tox .tox-collection--list .tox-collection__item--enabled, ul.outcome-level li:focus, ul.outcome-level li:hover { background-color: var(--bcbuttons) !important; } .eHQDY_dTxv { stroke: var(--bcbuttons); } html.bettercampus-course-files-page .ic-Table tbody tr:hover td, html.bettercampus-course-files-page .ic-Table tbody tr:hover th, html.bettercampus-course-files-page table tbody tr:hover td, html.bettercampus-course-files-page table tbody tr:hover th { background: var(--bcbuttons) !important; } html.bettercampus-course-files-page .ef-header button:hover, html.bettercampus-course-files-page .ef-directory-header button:hover, html.bettercampus-course-files-page .ef-header a[role="button"]:hover, html.bettercampus-course-files-page .ef-directory-header a[role="button"]:hover { background: var(--bcbuttons) !important; }.list-view a.active { border-left: 2px solid var(--bclinks) !important; } #content-wrapper .user_content.not_design_tools a, #media_comment_maybe, #nav-tray-portal a, .ToDoSidebarItem__Title a, .message-list .date, a, a:focus, a:hover, .fQfxa_bCUx.fQfxa_eCSh, .fake-link, .no-touch .ic-DashboardCard__action:hover, .enRcg_bGBk.enRcg_fpfC, input.enRcg_bGBk[type].enRcg_fpfC, .bettercanvas-todo-actions-btn, .bettercanvas-todoitem-title-minimal, a[data-testid^="course-work-item-course-link"], div[data-testid^="course-grade-card"] a[data-cid="Link"], div[data-testid^="course-grade-card"] a[data-cid="Link"] span, section[data-testid*="-widget"] a[data-cid="Link"], section[data-testid*="-widget"] a[data-cid="Link"] span { color: var(--bclinks) !important; } #minical .fc-bg .fc-state-highlight, .StickyButton-styles__root, .ic-DashboardCard__action-badge, .menu-item__badge, ul.outcome-level li.selected a::before, .eMdva_pypk .eMdva_dnnz, .ic-notification__icon, .fQfxa_dqAF.fQfxa_eCSh, .recent_activity > li .unread-count, .recent_activity > li .unread.message-list .read-state:before, .eMdva_pypk .eMdva_dnnz, .tox .tox-collection--list .tox-collection__item--active:not(.tox-collection__item--state-disabled), .nav-badge, .message-list .read-state:before, .ic-unread-badge, .cECYn_bXiG, .unread-grade, .bettercanvas-todo-label, .bettercanvas-todo-item-border { background: var(--bclinks) !important; } .eHQDY_ddES .eHQDY_eWAY { stroke: var(--bclinks) !important; } .message-list .messages > li:hover { box-shadow: inset -4px 0 0 var(--bclinks) !important; } .agenda-event__item-container:focus, .agenda-event__item-container:hover { box-shadow: inset 3px 0 0 var(--bclinks); } #calendar-app .fc-agendaWeek-view .fc-day-grid .fc-today, #calendar-drag-and-drop-container .fc-agendaWeek-view .fc-day-grid .fc-today { box-shadow: 0.5px -6px 0 0 var(--bclinks); } .message-list .read-state.read:before { box-shadow: 0 0 0 1px var(--bclinks); } #minical .event::after { border: 1px solid var(--bclinks); } .ic-notification { border: 2px solid var(--bclinks) !important; } .eMdva_pypk, .tox .tox-edit-area.active, .tox .tox-edit-area.active iframe, .emSEn_QUBp:hover { border-color: var(--bclinks) !important; } .eHQDY_ddES .eHQDY_eWAY { stroke: var(--bclinks); } .ui-dialog .ui-dialog-titlebar-close.ui-state-hover, .ui-dialog .ui-dialog-titlebar-close.ui-state-focus { box-shadow: 0 0 0 2px var(--bclinks); } select.ic-Input:focus, textarea.ic-Input:focus, input[type="text"].ic-Input:focus, input[type="password"].ic-Input:focus, input[type="datetime"].ic-Input:focus, input[type="datetime-local"].ic-Input:focus, input[type="date"].ic-Input:focus, input[type="month"].ic-Input:focus, input[type="time"].ic-Input:focus, input[type="week"].ic-Input:focus, input[type="number"].ic-Input:focus, input[type="email"].ic-Input:focus, input[type="url"].ic-Input:focus, input[type="search"].ic-Input:focus, input[type="tel"].ic-Input:focus, input[type="color"].ic-Input:focus, .uneditable-input.ic-Input:focus { outline-color: var(--bclinks); }.ic-app-header__menu-list-link .ic-icon-svg, .bettercanvas-certified svg { fill: var(--bcsidebar-text) !important; } .menu-item-icon-container, .ic-app-header__menu-list-link .menu-item__text, .bettercanvas-sidebar-item-link, .bettercanvas-sidebar-item-dropdown-link, .bettercanvas-sidebar-item-dropdown-link:hover, .bettercanvas-sidebar-category, #bettercanvas-sidebar-support-btn, .bettercanvas-sidebar-grid-item, .bettercanvas-sidebar-grid-item svg, .bettercanvas-sidebar-dropdown-btn svg, .bettercanvas-certified svg { color: var(--bcsidebar-text) !important; }.ic-app-header { background: var(--bcsidebar) !important; }section[data-testid*="-widget"] label[data-cid="TextInput"] span, section[data-testid*="-widget"] label[data-cid="TextInput"] input { color: var(--bctext-0) !important; } section[data-testid*="-widget"] [data-cid="Checkbox"] label, section[data-testid*="-widget"] [data-cid="Checkbox"] span { color: var(--bctext-0) !important; } section[data-testid*="-widget"] [data-cid="Checkbox"] svg { fill: var(--bctext-0) !important; } section[data-testid*="-widget"] button[data-cid*="Button"], section[data-testid*="-widget"] button[data-cid*="Button"] span, section[data-testid*="-widget"] span[data-testid*="-avatar"], section[data-testid*="-widget"] span[class*="-avatar"] { color: var(--bctext-0) !important; } #GradeSummarySelectMenuGroup span, #kl_content_block_0 h3:nth-child(1), #kl_content_block_0 h3:nth-child(1) i, #kl_custom_block_0 h3:nth-child(1), #kl_custom_block_0 h3:nth-child(1) i, #kl_custom_block_1 h3:nth-child(1), #kl_custom_block_1 h3:nth-child(1) i, #kl_custom_block_2 h3:nth-child(1), #kl_custom_block_2 h3:nth-child(1) i, #kl_wrapper_3.kl_colored_headings #kl_modules h3, #kl_wrapper_3.kl_colored_headings #kl_modules h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default), #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3 i, #kl_wrapper_3.kl_colored_headings_box_left > div > h3 i, #kl_wrapper_3.kl_colored_headings_box_left > div > h3:not(.ui-state-default), #kl_wrapper_3.kl_emta h3:not(.ui-state-default), .bettercanvas-card-header, .discussion-fyi, .ic-DashboardCard__action-badge, .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .menu-item__text, .ig-list .ig-row, .kl_flex_column h4, .menu-item__badge, .mini_calendar .day.other_month, .ui-tabs .ui-tabs-nav li.ui-tabs-active a, .bettercanvas-course-percent, .bettercanvas-todo-container, .bettercanvas-todo-container:hover, .MlJlv_ebWM, .bettercanvas-todo-item, .bettercanvas-todo-item:hover, .bettercanvas-hover-preview, .baylorMainContainer, .baylor-table td, .fOyUs_dUgE, .fOyUs_bvKN, .muted, h1 small, h2 small, h3 small, h4 small, h5 small, h6 small, blockquote small, .css-1v8v5q1-optionItem, .Button, button, .btn, h1, h2, h3, h4, h5, h6, #tinymce, .PlannerItem-styles__type > span, .bettercanvas-todo-actions, .bettercanvas-todoitem-title, .bettercanvas-todo-control-btn svg, #bettercanvas-todosidebar-progress-text, .bettercanvas-sidebar-dropdown-open .bettercanvas-sidebar-item a, #bettercanvas-updatev1, #bettercanvas-updatev1 button, #bettercanvas-search-input, .bettercanvas-sidebar-dropdown-open svg, div[data-testid="dashboard-tabs"] *, div[data-testid="feedback-question-tile"] *, div[data-testid^="course-grade-card"] span[data-testid$="-name"], section[data-testid*="-widget"] h2, section[data-testid*="-widget"] span, section[data-testid*="-widget"] button { color: var(--bctext-0) !important; } .ToDoSidebarItem__Icon { fill: var(--bctext-0) !important; } #bettercanvas-search-filters button.active, .bettercanvas-search-item-icon, #bettercanvas-tooltip, #bettercanvas-todo-creator-submit, .ic-app-header__menu-list-item.ic-app-header__menu-list-item--active .ic-app-header__menu-list-link { background: var(--bctext-0) !important; } /* -------------------------------------------------------------------------- */ /* Canvas: Course Files (new Files UI) */ /* -------------------------------------------------------------------------- */ html.bettercampus-course-files-page .ic-Table, html.bettercampus-course-files-page table { color: var(--bctext-0) !important; } html.bettercampus-course-files-page .ic-Table thead th, html.bettercampus-course-files-page table thead th { color: var(--bctext-0) !important; } html.bettercampus-course-files-page .ic-Table tbody td, html.bettercampus-course-files-page .ic-Table tbody th, html.bettercampus-course-files-page table tbody td, html.bettercampus-course-files-page table tbody th { color: var(--bctext-0) !important; } html.bettercampus-course-files-page .ef-header, html.bettercampus-course-files-page .ef-directory-header, html.bettercampus-course-files-page .ef-main, html.bettercampus-course-files-page .ef-main .ef-folder-content, html.bettercampus-course-files-page .ef-footer { color: var(--bctext-0) !important; } html.bettercampus-course-files-page .ef-header button, html.bettercampus-course-files-page .ef-directory-header button, html.bettercampus-course-files-page .ef-header a[role="button"], html.bettercampus-course-files-page .ef-directory-header a[role="button"] { color: var(--bctext-0) !important; }#breadcrumbs > ul > li + li:last-of-type a, #calendar-app .fc-agendaWeek-view .fc-axis, #calendar-app .fc-agendaWeek-view .fc-widget-header, #calendar-app .fc-month-view .fc-widget-header, #calendar-drag-and-drop-container .fc-agendaWeek-view .fc-axis, #calendar-drag-and-drop-container .fc-agendaWeek-view .fc-widget-header, #calendar-drag-and-drop-container .fc-month-view .fc-widget-header, #content-wrapper .user_content.not_design_tools h3, .bettercanvas-course-credit, #kl_banner, #kl_banner h2, #kl_banner_left, #kl_banner_right, #kl_custom_block_0, #kl_readings p, #kl_wrapper_3.kl_colored_headings #kl_banner #kl_banner_left, #kl_wrapper_3.kl_colored_headings #kl_banner .kl_subtitle, #kl_wrapper_3.kl_colored_headings #kl_modules h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings h4, #kl_wrapper_3.kl_colored_headings > div > h3:not(.ui-state-default) i, #kl_wrapper_3.kl_colored_headings_box_left #kl_modules h3 i, #kl_wrapper_3.kl_colored_headings_box_left h4, #kl_wrapper_3.kl_colored_headings_box_left > div > h3 i, #kl_wrapper_3.kl_emta, #minical .fc-toolbar .h2, #minical .fc-toolbar h2, #minical .fc-widget-content, #nav-tray-portal > span > span > div > div > .navigation-tray-container.courses-tray > .tray-with-space-for-global-nav > div > ul > li > div, #right-side .details .header, #right-side .right-side-list li em, #right-side .right-side-list li p, .Day-styles__root h2, .EmptyDays-styles__root, .HwBsD_blJt, .HwBsD_fqzO, .MlJlv_dnnz, .PlannerItem-styles__due, .PlannerItem-styles__score, .ToDoSidebarItem__Info, .ToDoSidebarItem__Info li, .ac-input-box, .accessible-toggler, .bettercanvas-assignment-container, .bettercanvas-assignment-container:hover, .bjXfh_daKB, .bjXfh_daKB span, .cWmNi_bGBk, .ccWIh_bGBk, .close, .comment_list .comment, .discussion-points, .discussion-pubdate, .discussion-rate-action, .discussion-reply-action, .discussion-section h4, .discussion-section p, .discussion-section ul, .discussion-tododate, .discussions-v2__container-image > span > div, .dropdown-menu li > a, .ef-plain-link, .ef-plain-link:hover, .enRcg_bGBk.enRcg_qFsi, .entry-content span, .esvoZ_drOs, .event-details-timestring, .extension-ac a:hover, .extension-linkpreview, .fCrpb_egrg, .fCrpb_egrg.fCrpb_fVUh, .fNHEA_blJt, .fQfxa_bCUx.fQfxa_buuG, .fc-agendaWeek-view .fc-event-container a[class*="group_"] .fc-content .fc-time, .fc-event, .fc-event:hover, .fwfoD_fsuY, .header-row a.sort-field-active i, .hypodivcalc, .ic-Dashboard-header__title, .ic-DashboardCard__header-subtitle, .ic-DashboardCard__header-term, .ic-discussion-content-container, .ig-header .name, .ig-list .ig-row a, .ig-type-icon, .item-group-condensed .ig-header, .item-group-expandable .emptyMessage, .jpyTq_bGBk, .kl_mod_text, .kl_readings span, .list-view a.active, .message-detail.conversations__message-detail .no-messages, .message-detail.span8 .no-messages, .message-list .author, .message-list .subject, .message.user_content div, .mini-cal-header, .mini_calendar .day, .nav-icon, .nav_list li.navitem, .ofhgV_ddES, .pages.show .page-title, .planner-day, .standalone-icon:before, .submission_attachment button > span, .tox .tox-collection__item, .tox .tox-insert-table-picker__label, .tray-with-space-for-global-nav > div > span > form > button > span, .tree i[class*="icon-"], .tree i[class^="icon-"], .ui-button, .ui-state-default, .ui-tabs .ui-tabs-nav li a, .ui-widget .fc-event, .ui-widget-content, .ui-widget-header .ui-state-default, .uneditable-input, .user_content.enhanced, .user_content, .user_content.enhanced p, body, code, input.enRcg_bGBk[type].enRcg_qFsi, input[type="color"], input[type="date"], input[type="datetime-local"], input[type="datetime"], input[type="email"], input[type="month"], input[type="number"], input[type="password"], input[type="search"], input[type="tel"], input[type="text"], input[type="time"], input[type="url"], input[type="week"], label.fCrpb_egrg, legend, pre, select, textarea, ul#question_list li i, .enRcg_bGBk.enRcg_bLsb, input.enRcg_bGBk[type].enRcg_bLsb, .erWSf_bGBk, .faJyW_blJt, .eMdva_bgqc, #right-side p.email_channel, .dpCPB_caGd, .XOwIb_ddES, .fdyuz_bGBk, .fOyUs_fZwI, .fOyUs_kXoP, .fQfxa_dqAF.fQfxa_buuG, .communication_message .header .header_title .title, .communication_message .header .header_title .sub_title, .ic-tokens, ic-tokeninput-input, .ftPBL_cuDj, .dUOHu_eCSh, .blnAQ_eCSh, #gradebook_header, .bettercanvas-assignment-link, .bettercanvas-assignment-link:hover, .jumbotron, .card, .ac-token, span[style="color: #000000;"], .bettercanvas-gpa-edit-btn, #bettercanvas-todo-creator input::placeholder { color: var(--bctext-1) !important; } .ToDoSidebarItem svg, .discussions-v2__wrapper > span > span > span > span > button > span > span > svg, .ic-DashboardCard__action-layout svg, .tox .tox-split-button__chevron svg, .tox .tox-tbtn svg, .tox .tox-tbtn svg g, .tox .tox-tbtn svg path { fill: var(--bctext-1) !important; } .caret { border-top: 4px solid var(--bctext-1) !important; }div[data-testid^="course-grade-card"] span[data-testid$="-code"], div[data-testid^="course-grade-card"] span[data-testid$="-term"], section[data-testid*="-widget"] span[color="secondary"] { color: var(--bctext-2) !important; } #last_saved_indicator, #minical .fc-other-month, #nav_disabled_list li.navitem, .ToDoSidebarItem__Info > span, .extension-aldue, .ic-item-row__meta-content-timestamp p, .ig-list .icon-drag-handle, .ig-list .ig-row .ig-empty-msg, .message-detail.conversations__message-detail .date, .message-detail.conversations__message-detail .user-info .context, .message-detail.span8 .date, .message-detail.span8 .user-info .context, .message-list .summary, .profile_table .data_description, .question .header .question_points_holder, .student_assignment .context, .tox .tox-collection__item-accessory, .yyQPt_blJt, ul#question_list.read_only li.seen, ul#question_list li.current_question, .css-1sr6v3o-text { color: var(--bctext-2) !important; } .bettercanvas-highlight-hover::after { background: var(--bctext-2); }
+		#compose-message-modal {
+			background: var(--bcbackground-0) !important;
+			color: var(--bctext-0) !important;
+		}
+		#compose-message-modal h2,
+		#compose-message-modal label,
+		#compose-message-modal button:not(#send-message-button),
+		#compose-message-modal span:not(#send-message-button span) {
+			color: var(--bctext-0) !important;
+		}
+		#compose-message-modal button:not(#send-message-button) {
+			background: var(--bcbackground-1) !important;
+			border-color: var(--bcborders) !important;
+		}
+		#compose-message-modal button:not(#send-message-button) > span,
+		#compose-message-modal button:not(#send-message-button) > span > span {
+			background: transparent !important;
+		}
+		#compose-message-modal input,
+		#compose-message-modal textarea {
+			background: var(--bcbackground-1) !important;
+			color: var(--bctext-0) !important;
+			border-color: var(--bcborders) !important;
+		}
+		#compose-message-modal input::placeholder,
+		#compose-message-modal textarea::placeholder {
+			color: var(--bctext-2) !important;
+		}
+		#compose-message-modal [class*="modalHeader"],
+		#compose-message-modal [class*="modalFooter"] {
+			background: var(--bcbackground-0) !important;
+			border-color: var(--bcborders) !important;
+		}
+		#compose-message-modal svg path {
+			fill: var(--bctext-0) !important;
+		}
+	</style><style type="text/css">   i.custom_menu_list_icon:before {       font-size: 27px;       width: 27px;       line-height: 27px;   }   i.custom_menu_list_icon {       width: 27px;       height: 27px;   }   body.primary-nav-expanded .menu-item__text.custom-menu-item__text {       white-space: normal;       padding: 0 2px;   }</style><style wxt-shadow-root-document-styles="afcygyo9qcf">@property --tw-animation-delay{syntax:"*";inherits:false;initial-value:0s}@property --tw-animation-direction{syntax:"*";inherits:false;initial-value:normal}@property --tw-animation-duration{syntax:"*";inherits:false}@property --tw-animation-fill-mode{syntax:"*";inherits:false;initial-value:none}@property --tw-animation-iteration-count{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-z{syntax:"*";inherits:false;initial-value:0}@property --tw-scale-x{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-y{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-z{syntax:"*";inherits:false;initial-value:1}@property --tw-rotate-x{syntax:"*";inherits:false}@property --tw-rotate-y{syntax:"*";inherits:false}@property --tw-rotate-z{syntax:"*";inherits:false}@property --tw-skew-x{syntax:"*";inherits:false}@property --tw-skew-y{syntax:"*";inherits:false}@property --tw-pan-x{syntax:"*";inherits:false}@property --tw-pan-y{syntax:"*";inherits:false}@property --tw-pinch-zoom{syntax:"*";inherits:false}@property --tw-space-y-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-space-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-divide-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-border-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-gradient-position{syntax:"*";inherits:false}@property --tw-gradient-from{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-via{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-to{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-stops{syntax:"*";inherits:false}@property --tw-gradient-via-stops{syntax:"*";inherits:false}@property --tw-gradient-from-position{syntax:"<length-percentage>";inherits:false;initial-value:0%}@property --tw-gradient-via-position{syntax:"<length-percentage>";inherits:false;initial-value:50%}@property --tw-gradient-to-position{syntax:"<length-percentage>";inherits:false;initial-value:100%}@property --tw-leading{syntax:"*";inherits:false}@property --tw-font-weight{syntax:"*";inherits:false}@property --tw-tracking{syntax:"*";inherits:false}@property --tw-ordinal{syntax:"*";inherits:false}@property --tw-slashed-zero{syntax:"*";inherits:false}@property --tw-numeric-figure{syntax:"*";inherits:false}@property --tw-numeric-spacing{syntax:"*";inherits:false}@property --tw-numeric-fraction{syntax:"*";inherits:false}@property --tw-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-shadow-color{syntax:"*";inherits:false}@property --tw-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:"*";inherits:false}@property --tw-inset-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:"*";inherits:false}@property --tw-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-ring-color{syntax:"*";inherits:false}@property --tw-inset-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-ring-inset{syntax:"*";inherits:false}@property --tw-ring-offset-width{syntax:"<length>";inherits:false;initial-value:0}@property --tw-ring-offset-color{syntax:"*";inherits:false;initial-value:#fff}@property --tw-ring-offset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-outline-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-blur{syntax:"*";inherits:false}@property --tw-brightness{syntax:"*";inherits:false}@property --tw-contrast{syntax:"*";inherits:false}@property --tw-grayscale{syntax:"*";inherits:false}@property --tw-hue-rotate{syntax:"*";inherits:false}@property --tw-invert{syntax:"*";inherits:false}@property --tw-opacity{syntax:"*";inherits:false}@property --tw-saturate{syntax:"*";inherits:false}@property --tw-sepia{syntax:"*";inherits:false}@property --tw-drop-shadow{syntax:"*";inherits:false}@property --tw-drop-shadow-color{syntax:"*";inherits:false}@property --tw-drop-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-drop-shadow-size{syntax:"*";inherits:false}@property --tw-backdrop-blur{syntax:"*";inherits:false}@property --tw-backdrop-brightness{syntax:"*";inherits:false}@property --tw-backdrop-contrast{syntax:"*";inherits:false}@property --tw-backdrop-grayscale{syntax:"*";inherits:false}@property --tw-backdrop-hue-rotate{syntax:"*";inherits:false}@property --tw-backdrop-invert{syntax:"*";inherits:false}@property --tw-backdrop-opacity{syntax:"*";inherits:false}@property --tw-backdrop-saturate{syntax:"*";inherits:false}@property --tw-backdrop-sepia{syntax:"*";inherits:false}@property --tw-duration{syntax:"*";inherits:false}@property --tw-ease{syntax:"*";inherits:false}@property --tw-text-shadow-color{syntax:"*";inherits:false}@property --tw-text-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-content{syntax:"*";inherits:false;initial-value:""}</style><style wxt-shadow-root-document-styles="ayhtdewj9">@property --tw-animation-delay{syntax:"*";inherits:false;initial-value:0s}@property --tw-animation-direction{syntax:"*";inherits:false;initial-value:normal}@property --tw-animation-duration{syntax:"*";inherits:false}@property --tw-animation-fill-mode{syntax:"*";inherits:false;initial-value:none}@property --tw-animation-iteration-count{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-z{syntax:"*";inherits:false;initial-value:0}@property --tw-scale-x{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-y{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-z{syntax:"*";inherits:false;initial-value:1}@property --tw-rotate-x{syntax:"*";inherits:false}@property --tw-rotate-y{syntax:"*";inherits:false}@property --tw-rotate-z{syntax:"*";inherits:false}@property --tw-skew-x{syntax:"*";inherits:false}@property --tw-skew-y{syntax:"*";inherits:false}@property --tw-pan-x{syntax:"*";inherits:false}@property --tw-pan-y{syntax:"*";inherits:false}@property --tw-pinch-zoom{syntax:"*";inherits:false}@property --tw-space-y-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-space-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-divide-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-border-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-gradient-position{syntax:"*";inherits:false}@property --tw-gradient-from{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-via{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-to{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-stops{syntax:"*";inherits:false}@property --tw-gradient-via-stops{syntax:"*";inherits:false}@property --tw-gradient-from-position{syntax:"<length-percentage>";inherits:false;initial-value:0%}@property --tw-gradient-via-position{syntax:"<length-percentage>";inherits:false;initial-value:50%}@property --tw-gradient-to-position{syntax:"<length-percentage>";inherits:false;initial-value:100%}@property --tw-leading{syntax:"*";inherits:false}@property --tw-font-weight{syntax:"*";inherits:false}@property --tw-tracking{syntax:"*";inherits:false}@property --tw-ordinal{syntax:"*";inherits:false}@property --tw-slashed-zero{syntax:"*";inherits:false}@property --tw-numeric-figure{syntax:"*";inherits:false}@property --tw-numeric-spacing{syntax:"*";inherits:false}@property --tw-numeric-fraction{syntax:"*";inherits:false}@property --tw-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-shadow-color{syntax:"*";inherits:false}@property --tw-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:"*";inherits:false}@property --tw-inset-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:"*";inherits:false}@property --tw-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-ring-color{syntax:"*";inherits:false}@property --tw-inset-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-ring-inset{syntax:"*";inherits:false}@property --tw-ring-offset-width{syntax:"<length>";inherits:false;initial-value:0}@property --tw-ring-offset-color{syntax:"*";inherits:false;initial-value:#fff}@property --tw-ring-offset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-outline-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-blur{syntax:"*";inherits:false}@property --tw-brightness{syntax:"*";inherits:false}@property --tw-contrast{syntax:"*";inherits:false}@property --tw-grayscale{syntax:"*";inherits:false}@property --tw-hue-rotate{syntax:"*";inherits:false}@property --tw-invert{syntax:"*";inherits:false}@property --tw-opacity{syntax:"*";inherits:false}@property --tw-saturate{syntax:"*";inherits:false}@property --tw-sepia{syntax:"*";inherits:false}@property --tw-drop-shadow{syntax:"*";inherits:false}@property --tw-drop-shadow-color{syntax:"*";inherits:false}@property --tw-drop-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-drop-shadow-size{syntax:"*";inherits:false}@property --tw-backdrop-blur{syntax:"*";inherits:false}@property --tw-backdrop-brightness{syntax:"*";inherits:false}@property --tw-backdrop-contrast{syntax:"*";inherits:false}@property --tw-backdrop-grayscale{syntax:"*";inherits:false}@property --tw-backdrop-hue-rotate{syntax:"*";inherits:false}@property --tw-backdrop-invert{syntax:"*";inherits:false}@property --tw-backdrop-opacity{syntax:"*";inherits:false}@property --tw-backdrop-saturate{syntax:"*";inherits:false}@property --tw-backdrop-sepia{syntax:"*";inherits:false}@property --tw-duration{syntax:"*";inherits:false}@property --tw-ease{syntax:"*";inherits:false}@property --tw-text-shadow-color{syntax:"*";inherits:false}@property --tw-text-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-content{syntax:"*";inherits:false;initial-value:""}</style><style>body.bettercampus-navigator-open ::part(bettercanvas-sidebar-popup-btn) { opacity: 1; color: var(--bcbackground-0, #fff) !important }</style><style wxt-shadow-root-document-styles="unumig2m33r">@property --tw-animation-delay{syntax:"*";inherits:false;initial-value:0s}@property --tw-animation-direction{syntax:"*";inherits:false;initial-value:normal}@property --tw-animation-duration{syntax:"*";inherits:false}@property --tw-animation-fill-mode{syntax:"*";inherits:false;initial-value:none}@property --tw-animation-iteration-count{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-z{syntax:"*";inherits:false;initial-value:0}@property --tw-scale-x{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-y{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-z{syntax:"*";inherits:false;initial-value:1}@property --tw-rotate-x{syntax:"*";inherits:false}@property --tw-rotate-y{syntax:"*";inherits:false}@property --tw-rotate-z{syntax:"*";inherits:false}@property --tw-skew-x{syntax:"*";inherits:false}@property --tw-skew-y{syntax:"*";inherits:false}@property --tw-pan-x{syntax:"*";inherits:false}@property --tw-pan-y{syntax:"*";inherits:false}@property --tw-pinch-zoom{syntax:"*";inherits:false}@property --tw-space-y-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-space-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-divide-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-border-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-gradient-position{syntax:"*";inherits:false}@property --tw-gradient-from{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-via{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-to{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-stops{syntax:"*";inherits:false}@property --tw-gradient-via-stops{syntax:"*";inherits:false}@property --tw-gradient-from-position{syntax:"<length-percentage>";inherits:false;initial-value:0%}@property --tw-gradient-via-position{syntax:"<length-percentage>";inherits:false;initial-value:50%}@property --tw-gradient-to-position{syntax:"<length-percentage>";inherits:false;initial-value:100%}@property --tw-leading{syntax:"*";inherits:false}@property --tw-font-weight{syntax:"*";inherits:false}@property --tw-tracking{syntax:"*";inherits:false}@property --tw-ordinal{syntax:"*";inherits:false}@property --tw-slashed-zero{syntax:"*";inherits:false}@property --tw-numeric-figure{syntax:"*";inherits:false}@property --tw-numeric-spacing{syntax:"*";inherits:false}@property --tw-numeric-fraction{syntax:"*";inherits:false}@property --tw-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-shadow-color{syntax:"*";inherits:false}@property --tw-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:"*";inherits:false}@property --tw-inset-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:"*";inherits:false}@property --tw-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-ring-color{syntax:"*";inherits:false}@property --tw-inset-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-ring-inset{syntax:"*";inherits:false}@property --tw-ring-offset-width{syntax:"<length>";inherits:false;initial-value:0}@property --tw-ring-offset-color{syntax:"*";inherits:false;initial-value:#fff}@property --tw-ring-offset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-outline-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-blur{syntax:"*";inherits:false}@property --tw-brightness{syntax:"*";inherits:false}@property --tw-contrast{syntax:"*";inherits:false}@property --tw-grayscale{syntax:"*";inherits:false}@property --tw-hue-rotate{syntax:"*";inherits:false}@property --tw-invert{syntax:"*";inherits:false}@property --tw-opacity{syntax:"*";inherits:false}@property --tw-saturate{syntax:"*";inherits:false}@property --tw-sepia{syntax:"*";inherits:false}@property --tw-drop-shadow{syntax:"*";inherits:false}@property --tw-drop-shadow-color{syntax:"*";inherits:false}@property --tw-drop-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-drop-shadow-size{syntax:"*";inherits:false}@property --tw-backdrop-blur{syntax:"*";inherits:false}@property --tw-backdrop-brightness{syntax:"*";inherits:false}@property --tw-backdrop-contrast{syntax:"*";inherits:false}@property --tw-backdrop-grayscale{syntax:"*";inherits:false}@property --tw-backdrop-hue-rotate{syntax:"*";inherits:false}@property --tw-backdrop-invert{syntax:"*";inherits:false}@property --tw-backdrop-opacity{syntax:"*";inherits:false}@property --tw-backdrop-saturate{syntax:"*";inherits:false}@property --tw-backdrop-sepia{syntax:"*";inherits:false}@property --tw-duration{syntax:"*";inherits:false}@property --tw-ease{syntax:"*";inherits:false}@property --tw-text-shadow-color{syntax:"*";inherits:false}@property --tw-text-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-content{syntax:"*";inherits:false;initial-value:""}</style><style wxt-shadow-root-document-styles="hfnibxpo59v">@property --tw-animation-delay{syntax:"*";inherits:false;initial-value:0s}@property --tw-animation-direction{syntax:"*";inherits:false;initial-value:normal}@property --tw-animation-duration{syntax:"*";inherits:false}@property --tw-animation-fill-mode{syntax:"*";inherits:false;initial-value:none}@property --tw-animation-iteration-count{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-z{syntax:"*";inherits:false;initial-value:0}@property --tw-scale-x{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-y{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-z{syntax:"*";inherits:false;initial-value:1}@property --tw-rotate-x{syntax:"*";inherits:false}@property --tw-rotate-y{syntax:"*";inherits:false}@property --tw-rotate-z{syntax:"*";inherits:false}@property --tw-skew-x{syntax:"*";inherits:false}@property --tw-skew-y{syntax:"*";inherits:false}@property --tw-pan-x{syntax:"*";inherits:false}@property --tw-pan-y{syntax:"*";inherits:false}@property --tw-pinch-zoom{syntax:"*";inherits:false}@property --tw-space-y-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-space-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-divide-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-border-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-gradient-position{syntax:"*";inherits:false}@property --tw-gradient-from{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-via{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-to{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-stops{syntax:"*";inherits:false}@property --tw-gradient-via-stops{syntax:"*";inherits:false}@property --tw-gradient-from-position{syntax:"<length-percentage>";inherits:false;initial-value:0%}@property --tw-gradient-via-position{syntax:"<length-percentage>";inherits:false;initial-value:50%}@property --tw-gradient-to-position{syntax:"<length-percentage>";inherits:false;initial-value:100%}@property --tw-leading{syntax:"*";inherits:false}@property --tw-font-weight{syntax:"*";inherits:false}@property --tw-tracking{syntax:"*";inherits:false}@property --tw-ordinal{syntax:"*";inherits:false}@property --tw-slashed-zero{syntax:"*";inherits:false}@property --tw-numeric-figure{syntax:"*";inherits:false}@property --tw-numeric-spacing{syntax:"*";inherits:false}@property --tw-numeric-fraction{syntax:"*";inherits:false}@property --tw-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-shadow-color{syntax:"*";inherits:false}@property --tw-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:"*";inherits:false}@property --tw-inset-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:"*";inherits:false}@property --tw-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-ring-color{syntax:"*";inherits:false}@property --tw-inset-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-ring-inset{syntax:"*";inherits:false}@property --tw-ring-offset-width{syntax:"<length>";inherits:false;initial-value:0}@property --tw-ring-offset-color{syntax:"*";inherits:false;initial-value:#fff}@property --tw-ring-offset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-outline-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-blur{syntax:"*";inherits:false}@property --tw-brightness{syntax:"*";inherits:false}@property --tw-contrast{syntax:"*";inherits:false}@property --tw-grayscale{syntax:"*";inherits:false}@property --tw-hue-rotate{syntax:"*";inherits:false}@property --tw-invert{syntax:"*";inherits:false}@property --tw-opacity{syntax:"*";inherits:false}@property --tw-saturate{syntax:"*";inherits:false}@property --tw-sepia{syntax:"*";inherits:false}@property --tw-drop-shadow{syntax:"*";inherits:false}@property --tw-drop-shadow-color{syntax:"*";inherits:false}@property --tw-drop-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-drop-shadow-size{syntax:"*";inherits:false}@property --tw-backdrop-blur{syntax:"*";inherits:false}@property --tw-backdrop-brightness{syntax:"*";inherits:false}@property --tw-backdrop-contrast{syntax:"*";inherits:false}@property --tw-backdrop-grayscale{syntax:"*";inherits:false}@property --tw-backdrop-hue-rotate{syntax:"*";inherits:false}@property --tw-backdrop-invert{syntax:"*";inherits:false}@property --tw-backdrop-opacity{syntax:"*";inherits:false}@property --tw-backdrop-saturate{syntax:"*";inherits:false}@property --tw-backdrop-sepia{syntax:"*";inherits:false}@property --tw-duration{syntax:"*";inherits:false}@property --tw-ease{syntax:"*";inherits:false}@property --tw-text-shadow-color{syntax:"*";inherits:false}@property --tw-text-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-content{syntax:"*";inherits:false;initial-value:""}</style><style wxt-shadow-root-document-styles="y99nzguipn">@property --tw-animation-delay{syntax:"*";inherits:false;initial-value:0s}@property --tw-animation-direction{syntax:"*";inherits:false;initial-value:normal}@property --tw-animation-duration{syntax:"*";inherits:false}@property --tw-animation-fill-mode{syntax:"*";inherits:false;initial-value:none}@property --tw-animation-iteration-count{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-enter-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-enter-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-blur{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-opacity{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-rotate{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-scale{syntax:"*";inherits:false;initial-value:1}@property --tw-exit-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-exit-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-x{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-y{syntax:"*";inherits:false;initial-value:0}@property --tw-translate-z{syntax:"*";inherits:false;initial-value:0}@property --tw-scale-x{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-y{syntax:"*";inherits:false;initial-value:1}@property --tw-scale-z{syntax:"*";inherits:false;initial-value:1}@property --tw-rotate-x{syntax:"*";inherits:false}@property --tw-rotate-y{syntax:"*";inherits:false}@property --tw-rotate-z{syntax:"*";inherits:false}@property --tw-skew-x{syntax:"*";inherits:false}@property --tw-skew-y{syntax:"*";inherits:false}@property --tw-pan-x{syntax:"*";inherits:false}@property --tw-pan-y{syntax:"*";inherits:false}@property --tw-pinch-zoom{syntax:"*";inherits:false}@property --tw-space-y-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-space-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-divide-x-reverse{syntax:"*";inherits:false;initial-value:0}@property --tw-border-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-gradient-position{syntax:"*";inherits:false}@property --tw-gradient-from{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-via{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-to{syntax:"<color>";inherits:false;initial-value:#0000}@property --tw-gradient-stops{syntax:"*";inherits:false}@property --tw-gradient-via-stops{syntax:"*";inherits:false}@property --tw-gradient-from-position{syntax:"<length-percentage>";inherits:false;initial-value:0%}@property --tw-gradient-via-position{syntax:"<length-percentage>";inherits:false;initial-value:50%}@property --tw-gradient-to-position{syntax:"<length-percentage>";inherits:false;initial-value:100%}@property --tw-leading{syntax:"*";inherits:false}@property --tw-font-weight{syntax:"*";inherits:false}@property --tw-tracking{syntax:"*";inherits:false}@property --tw-ordinal{syntax:"*";inherits:false}@property --tw-slashed-zero{syntax:"*";inherits:false}@property --tw-numeric-figure{syntax:"*";inherits:false}@property --tw-numeric-spacing{syntax:"*";inherits:false}@property --tw-numeric-fraction{syntax:"*";inherits:false}@property --tw-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-shadow-color{syntax:"*";inherits:false}@property --tw-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-inset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-shadow-color{syntax:"*";inherits:false}@property --tw-inset-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-ring-color{syntax:"*";inherits:false}@property --tw-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-inset-ring-color{syntax:"*";inherits:false}@property --tw-inset-ring-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-ring-inset{syntax:"*";inherits:false}@property --tw-ring-offset-width{syntax:"<length>";inherits:false;initial-value:0}@property --tw-ring-offset-color{syntax:"*";inherits:false;initial-value:#fff}@property --tw-ring-offset-shadow{syntax:"*";inherits:false;initial-value:0 0 #0000}@property --tw-outline-style{syntax:"*";inherits:false;initial-value:solid}@property --tw-blur{syntax:"*";inherits:false}@property --tw-brightness{syntax:"*";inherits:false}@property --tw-contrast{syntax:"*";inherits:false}@property --tw-grayscale{syntax:"*";inherits:false}@property --tw-hue-rotate{syntax:"*";inherits:false}@property --tw-invert{syntax:"*";inherits:false}@property --tw-opacity{syntax:"*";inherits:false}@property --tw-saturate{syntax:"*";inherits:false}@property --tw-sepia{syntax:"*";inherits:false}@property --tw-drop-shadow{syntax:"*";inherits:false}@property --tw-drop-shadow-color{syntax:"*";inherits:false}@property --tw-drop-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-drop-shadow-size{syntax:"*";inherits:false}@property --tw-backdrop-blur{syntax:"*";inherits:false}@property --tw-backdrop-brightness{syntax:"*";inherits:false}@property --tw-backdrop-contrast{syntax:"*";inherits:false}@property --tw-backdrop-grayscale{syntax:"*";inherits:false}@property --tw-backdrop-hue-rotate{syntax:"*";inherits:false}@property --tw-backdrop-invert{syntax:"*";inherits:false}@property --tw-backdrop-opacity{syntax:"*";inherits:false}@property --tw-backdrop-saturate{syntax:"*";inherits:false}@property --tw-backdrop-sepia{syntax:"*";inherits:false}@property --tw-duration{syntax:"*";inherits:false}@property --tw-ease{syntax:"*";inherits:false}@property --tw-text-shadow-color{syntax:"*";inherits:false}@property --tw-text-shadow-alpha{syntax:"<percentage>";inherits:false;initial-value:100%}@property --tw-content{syntax:"*";inherits:false;initial-value:""}</style><style>
+  .imageye-selected {
+    outline: 2px solid black !important;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important;
+  }
+</style><link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/jst/PaginatedView-8a926fc28b.css" data-loaded-by-brandablecss="true"><link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/jst/TreeBrowser-09b4a0b487.css" data-loaded-by-brandablecss="true"><link rel="stylesheet" href="https://du11hjcvx0uqb.cloudfront.net/dist/brandable_css/new_styles_high_contrast/jst/MoveOutcomeDialog-d39b291ba6.css" data-loaded-by-brandablecss="true"><style type="text/css">.draggable.dragging {
+  background: white;
+  box-shadow: 2px 2px 4px grey;
+  padding: 1rem;
+}
+
+.draggable.dragging.generated-criterion-row {
+  background:
+    linear-gradient(#f9f7fb, #f9f7fb) padding-box,
+    linear-gradient(to bottom, #7f61b3, #32759c) border-box;
+  border-radius: 0.25rem;
+  border: 2px solid transparent;
+  box-shadow: 2px 2px 4px grey;
+  padding: 1rem;
+}
+
+/* IgniteAI branding for generated rows */
+.generated-criterion-row {
+  background:
+    linear-gradient(#f9f7fb, #f9f7fb) padding-box,
+    linear-gradient(to bottom, #7f61b3, #32759c) border-box;
+  border-radius: 0.25rem;
+  border: 2px solid transparent;
+}
+
+.criterion-row {
+  padding: 1rem 0.75rem;
+  margin-bottom: 0.125rem;
+}
+
+.divided-criterion-row {
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* Cell padding and alignment */
+.criterion-cell {
+  vertical-align: top;
+}
+
+.criterion-cell--drag {
+  width: 2rem;
+}
+
+.criterion-cell--actions {
+  padding-right: 0;
+  white-space: nowrap;
+  text-align: right;
+}
+
+.criterion-cell--ratings {
+  padding-top: 0;
+}
+
+.criterion-cell--description {
+  overflow-wrap: break-word;
+  word-break: break-word;
+  min-width: 0;
+  padding-left: 0;
+}
+
+/* Rating scale table: no visible headers or borders */
+.rating-scale-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 0.5rem;
+}
+
+.rating-scale-table th,
+.rating-scale-table td {
+  border: none;
+  padding: 0.25rem 0.5rem;
+  vertical-align: top;
+  overflow-wrap: break-word;
+  word-break: break-word;
+}
+</style><script type="text/javascript" src="https://prod.ally.ac/static/integration/canvas/ally.5447a314fe4307a3a1d5.js"></script><link rel="stylesheet" href="https://prod.ally.ac/static/integration/canvas.600a326f93e7837a22a3.css"><style type="text/css">.mejs-offscreen{clip:rect(1px 1px 1px 1px);clip:rect(1px,1px,1px,1px);clip-path:polygon(0px 0,0 0,0 0,0 0);position:absolute!important;height:1px;width:1px;overflow:hidden}.mejs-container{position:relative;background:#000;font-family:Helvetica,Arial,serif;text-align:left;vertical-align:top;text-indent:0}.mejs-fill-container,.mejs-fill-container .mejs-container{width:100%;height:100%}.mejs-fill-container{overflow:hidden}.mejs-container:focus{outline:0}.me-plugin{position:absolute}.mejs-embed,.mejs-embed body{width:100%;height:100%;margin:0;padding:0;background:#000;overflow:hidden}.mejs-fullscreen{overflow:hidden!important}.mejs-container-fullscreen{position:fixed;left:0;top:0;right:0;bottom:0;overflow:hidden;z-index:1000}.mejs-container-fullscreen .mejs-mediaelement,.mejs-container-fullscreen video{width:100%;height:100%}.mejs-clear{clear:both}.mejs-background{position:absolute;top:0;left:0}.mejs-mediaelement{position:absolute;top:0;left:0;width:100%;height:100%}.mejs-poster{position:absolute;top:0;left:0;background-size:contain;background-position:50% 50%;background-repeat:no-repeat}:root .mejs-poster img{display:none}.mejs-poster img{border:0;padding:0}.mejs-overlay{position:absolute;top:0;left:0}.mejs-overlay-play{cursor:pointer}.mejs-overlay-button{position:absolute;top:50%;left:50%;width:100px;height:100px;margin:-50px 0 0 -50px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/ab412966d30a966c.svg) no-repeat}.no-svg .mejs-overlay-button{background-image:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/403b9897d2f9584a.png)}.mejs-overlay:hover .mejs-overlay-button{background-position:0 -100px}.mejs-overlay-loading{position:absolute;top:50%;left:50%;width:80px;height:80px;margin:-40px 0 0 -40px;background:#333;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(0,0,0,.9);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.9)),to(rgba(0,0,0,.9)));background:-webkit-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-moz-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-o-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:-ms-linear-gradient(top,rgba(50,50,50,.9),rgba(0,0,0,.9));background:linear-gradient(rgba(50,50,50,.9),rgba(0,0,0,.9))}.mejs-overlay-loading span{display:block;width:80px;height:80px;background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/3d2aa6c0efad5113.gif) 50% 50% no-repeat}.mejs-container .mejs-controls{position:absolute;list-style-type:none;margin:0;padding:0;bottom:0;left:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));height:30px;width:100%}.mejs-container .mejs-controls div{list-style-type:none;background-image:none;display:block;float:left;margin:0;padding:0;width:26px;height:26px;font-size:11px;line-height:11px;font-family:Helvetica,Arial,serif;border:0}.mejs-controls .mejs-button button{cursor:pointer;display:block;font-size:0;line-height:0;text-decoration:none;margin:7px 5px;padding:0;position:absolute;height:16px;width:16px;border:0;background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/e63625629c427008.svg) no-repeat}.no-svg .mejs-controls .mejs-button button{background-image:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/21af56cf08cc9170.png)}.mejs-controls .mejs-button button:focus{outline:dotted 1px #999}.mejs-container .mejs-controls .mejs-time{color:#fff;display:block;height:17px;width:auto;padding:10px 3px 0;overflow:hidden;text-align:center;-moz-box-sizing:content-box;-webkit-box-sizing:content-box;box-sizing:content-box}.mejs-container .mejs-controls .mejs-time a{color:#fff;font-size:11px;line-height:12px;display:block;float:left;margin:1px 2px 0 0;width:auto}.mejs-controls .mejs-play button{background-position:0 0}.mejs-controls .mejs-pause button{background-position:0 -16px}.mejs-controls .mejs-stop button{background-position:-112px 0}.mejs-controls div.mejs-time-rail{direction:ltr;width:200px;padding-top:5px}.mejs-controls .mejs-time-rail span,.mejs-controls .mejs-time-rail a{display:block;position:absolute;width:180px;height:10px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;cursor:pointer}.mejs-controls .mejs-time-rail .mejs-time-total{margin:5px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-time-rail .mejs-time-buffering{width:100%;background-image:-o-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-webkit-gradient(linear,0 100%,100% 0,color-stop(0.25,rgba(255,255,255,.15)),color-stop(0.25,transparent),color-stop(0.5,transparent),color-stop(0.5,rgba(255,255,255,.15)),color-stop(0.75,rgba(255,255,255,.15)),color-stop(0.75,transparent),to(transparent));background-image:-webkit-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-moz-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:-ms-linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);background-image:linear-gradient(-45deg,rgba(255,255,255,.15) 25%,transparent 25%,transparent 50%,rgba(255,255,255,.15) 50%,rgba(255,255,255,.15) 75%,transparent 75%,transparent);-webkit-background-size:15px 15px;-moz-background-size:15px 15px;-o-background-size:15px 15px;background-size:15px 15px;-webkit-animation:buffering-stripes 2s linear infinite;-moz-animation:buffering-stripes 2s linear infinite;-ms-animation:buffering-stripes 2s linear infinite;-o-animation:buffering-stripes 2s linear infinite;animation:buffering-stripes 2s linear infinite}@-webkit-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-moz-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-ms-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@-o-keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}@keyframes buffering-stripes{from{background-position:0 0}to{background-position:30px 0}}.mejs-controls .mejs-time-rail .mejs-time-loaded{background:#3caac8;background:rgba(60,170,200,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(44,124,145,.8)),to(rgba(78,183,212,.8)));background:-webkit-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-moz-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-o-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:-ms-linear-gradient(top,rgba(44,124,145,.8),rgba(78,183,212,.8));background:linear-gradient(rgba(44,124,145,.8),rgba(78,183,212,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-current{background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8));width:0}.mejs-controls .mejs-time-rail .mejs-time-handle{display:none;position:absolute;margin:0;width:10px;background:#fff;-webkit-border-radius:5px;-moz-border-radius:5px;border-radius:5px;cursor:pointer;border:solid 2px #333;top:-2px;text-align:center}.mejs-controls .mejs-time-rail .mejs-time-float{position:absolute;display:none;background:#eee;width:36px;height:17px;border:solid 1px #333;top:-26px;margin-left:-18px;text-align:center;color:#111}.mejs-controls .mejs-time-rail .mejs-time-float-current{margin:2px;width:30px;display:block;text-align:center;left:0}.mejs-controls .mejs-time-rail .mejs-time-float-corner{position:absolute;display:block;width:0;height:0;line-height:0;border:solid 5px #eee;border-color:#eee transparent transparent;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:15px;left:13px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float{width:48px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-current{width:44px}.mejs-long-video .mejs-controls .mejs-time-rail .mejs-time-float-corner{left:18px}.mejs-controls .mejs-fullscreen-button button{background-position:-32px 0}.mejs-controls .mejs-unfullscreen button{background-position:-32px -16px}.mejs-controls .mejs-volume-button{}.mejs-controls .mejs-mute button{background-position:-16px -16px}.mejs-controls .mejs-unmute button{background-position:-16px 0}.mejs-controls .mejs-volume-button{position:relative}.mejs-controls .mejs-volume-button .mejs-volume-slider{height:115px;width:25px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);-webkit-border-radius:0;-moz-border-radius:0;border-radius:0;top:-115px;left:0;z-index:1;position:absolute;margin:0}.mejs-controls .mejs-volume-button:hover{-webkit-border-radius:0 0 4px 4px;-moz-border-radius:0 0 4px 4px;border-radius:0 0 4px 4px}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-total{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.5);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-current{position:absolute;left:11px;top:8px;width:2px;height:100px;background:#ddd;background:rgba(255,255,255,.9);margin:0}.mejs-controls .mejs-volume-button .mejs-volume-slider .mejs-volume-handle{position:absolute;left:4px;top:-3px;width:16px;height:6px;background:#ddd;background:rgba(255,255,255,.9);cursor:N-resize;-webkit-border-radius:1px;-moz-border-radius:1px;border-radius:1px;margin:0}.mejs-controls a.mejs-horizontal-volume-slider{height:26px;width:56px;position:relative;display:block;float:left;vertical-align:middle}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#333;background:rgba(50,50,50,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(30,30,30,.8)),to(rgba(60,60,60,.8)));background:-webkit-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-moz-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-o-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:-ms-linear-gradient(top,rgba(30,30,30,.8),rgba(60,60,60,.8));background:linear-gradient(rgba(30,30,30,.8),rgba(60,60,60,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current{position:absolute;left:0;top:11px;width:50px;height:8px;margin:0;padding:0;font-size:1px;-webkit-border-radius:2px;-moz-border-radius:2px;border-radius:2px;background:#fff;background:rgba(255,255,255,.8);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(255,255,255,.9)),to(rgba(200,200,200,.8)));background:-webkit-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-moz-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-o-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:-ms-linear-gradient(top,rgba(255,255,255,.9),rgba(200,200,200,.8));background:linear-gradient(rgba(255,255,255,.9),rgba(200,200,200,.8))}.mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-handle{display:none}.mejs-controls .mejs-captions-button{position:relative}.mejs-controls .mejs-captions-button button{background-position:-48px 0}.mejs-controls .mejs-captions-button .mejs-captions-selector{position:absolute;bottom:26px;right:-51px;width:85px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px 10px 0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-captions-button .mejs-captions-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li{margin:0 0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-captions-button .mejs-captions-selector ul li label{width:55px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:10px}.mejs-controls .mejs-captions-button .mejs-captions-translations{font-size:10px;margin:0 0 5px}.mejs-chapters{position:absolute;top:0;left:0;border-right:solid 1px #fff;width:10000px;z-index:1}.mejs-chapters .mejs-chapter{position:absolute;float:left;background:#222;background:rgba(0,0,0,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(50,50,50,.7)),to(rgba(0,0,0,.7)));background:-webkit-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-moz-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-o-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:-ms-linear-gradient(top,rgba(50,50,50,.7),rgba(0,0,0,.7));background:linear-gradient(rgba(50,50,50,.7),rgba(0,0,0,.7));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#323232, endColorstr=#000000);overflow:hidden;border:0}.mejs-chapters .mejs-chapter .mejs-chapter-block{font-size:11px;color:#fff;padding:5px;display:block;border-right:solid 1px #333;border-bottom:solid 1px #333;cursor:pointer}.mejs-chapters .mejs-chapter .mejs-chapter-block-last{border-right:0}.mejs-chapters .mejs-chapter .mejs-chapter-block:hover{background:#666;background:rgba(102,102,102,.7);background:-webkit-gradient(linear,0 0,0 100%,from(rgba(102,102,102,.7)),to(rgba(50,50,50,.6)));background:-webkit-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-moz-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-o-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:-ms-linear-gradient(top,rgba(102,102,102,.7),rgba(50,50,50,.6));background:linear-gradient(rgba(102,102,102,.7),rgba(50,50,50,.6));filter:progid:DXImageTransform.Microsoft.Gradient(GradientType=0, startColorstr=#666666, endColorstr=#323232)}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-title{font-size:12px;font-weight:700;display:block;white-space:nowrap;text-overflow:ellipsis;margin:0 0 3px;line-height:12px}.mejs-chapters .mejs-chapter .mejs-chapter-block .ch-timespan{font-size:12px;line-height:12px;margin:3px 0 4px;display:block;white-space:nowrap;text-overflow:ellipsis}.mejs-captions-layer{position:absolute;bottom:0;left:0;text-align:center;line-height:20px;font-size:16px;color:#fff}.mejs-captions-layer a{color:#fff;text-decoration:underline}.mejs-captions-layer[lang=ar]{font-size:20px;font-weight:400}.mejs-captions-position{position:absolute;width:100%;bottom:15px;left:0}.mejs-captions-position-hover{bottom:35px}.mejs-captions-text,.mejs__captions-text *{padding:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(20,20,20,.5);white-space:pre-wrap;-webkit-box-shadow:5px 0 0 rgba(20,20,20,.5),-5px 0 0 rgba(20,20,20,.5);box-shadow:5px 0 0 rgba(20,20,20,.5),-5px 0 0 rgba(20,20,20,.5)}.me-cannotplay{}.me-cannotplay a{color:#fff;font-weight:700}.me-cannotplay span{padding:15px;display:block}.mejs-controls .mejs-loop-off button{background-position:-64px -16px}.mejs-controls .mejs-loop-on button{background-position:-64px 0}.mejs-controls .mejs-backlight-off button{background-position:-80px -16px}.mejs-controls .mejs-backlight-on button{background-position:-80px 0}.mejs-controls .mejs-picturecontrols-button{background-position:-96px 0}.mejs-contextmenu{position:absolute;width:150px;padding:10px;border-radius:4px;top:0;left:0;background:#fff;border:solid 1px #999;z-index:1001}.mejs-contextmenu .mejs-contextmenu-separator{height:1px;font-size:0;margin:5px 6px;background:#333}.mejs-contextmenu .mejs-contextmenu-item{font-family:Helvetica,Arial,serif;font-size:12px;padding:4px 6px;cursor:pointer;color:#333}.mejs-contextmenu .mejs-contextmenu-item:hover{background:#2C7C91;color:#fff}.mejs-controls .mejs-sourcechooser-button{position:relative}.mejs-controls .mejs-sourcechooser-button button{background-position:-128px 0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector{position:absolute;bottom:26px;right:-10px;width:130px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:10px;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li{margin:0 0 6px;padding:0;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-sourcechooser-button .mejs-sourcechooser-selector ul li label{width:100px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:10px}.mejs-postroll-layer{position:absolute;bottom:0;left:0;width:100%;height:100%;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);z-index:1000;overflow:hidden}.mejs-postroll-layer-content{width:100%;height:100%}.mejs-postroll-close{position:absolute;right:0;top:0;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);color:#fff;padding:4px;z-index:100;cursor:pointer}div.mejs-speed-button{width:46px!important;position:relative}.mejs-controls .mejs-button.mejs-speed-button button{background:transparent;width:36px;font-size:11px;line-height:normal;color:#fff}.mejs-controls .mejs-speed-button .mejs-speed-selector{position:absolute;top:-100px;left:-10px;width:60px;height:100px;background:url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/019e02a0194687d6.png);background:rgba(50,50,50,.7);border:solid 1px transparent;padding:0;overflow:hidden;-webkit-border-radius:0;-moz-border-radius:0;border-radius:0}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li label.mejs-speed-selected{color:rgba(33,248,248,1)}.mejs-controls .mejs-speed-button .mejs-speed-selector ul{margin:0;padding:0;display:block;list-style-type:none!important;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li{margin:0 0 6px;padding:0 10px;list-style-type:none!important;display:block;color:#fff;overflow:hidden}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li input{clear:both;float:left;margin:3px 3px 0 5px}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li label{width:60px;float:left;padding:4px 0 0;line-height:15px;font-family:Helvetica,Arial,serif;font-size:11px;color:#fff;margin-left:5px;cursor:pointer}.mejs-controls .mejs-speed-button .mejs-speed-selector ul li:hover{background-color:#c8c8c8!important;background-color:rgba(255,255,255,.4)!important}.mejs-controls .mejs-button.mejs-jump-forward-button{background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/1b04fe65cf397777.png) no-repeat 3px 3px}.mejs-controls .mejs-button.mejs-jump-forward-button button{background:transparent;font-size:9px;line-height:normal;color:#fff}.mejs-controls .mejs-button.mejs-skip-back-button{background:transparent url(https://du11hjcvx0uqb.cloudfront.net/dist/webpack-production/83bc028944a3cf2a.png) no-repeat 3px 3px}.mejs-controls .mejs-button.mejs-skip-back-button button{background:transparent;font-size:9px;line-height:normal;color:#fff}</style><style type="text/css">/*
+ * Copyright (C) 2014 - present Instructure, Inc.
+ *
+ * This file is part of Canvas.
+ *
+ * Canvas is free software: you can redistribute it and/or modify it under
+ * the terms of the GNU Affero General Public License as published by the Free
+ * Software Foundation, version 3 of the License.
+ *
+ * Canvas is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU Affero General Public License for more
+ * details.
+ *
+ * You should have received a copy of the GNU Affero General Public License along
+ * with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/* customizations to mediaelementplayer css */
+
+/*
+  Because this file is not proccessed by our brandable_css sass pipeline,
+  it cannot use our sass-direction helpers. So we have to handle RTL manually
+  by putting direction-specific styles in [dir="ltr"] or [dir="rtl"] blocks.
+*/
+/* stylelint-disable property-disallowed-list, declaration-property-value-disallowed-list */
+
+/* good menu widths */
+.mejs-sourcechooser-selector {
+  width: 160px;
+}
+.mejs-sourcechooser-selector label {
+  width: 160px !important;
+}
+
+.mejs-captions-selector {
+  width: 105px;
+}
+[dir="ltr"]  .mejs-captions-selector { text-align: left }
+[dir="rtl"]  .mejs-captions-selector { text-align: right }
+
+.mejs-captions-selector label {
+  width: 70px !important;
+}
+
+/* Subtitile upload link */
+.mejs-captions-selector .upload-track {
+  color: white;
+  margin-top: 3px;
+  margin-bottom: 5px;
+}
+[dir="ltr"] .mejs-captions-selector .upload-track {
+  margin-right: 0px;
+  margin-left: 5px;
+  float: left;
+}
+[dir="rtl"] .mejs-captions-selector .upload-track {
+  margin-left: 0px;
+  margin-right: 5px;
+  float: right;
+}
+
+/* inherited caption "?" icon for tooltip */
+.mejs-captions-selector .track-tip-container {
+  position: absolute;
+  top: 5px;
+}
+
+/* "x" button to remove a subtitle */
+.mejs-captions-selector a[data-remove] {
+  position: absolute;
+  top: 5px;
+  color: white;
+}
+[dir="ltr"] .mejs-captions-selector a[data-remove] { right: 5px }
+[dir="rtl"] .mejs-captions-selector a[data-remove] { left: 5px }
+
+[dir="ltr"] .mejs-captions-selector .track-tip-container { right: 6px }
+[dir="rtl"] .mejs-captions-selector .track-tip-container { left: 6px }
+
+
+/* style menu items without a radio button */
+.mejs-button [role="menu"] {
+  padding: 0 !important;
+}
+ /* compensate for above 0 padding */
+ .mejs-button [role="menu"] ul li {
+  position: relative;
+  padding: 0 10px !important;
+}
+/* add a hover effect */
+.mejs-button [role="menu"] ul li:hover {
+  background-color: #c8c8c8 !important;
+  background-color: rgba(255, 255, 255, 0.4) !important;
+}
+.mejs-button [role="menu"] ul li input {
+  border: 0;
+  clip: rect(0 0 0 0);
+  position: absolute;
+  overflow: hidden;
+  margin: -1px;
+  padding: 0;
+  width: 1px;
+  height: 1px;
+}
+
+.mejs-button [role="menu"] ul li input[type="radio"]:not(:checked)+span {
+  display: none;
+}
+
+.mejs-button [role="menu"] ul li input[type="radio"]:checked+span {
+  display: inline;
+  position: absolute;
+  top: 5px;
+  left: 2px;
+}
+
+.mejs-button [role="menu"] ul li label {
+  cursor: pointer;
+}
+[dir="ltr"] .mejs-button [role="menu"] ul li label { margin-left: 5px }
+[dir="rtl"] .mejs-button [role="menu"] ul li label { margin-right: 5px }
+
+
+.mejs-button [role="menu"] label.mejs-selected {
+  color: #21f8f8 !important;
+}
+
+.mejs-button.mejs-speed-button .mejs-speed-selector{
+  height: 150px;
+}
+.mejs-button.mejs-speed-button .mejs-speed-selector li, label { margin-bottom: 0px; }
+
+/* stylelint-enable property-disallowed-list, declaration-property-value-disallowed-list */
+</style><style data-emotion="css" data-s=""></style></head>
+
+<body class="ic-framed-lti-tool with-left-side course-menu-expanded assignments primary-nav-expanded full-width context-course_2053263 responsive_student_grades_page ally-tooltips-enabled webkit chrome no-touch" style="overflow: auto;"><bettercanvas-portal style="overflow: visible; position: relative; width: 0px; height: 0px; display: block;"></bettercanvas-portal>
+
+<noscript>
+  <div role="alert" class="ic-flash-static ic-flash-error">
+    <div class="ic-flash__icon" aria-hidden="true">
+      <i class="icon-warning"></i>
+    </div>
+    <h1>You need to have JavaScript enabled in order to access this site.</h1>
+  </div>
+</noscript>
+
+
+
+
+<div id="flash_message_holder"></div>
+<div id="flash_screenreader_holder" role="alert" aria-live="assertive" aria-relevant="additions" class="screenreader-only" aria-atomic="true"></div>
+
+<div id="application" class="ic-app ">
+  
+
+
+
+
+<header id="mobile-header" class="no-print">
+  <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-hamburger">
+    <i class="icon-solid icon-hamburger"></i>
+    <span id="mobileHeaderInboxUnreadBadge" class="menu-item__badge" style="min-width: 0; top: 12px; height: 12px; right: 6px; display:none;"></span>
+    <span class="screenreader-only">Global Navigation Menu</span>
+  </button>
+  <div class="mobile-header-space"></div>
+    <a class="mobile-header-title expandable" href="/courses/2053263" role="button" aria-controls="mobileContextNavContainer">
+      <div>SEQUENCES AND SERIES (MTH_253Z_400_U2026)</div>
+        <div>Week 5 Web Homework: Comparison and Alternate Series Tests</div>
+    </a>
+
+  <div id="nutrition_facts_mobile_container"></div>
+
+    <div id="immersive_reader_mobile_mount_point"></div>
+
+    <div class="mobile-header-space"></div>
+    <button type="button" class="Button Button--icon-action-rev Button--large mobile-header-arrow" aria-label="Navigation Menu">
+      <i class="icon-arrow-open-down" id="mobileHeaderArrowIcon"></i>
+    </button>
+</header>
+<nav id="mobileContextNavContainer" aria-expanded="false"><div></div></nav>
+
+<header id="header" class="ic-app-header no-print " aria-label="Global Header">
+  <a href="#content" id="skip_navigation_link">Skip To Content</a>
+  <div role="region" class="ic-app-header__main-navigation" aria-label="Global Navigation">
+    <ul id="menu" class="ic-app-header__menu-list"><bettercampus-element style="opacity: 1; transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1);"></bettercampus-element>
+        <li class="menu-item ic-app-header__menu-list-item ">
+          <a id="global_nav_profile_link" role="button" href="/profile/settings" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container">
+              <div aria-hidden="true" class="fs-exclude ic-avatar ">
+                <img src="https://canvas.oregonstate.edu/images/thumbnails/115931682/PyazF7HXLqdIx88UacqdhcDItL6i1JMqq4ZSqbDE" alt="Jacob Peterson">
+              </div>
+              <span class="menu-item__badge"></span>
+            </div>
+            <div class="menu-item__text">
+              Account
+            </div>
+          </a>
+        </li>
+      <li class="ic-app-header__menu-list-item ">
+        <a id="global_nav_dashboard_link" href="https://canvas.oregonstate.edu/" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--dashboard" version="1.1" x="0" y="0" viewBox="0 0 280 200" enable-background="new 0 0 280 200" xml:space="preserve"><path d="M273.09,180.75H197.47V164.47h62.62A122.16,122.16,0,1,0,17.85,142a124,124,0,0,0,2,22.51H90.18v16.29H6.89l-1.5-6.22A138.51,138.51,0,0,1,1.57,142C1.57,65.64,63.67,3.53,140,3.53S278.43,65.64,278.43,142a137.67,137.67,0,0,1-3.84,32.57ZM66.49,87.63,50.24,71.38,61.75,59.86,78,76.12Zm147,0L202,76.12l16.25-16.25,11.51,11.51ZM131.85,53.82v-23h16.29v23Zm15.63,142.3a31.71,31.71,0,0,1-28-16.81c-6.4-12.08-15.73-72.29-17.54-84.25a8.15,8.15,0,0,1,13.58-7.2c8.88,8.21,53.48,49.72,59.88,61.81a31.61,31.61,0,0,1-27.9,46.45ZM121.81,116.2c4.17,24.56,9.23,50.21,12,55.49A15.35,15.35,0,1,0,161,157.3C158.18,152,139.79,133.44,121.81,116.2Z"></path></svg>
+
+          </div>
+          <div class="menu-item__text">
+            Dashboard
+          </div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item ic-app-header__menu-list-item--active" aria-current="page">
+          <a id="global_nav_courses_link" role="button" href="/courses" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--courses" version="1.1" x="0" y="0" viewBox="0 0 280 259" enable-background="new 0 0 280 259" xml:space="preserve"><path d="M73.31,198c-11.93,0-22.22,8-24,18.73a26.67,26.67,0,0,0-.3,3.63v.3a22,22,0,0,0,5.44,14.65,22.47,22.47,0,0,0,17.22,8H200V228.19h-134V213.08H200V198Zm21-105.74h90.64V62H94.3ZM79.19,107.34V46.92H200v60.42Zm7.55,30.21V122.45H192.49v15.11ZM71.65,16.71A22.72,22.72,0,0,0,49,39.36V190.88a41.12,41.12,0,0,1,24.32-8h157V16.71ZM33.88,39.36A37.78,37.78,0,0,1,71.65,1.6H245.36V198H215.15v45.32h22.66V258.4H71.65a37.85,37.85,0,0,1-37.76-37.76Z"></path></svg>
+
+            </div>
+            <div class="menu-item__text">
+              Courses
+            </div>
+          </a>
+        </li>
+        <li class="menu-item ic-app-header__menu-list-item ">
+          <a id="global_nav_groups_link" role="button" href="/groups" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--groups" viewBox="0 0 200 135"><path d="M134.5 129.4c0-1.1 0-19.8-6.2-31.1-4.5-8.5-16.4-12.4-35-19.2-1.7-.6-3.4-1.1-5.1-1.7v-8.5c5.6-5.1 8.5-12.4 8.5-20.3V29.4C96.6 13 83.6 0 67.2 0S37.9 13 37.9 29.4v19.2c0 7.3 3.4 14.7 8.5 20.3v8.5c-1.7.6-3.4 1.1-5.1 1.7-18.6 6.2-30.5 10.7-35 19.2C0 109.6 0 128.8 0 129.4c0 3.4 2.3 5.6 5.6 5.6h123.7c3.5 0 5.7-2.3 5.2-5.6zm-123.2-5.7c.6-5.6 1.7-14.7 3.4-19.8C17 98.8 30 94.3 43.5 89.8c2.8-1.1 5.6-2.3 9-3.4 2.3-.6 4-2.8 4-5.1V66.7c0-1.7-.6-3.4-1.7-4.5-4-3.4-6.2-8.5-6.2-13.6V29.4c0-10.2 7.9-18.1 18.1-18.1s18.1 7.9 18.1 18.1v19.2c0 5.1-2.3 10.2-6.2 13.6-1.1 1.1-1.7 2.8-1.7 4.5v14.7c0 2.3 1.7 4.5 4 5.1 2.8 1.1 6.2 2.3 9 3.4 13.6 5.1 26.6 9.6 28.8 14.1 2.8 5.1 4 13.6 4.5 19.8H11.3zM196 79.1c-2.8-6.2-11.3-9.6-22.6-13.6l-1.7-.6v-3.4c4.5-4 6.8-9.6 6.8-15.8V35c0-12.4-9.6-22-22-22s-22 10.2-22 22v10.7c0 6.2 2.3 11.9 6.8 15.8V65l-1.7.6c-7.3 2.8-13 4.5-16.9 7.3-1.7 1.1-2.3 2.8-2.3 5.1.6 1.7 1.7 3.4 3.4 4.5 7.9 4 12.4 7.3 14.1 10.7 2.3 4.5 4 10.2 5.1 18.1.6 2.3 2.8 4.5 5.6 4.5h45.8c3.4 0 5.6-2.8 5.6-5.1 0-3.9 0-24.3-4-31.6zm-42.9 25.4c-1.1-6.8-2.8-12.4-5.1-16.9-1.7-4-5.1-6.8-9.6-10.2 1.7-1.1 3.4-1.7 5.1-2.3l5.6-2.3c1.7-.6 3.4-2.8 3.4-5.1v-9.6c0-1.7-.6-3.4-2.3-4.5-2.8-1.7-4.5-5.1-4.5-8.5V34.5c0-6.2 4.5-10.7 10.7-10.7s10.7 5.1 10.7 10.7v10.7c0 3.4-1.7 6.2-4.5 8.5-1.1 1.1-2.3 2.8-2.3 4.5v10.2c0 2.3 1.1 4.5 3.4 5.1l5.6 2.3c6.8 2.3 15.3 5.6 16.4 7.9 1.7 2.8 2.8 12.4 2.8 20.9h-35.4z"></path></svg>
+
+            </div>
+            <div class="menu-item__text">
+              Groups
+            </div>
+          </a>
+        </li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+        <a id="global_nav_calendar_link" href="/calendar" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--calendar" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M197.07,213.38h16.31V197.07H197.07Zm-16.31,16.31V180.76h48.92v48.92Zm-48.92-16.31h16.31V197.07H131.85Zm-16.31,16.31V180.76h48.92v48.92ZM66.62,213.38H82.93V197.07H66.62ZM50.32,229.68V180.76H99.24v48.92Zm146.75-81.53h16.31V131.85H197.07Zm-16.31,16.31V115.54h48.92v48.92Zm-48.92-16.31h16.31V131.85H131.85Zm-16.31,16.31V115.54h48.92v48.92ZM66.62,148.15H82.93V131.85H66.62ZM50.32,164.46V115.54H99.24v48.92ZM34,262.29H246V82.93H34ZM246,66.62V42.16A8.17,8.17,0,0,0,237.84,34H213.38v8.15a8.15,8.15,0,1,1-16.31,0V34H82.93v8.15a8.15,8.15,0,0,1-16.31,0V34H42.16A8.17,8.17,0,0,0,34,42.16V66.62Zm-8.15-48.92a24.49,24.49,0,0,1,24.46,24.46V278.6H17.71V42.16A24.49,24.49,0,0,1,42.16,17.71H66.62V9.55a8.15,8.15,0,0,1,16.31,0v8.15H197.07V9.55a8.15,8.15,0,1,1,16.31,0v8.15Z"></path></svg>
+
+          </div>
+          <div class="menu-item__text">
+            Calendar
+          </div>
+        </a>
+      </li><li class="ic-app-header__menu-list-item">   <a id="global_nav_Resources" href="https://success.oregonstate.edu/academic-support" class="ic-app-header__menu-list-link" target="_blank"><div class="menu-item-icon-container" role="presentation"><i class="icon-note-light custom_menu_list_icon"></i></div>       <div class="menu-item__text custom-menu-item__text">Resources</div>   </a></li>
+      <li class="menu-item ic-app-header__menu-list-item ">
+      <!-- TODO: Add back global search when available -->
+        <a id="global_nav_conversations_link" href="/conversations" class="ic-app-header__menu-list-link">
+          <div class="menu-item-icon-container">
+            <span aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--inbox" version="1.1" x="0" y="0" viewBox="0 0 280 280" enable-background="new 0 0 280 280" xml:space="preserve"><path d="M91.72,120.75h96.56V104.65H91.72Zm0,48.28h80.47V152.94H91.72Zm0-96.56h80.47V56.37H91.72Zm160.94,34.88H228.52V10.78h-177v96.56H27.34A24.17,24.17,0,0,0,3.2,131.48V244.14a24.17,24.17,0,0,0,24.14,24.14H252.66a24.17,24.17,0,0,0,24.14-24.14V131.48A24.17,24.17,0,0,0,252.66,107.34Zm0,16.09a8.06,8.06,0,0,1,8,8v51.77l-32.19,19.31V123.44ZM67.58,203.91v-177H212.42v177ZM27.34,123.44H51.48v79.13L19.29,183.26V131.48A8.06,8.06,0,0,1,27.34,123.44ZM252.66,252.19H27.34a8.06,8.06,0,0,1-8-8V202l30,18H230.75l30-18v42.12A8.06,8.06,0,0,1,252.66,252.19Z"></path></svg>
+</span>
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Inbox
+          </div>
+        </a>
+      </li>
+        <li class="menu-item ic-app-header__menu-list-item">
+          <a id="global_nav_history_link" role="button" href="#" class="ic-app-header__menu-list-link">
+            <div class="menu-item-icon-container" aria-hidden="true">
+              <svg viewBox="0 0 1920 1920" class="ic-icon-svg menu-item__icon svg-icon-history" version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <path d="M960 112.941c-467.125 0-847.059 379.934-847.059 847.059 0 467.125 379.934 847.059 847.059 847.059 467.125 0 847.059-379.934 847.059-847.059 0-467.125-379.934-847.059-847.059-847.059M960 1920C430.645 1920 0 1489.355 0 960S430.645 0 960 0s960 430.645 960 960-430.645 960-960 960m417.905-575.955L903.552 988.28V395.34h112.941v536.47l429.177 321.77-67.765 90.465z" stroke="none" stroke-width="1" fill-rule="evenodd"></path>
+</svg>
+            </div>
+            <div class="menu-item__text">
+              History
+            </div>
+          </a>
+        </li>
+        
+    <li id="context_external_tool_234128_menu_item" data-tool-id="my-media-234128" class="globalNavExternalTool menu-item ic-app-header__menu-list-item">
+      <a class="ic-app-header__menu-list-link" href="/accounts/97009/external_tools/234128?launch_type=global_navigation&amp;toolId=my-media-234128" target="">
+          <img src="https://lmsadmin.isadm.oregonstate.edu/static/filmstrip_off_black_boxy6.svg" alt="Kaltura 1.3" class="lti_tool_icon_large">
+        <div class="menu-item__text">
+          My Media
+        </div>
+      </a>
+    </li>
+
+      <li class="ic-app-header__menu-list-item">
+        <a id="global_nav_help_link" role="button" class="ic-app-header__menu-list-link" data-track-category="help system" data-track-label="help button" href="#">
+          <div class="menu-item-icon-container" role="presentation">
+              <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg menu-item__icon svg-icon-help" version="1.1" x="0" y="0" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve" fill="currentColor"><path d="M100,127.88A11.15,11.15,0,1,0,111.16,139,11.16,11.16,0,0,0,100,127.88Zm8.82-88.08a33.19,33.19,0,0,1,23.5,23.5,33.54,33.54,0,0,1-24,41.23,3.4,3.4,0,0,0-2.74,3.15v9.06H94.42v-9.06a14.57,14.57,0,0,1,11.13-14,22.43,22.43,0,0,0,13.66-10.27,22.73,22.73,0,0,0,2.31-17.37A21.92,21.92,0,0,0,106,50.59a22.67,22.67,0,0,0-19.68,3.88,22.18,22.18,0,0,0-8.65,17.64H66.54a33.25,33.25,0,0,1,13-26.47A33.72,33.72,0,0,1,108.82,39.8ZM100,5.2A94.8,94.8,0,1,0,194.8,100,94.91,94.91,0,0,0,100,5.2m0,178.45A83.65,83.65,0,1,1,183.65,100,83.73,83.73,0,0,1,100,183.65" transform="translate(-5.2 -5.2)"></path></svg>
+
+            <span class="menu-item__badge"></span>
+          </div>
+          <div class="menu-item__text">
+            Help
+          </div>
+</a>      </li>
+    </ul>
+  </div>
+  <div class="ic-app-header__secondary-navigation">
+    <ul class="ic-app-header__menu-list">
+      <li class="menu-item ic-app-header__menu-list-item">
+        <a id="primaryNavToggle" role="button" href="#" class="ic-app-header__menu-list-link ic-app-header__menu-list-link--nav-toggle" aria-label="Minimize global navigation" title="Minimize global navigation">
+          <div class="menu-item-icon-container" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" class="ic-icon-svg ic-icon-svg--navtoggle" version="1.1" x="0" y="0" width="40" height="32" viewBox="0 0 40 32" xml:space="preserve">
+  <path d="M39.5,30.28V2.48H37.18v27.8Zm-4.93-13.9L22.17,4,20.53,5.61l9.61,9.61H.5v2.31H30.14l-9.61,9.61,1.64,1.64Z"></path>
+</svg>
+
+          </div>
+        </a>
+      </li>
+    </ul>
+  </div>
+  <div id="global_nav_tray_container"></div>
+  <div id="global_nav_tour"></div>
+</header>
+
+
+  <div id="instructure_ajax_error_box">
+    <div style="text-align: right; background-color: #fff;"><a href="#" class="close_instructure_ajax_error_box_link">Close</a></div>
+    <iframe id="instructure_ajax_error_result" src="about:blank" style="border: 0;" title="Error"></iframe>
+  </div>
+
+  <div id="wrapper" class="ic-Layout-wrapper">
+        <div class="ic-app-nav-toggle-and-crumbs no-print">
+            <button type="button" id="courseMenuToggle" class="Button Button--link ic-app-course-nav-toggle" aria-live="polite" aria-label="Hide Courses Navigation Menu">
+              <i class="icon-hamburger" aria-hidden="true"></i>
+            </button>
+
+          <div class="ic-app-crumbs ic-app-crumbs-enhanced-rubrics">
+              <nav id="breadcrumbs" role="navigation" aria-label="breadcrumbs"><ol><li class="home"><a href="/"><span class="ellipsible ellipsis" style="max-width: 100px;"><i class="icon-home" title="My Dashboard"><span class="screenreader-only">My Dashboard</span></i></span></a></li><li><a href="/courses/2053263"><span class="ellipsible">SEQUENCES AND SERIES (MTH_253Z_400_U2026)</span></a></li><li><a href="/courses/2053263/assignments"><span class="ellipsible">Assignments</span></a></li><li><a href="https://canvas.oregonstate.edu/courses/2053263/assignments/10584434"><span class="ellipsible">Week 5 Web Homework: Comparison and Alternate Series Tests</span></a></li><li aria-current="page"><span class="ellipsible">Week 5 Web Homework: Comparison and Alternate Series Tests</span></li></ol></nav>
+          </div>
+
+
+          <div id="nutrition_facts_container"></div>
+          <div class="right-of-crumbs right-of-crumbs-no-reverse">
+              <div id="immersive_reader_mount_point"></div>
+              
+            <div id="ai-information-mount"></div>
+          </div>
+
+        </div>
+    <div id="main" class="ic-Layout-columns">
+        <div class="ic-Layout-watermark" aria-hidden="true"></div>
+        <div id="left-side" class="ic-app-course-menu ic-sticky-on list-view" style="display: block">
+          <div id="sticky-container" class="ic-sticky-frame">
+              <span id="section-tabs-header-subtitle" class="ellipsis">Summer 2026</span>
+            <nav role="navigation" aria-label="Courses Navigation Menu"><ul id="section-tabs"><li class="section"><a id="home-link" href="/courses/2053263" class="home" tabindex="0">Home</a></li><li class="section"><a id="announcements-link" href="/courses/2053263/announcements" class="announcements" tabindex="0">Announcements</a></li><li class="section"><a id="syllabus-link" href="/courses/2053263/assignments/syllabus" class="syllabus" tabindex="0">Syllabus</a></li><li class="section"><a id="grades-link" href="/courses/2053263/grades" class="grades" tabindex="0">Grades<b class="nav-badge">2</b></a></li><li class="section"><a id="modules-link" href="/courses/2053263/modules" class="modules" tabindex="0">Modules</a></li><li class="section"><a id="discussions-link" href="/courses/2053263/discussion_topics" class="discussions" tabindex="0">Discussions</a></li><li class="section"><a id="context_external_tool_234121-link" href="/courses/2053263/external_tools/234121?display=borderless" class="context_external_tool_234121" rel="opener" target="_blank" tabindex="0">Gradescope</a></li><li class="section"><a id="quizzes-link" href="/courses/2053263/quizzes" class="quizzes" tabindex="0">Quizzes</a></li><li class="section"><a id="context_external_tool_278415-link" href="/courses/2053263/external_tools/278415" class="context_external_tool_278415" tabindex="0">Student Services</a></li><li class="section"><a id="context_external_tool_118915-link" href="/courses/2053263/external_tools/118915" class="context_external_tool_118915" tabindex="0">Macmillan Learning</a></li><li class="section"><a id="context_external_tool_234230-link" href="/courses/2053263/external_tools/234230" class="context_external_tool_234230" tabindex="0">Zoom</a></li><li class="section"><a id="context_external_tool_270765-link" href="/courses/2053263/external_tools/270765" class="context_external_tool_270765" tabindex="0">Online Tutoring</a></li></ul></nav>
+          </div>
+        </div>
+      <div id="not_right_side" class="ic-app-main-content">
+        <div id="content-wrapper" class="ic-Layout-contentWrapper">
+          
+          <div id="content" class="ic-Layout-contentMain" role="main">
+            
+
+
+  
+
+
+
+
+<div id="assignment_show">
+  <div class="assignment-title">
+    <div class="title-content">
+      <div style="margin-top: 2rem">
+        <h1 class="title">
+          Week 5 Web Homework: Comparison and Alternate Series Tests
+        </h1>
+      </div>
+    </div>
+    <div class="assignment-buttons">
+      <span style="display: inline-block">
+        
+
+      </span>
+    </div>
+  </div>
+    
+<ul class="student-assignment-overview">
+  <li>
+    <span class="title">Due</span>
+    <span class="value">
+          <span class="date_text">
+              <span class="display_date">Jul 26</span> by <span class="display_time">11:59pm</span>
+          </span><!--
+        --></span>
+  </li>
+    <li>
+      <span class="title">Points</span>
+      <span class="value">100</span>
+    </li>
+    <li>
+      <span class="title">Submitting</span>
+      <span class="value">an external tool</span>
+    </li>
+  
+
+  <div class="clear"></div>
+</ul>
+
+</div>
+
+
+
+
+<div class="tool_content_wrapper
+  ">
+  <form action="https://lmslink.bfwpub.com/index.php?custom_action=openItem&amp;custom_resource_id=17f19192-91d1-4ff9-8a59-3b254616ed32&amp;custom_template_root=70d3d0cc-70c2-4034-9d0d-1ba6470805c7" class="hide" method="POST" target="_blank" id="tool_form_163" data-tool-launch-type="window" data-tool-id="macmillan_learning_prod" data-tool-path="/index.php" data-message-type="tool_launch" style="display: block;">
+      <input type="hidden" name="oauth_consumer_key" id="oauth_consumer_key" value="4h5uxk9gv1hb8fej631fb3yvs03wjpi2" autocomplete="off">
+      <input type="hidden" name="oauth_signature_method" id="oauth_signature_method" value="HMAC-SHA1" autocomplete="off">
+      <input type="hidden" name="oauth_timestamp" id="oauth_timestamp" value="1783039983" autocomplete="off">
+      <input type="hidden" name="oauth_nonce" id="oauth_nonce" value="eSHGErmkeVTznhn10CVFS3TpjrGjUHVsLs4vmvxurY" autocomplete="off">
+      <input type="hidden" name="oauth_version" id="oauth_version" value="1.0" autocomplete="off">
+      <input type="hidden" name="context_id" id="context_id" value="08a36a5daba184797196ab54614b10e15735bda3" autocomplete="off">
+      <input type="hidden" name="context_label" id="context_label" value="SEQUENCES AND SERIES (MTH_253Z_400_U2026)" autocomplete="off">
+      <input type="hidden" name="context_title" id="context_title" value="SEQUENCES AND SERIES (MTH_253Z_400_U2026)" autocomplete="off">
+      <input type="hidden" name="custom_action" id="custom_action" value="openItem" autocomplete="off">
+      <input type="hidden" name="custom_canvas_assignment_points_possible" id="custom_canvas_assignment_points_possible" value="100" autocomplete="off">
+      <input type="hidden" name="custom_canvas_assignment_title" id="custom_canvas_assignment_title" value="Week 5 Web Homework: Comparison and Alternate Series Tests" autocomplete="off">
+      <input type="hidden" name="custom_canvas_course_id" id="custom_canvas_course_id" value="2053263" autocomplete="off">
+      <input type="hidden" name="custom_canvas_enrollment_state" id="custom_canvas_enrollment_state" value="active" autocomplete="off">
+      <input type="hidden" name="custom_canvas_user_id" id="custom_canvas_user_id" value="6660414" autocomplete="off">
+      <input type="hidden" name="custom_resource_id" id="custom_resource_id" value="17f19192-91d1-4ff9-8a59-3b254616ed32" autocomplete="off">
+      <input type="hidden" name="custom_template_root" id="custom_template_root" value="70d3d0cc-70c2-4034-9d0d-1ba6470805c7" autocomplete="off">
+      <input type="hidden" name="ext_ims_lis_basic_outcome_url" id="ext_ims_lis_basic_outcome_url" value="https://canvas.oregonstate.edu/api/lti/v1/tools/118915/ext_grade_passback" autocomplete="off">
+      <input type="hidden" name="ext_lti_assignment_id" id="ext_lti_assignment_id" value="68e10450-d92a-4dca-8fbe-78dc911d9fda" autocomplete="off">
+      <input type="hidden" name="ext_outcome_data_values_accepted" id="ext_outcome_data_values_accepted" value="url,text" autocomplete="off">
+      <input type="hidden" name="ext_outcome_result_total_score_accepted" id="ext_outcome_result_total_score_accepted" value="true" autocomplete="off">
+      <input type="hidden" name="ext_outcome_submission_needs_additional_review_accepted" id="ext_outcome_submission_needs_additional_review_accepted" value="true" autocomplete="off">
+      <input type="hidden" name="ext_outcome_submission_prioritize_non_tool_grade_accepted" id="ext_outcome_submission_prioritize_non_tool_grade_accepted" value="true" autocomplete="off">
+      <input type="hidden" name="ext_outcome_submission_submitted_at_accepted" id="ext_outcome_submission_submitted_at_accepted" value="true" autocomplete="off">
+      <input type="hidden" name="ext_outcomes_tool_placement_url" id="ext_outcomes_tool_placement_url" value="https://canvas.oregonstate.edu/api/lti/v1/turnitin/outcomes_placement/118915" autocomplete="off">
+      <input type="hidden" name="ext_roles" id="ext_roles" value="urn:lti:instrole:ims/lis/Student,urn:lti:role:ims/lis/Learner,urn:lti:sysrole:ims/lis/User" autocomplete="off">
+      <input type="hidden" name="launch_presentation_document_target" id="launch_presentation_document_target" value="iframe" autocomplete="off">
+      <input type="hidden" name="launch_presentation_locale" id="launch_presentation_locale" value="en" autocomplete="off">
+      <input type="hidden" name="launch_presentation_return_url" id="launch_presentation_return_url" value="https://canvas.oregonstate.edu/courses/2053263/modules" autocomplete="off">
+      <input type="hidden" name="lis_outcome_service_url" id="lis_outcome_service_url" value="https://canvas.oregonstate.edu/api/lti/v1/tools/118915/grade_passback" autocomplete="off">
+      <input type="hidden" name="lis_result_sourcedid" id="lis_result_sourcedid" value="118915-2053263-10584434-6660414-6da632c26cfe8aa072a0abc4b1bc7f33e2de4c8e" autocomplete="off">
+      <input type="hidden" name="lti_message_type" id="lti_message_type" value="basic-lti-launch-request" autocomplete="off">
+      <input type="hidden" name="lti_version" id="lti_version" value="LTI-1p0" autocomplete="off">
+      <input type="hidden" name="oauth_callback" id="oauth_callback" value="about:blank" autocomplete="off">
+      <input type="hidden" name="resource_link_id" id="resource_link_id" value="927a04c756c9569e5e3390f9de3004902d52a233" autocomplete="off">
+      <input type="hidden" name="resource_link_title" id="resource_link_title" value="Week 5 Web Homework: Comparison and Alternate Series Tests" autocomplete="off">
+      <input type="hidden" name="roles" id="roles" value="Learner" autocomplete="off">
+      <input type="hidden" name="tool_consumer_info_product_family_code" id="tool_consumer_info_product_family_code" value="canvas" autocomplete="off">
+      <input type="hidden" name="tool_consumer_info_version" id="tool_consumer_info_version" value="cloud" autocomplete="off">
+      <input type="hidden" name="tool_consumer_instance_contact_email" id="tool_consumer_instance_contact_email" value="notifications@instructure.com" autocomplete="off">
+      <input type="hidden" name="tool_consumer_instance_guid" id="tool_consumer_instance_guid" value="132dd7c63118da074c378722abba7086628b2496.oregonstate.instructure.com" autocomplete="off">
+      <input type="hidden" name="tool_consumer_instance_name" id="tool_consumer_instance_name" value="Oregon State University" autocomplete="off">
+      <input type="hidden" name="user_id" id="user_id" value="eaca7ff79526a8a47359d4fd056a1d0b9f3704ff" autocomplete="off">
+      <input type="hidden" name="oauth_signature" id="oauth_signature" value="c/roB5sbUro0GZ933OfIIVPPxA8=" autocomplete="off">
+  <div style="margin-bottom: 20px;">
+      <div class="load_tab">
+          This tool needs to be loaded in a new browser window
+          <div style="margin: 10px 0;">
+              <button class="btn" type="submit" data-expired_message="The session for this tool has expired. Please reload the page to access the tool again">
+                  Load Week 5 Web Homework: Comparison and Alternate Series Tests in a new window
+              </button>
+          </div>
+      </div>
+      <div class="tab_loaded" style="display: none;">
+          This tool was successfully loaded in a new browser window. Reload the page to access the tool again.
+      </div>
+  </div>
+  </form>
+
+</div>
+
+
+
+<!--Show partial rubrics ERB if enhanced_rubrics_assignments is not enabled or in Student View-->
+  
+
+
+
+  <div id="rubrics" class="mathjax_ignore" style="margin-bottom: 10px;">
+    <div style="display: none;" id="rubric_parameters">
+      <input type="hidden" name="rubric_association[association_type]" value="Assignment">
+      <input type="hidden" name="rubric_association[association_id]" value="10584434">
+      <input type="hidden" name="rubric_association[purpose]" value="grading">
+    </div>
+    
+<div id="rubric_long_description_dialog" style="display: none;">
+  <div class="editing">
+    <form id="edit_criterion_form" class="no-margin-bottom">
+      <div>
+        <label class="rating_form_label">Description
+          <textarea class="description" rows="1" name="description"></textarea>
+        </label>
+        <i class="icon-warning icon-Solid description_error_message" aria-hidden="true" style="color: red; display: none">
+          Please include a description
+        </i>
+      </div>
+      <div>
+        <label class="rating_form_label">Long Description
+          <textarea class="long_description" rows="4" name="long_description"></textarea>
+        </label>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn btn button-secondary cancel_button">Cancel</button>
+        <button type="button" class="btn save_button btn-primary">Update Criterion</button>
+      </div>
+    </form>
+  </div>
+  <div class="displaying">
+    <div class="long_description">
+    </div>
+  </div>
+</div>
+<div id="rubric_criterion_comments_dialog" style="display: none;">
+  <div class="criterion_description" style="border-bottom: 1px solid #ccc; padding: 5px 0; font-size: 1.2em; font-weight: bold; margin-bottom: 5px;" tabindex="-1"></div>
+  <div class="editing">
+    <label for="criterion_comments_textarea">
+      Additional Comments:
+    </label>
+    <textarea id="criterion_comments_textarea" class="criterion_comments" name="criterion_comments" style="width: 370px;"></textarea>
+    <div class="button-container">
+      <button type="button" class="btn btn button-secondary cancel_button">Cancel</button>
+      <button type="button" class="btn save_button">Update Comments</button>
+    </div>
+  </div>
+  <div class="displaying">
+    Additional Comments:
+    <div class="criterion_comments" style="margin-top: 10px;">
+    </div>
+  </div>
+</div>
+<div id="rubric_rating_dialog" style="display: none;">
+  <div class="description" style="border-bottom: 1px solid #ccc; padding: 5px 0; font-size: 1.2em; font-weight: bold; margin-bottom: 5px;">
+    <span id="edit_rating_form_criterion_description"></span>
+  </div>
+  <div class="editing">
+    <form id="edit_rating_form" class="no-margin-bottom">
+      <div class="toggle_for_hide_points">
+        <div><label id="rating_form_score_label" class="rating_form_label">Rating Score</label></div>
+        <span id="rating_form_max_score_label" hidden="">Rating max score</span>
+        <input id="points" aria-labelledby="rating_form_score_label" type="text" size="2" name="points" class="no-margin-bottom span1">
+        <span class="range_rating">to &gt;
+          <input aria-label="Rating min score" type="text" size="2" name="min_points" class="no-margin-bottom span1 min_points" placeholder="min">
+        </span>pts
+      </div>
+      <div>
+        <label for="rating_form_title" class="rating_form_label">Rating Title</label>
+        <input id="rating_form_title" type="text" class="rating_description" style="width: 90%;" name="description">
+        <i class="icon-warning icon-Solid description_error_message" aria-hidden="true" style="color: red; display: none">
+          Please include a rating title
+        </i>
+      </div>
+      <div>
+        <label for="rating_form_description" class="rating_form_label">Rating Description</label>
+        <textarea id="rating_form_description" rows="4" style="width: 90%;" class="rating_long_description" name="rating_long_description" form="edit_rating_form"></textarea>
+      </div>
+      <div class="button-container">
+        <button type="button" class="btn button-secondary cancel_button">Cancel</button>
+        <button type="button" class="btn btn-primary save_button ok_button">Update Rating</button>
+      </div>
+    </form>
+  </div>
+</div>
+
+  </div>
+  
+  <div class="rubric_container rubric  " id="default_rubric" style="display: none;">
+    <div class="screenreader-only rubric-screenreader-title">
+      <h2>
+        Rubric
+      </h2>
+    </div>
+    <div class="rubric_title">
+      <div class="editing" style="text-align: left">
+        <label class="rubric-title-label">
+          Title:
+          <input id="rubric-title" type="text" class="no-margin-bottom" name="title" value="Some Rubric" style="width: 200px;" maxlength="255">
+        </label>
+        <a href="https://canvas.oregonstate.edu/search/rubrics?q=" style="display: none;" aria-hidden="true">
+          <img alt="" src="https://du11hjcvx0uqb.cloudfront.net/dist/images/find-6164443e2a.png"> Find Rubric
+        </a>
+        <div class="editing">
+          <i class="icon-warning icon-Solid title_error_message" aria-hidden="true" style="color: #AE1B1F; padding: 5px 0 5px 35px; vertical-align: middle; font-weight: normal;
+                    display: none; align-items: center; gap: 5px; font-size: 14px;">
+            Please include a title
+          </i>
+        </div>
+      </div>
+
+      <div class="editing">
+        <a href="https://canvas.oregonstate.edu/search/rubrics?q=" class="find_rubric_link icon-search" role="button" style="" title="Find Existing Rubric">
+          Find a Rubric
+        </a>
+      </div>
+
+      <div class="displaying">
+        <span class="title" tabindex="-1">Title</span>
+      </div>
+      <div class="has-assessments-warning" style="display: none;">
+        You've already rated students with this rubric. Any major changes could affect their assessment results.
+      </div>
+
+      <div style="display: none;" class="links displaying pull-right">
+        <a href="/courses/2053263/rubrics/%7B%7B%20id%20%7D%7D" class=" edit_rubric_link no-print no-hover" style="" title="Edit Rubric" aria-label="Edit Rubric" role="button"><i class="icon-edit standalone-icon"></i></a>
+        <a href="https://canvas.oregonstate.edu/search/rubrics?q=" class="find_rubric_link no-print no-hover" style="" title="Find Another Rubric" aria-label="Find Another Rubric" role="button"><i class="icon-search standalone-icon"></i></a>
+          <a href="/courses/2053263/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D" class="delete_rubric_link no-print no-hover" style="" title="Delete Rubric" aria-label="Delete Rubric" role="button"><i class="icon-trash standalone-icon"></i></a>
+        <div style="display: none;">
+          <div class="use_for_grading">&nbsp;</div>
+          <div class="free_form_criterion_comments">&nbsp;</div>
+          <div class="hide_score_total">&nbsp;</div>
+          <div class="hide_outcome_results">&nbsp;</div>
+          <div class="hide_points">&nbsp;</div>
+          <div class="rubric_association_id">&nbsp;</div>
+            <div class="user_id">&nbsp;</div>
+          <div class="assessment_type"></div>
+          <a href="/courses/2053263/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D/assessments/%7B%7B%20assessment_id%20%7D%7D" rel="nofollow" class="edit_assessment_link">&nbsp;</a>
+          <a href="/courses/2053263/rubrics/%7B%7B%20rubric_id%20%7D%7D" class="edit_rubric_url">&nbsp;</a>
+            <a href="/courses/2053263/rubric_associations/%7B%7B%20association_id%20%7D%7D" class="delete_rubric_url">&nbsp;</a>
+        </div>
+      </div>
+      <div style="font-size: 0.8em; display: none" class="links displaying locked">
+        <span style="">Can't change a rubric once you've started using it.</span>
+          <a href="/courses/2053263/rubric_associations/%7B%7B%20association_id%20%7D%7D" class="delete_rubric_url" style="display: none;">&nbsp;</a>
+      </div>
+    </div>
+
+    <table class="rubric_table">
+      <caption>
+        <div class="screenreader-only">
+          <span class="title">Title</span>
+        </div>
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">Criteria</th>
+          <th scope="col">Ratings</th>
+          <th scope="col" class="toggle_for_hide_points ">
+            Pts
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        
+<tr id="criterion_blank" class="criterion blank" style="display: none;">
+  <td class="criterion_description hover-container pad-box-micro" aria-label="description of criterion">
+    <div class="criterion_description_container">
+      <div class="description_content">
+        <span class="outcome_sr_content" aria-hidden="true">
+          <i class="learning_outcome_flag icon-outcomes" aria-hidden="true"></i>
+          <span class="screenreader-only">This criterion is linked to a Learning Outcome</span>
+        </span>
+        <span role="text">
+          <span class="description description_title">Description of criterion</span>
+          <span class="learning_outcome_id" style="display: none;"></span>
+          <span class="criterion_id" style="display: none;"></span>
+            <div class="long_description small_description">
+              
+            </div>
+          <div role="text" class="threshold toggle_for_hide_points ">
+            threshold:
+            <span class="mastery_points">5</span> pts
+          </div>
+        </span>
+        <div class="hide_when_learning_outcome ">
+          <div class="criterion_use_range_div editing toggle_for_hide_points ">
+            <label class="criterion_range_label" aria-label="Range">
+              <input type="checkbox" class="criterion_use_range">
+              <span aria-hidden="true">
+                Range
+              </span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="links editing">
+          <a href="#" class="edit_criterion_link" role="button"><i class="icon-edit standalone-icon"></i><span class="screenreader-only">Edit criterion description</span></a>
+          <a href="#" class="delete_criterion_link" role="button"><i class="icon-trash standalone-icon"></i><span class="screenreader-only">Delete criterion row</span></a>
+      </div>
+    </div>
+  </td>
+  <td style="padding: 0;" aria-label="criterion ratings">
+      <div class="ratings" style="">
+          <div class="rating edge_rating
+                
+                ">
+            <div class="container">
+              <div class="rating-main">
+                <span role="text" class="rating-content-wrapper">
+                  <span class="nobr toggle_for_hide_points ">
+                    <span class="points">5</span>
+                    <span class="range_rating" style="display: none;">to &gt;<span class="min_points">0</span></span> pts
+                  </span>
+                  <span class="description rating_description_value">Full Marks</span>
+                  <span class="rating_long_description small_description"></span>
+                </span>
+                <span class="rating_id" style="display: none;">blank</span>
+                  <div class="editing links">
+                    <a href="#" class="edit_rating_link" role="button" aria-label="Edit rating">
+                      <i class="icon-edit standalone-icon" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" class="delete_rating_link" role="button" aria-label="Delete rating" aria-hidden="true">
+                      <i class="icon-trash standalone-icon" aria-hidden="true"></i>
+                    </a>
+                  </div>
+              </div>
+                <div class="editing links add_rating_link">
+                  <a href="#" class="add_rating_link_after" aria-label="Add rating" role="button"><i class="icon-add icon-Solid"></i></a>
+                </div>
+            </div>
+          </div>
+          <div class="rating edge_rating
+                infinitesimal
+                ">
+            <div class="container">
+              <div class="rating-main">
+                <span role="text" class="rating-content-wrapper">
+                  <span class="nobr toggle_for_hide_points ">
+                    <span class="points">0</span>
+                    <span class="range_rating" style="display: none;">to &gt;<span class="min_points">0</span></span> pts
+                  </span>
+                  <span class="description rating_description_value">No Marks</span>
+                  <span class="rating_long_description small_description"></span>
+                </span>
+                <span class="rating_id" style="display: none;">blank_2</span>
+                  <div class="editing links">
+                    <a href="#" class="edit_rating_link" role="button" aria-label="Edit rating">
+                      <i class="icon-edit standalone-icon" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" class="delete_rating_link" role="button" aria-label="Delete rating" aria-hidden="true">
+                      <i class="icon-trash standalone-icon" aria-hidden="true"></i>
+                    </a>
+                  </div>
+              </div>
+            </div>
+          </div>
+      </div>
+      <div style="display: none; font-size: 0.8em; margin: 5px;" class="custom_ratings">
+        This area will be used by the assessor to leave comments related to this criterion.
+      </div>
+  </td>
+  <td class="nobr points_form toggle_for_hide_points " aria-label="criterion points">
+    <div class="editing" style="white-space: normal">
+      <span style="white-space: nowrap; font-size: 0.8em">
+          <input type="text" aria-label="Points" value="5" class="criterion_points span1 no-margin-bottom"> pts
+      </span><br>
+    </div>
+    <div class="displaying" role="text">
+      <span style="white-space: nowrap;">
+        <span class="criterion_rating_points_holder" style="display: none;">
+          <span class="criterion_rating_points">&nbsp;</span> /
+        </span>
+        <span class="display_criterion_points">5</span> pts<br>
+      </span>
+    </div>
+    <div class="ignoring">
+      <span> -- </span>
+    </div>
+    <div class="criterion_comments">
+        <a href="#" class="no-hover criterion_comments_link" title="Additional Comments">
+          <img alt="Additional Comments" src="https://du11hjcvx0uqb.cloudfront.net/dist/images/rubric_comment-ddae8546ab.png">
+        </a>
+        <div class="custom_rating" style="display: none;"></div>
+    </div>
+  </td>
+</tr>
+
+      <tr id="criterion_1" class="criterion" style="">
+  <td class="criterion_description hover-container pad-box-micro" aria-label="description of criterion">
+    <div class="criterion_description_container">
+      <div class="description_content">
+        <span class="outcome_sr_content" aria-hidden="true">
+          <i class="learning_outcome_flag icon-outcomes" aria-hidden="true"></i>
+          <span class="screenreader-only">This criterion is linked to a Learning Outcome</span>
+        </span>
+        <span role="text">
+          <span class="description description_title">Description of criterion</span>
+          <span class="learning_outcome_id" style="display: none;"></span>
+          <span class="criterion_id" style="display: none;"></span>
+            <div class="long_description small_description">
+              
+            </div>
+          <div role="text" class="threshold toggle_for_hide_points ">
+            threshold:
+            <span class="mastery_points">5</span> pts
+          </div>
+        </span>
+        <div class="hide_when_learning_outcome ">
+          <div class="criterion_use_range_div editing toggle_for_hide_points ">
+            <label class="criterion_range_label" aria-label="Range">
+              <input type="checkbox" class="criterion_use_range">
+              <span aria-hidden="true">
+                Range
+              </span>
+            </label>
+          </div>
+        </div>
+      </div>
+
+      <div class="links editing">
+          <a href="#" class="edit_criterion_link" role="button"><i class="icon-edit standalone-icon"></i><span class="screenreader-only">Edit criterion description</span></a>
+          <a href="#" class="delete_criterion_link" role="button"><i class="icon-trash standalone-icon"></i><span class="screenreader-only">Delete criterion row</span></a>
+      </div>
+    </div>
+  </td>
+  <td style="padding: 0;" aria-label="criterion ratings">
+      <div class="ratings" style="">
+          <div class="rating edge_rating
+                
+                ">
+            <div class="container">
+              <div class="rating-main">
+                <span role="text" class="rating-content-wrapper">
+                  <span class="nobr toggle_for_hide_points ">
+                    <span class="points">5</span>
+                    <span class="range_rating" style="display: none;">to &gt;<span class="min_points">0</span></span> pts
+                  </span>
+                  <span class="description rating_description_value">Full Marks</span>
+                  <span class="rating_long_description small_description"></span>
+                </span>
+                <span class="rating_id" style="display: none;">blank</span>
+                  <div class="editing links">
+                    <a href="#" class="edit_rating_link" role="button" aria-label="Edit rating">
+                      <i class="icon-edit standalone-icon" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" class="delete_rating_link" role="button" aria-label="Delete rating" aria-hidden="true">
+                      <i class="icon-trash standalone-icon" aria-hidden="true"></i>
+                    </a>
+                  </div>
+              </div>
+                <div class="editing links add_rating_link">
+                  <a href="#" class="add_rating_link_after" aria-label="Add rating" role="button"><i class="icon-add icon-Solid"></i></a>
+                </div>
+            </div>
+          </div>
+          <div class="rating edge_rating
+                infinitesimal
+                ">
+            <div class="container">
+              <div class="rating-main">
+                <span role="text" class="rating-content-wrapper">
+                  <span class="nobr toggle_for_hide_points ">
+                    <span class="points">0</span>
+                    <span class="range_rating" style="display: none;">to &gt;<span class="min_points">0</span></span> pts
+                  </span>
+                  <span class="description rating_description_value">No Marks</span>
+                  <span class="rating_long_description small_description"></span>
+                </span>
+                <span class="rating_id" style="display: none;">blank_2</span>
+                  <div class="editing links">
+                    <a href="#" class="edit_rating_link" role="button" aria-label="Edit rating">
+                      <i class="icon-edit standalone-icon" aria-hidden="true"></i>
+                    </a>
+                    <a href="#" class="delete_rating_link" role="button" aria-label="Delete rating" aria-hidden="true">
+                      <i class="icon-trash standalone-icon" aria-hidden="true"></i>
+                    </a>
+                  </div>
+              </div>
+            </div>
+          </div>
+      </div>
+      <div style="display: none; font-size: 0.8em; margin: 5px;" class="custom_ratings">
+        This area will be used by the assessor to leave comments related to this criterion.
+      </div>
+  </td>
+  <td class="nobr points_form toggle_for_hide_points " aria-label="criterion points">
+    <div class="editing" style="white-space: normal">
+      <span style="white-space: nowrap; font-size: 0.8em">
+          <input type="text" aria-label="Points" value="5" class="criterion_points span1 no-margin-bottom"> pts
+      </span><br>
+    </div>
+    <div class="displaying" role="text">
+      <span style="white-space: nowrap;">
+        <span class="criterion_rating_points_holder" style="display: none;">
+          <span class="criterion_rating_points">&nbsp;</span> /
+        </span>
+        <span class="display_criterion_points">5</span> pts<br>
+      </span>
+    </div>
+    <div class="ignoring">
+      <span> -- </span>
+    </div>
+    <div class="criterion_comments">
+        <a href="#" class="no-hover criterion_comments_link" title="Additional Comments">
+          <img alt="Additional Comments" src="https://du11hjcvx0uqb.cloudfront.net/dist/images/rubric_comment-ddae8546ab.png">
+        </a>
+        <div class="custom_rating" style="display: none;"></div>
+    </div>
+  </td>
+</tr></tbody>
+    </table>
+
+    <div class="rubric-footer" aria-label="Rubric criteria configuration">
+      <div class="editing pull-left">
+        <span id="add_criterion_holder" class="criterion_link"></span>
+      </div>
+      <div class="total_points_holder toggle_for_hide_points " style="">
+        <span role="text">Total Points:
+          <span class="rubric_total">5</span> <span class="assessing">out of 5</span>
+        </span>
+      </div>
+    </div>
+  </div>
+  <div id="edit_rubric" style="display: none;">
+    <form id="edit_rubric_form" class="edit-rubric-form no-margin-bottom" aria-label="Rubric configuration">
+      <div class="rubric_custom_ratings" style="">
+        <label>
+          <input type="checkbox" id="rubric_custom_rating" class="rubric_custom_rating">
+          I'll write free-form comments when assessing students
+        </label>
+      </div>
+        <div class="hide_points" style="">
+          <label>
+            <input type="checkbox" id="hide_points" name="hide_points" class="hide_points_checkbox">
+            Remove points from rubric
+          </label>
+        </div>
+        <div class="hide_outcome_results" style="">
+          <label>
+            <input type="checkbox" id="hide_outcome_results" class="hide_outcome_results_checkbox">
+            Don't post Outcomes results to Learning Mastery Gradebook
+          </label>
+        </div>
+        <div class="rubric_grading" style="">
+          <label>
+            <input type="checkbox" id="grading_rubric" class="grading_rubric_checkbox">
+            Use this rubric for assignment grading
+          </label>
+        </div>
+      <div class="totalling_rubric" style="">
+        <label>
+          <input type="checkbox" id="totalling_rubric" class="totalling_rubric_checkbox">
+          Hide score total for assessment results
+        </label>
+      </div>
+      <div class="ic-Action-header ic-Action-header--half-margin">
+        <div class="ic-Action-header__Primary">
+          <button type="button" class="Button cancel_button">Cancel</button>
+          <button type="submit" class="Button Button--primary save_button">Create Rubric</button>
+        </div>
+      </div>
+    </form>
+  </div>
+
+
+  <div id="assignment_external_tools"></div>
+
+  
+  <div id="sequence_footer" data-course-id="2053263" data-asset-id="10584434" data-asset-type="Assignment"><div class="module-sequence-padding"></div>
+<div class="module-sequence-footer" role="navigation" aria-label="Module Navigation">
+  <div class="module-sequence-footer-content">
+    <div class="module-sequence-footer-left">
+        <span class="module-sequence-footer-button--previous"><span data-position="Popover___0" data-cid="Position Popover Tooltip" class="css-1ihz85b-position"><a dir="ltr" aria-label="Previous Module Item" aria-describedby="Tooltip___0" data-popover-trigger="true" data-position-target="Popover___0" data-cid="BaseButton Button" cursor="pointer" href="https://canvas.oregonstate.edu/courses/2053263/modules/items/26977967" class="css-1s6cr59-view--inlineBlock-baseButton"><span class="css-1ta5ds2-baseButton__content"><span class="css-11xkk0o-baseButton__children"><span dir="ltr" direction="row" wrap="no-wrap" class="css-1wzq8qo-view--flex-flex"><svg name="IconMiniArrowStart" viewBox="0 0 1920 1920" rotate="0" data-cid="InlineSVG SVGIcon" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="css-1xnn9jb-inlineSVG-svgIcon" style="width: 1em; height: 1em;"><g role="presentation"><path d="M694.018 926.244c-27.296 18.796-27.3 49.269 0 68.067l509.836 351.074c27.296 18.797 49.424 7.18 49.424-25.959V601.13c0-33.133-22.125-44.757-49.424-25.959L694.018 926.244Z" fill-rule="evenodd"></path></g></svg> Previous</span></span></span></a></span></span>
+    </div>
+    <div class="module-sequence-footer-right">
+        <span class="module-sequence-footer-button--next"><span data-position="Popover___1" data-cid="Position Popover Tooltip" class="css-1ihz85b-position"><a dir="ltr" aria-label="Next Module Item" aria-describedby="Tooltip___1" data-popover-trigger="true" data-position-target="Popover___1" data-cid="BaseButton Button" cursor="pointer" href="https://canvas.oregonstate.edu/courses/2053263/modules/items/26885558" class="css-1s6cr59-view--inlineBlock-baseButton"><span class="css-1ta5ds2-baseButton__content"><span class="css-11xkk0o-baseButton__children"><span dir="ltr" direction="row" wrap="no-wrap" class="css-1wzq8qo-view--flex-flex">Next <svg name="IconMiniArrowEnd" viewBox="0 0 1920 1920" rotate="0" data-cid="InlineSVG SVGIcon" width="1em" height="1em" aria-hidden="true" role="presentation" focusable="false" class="css-1xnn9jb-inlineSVG-svgIcon" style="width: 1em; height: 1em;"><g role="presentation"><path d="M1225.982 926.244c27.296 18.796 27.3 49.269 0 68.067l-509.836 351.074c-27.296 18.797-49.424 7.18-49.424-25.959V601.13c0-33.133 22.125-44.757 49.424-25.959l509.836 351.074Z" fill-rule="evenodd"></path></g></svg></span></span></span></a></span></span>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+  
+  <div id="sequence_footer" data-course-id="2053263" data-asset-id="26977977" data-asset-type="ModuleItem"></div>
+
+
+<div id="module_sequence_footer"></div>
+
+
+
+          </div>
+        </div>
+        <div id="right-side-wrapper" class="ic-app-main-content__secondary">
+          <aside id="right-side">
+            
+          </aside>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div style="display:none;"><!-- Everything inside of this should always stay hidden -->
+        <div id="page_view_id">896adeaa-afa1-4178-8e98-d991dbaf40ad</div>
+    </div>
+  <div id="aria_alerts" class="hide-text affix" role="alert" aria-live="assertive"></div>
+  <div id="StudentTray__Container"></div>
+    <div class="NewUserTutorialTray__Container"></div>
+  <div id="react-router-portals"></div>
+
+
+  
+
+  <iframe src="https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&amp;token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg" name="post_message_forwarding" title="post_message_forwarding" id="post_message_forwarding" sandbox="allow-scripts allow-same-origin" style="display:none;"></iframe>
+
+
+  <script>
+    Object.assign(
+      ENV,
+      {}
+    )
+  </script>
+
+<script>
+//<![CDATA[
+(window.deferredBundles || (window.deferredBundles = [])).push('usage_metrics');
+(window.bundles || (window.bundles = [])).push('inst_fs_service_worker');
+//]]>
+</script>
+<script src="https://instructure-uploads.s3.amazonaws.com/account_10020000000097009/attachments/106886516/syl_ally_PROD_updated_20240906.js" defer="defer"></script>
+
+
+</div> <!-- #application -->
+
+
+<bettercanvas-global-widget-manager style="overflow: visible; position: relative; width: 0px; height: 0px; display: block; opacity: 1; transition: opacity 200ms cubic-bezier(0.4, 0, 0.2, 1);"></bettercanvas-global-widget-manager><bc-stickers-root data-bc-sticker-ui="true"></bc-stickers-root><div id="sidebar-container"></div><div id="nav-tray-portal" style="position: relative; z-index: 99;"></div><div role="log" aria-live="assertive" aria-relevant="additions" class="ally-helper-hidden-accessible"></div><span dir="ltr"><span dir="ltr" data-position-content="Popover___0" class="css-grx8tp-view--inlineBlock-contextView"><span dir="ltr" class="css-11y7rp1-view--block-contextView__content"><span class="css-zxcbwr-contextView__arrow"></span><span id="Tooltip___0" role="tooltip" class="css-cfm3yr-tooltip"><i class="icon-assignment"></i> Week 4 Web Homework: The Divergence and Integral Tests</span></span></span></span><span dir="ltr"><span dir="ltr" data-position-content="Popover___1" class="css-grx8tp-view--inlineBlock-contextView"><span dir="ltr" class="css-11y7rp1-view--block-contextView__content"><span class="css-zxcbwr-contextView__arrow"></span><span id="Tooltip___1" role="tooltip" class="css-cfm3yr-tooltip"><i class="icon-discussion"></i> Unit 3 Discussion Board - Submitted in Week 6 (Required)</span></span></span></span></body><div id="codex-agent-overlay-root" data-codex-agent-overlay-root="true"></div></html>

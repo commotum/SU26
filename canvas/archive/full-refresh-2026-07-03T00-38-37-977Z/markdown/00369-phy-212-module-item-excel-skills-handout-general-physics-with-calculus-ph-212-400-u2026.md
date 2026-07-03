@@ -1,0 +1,468 @@
+# Excel Skills Handout: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+
+- Course: PHY-212
+- Source surface: module_item
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/modules/items/26896976
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976
+- Captured: 2026-07-03T01:03:55.336Z
+- Canvas object: page excel-skills-handout-2
+- Redirected: yes
+
+## Headings
+- H1: Excel Skills Handout
+- H2: PH211 - General Physics with Calculus
+- H2: A. On This Page:
+- H2: I. Acquiring and getting help with Excel
+- H2: II. Working with data
+- H2: III. Plotting and fitting data
+- H2: IV. Appendix - Numerical analysis skills
+
+## Visible Text
+Excel Skills Handout
+PH211 - General Physics with Calculus
+
+This primer is designed for the Excel Desktop App.
+
+📌PRO TIPS:  DO NOT use the web version, click on → this guide to understand the difference
+Links to an external site.
+. 
+
+📌If you find yourself stuck implementing ideas in Excel, try other YouTube videos, a CoPilot session, or online Microsoft forums. Then consult your group-assigned TA.
+
+A. On This Page:
+Acquiring and getting help with Excel
+Mac & Windows Install 🎬(1 a/b of 5)
+Install Guide.
+Working with data
+Workbook Layout, Calculations and Functions 🎬(2 of 5)
+Importing data
+Formatting cells
+Cell references
+Formulas
+Importing Data 🎬(3 of 5)
+Plotting and fitting data
+Adding error bars
+Curve fitting (trendline) options
+Plotting multiple data sets
+Data Plotting and Analysis 🎬(4 of 5)
+Appendix - Numerical analysis skills 
+Find slopes (aka Derivatives)
+Finding areas under a curve (aka Integrals)
+Derivative & Integral Essentials 🎬(5 of 5)
+
+📌 Excel will be used extensively throughout this course. This primer provides information on how to get started with Excel. Remember that you can also reach out to your lab instructor or lab group for help.  
+
+I. Acquiring and getting help with Excel 
+
+Excel Install Videos🎬[1a/1b of 5]
+
+
+Microsoft Windows - Installation
+
+	
+
+
+Apple Map - Installation
+
+
+
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+	
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+
+
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction to Windows install.	00:00 - 00:18
+Configure your system region settings.	00:19 - 1:28
+Loading Oregon State, Office 365.	01:29 - 01:51
+What if you forgot your ONID or DUO?	01:51 - 02:30
+Navigating CoPilot and downloading Apps. 	02:31 - 03:29
+Launching Excel.	03:30 - 04:13
+Opening a blank workbook. 	04:14 - 04:25
+Auto save your workbook to the cloud.	04:26 - 05:02
+Sharing your Excel doc with your group.	05:03 - 05:40
+Web vs Desktop version.	05:41 - 07:20
+Navigating files for desktop. 	07:21 - 08:45
+Conclusion.	08:46 - 08:56
+	
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction to Mac install.	00:00 - 00:23
+Configure your system region settings.	00:24 - 01:34
+Loading Oregon State, Office 365.	01:35 - 01:51
+What if you forgot your ONID or DUO?	01:52 - 02:43
+Navigating CoPilot and downloading Apps.	02:44 - 03:25
+Installing app on mac / update system.	03:26 - 04:17
+Teams in the background and sign-in.	04:18 - 04:54
+Launching Excel.	04:55 - 05:33
+Opening a blank workbook. 	05:34 - 05:40
+Auto save your workbook to the cloud.	05:41 - 06:30
+Sharing your Excel doc with your group.	06:31 - 07:11
+Web vs Desktop version.	07:12 - 08:21
+More preferences.	08:22 - 08:33
+Conclusion.	08:24 - 08:38
+
+ 
+
+Instructions:
+
+To acquire and run a local version of Excel go to https://technology.oregonstate.edu/services/microsoft-365.   
+
+Click Log into Microsoft 365.
+
+If prompted, use <Your ONID>@oregonstate.edu email.
+(If you have trouble logging in, visit https://onid.oregonstate.edu/, OSU's student service representatives can assist you).
+
+A CoPilot session will open, from the left sidebar click (1) Apps, and (2) Install apps. 
+
+ 
+
+II. Working with data
+
+Workbook Layout, Calculations and Functions 🎬[2 of 5]
+Basic workbook layout, cell references, expressions (the = operator), and functions.
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+Downloadable Resources ⬇️:
+- Example Excel, (click on yellow tabs 🟨) PH211_Excel-Skills-Ref.xlsx
+Download PH211_Excel-Skills-Ref.xlsx
+
+- Video PowerPoint slides: PH211_Basic-Excel-Workflows.pptx
+Actions
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction (where to find resources).	00:00 - 00:27
+How Excel works.	00:28 - 00:54
+Workbook formatting.	00:55 - 02:48
+Expressions, cell refs, and auto math.	02:49 - 08:37
+Functions.	08:38 - 10:54
+Advanced func: powers, radians, π, trig.	10:55 - 14:17
+
+I. Importing data 
+
+Importing data is necessary for most of the things you will be doing with Excel. Here are some instructions for doing so. The menu options may slightly vary depending on the version of Excel that you are using.  
+
+Open a blank workbook in Excel.
+Copy your data from your source and paste it into Excel. 
+
+OR
+
+Click on the Data tab.
+Click on the Get Data icon. 
+Click on the From File icon. 
+
+Select the option most appropriate for the data you are trying to import. Generally, data from analytical instruments such as the force probe on your cart can be saved as a .CSV file that imports with few problems to Excel.
+After selecting the file click Open 
+
+II. Formatting cells
+
+Sometimes copying data into Excel will result in the data being in a format that cannot be used in Excel formulas.  
+
+After copy/pasting data into Excel, highlight the columns containing the data. Right click and select Format Cells.
+A menu will pop up. Here, you can select the Category of data for the column. In order to use the data for Excel Formulas, you should select Number and then click "OK".
+
+III. Cell references  
+
+Cells are labeled by giving the column (labeled by capital letters) and the row (labeled by a number).  For example, the cell in the second column three rows down is labeled B3. Excel cells can hold a variety of types of data such as numerical values, dates, texts, and formulas.  
+
+Cells in Excel hold numerical values, as well as other types of values such as text and dates, as needed.
+Any cell reference preceded by a dollar sign ($) is an 'absolute reference' that will not change if references to the cell are, for example, copy and pasted. For instance:
+$B4 will always refer to the second column (column B) of the spreadsheet, though the row (row 4) may be updated if used in an Excel formula.
+B$4 will similarly always refer to the fourth row, though the column may be updated if used in an Excel formula.
+$B$4 will always refer to the second column and fourth row of the spreadsheet, no matter what. This can be a handy way to store "constants" that have to be reused repeatedly elsewhere in the spreadsheet.  
+Lock auto-fill reference to column B only.	Lock auto-fill reference to row 4 only.	Lock auto-fill reference to cell B4.
+$B4	B$4	$B$4
+
+IV. Formulas 
+
+Formulas (aka. expressions + - * / ^) in Excel can be used to calculate a value in the selected cell by substituting values from other cells and performing mathematical operations. For example, if the distance traveled is in cell D4 and the time it took is in cell C4, you can have Excel calculate the average velocity over that time interval in cell D4 by entering "=D4/C4" in cell E4. Formulas always begin with an "=" sign. 
+
+You can insert formulas by typing directly in the cell or by selecting the cell and entering the formula in the "formula bar", the text field just above the C and D column headings in the image below.
+Exponents are entered using the carat ^ character.  For example, to calculate the cube of the value in cell A17, enter "=A17^3" in whichever cell you would like that value to appear.                                                                                                                                                                                                                                                                                                              
+Excel has many built-in functions. These are called by typing "=THE_FUNCTION_NAME()" and can be used for calculations such as trigonometric functions, exponentials and logarithms, statistical functions, and many more.  Their properties are well described in Excel's help, and you can investigate what's available using the Formula Builder available at Insert > Function...
+If you have a long set of columns in which the same calculation must be performed but with different values in each row, you can auto-fill "drag down" a formula and Excel will copy the formula into every cell in the column you drag over intelligently updating the cell references. (Any absolute references, as defined above using $, will hold their reference and not be updated.)
+ To drag a formula down, click on the cell containing the formula to select it.  Hover the cursor over the bottom right corner of the selected cell until a small square appears just on that corner.  Click on the square and drag the formula down over all the cells in which you wish a (suitably updated) copy of that formula to appear:
+
+Importing Data🎬[3 of 5]
+This video demonstrates how to import data from an external source into Excel (the alternative to manually typing data in Excel). Manual method is also valid approach✅. 
+Additionally, how to calculate and plot: average speed = total distance / total time using any point of interest. This is actually calculated in video 4 of 5. 
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+Downloadable Resources ⬇️:
+- Data used in demo video: PH211_DATA_time-distance.txt
+Download PH211_DATA_time-distance.txt
+
+- Example Excel, (click on blue tabs 🟦): PH211_Excel-Skills-Ref.xlsx
+Download PH211_Excel-Skills-Ref.xlsx
+
+- Video PowerPoint slides: PH211_Excel-Data-Analysis.pptx
+Actions
+ 
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction, understanding the workbook.	00:00 - 00:50
+Concept for importing CSV data.	00:51 - 01:32
+Theory for representing speed = dist / time (click for more help
+Links to an external site.
+).	01:33 - 02:11
+Linear relationships y = mx + c (click for more help
+Links to an external site.
+).	02:12 - 02:51
+Thinking about average speed vs. derivatives speed. (*see video 5 of 5).  	02:52 - 03:28
+Importing data on Windows (Part 1)	03:29 - 03:48
+Importing data on Mac 	03:49 - 04:37
+Importing data on Windows (Part 2)	04:38 - 07:10
+
+ 
+
+III. Plotting and fitting data
+
+Each lab will require you to visualize the data you've collected. Graphical Analysis will often plot things for you, and fitting data in that program is relatively easy. You will also be asked to generate plots in Excel as well. This will guide you on how to create scatter plots, the most commonly used plot for the labs you will be doing.
+
+In Excel, drag and select all of the data that you want to plot. For ease of plotting, your independent variable (in most cases, time) should be to the left of your dependent variable (position, for example).  
+Select the Insert tab. In the section titled Charts select the scatter plot icon shown below. 
+You should usually choose the default scatter plot, with unconnected points. Only choose the one with lines if you need to better visualize where the points are.  Don’t choose it if, as is usually the case, you’re going to fit the data with a curve. Whatever you choose, your data points should be visible.
+
+ 
+
+Always add a title to your plot and appropriate axes labels. To do this, click on the plot. In the Design tab, on the left you will see an option to Add Chart Element. Clicking on this will allow you to add a plot title, axes labels, and more. Alternatively, when you click on the plot a green plus sign will appear on the top right corner of the plot. Clicking on this will reveal a menu where you may select what elements you want on the plot. For example, if you have two lines plotted you will want to add a Legend to the plot.
+
+I. Adding error bars 
+
+Click the data set you want to add error bars to, and then under “Chart Design”, select “Add Chart Element” → “Error Bars” → “More Error Bar Options” (This may look different on a Mac).
+Both horizontal and vertical error bars will be added. We usually just want vertical error bars, so select the horizontal error bars and delete them
+Under “Format Error Bars” → “Error Amount” select “Custom”
+Click “Specify Value” and highlight the uncertainty values for both the positive and negative error bar values
+Repeat for each dataset that needs error bars 
+
+II. Curve fitting (trendline) options 
+
+Often you will want to include a trendline on your plots to get a value of the slope of the line or other parameters. After clicking on a plot, click on the plus icon in the upper right corner to add Chart Elements. If you click the Trendline option, a linear trendline will appear on the graph and an arrow will show up next to the check box in the chart elements section. Click on More Options.                                                           
+Now you can select the type of fit you want (linear, logarithmic, polynomial, etc.). You should also select the option Display Equation on Chart to get the fit parameters, such as slope and the intercept of the data.  
+
+If you are doing a linear fit, you can get the uncertainty in the slope and y-intercept of the line that Excel is fitting to the data. Note: this uncertainty represents the range of possible slopes and y-intercepts that Excel thinks will still give a line that fits your data. It does not take into account the uncertainty in your data points.
+
+Type the function =LINEST([y-values], [x-values], TRUE, TRUE) into a cell in your Excel spreadsheet. In the spots for y-values and x-values, type in the range of cells where the appropriate data is located or click and drag over the cells that have the appropriate data. The first “TRUE” tells Excel to include a y-intercept, and the second “TRUE” tells Excel to include the uncertainty when displaying the output. Make sure there is open space around the cell where you type this formula, as the output takes up multiple cells. 
+
+The function outputs two columns of values. The first row contains the slope and the y-intercept of the best fit line. The uncertainty in the slope is the second box down in the left column, and the uncertainty in the y-intercept is the second box down in the right column. 
+
+III. Plotting multiple data sets 
+
+You can easily plot more than one set of data on the same graph if they share the same x-values.  To do so, arrange the data so the x-values are in the first column.  Each column after that should include one set of data to plot.   
+
+Select all the columns containing data. 
+
+Insert a graph, as before. Your new graph should have multiple data sets in different colors and shapes. Notice that the graph now includes a legend (upper right), identifying each set of points.  You can reshape the legend as well as change the colors and styles of the points.
+
+You can also use different y-axis scales for the data sets.  Right click on the data set, select “Format Data Series”, and choose “Secondary Axis.”  The data will be plotted using the scale on the right, rather than the scale on the left. 
+
+Data Plotting and Analysis 🎬[4 of 5]
+This video builds on the data import guide.
+It cover foundational scatter-plot graphing techniques and the =LINEST function. 
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+Downloadable Resources ⬇️:
+- Excel workbook, (click on blue and green tabs 🟦🟩): PH211_Excel-Skills-Ref.xlsx
+Download PH211_Excel-Skills-Ref.xlsx
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction.	00:00 - 00:09
+Calculating average speed (blue tab in workbook demo 🟦)	00:10 - 01:24
+(Switched over to green tabs in workbook demo 🟩)	*01:25
+Make graph scatter-plot and add data. 	01:25 - 03:51
+Customizing a graph: axis titles and units. 	03:52 - 05:00
+Adding error-bars to your plots. 	05:01 - 07:43
+Adding a trend-line. 	07:44 - 09:25
+Using the =LINEST function in Excel. 	09:26 - 12:17
+Adding multiple data-series to a scatter-plot.	12:18 - 14:13
+Display a graph legend. 	14:14 - 15:36
+
+ 
+
+IV. Appendix - Numerical analysis skills
+
+Numerical analysis is the use of algorithms to computationally compute a result. Excel, which offers a variety of tools to analyze the data collected in labs. 
+
+I. Finding slopes (aka Derivatives)
+
+A derivative is the slope of a tangent line at a given point on a graph. It tells you about how one value changes with respect to the other. For example, the slope of position with respect to time tells you how the position of an object changes for a given amount of time, or in other words the velocity of an object. 
+
+Slope is calculated by dividing the change in the values plotted on the vertical axis over the
+change in the values plotted on the horizontal axis. The equation below gives an example for
+calculating the slope between two points: (x1, y1) and (x2, y2). Slope between (x1, y1) and (x2, y2) = (y2 – y1) / (x2 – x1).
+
+Consider some sample data above. The time (column A) and position (column B) of an object at that time has been recorded in the spreadsheet. The next step is to calculate the slope (which would be the velocity of the object) for each data point. In this example, you would start by calculating the slope for time t=0s. In cell C2, type “=((B3 - B2)/(A3-A2))”. This finds the change in position and divides that by the change in time between data points. This calculates the slope according to the formula above. 
+
+The velocity (slope) has now been calculated for one point. Click on the cell where the derivative was calculated, click on the green box in the bottom right-hand corner and drag it down to the second-to-last cell. Excel defaults to empty cells in formulas being zero, which means if you drag the formula down Excel will give you a value for the velocity but it will not actually be a true value. The slope for that last data point cannot be calculated because the position is not known for time t=11s. This means that we don't have data to use for the slope formula.
+
+II. Finding areas under a curve (aka Integrals)
+The "integral" of a function is the area under its curve between two points. If you have taken calculus, you may be familiar with the notation for an integral: 
+Δ
+𝑣
+=
+∫
+𝑡
+1
+𝑡
+2
+𝑎
+ 
+𝑑
+𝑡
+. This equation says that the change in the velocity between two times t1 and t2 is the area underneath the acceleration curve (as a function of time) between those two times. Here's an example of how to find the change in the velocity from the acceleration vs. time by finding the area under the acceleration vs. time curve. 
+
+There are several methods of finding areas (integrating data) in Excel:
+
+The midpoint rule estimates the area under the curve as a series of pure rectangles (centered on the data point). As you can imagine, this results in poor accuracy when the data (integrand) is changing rapidly.                                 
+
+The trapezoidal rule estimates the area under the curve as a series of trapezoids. This greatly increases the accuracy, regardless of the change in the integrand. To calculate the velocity at any given time, we need to calculate the integral of acceleration over time. Since we have a limited number of data points, the trapezoidal method will give us the greatest accuracy for our calculated velocity and position data. This is what we suggest using in lab.                                                                                                                                                                             
+
+Note that the plots above demonstrate the areas that a midpoint/trapezoidal rule use to calculate the area under the curve. They do not represent what an area under the curve plot looks like. The area under the curve plot will look like any other scatter plot you produce.
+
+Consider a dataset that looks like the following. We have acceleration data and we want to get the velocity at each time by finding the area under the acceleration vs. time curve up to that moment.                           
+
+
+
+
+We need to calculate the area of the first trapezoid, which is given by
+
+{[𝑎(𝑡 = 0.02) + 𝑎(𝑡 = 0.06)]/2}  ∆𝑡,
+
+where ∆t is the base of the trapezoid, and a(t=0.02) and a(t=0.06) are the top corners of the trapezoid.
+
+ 
+
+We can calculate the base of the trapezoid ∆t, the change in time between cells, by using the formula “=(A3-A2)” in cell C3.
+Next, we need to calculate the average of the heights of the trapezoid. We will do this by averaging the acceleration at two adjacent point resulting in the formula ((B2+B3)/2).
+
+The area of the trapezoid is the base times the average of the heights. This gives the formula =(A3-A2)*((B2+B3)/2). This is the area of the first trapezoid that is width Δt. 
+An integral sums the area of all of these trapezoids that we are calculating. In cell C3, we will need to add the area in C2. In cell C4, we will need to add the area in C3, and so on. So in our formula we add the area from the previous calculation. In cell C3 type “=(A3-A2)*((B2+B3)/2)+C2”.
+Now drag the formula in C3 down to the last time, t=0.54s...
+
+Derivative & Integral Essentials 🎬[5 of 5]
+This video covers approaches to reason about the use of integrals and derivatives. 
+It is a must have in your Excel toolkit. 
+
+This video may display YouTube ads.
+ Continue to YouTube content
+
+Downloadable Resources ⬇️:
+- Example Excel, (click on red tabs 🟥): PH211_Excel-Skills-Ref.xlsx
+Download PH211_Excel-Skills-Ref.xlsx
+
+- Video PowerPoint slides: PH211_Excel-Derivitives-Integrals.pptx
+Actions
+
+Video Contents (Timestamps):
+
+Concept	Times
+Introduction, circling back to derivatives. 	00:00 - 00:18
+Derivative theory (click for more help
+Links to an external site.
+).	00:19 - 03:19
+Calculating derivatives in Excel.  	03:20 - 04:50
+Plotting the derivative to visualize motion. 	04:51 - 06:47
+Integration theory (click for more help
+Links to an external site.
+).	06:48 - 09:38
+Calculating integrals in Excel. 	09:39 - 11:16
+Conclusion.	11:17 - 11:48
+
+ 
+
+Previous
+
+## Links
+- https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/ -> https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/
+- this guide to understand the differenceLinks to an external site. -> https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/
+- https://technology.oregonstate.edu/services/microsoft-365 -> https://technology.oregonstate.edu/services/microsoft-365
+- https://onid.oregonstate.edu/ -> https://onid.oregonstate.edu/
+- PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1
+- Download PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1
+- PH211_Basic-Excel-Workflows.pptx -> https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1
+- Actions -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- Preview -> https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1
+- Download -> https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1
+- Alternative formats -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- PH211_DATA_time-distance.txt -> https://canvas.oregonstate.edu/courses/2053526/files/118706032?wrap=1
+- Download PH211_DATA_time-distance.txt -> https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1
+- PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1
+- Download PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1
+- PH211_Excel-Data-Analysis.pptx -> https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1
+- Actions -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- Preview -> https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1
+- Download -> https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1
+- Alternative formats -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- click for more helpLinks to an external site. -> https://www.youtube.com/watch?v=oRKxmXwLvUU
+- click for more helpLinks to an external site. -> https://www.youtube.com/watch?v=IL3UCuXrUzE
+- PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1
+- Download PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1
+- PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1
+- Download PH211_Excel-Skills-Ref.xlsx -> https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1
+- PH211_Excel-Derivitives-Integrals.pptx -> https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1
+- Actions -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- Preview -> https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1
+- Download -> https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1
+- Alternative formats -> https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#
+- click for more helpLinks to an external site. -> https://www.youtube.com/watch?v=N2PpRnFqnqY
+- click for more helpLinks to an external site. -> https://www.youtube.com/watch?v=__Uw1SXPW7s&list=PLSQl0a2vh4HCF6n9DhNVgQsYpCyNiwI41
+- Previous -> https://canvas.oregonstate.edu/courses/2053526/modules/items/26896975
+
+## Iframes
+- Error -> about:blank
+- YouTube video player -> https://www.youtube.com/embed/t-BzfxEctUk?si=OPPvWuG5jwXychbO
+- YouTube video player -> https://www.youtube.com/embed/2scGkRsF3Tw?si=mg39_cO9I5GoCin1
+- YouTube video player -> https://www.youtube.com/embed/YKpPD4XKN0s?si=bSlFccUuycit_dOF
+- YouTube video player -> https://www.youtube.com/embed/OBCiSYMwjGE?si=TrO9ryKH_ThfQ1Iw
+- YouTube video player -> https://www.youtube.com/embed/boRigDR4qM8?si=2Zxqn4YYGhwaAXq8
+- YouTube video player -> https://www.youtube.com/embed/QXMrgxTSg2U?si=EybeaglUZfmR6QbB
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+- Continue to YouTube content
+- Continue to YouTube content
+- Continue to YouTube content
+- Continue to YouTube content
+- Continue to YouTube content
+- Continue to YouTube content
+
+## Hidden Text
+- Links to an external site.
+- Download PH211_Excel-Skills-Ref.xlsx
+- Actions
+- Download PH211_DATA_time-distance.txt
+- Download PH211_Excel-Skills-Ref.xlsx
+- Actions
+- Links to an external site.
+- Links to an external site.
+- Download PH211_Excel-Skills-Ref.xlsx
+- Download PH211_Excel-Skills-Ref.xlsx
+- Actions
+- Links to an external site.
+- Links to an external site.
+- Previous
+- Previous

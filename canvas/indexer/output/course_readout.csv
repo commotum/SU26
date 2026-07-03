@@ -1,4 +1,4 @@
 course_id,course_code,title,pages,source_surface_pages,module_item_pages,linked_detail_pages,assignment_detail_pages,assignments,quizzes,discussions,pages_content,files,module_items,grade_surfaces,links,iframes,downloads,redirected_pages,external_handler_pages,warnings,first_capture,last_capture
-2053263,MTH-253,Sequences and Series,128,8,49,71,0,46,18,26,20,11,0,1,5621,290,31,58,36,0,2026-06-26T21:00:39.312Z,2026-06-26T21:20:23.114Z
-2053526,PHY-212,"Oscillations, Waves, Optics, and Rotation",145,8,38,79,20,18,64,9,41,5,0,1,5199,324,19,55,2,2,2026-06-26T21:01:04.649Z,2026-06-26T21:23:02.214Z
-2080857,MTH-252,Integral Calculus,311,8,130,173,0,81,18,19,65,36,85,1,12096,700,52,125,57,0,2026-06-26T21:00:08.578Z,2026-06-26T21:25:24.413Z
+2053263,MTH-253,Sequences and Series,146,8,51,87,0,46,23,25,23,22,0,1,6483,363,80,60,38,0,2026-07-03T00:39:27.813Z,2026-07-03T01:15:46.345Z
+2053526,PHY-212,"Oscillations, Waves, Optics, and Rotation",249,8,46,150,45,49,97,26,56,13,0,1,8801,564,49,88,6,0,2026-07-03T00:39:53.968Z,2026-07-03T01:23:32.086Z
+2080857,MTH-252,Integral Calculus,449,8,131,310,0,121,34,30,67,42,148,1,17688,985,79,150,91,0,2026-07-03T00:38:54.674Z,2026-07-03T01:31:30.610Z

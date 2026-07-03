@@ -1,0 +1,1116 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "M1-00asy"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "Attempt History"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Purpose The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. Instructions You will see one question at a time. A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution. Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for this, you will not get credit for the activity. There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material. You are required to complete this question to get credit for the day's assignment. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. Here are some resources to help you get started: Get a clear scan that is automatically cropped and formatted into multi-page PDF files by installing a scanning app on your phone. Here are some recommended free apps: Genius Scan (Links to an external site.) (available for iPhone, iPad, and Android devices). Find it at the Apple Store (Links to an external site.) or Google Play. (Links to an external site.) Microsoft Office Lens (Links to an external site.) (available for iPhone, iPad and Android). Find the app at the Apple Store or Google Play. CamScanner (Links to an external site.) (available for iPhone and Android). This app has the most features, and the basic package is free. However, there are subscription options available if you want to pay for the more advanced features. Find this app at the Apple Store or Google Play. Scanner Pro (Links to an external site.) (available for iPhone and iPad only). If you do not have a smartphone for scanning your work, please scan your work from a home scanner, take screenshots of your work and submit those, or type out and attach a file of a written description of the steps you took. If you need assistance, please reach out for help from the Wormhole, office hours or email."
+    },
+    {
+      "index": 2,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 3,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 4,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 5,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 6,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 7,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 8,
+      "text": "Time:"
+    },
+    {
+      "index": 9,
+      "text": "Score:"
+    },
+    {
+      "index": 10,
+      "text": "Warning"
+    },
+    {
+      "index": 11,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 111085047 <p><span style=\"font-size: 20px;\">The angular velocity of a spinning disk is given by ω(t) = A - B t<sup>2</sup>. <span>Starting from t</span><sub>0</sub><span>&nbsp;= 0.0s, at what time does the disk reverse direction?</span> Consider the case where A = 18 rad/s and B = 0.50 rad/s<sup>3</sup>.</span></p> <p><span style=\"font-size: 20px;\">Enter your answer in seconds. (Just enter the number, not the units.)</span></p> <p>&nbsp;</p> The angular velocity of a spinning disk is given by ω(t) = A - B t2. Starting from t0 = 0.0s, at what time does the disk reverse direction? Consider the case where A = 18 rad/s and B = 0.50 rad/s3. Enter your answer in seconds. (Just enter the number, not the units.)"
+    },
+    {
+      "index": 12,
+      "text": "Move To..."
+    },
+    {
+      "index": 13,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 14,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 15,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 16,
+      "text": "Numerical answer"
+    },
+    {
+      "index": 17,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 111091671 <p><span style=\"font-size: 14pt;\">The angular velocity of a spinning disk is given by ω(t) = A - B t<sup>2</sup>.&nbsp;Through what angle does the disk turn between t<sub>0</sub>&nbsp;= 0.0s and the time at which it reverses its direction of rotation?</span></p> <p><span style=\"font-size: 14pt;\">Consider the case where A = 18 rad/s and B = 0.50 rad/s<sup>3</sup>.</span></p> <p><span style=\"font-size: 14pt;\">Enter your answer in radians.</span></p> The angular velocity of a spinning disk is given by ω(t) = A - B t2. Through what angle does the disk turn between t0 = 0.0s and the time at which it reverses its direction of rotation? Consider the case where A = 18 rad/s and B = 0.50 rad/s3. Enter your answer in radians."
+    },
+    {
+      "index": 18,
+      "text": "Move To..."
+    },
+    {
+      "index": 19,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 20,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 21,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 22,
+      "text": "Numerical answer"
+    },
+    {
+      "index": 23,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 0 / 1 pts Edit this Question Delete this Question 0 essay_question 111091669 <p><span style=\"font-size: 14pt;\">Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment.</span></p> Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment. Your Answer: Today’s topic was about rotational motion and how it relates to regular straight-line motion. Instead of position, velocity, and acceleration, rotational motion uses angle, angular velocity, and angular acceleration. Angular velocity describes how fast an object rotates, while angular acceleration describes how fast that angular velocity changes. We also learned that when angular velocity changes with time, we may need calculus, such as derivatives and integrals, to find quantities like angular displacement."
+    },
+    {
+      "index": 24,
+      "text": "Move To..."
+    },
+    {
+      "index": 25,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 26,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 27,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 28,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 0 / 1 pts Edit this Question Delete this Question 0 essay_question 111091670 <p><span style=\"font-size: 14pt;\">You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.</span></p> <p><span style=\"font-size: 14pt;\">For help with scanning, please see&nbsp;<a title=\"Scanning Resources\" href=\"/courses/2053526/pages/scanning-resources\" data-course-type=\"wikiPages\" data-published=\"true\">Scanning Resources</a>.</span></p> You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question. For help with scanning, please see Scanning Resources. Your Answer: M1-00.pdfDownload M1-00.pdf"
+    },
+    {
+      "index": 29,
+      "text": "Move To..."
+    },
+    {
+      "index": 30,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 31,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 32,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 33,
+      "text": "Download M1-00.pdf"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3169001",
+      "rel": "",
+      "target": "",
+      "text": "M1-00asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "index": 34,
+      "raw_href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "rel": "",
+      "target": "_blank",
+      "text": "Genius Scan (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/us/app/genius-scan-pdf-scanner/id377672876",
+      "index": 35,
+      "raw_href": "https://apps.apple.com/us/app/genius-scan-pdf-scanner/id377672876",
+      "rel": "",
+      "target": "_blank",
+      "text": "Apple Store (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "index": 36,
+      "raw_href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "rel": "",
+      "target": "_blank",
+      "text": "Google Play. (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059",
+      "index": 37,
+      "raw_href": "https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059",
+      "rel": "",
+      "target": "_blank",
+      "text": "Microsoft Office Lens (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.camscanner.com/",
+      "index": 38,
+      "raw_href": "https://www.camscanner.com/",
+      "rel": "",
+      "target": "_blank",
+      "text": "CamScanner (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/app/scanner-pro-by-readdle/id333710667?ign-mpt=uo%3D4",
+      "index": 39,
+      "raw_href": "https://apps.apple.com/app/scanner-pro-by-readdle/id333710667?ign-mpt=uo%3D4",
+      "rel": "",
+      "target": "_blank",
+      "text": "Scanner Pro (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "index": 40,
+      "raw_href": "/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/history?version=1",
+      "index": 41,
+      "raw_href": "/courses/2053526/quizzes/3169001/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59169187",
+      "index": 44,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59169187",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174672",
+      "index": 47,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174672",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174670",
+      "index": 50,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174670",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174671",
+      "index": 53,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174671",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 54,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/users/6660414/files/119284452?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&wrap=1",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/users/6660414/files/119284452?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "M1-00.pdf",
+      "title": "M1-00.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download M1-00.pdf",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "index": 57,
+      "raw_href": "/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "index": 0,
+      "raw_href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "rel": "",
+      "target": "_blank",
+      "text": "Genius Scan (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/us/app/genius-scan-pdf-scanner/id377672876",
+      "index": 1,
+      "raw_href": "https://apps.apple.com/us/app/genius-scan-pdf-scanner/id377672876",
+      "rel": "",
+      "target": "_blank",
+      "text": "Apple Store (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "index": 2,
+      "raw_href": "https://play.google.com/store/apps/details?id=com.thegrizzlylabs.geniusscan.free&hl=en",
+      "rel": "",
+      "target": "_blank",
+      "text": "Google Play. (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059",
+      "index": 3,
+      "raw_href": "https://apps.apple.com/us/app/microsoft-office-lens-pdf-scan/id975925059",
+      "rel": "",
+      "target": "_blank",
+      "text": "Microsoft Office Lens (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.camscanner.com/",
+      "index": 4,
+      "raw_href": "https://www.camscanner.com/",
+      "rel": "",
+      "target": "_blank",
+      "text": "CamScanner (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://apps.apple.com/app/scanner-pro-by-readdle/id333710667?ign-mpt=uo%3D4",
+      "index": 5,
+      "raw_href": "https://apps.apple.com/app/scanner-pro-by-readdle/id333710667?ign-mpt=uo%3D4",
+      "rel": "",
+      "target": "_blank",
+      "text": "Scanner Pro (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "index": 6,
+      "raw_href": "/courses/2053526/quizzes/3169001/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/history?version=1",
+      "index": 7,
+      "raw_href": "/courses/2053526/quizzes/3169001/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59169187",
+      "index": 10,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59169187",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174672",
+      "index": 13,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174672",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 15,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174670",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174670",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001#",
+      "index": 18,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001/questions/59174671",
+      "index": 19,
+      "raw_href": "/courses/2053526/quizzes/3169001/questions/59174671",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/users/6660414/files/119284452?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&wrap=1",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/users/6660414/files/119284452?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "M1-00.pdf",
+      "title": "M1-00.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/users/6660414/files/119284452/download?verifier=tdhRrXaJuL3lgDaVYfufXRkHXlGkrpdaExKG1oBJ&download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download M1-00.pdf",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades10"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10590695",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3169001",
+  "source_surface": "assignment_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Attempt Time Score LATEST Attempt 1 Time: 198 minutes Score: 2 out of 2"
+    }
+  ],
+  "title": "M1-00asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00374-phy-212-assignment-detail-m1-00asy-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-03T01:04:11.776Z",
+  "source_kind": "assignment_detail",
+  "discovered_from": "00019-phy-212-assignments-assignments-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "M1-00asy",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3169001",
+  "html_sha256": "2b611427f282194948c8ccf2c6ccdee340fdd21db34b07d3e4b8b54b2d170497",
+  "text_sha256": "4b3e919aab3bb9a40a4edca521be99af1006fb651afcb2e36d2e3a68fe3c2bbf",
+  "requires_external_handler": false
+}

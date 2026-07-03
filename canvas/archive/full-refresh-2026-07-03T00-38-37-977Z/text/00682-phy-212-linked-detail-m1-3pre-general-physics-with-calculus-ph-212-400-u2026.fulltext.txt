@@ -1,0 +1,101 @@
+
+            
+
+
+
+
+
+
+  
+
+
+    
+      M1-3pre
+    
+    
+
+
+
+    
+        
+    
+    
+        
+
+
+
+  
+    Due
+    
+        
+          Jun 29 at 10am
+        
+    
+  
+
+  
+    Points
+    3
+  
+
+  
+    Questions
+    1
+  
+  
+  
+    Available
+    
+        Jun 27 at 10am - Aug 14 at 11:59pm
+    
+  
+
+  
+    Time Limit
+    
+        None
+    
+  
+
+
+
+
+  Instructions
+  
+    To get the most out of the lectures, you need to have some preliminary understanding of the material. After having read the appropriate sections in the textbook and watching instructional videos, you should be able to answer questions on this topic. 
+
+This activity is not timed. However, it must be submitted by the due date. Late submissions are not accepted for credit. 
+You can open this assignment and come back to it as long you do not submit it until you are ready. 
+You are encouraged to open your textbook and notes to understand the concepts in the material before attempting the question. 
+You may work with other participants in this course on this activity. (Collaboration is not allowed on quizzes and exams, however.)
+You have one attempt to achieve the correct answer for this multiple choice question.
+
+  
+
+    
+
+
+          
+            Take the Quiz
+          
+
+    
+
+  
+
+  
+  
+
+
+
+  
+//<![CDATA[
+(window.prefetched_xhrs = (window.prefetched_xhrs || {}))["/api/v1/courses/2053526/lti_apps/launch_definitions?placements%5B%5D=assignment_view"] = fetch("/api/v1/courses/2053526/lti_apps/launch_definitions?placements%5B%5D=assignment_view", {"credentials":"same-origin","headers":{"Accept":"application/json+canvas-string-ids, application/json","X-Requested-With":"XMLHttpRequest"}})
+//]]>
+
+
+  
+
+
+
+          

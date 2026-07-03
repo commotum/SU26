@@ -1,0 +1,32 @@
+
+            
+  Intro: Net change theorem
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Intro: Net change theorem in a new window
+      
+    
+
+
+  
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          

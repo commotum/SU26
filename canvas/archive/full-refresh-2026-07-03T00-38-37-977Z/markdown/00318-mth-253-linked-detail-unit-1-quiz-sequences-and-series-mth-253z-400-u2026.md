@@ -1,0 +1,64 @@
+# Unit 1 Quiz: SEQUENCES AND SERIES (MTH_253Z_400_U2026)
+
+- Course: MTH-253
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053263/quizzes/3159593
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053263/quizzes/3159593
+- Captured: 2026-07-03T00:56:19.845Z
+- Canvas object: quiz 3159593
+- Redirected: no
+
+## Headings
+- H1: Unit 1 Quiz
+- H2: Instructions
+- H2: Purpose
+- H2: Instructions
+- H3: Your quiz has been muted
+
+## Visible Text
+Unit 1 Quiz 
+Due Jun 30 at 10:30pm Points 100 Questions 10 Available Jun 28 at 12pm - Jun 30 at 11:59pm Time Limit 135 Minutes
+Instructions
+
+Purpose
+
+This 10-question quiz is completed after the Unit 1 content has been completed. This quiz will be open for a three day period. It will open on Sunday of Week 2 at 12:00PM PT and will close on Tuesday of Week 2 at 11:59PM PT. You can take the quiz anytime during this window. 
+
+Instructions
+
+Read these directions before you begin:
+
+This quiz has 10 questions - 5 Multiple Choice and 5 Free Response. No partial credit is awarded on the Multiple Choice questions. Partial credit can be awarded on the free response questions. 
+This is an individual online quiz. Working in groups or using AI in any form is prohibited, see the syllabus for the AI use statement.
+ Students are allowed to use a scientific calculator, either handheld or online. No phones or other electronic devices are allowed, except when prompted to scan an upload the solutions.
+Students are also allowed to to use their handwritten/printed notes. It is recommended to have a one-page summary of handwritten or printed notes with formulas, theorems, etc.
+Working together, using AI, or consulting resources not listed above is considered Academic Dishonesty. 
+There is a 90-minute timer that will begin once you click Start.  You are welcome to use the full 90 minutes if you'd like. However, the quiz is designed to take approximately 1 hour to complete. 
+To receive credit on the free response questions, in addition to the short answer in the space provided, a pdf of the detailed handwritten solutions and explanations must be uploaded as a PDF attachment to the question. For these questions, your reasoning is more important than the final answer!
+Multiple Choice Questions are worth 5 points each. Free Response questions are worth 15 points each.
+There is one attempt to complete this quiz, and it is due on Tuesday of Week 2 at 10:30PM, with the submission window closing at 11:59PM. 
+You can skip a question and return to it later while taking your quiz, but once you click submit the questions can no longer be accessed. 
+This quiz was locked Jun 30 at 11:59pm.
+Your quiz has been muted
+
+Your quiz score is unavailable because your instructor has not finished grading it. When your instructor finishes grading this quiz, your score will be available on this page.
+
+Previous
+Next
+
+## Links
+- Previous -> https://canvas.oregonstate.edu/courses/2053263/modules/items/26977416
+- Next -> https://canvas.oregonstate.edu/courses/2053263/modules/items/26885541
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+
+## Hidden Text
+- Purpose This 10-question quiz is completed after the Unit 1 content has been completed. This quiz will be open for a three day period. It will open on Sunday of Week 2 at 12:00PM PT and will close on Tuesday of Week 2 at 11:59PM PT. You can take the quiz anytime during this window. Instructions Read these directions before you begin: This quiz has 10 questions - 5 Multiple Choice and 5 Free Response. No partial credit is awarded on the Multiple Choice questions. Partial credit can be awarded on the free response questions. This is an individual online quiz. Working in groups or using AI in any form is prohibited, see the syllabus for the AI use statement. Students are allowed to use a scientific calculator, either handheld or online. No phones or other electronic devices are allowed, except when prompted to scan an upload the solutions. Students are also allowed to to use their handwritten/printed notes. It is recommended to have a one-page summary of handwritten or printed notes with formulas, theorems, etc. Working together, using AI, or consulting resources not listed above is considered Academic Dishonesty. There is a 90-minute timer that will begin once you click Start. You are welcome to use the full 90 minutes if you'd like. However, the quiz is designed to take approximately 1 hour to complete. To receive credit on the free response questions, in addition to the short answer in the space provided, a pdf of the detailed handwritten solutions and explanations must be uploaded as a PDF attachment to the question. For these questions, your reasoning is more important than the final answer! Multiple Choice Questions are worth 5 points each. Free Response questions are worth 15 points each. There is one attempt to complete this quiz, and it is due on Tuesday of Week 2 at 10:30PM, with the submission window closing at 11:59PM. You can skip a question and return to it later while taking your quiz, but once you click submit the questions can no longer be accessed.
+- Previous Next
+- Previous
+- Next

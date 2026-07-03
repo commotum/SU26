@@ -1,0 +1,742 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Subscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Manage Discussion by Jacob Peterson",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Expand discussion thread from Jacob Peterson1 Reply1 Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Reply to post from Jacob PetersonReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: General Discussion & FAQsGeneral Discussion & FAQs"
+    },
+    {
+      "index": 1,
+      "level": "H3",
+      "text": "Student Help FAQs:"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Reply from Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort by2 Replies2 RepliesSubscribedManage DiscussionDiscussion Topic: General Discussion & FAQsGeneral Discussion & FAQs Anyone should feel free to provide answers or suggestions to various questions. Use the REPLY button on this discussion page below to ask questions relating to (assignments, deadlines, technical problems, etc.). Use this forum so that all may benefit from questions and answers provided. *If you have questions of a personal nature, please email your TA and instructors directly. Student Help FAQs: Q) I can't attend live Zoom session, what should I do? A) The recorded lecture is posted a few hours after the lecture in the \"learning materials module\". These lecture topics (or modules) are outlined on the syllabus doc. Q) What are the differences between _asy and M#.# assignments? A) Participation points are awarded for answering lecture questions. Students who attend live Zoom receive a M#.# grade. If you did not attend the Zoom, you will see a score of zero in the gradebook and should complete the asynchronous equivalent asy assignment. The zero for the Zoom assignment will be deleted when the asy assignment is graded. The asy assignment is due in 48 hours with a deduction of 1 point per day late, capped at 50%. Q) What is the _pre assignment? A) All pre-lecture quizzes are due one hour before a live lecture starts. They build prerequisite skills needed to participate during a lecture. The answers are posted at the deadline time, these assignments cannot be submitted after a deadline for credit. Q) What is the lab component? A) Labs are the required group activity for all physics courses. All lab activities (Labs 0 - 6 & Capstone) must be submitted to pass this course. ReplyJacob PetersonJun 24 9:15am | Last reply Jun 24 4:04pmManage Discussion by Jacob PetersonReply from Jacob Peterson\"The asy assignment is due in 48 hours with a deduction of 1 point per day late, capped at 50%.\" Does this mean 1 point per day late AFTER the 48 hour asynchronous period? Or including?Expand discussion thread from Jacob Peterson1 Reply1 ReplyReply to post from Jacob PetersonReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "2 Replies2 RepliesSubscribedManage DiscussionDiscussion Topic: General Discussion & FAQsGeneral Discussion & FAQs Anyone should feel free to provide answers or suggestions to various questions. Use the REPLY button on this discussion page below to ask questions relating to (assignments, deadlines, technical problems, etc.). Use this forum so that all may benefit from questions and answers provided. *If you have questions of a personal nature, please email your TA and instructors directly. Student Help FAQs: Q) I can't attend live Zoom session, what should I do? A) The recorded lecture is posted a few hours after the lecture in the \"learning materials module\". These lecture topics (or modules) are outlined on the syllabus doc. Q) What are the differences between _asy and M#.# assignments? A) Participation points are awarded for answering lecture questions. Students who attend live Zoom receive a M#.# grade. If you did not attend the Zoom, you will see a score of zero in the gradebook and should complete the asynchronous equivalent asy assignment. The zero for the Zoom assignment will be deleted when the asy assignment is graded. The asy assignment is due in 48 hours with a deduction of 1 point per day late, capped at 50%. Q) What is the _pre assignment? A) All pre-lecture quizzes are due one hour before a live lecture starts. They build prerequisite skills needed to participate during a lecture. The answers are posted at the deadline time, these assignments cannot be submitted after a deadline for credit. Q) What is the lab component? A) Labs are the required group activity for all physics courses. All lab activities (Labs 0 - 6 & Capstone) must be submitted to pass this course. Reply"
+    },
+    {
+      "index": 5,
+      "text": "2 Replies"
+    },
+    {
+      "index": 6,
+      "text": "Subscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: General Discussion & FAQs"
+    },
+    {
+      "index": 9,
+      "text": "Jacob PetersonJun 24 9:15am | Last reply Jun 24 4:04pmManage Discussion by Jacob PetersonReply from Jacob Peterson\"The asy assignment is due in 48 hours with a deduction of 1 point per day late, capped at 50%.\" Does this mean 1 point per day late AFTER the 48 hour asynchronous period? Or including?Expand discussion thread from Jacob Peterson1 Reply1 ReplyReply to post from Jacob PetersonReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 10,
+      "text": "Manage Discussion by Jacob Peterson"
+    },
+    {
+      "index": 11,
+      "text": "Reply from Jacob Peterson"
+    },
+    {
+      "index": 12,
+      "text": "Expand discussion thread from Jacob Peterson"
+    },
+    {
+      "index": 13,
+      "text": "1 Reply"
+    },
+    {
+      "index": 14,
+      "text": "Reply to post from Jacob Peterson"
+    },
+    {
+      "index": 15,
+      "text": "Mark as Unread"
+    },
+    {
+      "index": 16,
+      "text": "Previous Next"
+    },
+    {
+      "index": 17,
+      "text": "Previous"
+    },
+    {
+      "index": 18,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) General Discussion & FAQs",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815",
+      "index": 17,
+      "raw_href": "/courses/2053526/discussion_topics/11563815",
+      "rel": "",
+      "target": "",
+      "text": "General Discussion & FAQs",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials",
+      "rel": "",
+      "target": "",
+      "text": "learning materials module",
+      "title": "Module 1 | Circular Motion | Learning Materials"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "or modules",
+      "title": "Modules"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/3529242",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/3529242",
+      "rel": "",
+      "target": "",
+      "text": "syllabus doc",
+      "title": "Course information"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26997777",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26997777",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896951",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896951",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials",
+      "rel": "",
+      "target": "",
+      "text": "learning materials module",
+      "title": "Module 1 | Circular Motion | Learning Materials"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "or modules",
+      "title": "Modules"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/3529242",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/3529242",
+      "rel": "",
+      "target": "",
+      "text": "syllabus doc",
+      "title": "Course information"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/users/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26997777",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26997777",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896951",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896951",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades10"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896950",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563815?module_item_id=26896950",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Topic: General Discussion & FAQs",
+  "page_id": "00346-phy-212-module-item-topic-general-discussion-faqs",
+  "captured_at": "2026-07-03T00:57:48.296Z",
+  "source_kind": "module_item",
+  "discovered_from": "00018-phy-212-modules-course-modules-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "General Discussion & FAQs",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11563815",
+  "html_sha256": "3ec941ffef1e26e6d48f4c8bb7938460acc8580e72a662bfd1aa0dc815014dd0",
+  "text_sha256": "42d670e3cc0a5583a37ca9ae7c53dc45ed9fc77a53a5b9b212e8b20cb95a5225",
+  "requires_external_handler": false
+}

@@ -1,0 +1,32 @@
+
+            
+  Shell method 2
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Shell method 2 in a new window
+      
+    
+
+
+  
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          

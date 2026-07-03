@@ -1,0 +1,682 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Manage Discussion by Radu Dascaliuc",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Reply to post from Radu DascaliucReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "unread Mark as UnreadMark as Unread",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Unit 1 - Q&A Discussion Board (Optional)Unit 1 - Q&A Discussion Board (Optional)"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Grading Criteria"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Reply from Radu Dascaliuc"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Fundamental Limits."
+    },
+    {
+      "index": 5,
+      "level": "H3",
+      "text": "Introduction: the case of \\(\\sin x/x\\)."
+    },
+    {
+      "index": 6,
+      "level": "H3",
+      "text": "Other fundamental limits"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort byAll Sections Available from Jun 21 12am1 Reply1 ReplyUnsubscribedManage DiscussionDiscussion Topic: Unit 1 - Q&A Discussion Board (Optional)Unit 1 - Q&A Discussion Board (Optional) Purpose This discussion board can be used to post any questions that you have about the topics in Unit 1. You can post questions from the videos, homework, or general questions about the topics in this unit. Please share what steps you took to solve the problem in your post, so that we can provide the best feedback. Grading Criteria This is an optional discussion board, and there is no grade assigned for participation. ReplyRDRadu DascaliucTeacherJun 24 1:22pm | Last edited Jun 24 1:31pmManage Discussion by Radu DascaliucReply from Radu DascaliucFundamental Limits. Did you know that some of the indeterminate limits should not be computed by l'Hôpital theorem, even it looks like it can be applied formally? Some of these limits are sometimes called the fundamental limits. Introduction: the case of \\(\\sin x/x\\). One such fundamental limit is \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}\\,.\\) Note that formally l'Hôpital theorem seems applicable: it is \\(\\frac{0}{0}\\) indeterminate and we can write that \\(\\lim\\limits_{x\\to 0}\\dfrac{(\\sin\\, x)'}{(x)'}=\\lim\\limits_{x\\to 0}\\dfrac{\\cos\\, x}{1}=\\dfrac{1}{1}=1\\,,\\) so we could conclude that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\,,\\) which is in fact the case! So what is the problem? The problem is that we cannot prove that \\((\\sin x)'=\\cos x\\) without first proving that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\)! That is, if we claim that this limit is 1 by l'Hôpital theorem, then we need to know that the derivative of sine is the cosine, but to know that derivative of sine is cosine we need to know that this limit is 1 in the first place! So, to avoid a circular reasoning, we need to find a way to prove that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) by a method independent on l'Hôpital. Typically, this is done using a squeeze theorem by estimating \\(\\sin x\\) from above and from below using the triangles. Here is a short video showing how one uses the fact that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) to show that \\((\\sin x)'=\\cos x\\) from Khan Academy: https://www.youtube.com/watch?v=HVvCbnrUxekLinks to an external site. This is a more detailed video that also explains how to show that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) from MIT: https://www.youtube.com/watch?v=FtQl1gAo12ELinks to an external site. Other fundamental limits Some of the other important fundamental limits are: \\(\\lim\\limits_{x \\to 0} \\dfrac{\\cos x - 1}{x} = 0\\) \\(\\lim\\limits_{x \\to \\infty} \\left( 1 + \\dfrac{1}{x} \\right)^x = e\\) \\(\\lim\\limits_{x \\to 0} \\dfrac{\\ln (x + 1)}{x} = 1\\) If you are interested, there is plenty of stuff you can find on the web about these limits! Another interesting (albeit a non-fundamental) limit where l'Hôpital fails is \\(\\lim\\limits_{x \\to \\infty} \\dfrac{x}{\\sqrt{x^2+1}} = 1\\,.\\) Try to see why!Reply to post from Radu DascaliucReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "1 Reply1 ReplyUnsubscribedManage DiscussionDiscussion Topic: Unit 1 - Q&A Discussion Board (Optional)Unit 1 - Q&A Discussion Board (Optional) Purpose This discussion board can be used to post any questions that you have about the topics in Unit 1. You can post questions from the videos, homework, or general questions about the topics in this unit. Please share what steps you took to solve the problem in your post, so that we can provide the best feedback. Grading Criteria This is an optional discussion board, and there is no grade assigned for participation. Reply"
+    },
+    {
+      "index": 5,
+      "text": "1 Reply"
+    },
+    {
+      "index": 6,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: Unit 1 - Q&A Discussion Board (Optional)"
+    },
+    {
+      "index": 10,
+      "text": "RDRadu DascaliucTeacherJun 24 1:22pm | Last edited Jun 24 1:31pmManage Discussion by Radu DascaliucReply from Radu DascaliucFundamental Limits. Did you know that some of the indeterminate limits should not be computed by l'Hôpital theorem, even it looks like it can be applied formally? Some of these limits are sometimes called the fundamental limits. Introduction: the case of \\(\\sin x/x\\). One such fundamental limit is \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}\\,.\\) Note that formally l'Hôpital theorem seems applicable: it is \\(\\frac{0}{0}\\) indeterminate and we can write that \\(\\lim\\limits_{x\\to 0}\\dfrac{(\\sin\\, x)'}{(x)'}=\\lim\\limits_{x\\to 0}\\dfrac{\\cos\\, x}{1}=\\dfrac{1}{1}=1\\,,\\) so we could conclude that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\,,\\) which is in fact the case! So what is the problem? The problem is that we cannot prove that \\((\\sin x)'=\\cos x\\) without first proving that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\)! That is, if we claim that this limit is 1 by l'Hôpital theorem, then we need to know that the derivative of sine is the cosine, but to know that derivative of sine is cosine we need to know that this limit is 1 in the first place! So, to avoid a circular reasoning, we need to find a way to prove that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) by a method independent on l'Hôpital. Typically, this is done using a squeeze theorem by estimating \\(\\sin x\\) from above and from below using the triangles. Here is a short video showing how one uses the fact that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) to show that \\((\\sin x)'=\\cos x\\) from Khan Academy: https://www.youtube.com/watch?v=HVvCbnrUxekLinks to an external site. This is a more detailed video that also explains how to show that \\(\\lim\\limits_{x\\to 0}\\dfrac{\\sin\\, x}{x}=1\\) from MIT: https://www.youtube.com/watch?v=FtQl1gAo12ELinks to an external site. Other fundamental limits Some of the other important fundamental limits are: \\(\\lim\\limits_{x \\to 0} \\dfrac{\\cos x - 1}{x} = 0\\) \\(\\lim\\limits_{x \\to \\infty} \\left( 1 + \\dfrac{1}{x} \\right)^x = e\\) \\(\\lim\\limits_{x \\to 0} \\dfrac{\\ln (x + 1)}{x} = 1\\) If you are interested, there is plenty of stuff you can find on the web about these limits! Another interesting (albeit a non-fundamental) limit where l'Hôpital fails is \\(\\lim\\limits_{x \\to \\infty} \\dfrac{x}{\\sqrt{x^2+1}} = 1\\,.\\) Try to see why!Reply to post from Radu DascaliucReplyunread Mark as UnreadMark as Unread"
+    },
+    {
+      "index": 11,
+      "text": "Manage Discussion by Radu Dascaliuc"
+    },
+    {
+      "index": 12,
+      "text": "Reply from Radu Dascaliuc"
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 15,
+      "text": "Reply to post from Radu Dascaliuc"
+    },
+    {
+      "index": 16,
+      "text": "Mark as Unread"
+    },
+    {
+      "index": 17,
+      "text": "Previous Next"
+    },
+    {
+      "index": 18,
+      "text": "Previous"
+    },
+    {
+      "index": 19,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Unit 1 - Q&A Discussion Board (Optional)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490",
+      "index": 17,
+      "raw_href": "/courses/2053263/discussion_topics/11558490",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 - Q&A Discussion Board (Optional)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 18,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 21,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 22,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 23,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 24,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 25,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 29,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/users/6052226",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/users/6052226",
+      "rel": "",
+      "target": "",
+      "text": "Radu Dascaliuc",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=HVvCbnrUxek",
+      "index": 31,
+      "raw_href": "https://www.youtube.com/watch?v=HVvCbnrUxek",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.youtube.com/watch?v=HVvCbnrUxekLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=FtQl1gAo12E",
+      "index": 32,
+      "raw_href": "https://www.youtube.com/watch?v=FtQl1gAo12E",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.youtube.com/watch?v=FtQl1gAo12ELinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885532",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885532",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/users/6052226",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/users/6052226",
+      "rel": "",
+      "target": "",
+      "text": "Radu Dascaliuc",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=HVvCbnrUxek",
+      "index": 1,
+      "raw_href": "https://www.youtube.com/watch?v=HVvCbnrUxek",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.youtube.com/watch?v=HVvCbnrUxekLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=FtQl1gAo12E",
+      "index": 2,
+      "raw_href": "https://www.youtube.com/watch?v=FtQl1gAo12E",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://www.youtube.com/watch?v=FtQl1gAo12ELinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885530",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885532",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885532",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades2"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885531",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558490?module_item_id=26885531",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Topic: Unit 1 - Q&A Discussion Board (Optional)",
+  "page_id": "00244-mth-253-module-item-topic-unit-1-q-a-discussion-board-optional",
+  "captured_at": "2026-07-03T00:52:11.449Z",
+  "source_kind": "module_item",
+  "discovered_from": "00010-mth-253-modules-course-modules-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "Unit 1 - Q&A Discussion Board (Optional)",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11558490",
+  "html_sha256": "622ddc120d2d44f5d148fc4f15606aaa4e9edf76202bc082f13252be64b3f845",
+  "text_sha256": "82b09c097594c3a9db7a84e203a993dae77b17add78fecd0422b24d75d54648d",
+  "requires_external_handler": false
+}

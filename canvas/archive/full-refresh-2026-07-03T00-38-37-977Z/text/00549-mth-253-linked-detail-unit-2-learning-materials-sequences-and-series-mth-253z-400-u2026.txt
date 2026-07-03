@@ -1,0 +1,75 @@
+Unit 2 - Learning Materials
+
+Readings
+
+Textbook Sections 5.1
+Links to an external site.
+ and 5.2
+Links to an external site.
+ in Volume 2
+Links to an external site.
+.
+
+Lectures Notes
+
+In the video lectures for this unit, we will work through a set of notes that can be found below. You are welcome to download or print these notes to complete while watching the unit 2 videos. 
+
+Introduction to Sequences
+Actions
+
+Recursive Sequences
+Actions
+
+Convergence or Divergence of a Sequence
+Actions
+
+Geometric Sequences
+Actions
+
+Introduction to Series
+Actions
+
+Partial Sums
+Actions
+
+Geometric Series
+Actions
+
+Repeating Decimals and Geometric Series
+Actions
+
+Telescoping Series
+Actions
+
+Lecture Videos
+
+Introduction to Sequences (duration 16:05; Lecture notes: Introduction to Sequences
+Actions
+) 
+
+Recursive Sequences (duration 11:38; Lecture Notes: Recursive Sequences
+Actions
+) 
+
+Convergence or Divergence of a Sequence (duration 27:20) 
+
+Geometric Sequences (duration 13:03)
+
+Introduction to Series (duration 12:42)
+
+Partial Sums (duration 22:00)
+
+Infinite Sums (duration 03:02)
+
+Geometric Series - Part 1 (duration 11:40)
+
+Geometric Series - Part 2 (duration 16:54)
+
+Repeating Decimals and Geometric Series (duration 10:42)
+
+Telescoping Series (duration 14:27)
+
+ 
+
+Previous
+Next
