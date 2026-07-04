@@ -1,0 +1,192 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - 'heading "Question 16 of 17 - Week 2 Web Homework: Sequences" [level=2]'
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 17 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph: No late submissions.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+            - button "Q16 Unlimited attempts" [active]:
+              - generic: Q16
+              - generic: Unlimited attempts
+            - button "Q17 Unlimited attempts":
+              - generic: Q17
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1700"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1700
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 16 of 17" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: A chain reaction is any sequence of events for which each event causes one or more additional events to occur. For example, in chain‑reaction auto accidents, one car rear‑ends another car, that car rear‑ends another, and so on. In one type of nuclear fission chain reaction, a uranium‑235 nucleus is struck by a neutron, causing it to break apart and release several more neutrons. Each of these neutrons strikes another nucleus, causing it to break apart and release additional neutrons, resulting in a chain reaction. In the fission of uranium‑235 in nuclear reactors, each fission event releases an average of
+            - generic: "2"
+            - generic: "1"
+            - generic: "2"
+            - img "2 and one half, math"
+            - text: neutrons, and each of these neutrons causes another fission event. The first fission is triggered by a single free neutron.
+          - paragraph:
+            - text: Develop a sequence for the average number of neutrons, that is, fission events, that occur at the
+            - generic: 𝑛
+            - generic: t
+            - generic: h
+            - img "n th, math"
+            - text: event if we start with one such event.
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: "{"
+          - generic: 𝑠
+          - generic: 𝑛
+          - generic: "}"
+          - generic: =
+          - img "the set s sub n equals, math"
+          - textbox
+        - group "Multiple Choice":
+          - group "Does the sequence converge or diverge?":
+            - generic: Does the sequence converge or diverge?
+            - radio "The sequence diverges because lim over n right arrow infinity of s sub n equals infinity period, math"
+            - text: The sequence diverges because
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑠
+            - generic: 𝑛
+            - generic: =
+            - generic: ∞
+            - generic: .
+            - img "lim over n right arrow infinity of s sub n equals infinity period, math"
+            - radio "The sequence diverges because lim over n right arrow infinity of s sub n equals 2.5 period, math"
+            - text: The sequence diverges because
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑠
+            - generic: 𝑛
+            - generic: =
+            - generic: "2"
+            - generic: .
+            - generic: "5"
+            - generic: .
+            - img "lim over n right arrow infinity of s sub n equals 2.5 period, math"
+            - radio "The sequence converges because lim over n right arrow infinity of s sub n equals infinity period, math"
+            - text: The sequence converges because
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑠
+            - generic: 𝑛
+            - generic: =
+            - generic: ∞
+            - generic: .
+            - img "lim over n right arrow infinity of s sub n equals infinity period, math"
+            - radio "The sequence converges because lim over n right arrow infinity of s sub n equals 2.5 period, math"
+            - text: The sequence converges because
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑠
+            - generic: 𝑛
+            - generic: =
+            - generic: "2"
+            - generic: .
+            - generic: "5"
+            - generic: .
+            - img "lim over n right arrow infinity of s sub n equals 2.5 period, math"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

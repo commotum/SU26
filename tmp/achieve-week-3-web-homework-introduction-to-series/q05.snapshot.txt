@@ -1,0 +1,136 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Sun, Jul 12
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - 'heading "Question 5 of 17 - Week 3 Web Homework: Introduction to Series" [level=2]'
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 17 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph:
+            - generic: "-5%"
+            - text: partial credit for incorrect attempts.
+          - paragraph: No late submissions.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts" [active]:
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+            - button "Q16 Unlimited attempts":
+              - generic: Q16
+              - generic: Unlimited attempts
+            - button "Q17 Unlimited attempts":
+              - generic: Q17
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1700"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1700
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 5 of 17" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: Determine whether the geometric series converges or diverges. If it converges, find its sum.
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "0"
+            - generic: (
+            - generic: "5"
+            - generic: "4"
+            - generic: )
+            - generic: 𝑘
+            - img "the sum from k equals 0 to infinity of five fourths to the k-th power, math"
+          - paragraph: (Express numbers in exact form. Use symbolic notation and fractions where needed. Enter DNE if the series diverges.)
+        - group "Math Equation":
+          - generic: ∞
+          - generic: ∑
+          - generic: 𝑘
+          - generic: =
+          - generic: "0"
+          - generic: (
+          - generic: "5"
+          - generic: "4"
+          - generic: )
+          - generic: 𝑘
+          - generic: =
+          - img "the sum from k equals 0 to infinity of five fourths to the k-th power equals, math"
+          - textbox
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

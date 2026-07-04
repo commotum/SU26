@@ -1,0 +1,7 @@
+interface:
+  display_name: "OHW-Achieve"
+  short_description: "Extract Achieve OHW into study markdown"
+  default_prompt: "Use $ohw-achieve to extract an Achieve online homework assignment into a modified study-vault markdown file."
+
+policy:
+  allow_implicit_invocation: true

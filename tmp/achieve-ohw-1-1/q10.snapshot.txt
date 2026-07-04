@@ -1,0 +1,121 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 10 of 12 - Achieve - 1.1 Approximating Areas" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 1 of 12 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Media":
+              - text: Q2
+              - paragraph: Media
+            - button "Q3 Solved in 1 attempt +100":
+              - generic: Q3
+              - generic: Solved in 1 attempt
+              - generic: "+100"
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Media":
+              - text: Q5
+              - paragraph: Media
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts" [active]:
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 100 out of 1200"':
+          - generic: "+100"
+          - text: pts
+          - generic: /1200
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 10 of 12" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph:
+            - img "Graph of a piecewise function consisting of 5 horizontal segments. First, the velocity between 0 and 4 seconds equals 10 meters per second. Second, the velocity between 4 and 10 seconds equals 25 meters per second. Third, the velocity between 10 and 12 seconds equals 35 meters per second. Fourth, the velocity between 12 and 16 seconds equals 30 meters per second. Fifth, the velocity between 16 and 18 seconds equals 15 meters per second."
+          - paragraph:
+            - text: The graph shows the velocity of an object over its first
+            - generic: "1"
+            - generic: "8"
+            - img "18, math"
+            - text: seconds of motion.
+          - paragraph:
+            - text: Calculate the object's displacement between
+            - generic: "6"
+            - img "6, math"
+            - text: and
+            - generic: "1"
+            - generic: "6"
+            - img "16, math"
+            - text: seconds after motion begins.
+        - group "Numeric Entry":
+          - generic: "displacement:"
+          - text: 
+          - textbox "displacement:"
+          - text: 
+          - generic: m
+        - button "Scroll to Bottom"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

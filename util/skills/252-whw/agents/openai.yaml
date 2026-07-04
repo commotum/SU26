@@ -1,0 +1,7 @@
+interface:
+  display_name: "252-WHW"
+  short_description: "Build MTH-252 written homework skeletons"
+  default_prompt: "Use $252-whw to create and populate an MTH-252 written homework skeleton from Canvas and OpenStax."
+
+policy:
+  allow_implicit_invocation: true

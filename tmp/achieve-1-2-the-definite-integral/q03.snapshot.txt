@@ -1,0 +1,273 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 3 of 15 - Achieve - 1.2 The Definite Integral" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 15 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts" [active]:
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1500"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1500
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 3 of 15" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Express the definite integral as the limit of a Riemann sum.
+          - paragraph:
+            - generic: ∫
+            - generic: "9"
+            - generic: "2"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑥
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from 2 to 9 of open paren the absolute value of x minus 1 close paren d x, math"
+        - group "Multiple Choice":
+          - group "Choose the correct expression.":
+            - generic: Choose the correct expression.
+            - radio "lim over n right arrow 0 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: "0"
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑖
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑢
+            - generic: 𝑖
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: Δ
+            - generic: 𝑥
+            - generic: (
+            - generic: Δ
+            - generic: 𝑥
+            - generic: =
+            - generic: "7"
+            - generic: 𝑛
+            - generic: )
+            - img "lim over n right arrow 0 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+            - radio "lim over n right arrow infinity of the sum from i equals 1 to n of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 n close paren, math"
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑛
+            - generic: ∑
+            - generic: 𝑖
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑢
+            - generic: 𝑖
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: Δ
+            - generic: 𝑥
+            - generic: (
+            - generic: Δ
+            - generic: 𝑥
+            - generic: =
+            - generic: "7"
+            - generic: 𝑛
+            - generic: )
+            - img "lim over n right arrow infinity of the sum from i equals 1 to n of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 n close paren, math"
+            - radio "lim over n right arrow 2 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: "2"
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑖
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑢
+            - generic: 𝑖
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: Δ
+            - generic: 𝑥
+            - generic: (
+            - generic: Δ
+            - generic: 𝑥
+            - generic: =
+            - generic: "7"
+            - generic: 𝑛
+            - generic: )
+            - img "lim over n right arrow 2 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+            - radio "lim over n right arrow 2 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 n close paren, math"
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: "2"
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑖
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑢
+            - generic: 𝑖
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: Δ
+            - generic: 𝑥
+            - generic: (
+            - generic: Δ
+            - generic: 𝑥
+            - generic: =
+            - generic: "7"
+            - generic: 𝑛
+            - generic: )
+            - img "lim over n right arrow 2 of the sum from i equals 1 to infinity of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 n close paren, math"
+            - radio "lim over n right arrow infinity of the sum from i equals 1 to n of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+            - generic: l
+            - generic: i
+            - generic: m
+            - generic: 𝑛
+            - generic: →
+            - generic: ∞
+            - generic: 𝑛
+            - generic: ∑
+            - generic: 𝑖
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "|"
+            - generic: 𝑢
+            - generic: 𝑖
+            - generic: "|"
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: Δ
+            - generic: 𝑥
+            - generic: (
+            - generic: Δ
+            - generic: 𝑥
+            - generic: =
+            - generic: "7"
+            - generic: 𝑛
+            - generic: )
+            - img "lim over n right arrow infinity of the sum from i equals 1 to n of open paren the absolute value of u sub i minus 1 close paren times normal triangle x open paren normal triangle x equals 7 over n close paren, math"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- document
+- button "Open Resource Center"

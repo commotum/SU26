@@ -1,0 +1,164 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 7 of 12 - Achieve - 1.1 Approximating Areas" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 1 of 12 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Media":
+              - text: Q2
+              - paragraph: Media
+            - button "Q3 Solved in 1 attempt +100":
+              - generic: Q3
+              - generic: Solved in 1 attempt
+              - generic: "+100"
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Media":
+              - text: Q5
+              - paragraph: Media
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts" [active]:
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 100 out of 1200"':
+          - generic: "+100"
+          - text: pts
+          - generic: /1200
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 7 of 12" [level=2]
+        - button "next question":
+      - text: Stacked
+      - button "Display content in horizontal mode" [pressed]:
+      - button "Display content in vertical mode":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph
+          - 'heading "Interactive: Dynamic Figure 5.7" [level=2]'
+          - paragraph
+          - paragraph
+          - paragraph
+        - group "SAVI Interactive":
+          - generic: You are currently in a graphing module. Turn off browse mode or quick nav.
+          - application "Desmos Graphing Calculator":
+            - generic "Powered by Desmos": powered by
+            - generic: 
+            - img "graph paper. X axis visible from negative 5.1 1 3 to 11.5 6 1 and is labeled x. Y axis visible from negative 6.1 1 to 10.5 6 4 and is labeled y. 8 audio traceable curves. Press OPTION+T for audio trace."
+            - 'button "Graph point. X: 2.5. Y: negative 1."'
+            - 'button "Left. X: 2. Y: negative 1."'
+            - 'button "Right. X: 4. Y: negative 1."'
+            - 'button "\"f\" ( \"x\" ) equals 1 half \"x\" plus 3. X: 7. Y: 7."'
+            - 'button "left parenthesis, 2 , 4 , right parenthesis. X: 2. Y: 4."'
+            - 'button "left parenthesis, 3 , 9 halves , right parenthesis. X: 3. Y: 4.5."'
+            - generic: Left
+            - generic: Right
+            - generic: "\"f\" ( \"x\" ) equals 1 half \"x\" plus 3"
+            - text: f(x)
+            - generic: =
+            - generic: "1"
+            - generic: "2"
+            - text: x
+            - generic: +
+            - text: "3"
+            - generic: left parenthesis, 2 , 4 , right parenthesis
+            - generic: 2,4
+            - generic: left parenthesis, 3 , 9 halves , right parenthesis
+            - text: 3,
+            - generic: "9"
+            - generic: "2"
+        - group "Ungraded Text":
+          - text: This dynamic figure shows how to approximate the area under the line
+          - generic: 𝑦
+          - generic: =
+          - generic: "1"
+          - generic: "2"
+          - generic: 𝑥
+          - generic: +
+          - generic: "3"
+          - img "y equals one half x plus 3, math"
+          - text: from
+          - generic: 𝑥
+          - generic: =
+          - generic: "2"
+          - img "x equals 2, math"
+          - text: to
+          - generic: 𝑥
+          - generic: =
+          - generic: "4"
+          - img "x equals 4, math"
+          - text: using two rectangular sums, the left endpoint sum and the right endpoint sum. Use the slider to switch between left endpoint sum and right endpoint sum.
+        - group "Multiple Choice":
+          - group "If the area is approximated by four rectangular sums rather than two, which of the following statements is true?":
+            - generic: If the area is approximated by four rectangular sums rather than two, which of the following statements is true?
+            - radio "The approximation of the area under the line will be less accurate."
+            - generic: The approximation of the area under the line will be less accurate.
+            - radio "The approximation of the area under the line will be more accurate."
+            - generic: The approximation of the area under the line will be more accurate.
+            - radio "There will be no change in the accuracy of the approximation."
+            - generic: There will be no change in the accuracy of the approximation.
+        - button "Scroll to Bottom"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

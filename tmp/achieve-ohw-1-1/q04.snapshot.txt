@@ -1,0 +1,180 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 4 of 12 - Achieve - 1.1 Approximating Areas" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 1 of 12 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Media":
+              - text: Q2
+              - paragraph: Media
+            - button "Q3 Solved in 1 attempt +100":
+              - generic: Q3
+              - generic: Solved in 1 attempt
+              - generic: "+100"
+            - button "Q4 Unlimited attempts" [active]:
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Media":
+              - text: Q5
+              - paragraph: Media
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 100 out of 1200"':
+          - generic: "+100"
+          - text: pts
+          - generic: /1200
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 4 of 12" [level=2]
+        - button "next question":
+      - text: Stacked
+      - button "Display content in horizontal mode" [pressed]:
+      - button "Display content in vertical mode":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph
+          - 'heading "Interactive: Dynamic Figure 5.10" [level=2]'
+          - paragraph
+          - paragraph
+          - paragraph
+        - group "SAVI Interactive":
+          - generic: You are currently in a graphing module. Turn off browse mode or quick nav.
+          - application "Desmos Graphing Calculator":
+            - generic "Powered by Desmos": powered by
+            - generic: 
+            - img "graph paper. X axis visible from negative 2.5 6 8 1 to 16.6 4 3 and is labeled x. Y axis visible from negative 68.0 9 7 to 127.8 7 1 and is labeled y. 11 audio traceable curves. Press OPTION+T for audio trace."
+            - 'button "Subintervals. X: 5.5. Y: negative 30.4."'
+            - 'button "2. X: 1.4 7 4. Y: negative 19."'
+            - 'button "Graph point. X: 4. Y: negative 43.7."'
+            - 'button "Lower sum. X: 3.7. Y: negative 43.7."'
+            - 'button ". X: 10. Y: 0."'
+            - 'button ". X: 10. Y: 100."'
+            - 'button "\"f\" ( \"x\" ) equals \"x\" squared. X: 11. Y: 121."'
+            - 'button "Graph point. X: 0. Y: 0."'
+            - 'button "Graph point. X: 5. Y: 25."'
+            - 'button "Graph point. X: 10. Y: 100."'
+            - 'button "\"s\" Subscript, 2 , Baseline equals 125. X: 10.5. Y: 50."'
+            - 'button "Error equals 208.3 3. X: 10.5. Y: 40."'
+            - generic: Subintervals
+            - generic: "2"
+            - generic: Lower sum
+            - generic: "\"f\" ( \"x\" ) equals \"x\" squared"
+            - text: f(x)
+            - generic: =
+            - text: x
+            - generic: "2"
+            - generic: left parenthesis, 0 , 0 , right parenthesis
+            - generic: 0, 0
+            - generic: left parenthesis, 5 , 25 , right parenthesis
+            - generic: 5, 25
+            - generic: left parenthesis, 10 , 100 , right parenthesis
+            - generic: 10, 100
+            - generic: "\"s\" Subscript, 2 , Baseline equals 125"
+            - text: s
+            - generic: "2"
+            - generic: =
+            - text: "125"
+            - generic: Error equals 208.3 3
+            - generic: Error
+            - generic: =
+            - text: "208.33"
+        - group "Ungraded Text":
+          - text: This dynamic figure shows the rectangles used to calculate the left and right Riemann sums for the definite integral of
+          - generic: 𝑥
+          - generic: "2"
+          - img "x squared, math"
+          - text: on the interval
+          - generic: "["
+          - generic: "0"
+          - generic: ","
+          - generic: "1"
+          - generic: "0"
+          - generic: "]"
+          - generic: .
+          - img "open bracket 0 comma 10 close bracket period, math"
+          - text: Since the function is increasing on this interval, the left endpoint sum will be a lower sum and the right endpoint sum will be an upper sum. Use the bottom slider to choose lower sum or upper sum. Use the slider labeled Subintervals to change the number of rectangles,
+          - generic: 𝑛
+          - generic: .
+          - img "n period, math"
+        - group "Multiple Choice":
+          - group "As n, math increases, what happens to the difference between the left endpoint sum and the right endpoint sum?":
+            - text: As
+            - generic: 𝑛
+            - img "n, math"
+            - text: increases, what happens to the difference between the left endpoint sum and the right endpoint sum?
+            - radio "The difference approaches 0, math ."
+            - text: The difference approaches
+            - generic: "0"
+            - img "0, math"
+            - text: .
+            - radio "The difference increases without any upper bound."
+            - generic: The difference increases without any upper bound.
+            - radio "The difference stays the same."
+            - generic: The difference stays the same.
+        - button "Scroll to Bottom"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

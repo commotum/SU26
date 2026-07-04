@@ -1,0 +1,257 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 11 of 12 - Achieve - 1.1 Approximating Areas" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 1 of 12 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Media":
+              - text: Q2
+              - paragraph: Media
+            - button "Q3 Solved in 1 attempt +100":
+              - generic: Q3
+              - generic: Solved in 1 attempt
+              - generic: "+100"
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Media":
+              - text: Q5
+              - paragraph: Media
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts" [active]:
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 100 out of 1200"':
+          - generic: "+100"
+          - text: pts
+          - generic: /1200
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 11 of 12" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: The table shows the rate of change of volume
+            - generic: 𝑉
+            - img "V, math"
+            - text: with respect to time
+            - generic: 𝑡
+            - img "t, math"
+            - text: (in liters per minute) of a balloon for selected times
+            - generic: 𝑡
+            - generic: ","
+            - img "t comma, math"
+            - text: "in minutes. Hint: Notice that since you are required to use four subintervals, the width of the rectangles"
+            - generic: Δ
+            - generic: 𝑡
+            - generic: 𝑖
+            - generic: =
+            - generic: 𝑡
+            - generic: 𝑖
+            - generic: −
+            - generic: 𝑡
+            - generic: 𝑖
+            - generic: −
+            - generic: "1"
+            - img "normal triangle t sub i equals t sub i minus t sub i minus 1, math"
+            - text: will vary using consecutive
+            - generic: 𝑡
+            - img "t, math"
+            - text: values.
+          - table:
+            - rowgroup:
+              - row "t, math 1, math 2.5, math 3, math 4, math 5, math":
+                - rowheader "t, math":
+                  - generic: 𝑡
+                  - img "t, math"
+                - cell "1, math":
+                  - generic: "1"
+                  - img "1, math"
+                - cell "2.5, math":
+                  - generic: "2"
+                  - generic: .
+                  - generic: "5"
+                  - img "2.5, math"
+                - cell "3, math":
+                  - generic: "3"
+                  - img "3, math"
+                - cell "4, math":
+                  - generic: "4"
+                  - img "4, math"
+                - cell "5, math":
+                  - generic: "5"
+                  - img "5, math"
+              - row "d V over d t, math 4, math 3, math 3, math 2, math 2, math":
+                - rowheader "d V over d t, math":
+                  - generic: 𝑑
+                  - generic: 𝑉
+                  - generic: 𝑑
+                  - generic: 𝑡
+                  - img "d V over d t, math"
+                - cell "4, math":
+                  - generic: "4"
+                  - img "4, math"
+                - cell "3, math":
+                  - generic: "3"
+                  - img "3, math"
+                - cell "3, math":
+                  - generic: "3"
+                  - img "3, math"
+                - cell "2, math":
+                  - generic: "2"
+                  - img "2, math"
+                - cell "2, math":
+                  - generic: "2"
+                  - img "2, math"
+          - paragraph:
+            - text: Find a left Riemann sum for
+            - generic: 𝑑
+            - generic: ⁢
+            - generic: 𝑉
+            - generic: 𝑑
+            - generic: ⁢
+            - generic: 𝑡
+            - text: on the interval
+            - generic: "["
+            - generic: "1"
+            - generic: ","
+            - generic: "5"
+            - generic: "]"
+            - generic: .
+            - text: Use four subintervals and the values in the table.
+          - paragraph: (Use decimal notation. Give your answer to one decimal place.)
+        - group "Numeric Entry":
+          - generic: "4"
+          - generic: ∑
+          - generic: 𝑖
+          - generic: =
+          - generic: "1"
+          - generic: 𝑉
+          - generic: ′
+          - generic: (
+          - generic: 𝑢
+          - generic: 𝑖
+          - generic: )
+          - generic: Δ
+          - generic: 𝑡
+          - generic: 𝑖
+          - generic: =
+          - img "the sum from i equals 1 to 4 of V prime of open paren u sub i close paren normal triangle t sub i equals, math"
+          - text: 
+          - textbox "the sum from i equals 1 to 4 of V prime of open paren u sub i close paren normal triangle t sub i equals, math"
+          - text: 
+        - group "Multiple Select":
+          - group "Identify the true statements about the Reimann sum.":
+            - paragraph: Identify the true statements about the Reimann sum.
+            - checkbox "The Riemann sum approximates the net decrease in the volume of the balloon from t equals 1, math minute to t equals 5 minutes period, math"
+            - paragraph:
+              - text: The Riemann sum approximates the net decrease in the volume of the balloon from
+              - generic: 𝑡
+              - generic: =
+              - generic: "1"
+              - img "t equals 1, math"
+              - text: minute to
+              - generic: 𝑡
+              - generic: =
+              - generic: "5"
+              - generic: m
+              - generic: i
+              - generic: "n"
+              - generic: u
+              - generic: t
+              - generic: e
+              - generic: s
+              - generic: .
+              - img "t equals 5 minutes period, math"
+            - checkbox "The product of the Riemann sum is in units of liters per minute."
+            - paragraph: The product of the Riemann sum is in units of liters per minute.
+            - checkbox "The Riemann sum approximates the net increase in the volume of the balloon from t equals 1, math minute to t equals 5 minutes period, math"
+            - paragraph:
+              - text: The Riemann sum approximates the net increase in the volume of the balloon from
+              - generic: 𝑡
+              - generic: =
+              - generic: "1"
+              - img "t equals 1, math"
+              - text: minute to
+              - generic: 𝑡
+              - generic: =
+              - generic: "5"
+              - generic: m
+              - generic: i
+              - generic: "n"
+              - generic: u
+              - generic: t
+              - generic: e
+              - generic: s
+              - generic: .
+              - img "t equals 5 minutes period, math"
+            - checkbox "The product of the Riemann sum is in units of minutes."
+            - paragraph: The product of the Riemann sum is in units of minutes.
+            - checkbox "The product of the Riemann sum is in units of liters."
+            - paragraph: The product of the Riemann sum is in units of liters.
+        - button "Scroll to Bottom"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

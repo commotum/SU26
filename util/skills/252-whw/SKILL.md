@@ -1,6 +1,6 @@
 ---
 name: 252-whw
-description: Create and populate MTH-252 Written Homework skeletons from Canvas assignment markdown and OpenStax Calculus Volume 2 exercises. Use when the user asks to build or fill a 252 WHW assignment by reading the Canvas WHW page, counting required problems/pages, invoking the study vault skeleton skill in the correct MTH-252 module folder, and extracting exact OpenStax problem text, tables, and images into the new skeleton.
+description: Create and populate MTH-252 Written Homework skeletons from Canvas assignment markdown and OpenStax Calculus Volume 2 exercises. Use when the user asks to build or fill a 252 WHW assignment by reading the Canvas WHW page, counting assigned textbook problems, invoking the study vault skeleton skill in the correct MTH-252 module folder, and extracting exact OpenStax problem text, tables, and images into the new skeleton.
 ---
 
 # 252-WHW
@@ -14,7 +14,7 @@ Use this skill to turn an MTH-252 Canvas Written Homework assignment into a fill
 The workflow is:
 
 1. Find and read the Canvas `.md` assignment page.
-2. Extract the required problem/page count and assigned OpenStax section/problem list.
+2. Extract the assigned OpenStax section/problem list and count the individual textbook problems.
 3. Use the `skeleton` skill to create the WHW folder in the matching `M-<MODULE>` folder.
 4. Extract exact OpenStax problem content into the new skeleton, including shared directions, tables, and images.
 
@@ -39,12 +39,12 @@ If paths are omitted:
 Read the Canvas assignment markdown before creating or editing anything. Capture:
 
 - due/availability context if relevant
-- final submission page count, when stated
-- exact section/problem numbers
+- final submission page count, when stated, as formatting context only
+- exact section/problem numbers and the individual assigned problem count
 - instructor restrictions, such as “only compute `R_4`, not `L_4`”
 - whether the source is OpenStax or an attachment
 
-Use the Canvas page count as the skeleton problem count when the assignment is organized as one submitted page per problem. If one submitted page contains multiple textbook problem numbers, keep one skeleton `## Problem N` per submitted page and include all assigned textbook numbers in that section. If Canvas does not expose a count or problem list, report that it is hidden/locked instead of inventing a count.
+Use the number of assigned textbook problems as the skeleton problem count. Do not use the final PDF page count as the skeleton count unless it also matches the number of assigned textbook problems. If Canvas groups multiple textbook problems onto one submitted page, still create one skeleton `## Problem N` section per textbook problem and preserve the page grouping as context inside the relevant problem labels if useful. If Canvas does not expose a problem list, report that it is hidden/locked instead of inventing a count.
 
 ## Skeleton Creation
 
@@ -55,7 +55,7 @@ This skill depends on the study vault `skeleton` skill:
 Before creating a skeleton, read that skill. Then run the skeleton CLI from `/Users/jake/Developer/study` with the MTH-252 module folder as the target:
 
 ```bash
-python3 util/create_skeleton.py vault/252/M-<N> WHW-<N> <PROBLEM_COUNT> --create-course
+python3 util/create_skeleton.py vault/252/M-<N> WHW-<N> <TEXTBOOK_PROBLEM_COUNT> --create-course
 ```
 
 Rules:
@@ -143,14 +143,14 @@ Rules:
 - For longer word prompts, use normal Markdown prose and separate display math blocks for formulas.
 - Preserve instructor restrictions from Canvas.
 - Use one `---` separator before every `## Problem N`.
-- Keep exactly the number of problem sections required by Canvas.
+- Keep exactly one problem section per assigned textbook problem.
 - Do not add solutions unless the user explicitly asks.
 
 ## Verification
 
 After editing, read the skeleton back and verify:
 
-- problem section count matches the Canvas page/problem count
+- problem section count matches the individual assigned textbook problem count
 - problem numbers match Canvas
 - shared OpenStax directions were included where needed
 - images/tables are present where OpenStax requires them

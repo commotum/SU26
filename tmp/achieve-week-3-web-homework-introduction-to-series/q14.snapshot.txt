@@ -1,0 +1,182 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Sun, Jul 12
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - 'heading "Question 14 of 17 - Week 3 Web Homework: Introduction to Series" [level=2]'
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 17 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph:
+            - generic: "-5%"
+            - text: partial credit for incorrect attempts.
+          - paragraph: No late submissions.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts" [active]:
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+            - button "Q16 Unlimited attempts":
+              - generic: Q16
+              - generic: Unlimited attempts
+            - button "Q17 Unlimited attempts":
+              - generic: Q17
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1700"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1700
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 14 of 17" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: The area inside the fractal known as the Koch snowflake can be described as the sum of the areas of infinitely many equilateral triangles. See the figure.
+          - paragraph:
+            - img "There is a figure which is described as follows. A triangle is overlapped by an inverted triangle to form a star with 6 corner smaller triangles. There are two starts on the ends of each side of 6 smaller triangles except their bases. There is a very small triangle in between two starts of each side of 6 smaller triangles. Again, there is one star on each side of 6 very smaller triangles except their bases."
+          - paragraph:
+            - text: For all but the center (largest) triangle, a triangle in the Koch snowflake is
+            - generic: "1"
+            - generic: "9"
+            - img "one ninth, math"
+            - text: the area of the next largest triangle in the fractal. Suppose the largest (center) triangle has an area of
+            - generic: "9"
+            - generic: s
+            - generic: q
+            - generic: u
+            - generic: a
+            - generic: r
+            - generic: e
+            - generic: u
+            - generic: "n"
+            - generic: i
+            - generic: t
+            - generic: s
+            - generic: .
+            - img "9 square units period, math"
+            - text: Then the area of the snowflake is given by the series
+          - paragraph:
+            - generic: 𝐴
+            - generic: =
+            - generic: "9"
+            - generic: ⋅
+            - generic: (
+            - generic: "1"
+            - generic: +
+            - generic: "3"
+            - generic: (
+            - generic: "1"
+            - generic: "9"
+            - generic: )
+            - generic: +
+            - generic: "1"
+            - generic: "2"
+            - generic: (
+            - generic: "1"
+            - generic: "9"
+            - generic: )
+            - generic: "2"
+            - generic: +
+            - generic: "4"
+            - generic: "8"
+            - generic: (
+            - generic: "1"
+            - generic: "9"
+            - generic: )
+            - generic: "3"
+            - generic: +
+            - generic: "1"
+            - generic: "9"
+            - generic: "2"
+            - generic: (
+            - generic: "1"
+            - generic: "9"
+            - generic: )
+            - generic: "4"
+            - generic: +
+            - generic: ⋯
+            - generic: )
+            - img "A equals 9 times open paren 1 plus 3 times one ninth plus 12 times one ninth squared plus 48 times one ninth cubed plus 192 times one ninth to the fourth power plus dot dot dot close paren, math"
+          - paragraph: Find the area of the Koch snowflake by finding the sum of the series.
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: 𝐴
+          - generic: =
+          - img "A equals, math"
+          - textbox
+          - generic: square units
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

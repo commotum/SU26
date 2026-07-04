@@ -1,0 +1,219 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 6
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - heading "Question 2 of 15 - Achieve - 1.2 The Definite Integral" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 15 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts" [active]:
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1500"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1500
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 2 of 15" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the definite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: "4"
+            - generic: "0"
+            - generic: (
+            - generic: "2"
+            - generic: −
+            - generic: "2"
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from 0 to 4 of open paren 2 minus 2 x close paren d x, math"
+        - group "Multiple Choice":
+          - group "Interpret the definite integral as a Riemann sum in terms of constants and n comma, math representing n, math subintervals, only.":
+            - paragraph:
+              - text: Interpret the definite integral as a Riemann sum in terms of constants and
+              - generic: 𝑛
+              - generic: ","
+              - img "n comma, math"
+              - text: representing
+              - generic: 𝑛
+              - img "n, math"
+              - text: subintervals, only.
+            - radio "the sum from i equals 1 to n of open paren 2 minus 8 over n close paren times 4 i over n, math"
+            - paragraph:
+              - generic: 𝑛
+              - generic: ∑
+              - generic: 𝑖
+              - generic: =
+              - generic: "1"
+              - generic: (
+              - generic: "2"
+              - generic: −
+              - generic: "8"
+              - generic: 𝑛
+              - generic: )
+              - generic: ⋅
+              - generic: "4"
+              - generic: 𝑖
+              - generic: 𝑛
+              - img "the sum from i equals 1 to n of open paren 2 minus 8 over n close paren times 4 i over n, math"
+            - radio "the sum from i equals 1 to n of open paren 2 minus 2 i close paren times 4 over n, math"
+            - paragraph:
+              - generic: 𝑛
+              - generic: ∑
+              - generic: 𝑖
+              - generic: =
+              - generic: "1"
+              - generic: (
+              - generic: "2"
+              - generic: −
+              - generic: "2"
+              - generic: 𝑖
+              - generic: )
+              - generic: ⋅
+              - generic: "4"
+              - generic: 𝑛
+              - img "the sum from i equals 1 to n of open paren 2 minus 2 i close paren times 4 over n, math"
+            - radio "the sum from i equals 1 to n of open paren 2 minus 4 over n close paren times 4 i over n, math"
+            - paragraph:
+              - generic: 𝑛
+              - generic: ∑
+              - generic: 𝑖
+              - generic: =
+              - generic: "1"
+              - generic: (
+              - generic: "2"
+              - generic: −
+              - generic: "4"
+              - generic: 𝑛
+              - generic: )
+              - generic: ⋅
+              - generic: "4"
+              - generic: 𝑖
+              - generic: 𝑛
+              - img "the sum from i equals 1 to n of open paren 2 minus 4 over n close paren times 4 i over n, math"
+            - radio "the sum from i equals 1 to n of open paren 2 minus 8 i over n close paren times 4 over n, math"
+            - paragraph:
+              - generic: 𝑛
+              - generic: ∑
+              - generic: 𝑖
+              - generic: =
+              - generic: "1"
+              - generic: (
+              - generic: "2"
+              - generic: −
+              - generic: "8"
+              - generic: 𝑖
+              - generic: 𝑛
+              - generic: )
+              - generic: ⋅
+              - generic: "4"
+              - generic: 𝑛
+              - img "the sum from i equals 1 to n of open paren 2 minus 8 i over n close paren times 4 over n, math"
+        - group "Ungraded Text":
+          - paragraph: Calculate the value of the definite integral using either the course Riemann Sum Calculator or geometry.
+          - paragraph: (Round to the nearest integer. Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "4"
+          - generic: "0"
+          - generic: (
+          - generic: "2"
+          - generic: −
+          - generic: "2"
+          - generic: 𝑥
+          - generic: )
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from 0 to 4 of open paren 2 minus 2 x close paren d x equals, math"
+          - textbox
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- document
+- button "Open Resource Center"
