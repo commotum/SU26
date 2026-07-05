@@ -24,7 +24,9 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Mon 6/29 11:59pm: Week 1 Web Homework, **2%**.
 
 ### Participation
-- [ ] Sun 6/28: Unit 1 Discussion Board response post, part of **3.34%** item.
+- [X] Wed 6/24: Unit 1 Discussion Board, about **3.34%**.
+    - [X] Wed 6/24: Main Post
+    - [X] Wed 6/28: Response Post
 
 ## PHY-212: General Physics with Calculus
 

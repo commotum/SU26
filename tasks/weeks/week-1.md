@@ -10,7 +10,9 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Fri 6/26 11:59pm: Unit 1 Written Homework, **3%**.
 
 ### Participation
-- [X] Wed 6/24: Unit 1 Discussion Board main post, part of **3.34%** item.
+- [X] Wed 6/24: Unit 1 Discussion Board, about **3.34%**.
+    - [X] Wed 6/24: Main Post
+    - [X] Wed 6/28: Response Post 
 
 ## PHY-212: General Physics with Calculus
 
@@ -33,4 +35,3 @@ Source: archived Canvas scrape and `overview.md`.
 - [X] Thu 6/25 11:59pm: Discussion: Course Introductions  **20 pts** total.
     - [X] Thu 6/25 11:59pm: Reply to topic, **12 pts**.
     - [X] Sat 6/27 11:59pm: Reply to entries (4), **8 pts**.
-    
