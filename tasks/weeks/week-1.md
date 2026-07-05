@@ -29,7 +29,7 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Thu 6/25 10:00am: M1-2pre, pre-lecture.
 
 ### Lecture
-- [ ] Mon 6/22 2:00pm: M1-0, about **0.18%**.
+- [X] Mon 6/22 2:00pm: M1-0, about **0.18%**.
 - [ ] Tue 6/23 2:00pm: M1-00, about **0.18%**.
 - [ ] Wed 6/24 2:00pm: M1-1, about **0.18%**.
 - [ ] Thu 6/25 2:00pm: M1-2, about **0.18%**.
