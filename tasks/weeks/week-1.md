@@ -25,12 +25,12 @@ Source: archived Canvas scrape and `overview.md`.
 - [X] Sat 6/27 11:59pm: Lab 1 Report, **2.09%**.
 
 ### Pre-Lecture
-- [ ] Wed 6/24 10:00am: M1-1pre, pre-lecture.
+- [X] Wed 6/24 10:00am: M1-1pre, pre-lecture.
 - [ ] Thu 6/25 10:00am: M1-2pre, pre-lecture.
 
 ### Lecture
 - [X] Mon 6/22 2:00pm: M1-0, about **0.18%**.
-- [ ] Tue 6/23 2:00pm: M1-00, about **0.18%**.
+- [X] Tue 6/23 2:00pm: M1-00, about **0.18%**.
 - [ ] Wed 6/24 2:00pm: M1-1, about **0.18%**.
 - [ ] Thu 6/25 2:00pm: M1-2, about **0.18%**.
 
