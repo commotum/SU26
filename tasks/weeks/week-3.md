@@ -1,6 +1,6 @@
 DO NOT EDIT THESE FILES DURING CANVAS SCRAPES. THESE ARE MY PERSONAL RECORDS. ONLY EDIT WHEN INSTRUCTED.
 
-# Week 3 Todo (7/5-7/11)
+# Week 3 Todo (7/6-7/12)
 
 Source: archived Canvas scrape and `overview.md`.
 
@@ -27,6 +27,7 @@ Source: archived Canvas scrape and `overview.md`.
 ### Homework
 - [ ] Mon 7/6 11:59pm: Week 2 Web Homework - Sequences, **2%**.
 - [ ] Thu 7/9 11:59pm: Unit 2 Written Homework, **3%**.
+- [ ] Sun 7/12 11:59pm: Week 3 Web Homework - Introduction to Series, **2%**.
 
 ## PHY-212: General Physics with Calculus
 

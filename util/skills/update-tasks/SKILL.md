@@ -66,7 +66,7 @@ Do not run the full Canvas scraper unless the user explicitly asks for a scrape.
 
 1. Read `overview.md`.
 2. Read the target weekly files and active task files.
-3. Determine the date range from the weekly file titles or the user's requested scope.
+3. Determine the date range from the weekly file titles or the user's requested scope. For SU26 weekly lists, weeks start on Monday and end on Sunday; Week 1 is `6/22-6/28`.
 4. Build a candidate ledger from every relevant source. Include:
    - course
    - category from `overview.md`
@@ -85,6 +85,63 @@ Do not run the full Canvas scraper unless the user explicitly asks for a scrape.
    - future weeks missing entirely
 8. If updating files, patch only the requested targets.
 
+## Weekly Checklist Entry Schema
+
+Weekly checklist entries must show Canvas identity, date, and course-grade impact. Prefer percentages from `overview.md` over raw Canvas points.
+
+Use this top-level shape:
+
+```md
+- [ ] Day M/D time: Type: Canvas title, **grade impact**. Optional note.
+```
+
+Rules:
+
+- Preserve the exact checkbox state for existing entries.
+- Use the Canvas title as the canonical title. Add a type prefix when it improves scanning, such as `Discussion:`, `Quiz:`, `Assignment:`, or `External Tool:`.
+- Use course-grade percent from `overview.md`, not raw points, whenever a category weight is known.
+- Use `~` for calculated or approximate values, such as `**~0.18%**`.
+- For categories with drops, write nominal impact, such as `**~0.18% nominal; drops apply**`.
+- Do not use raw points as the primary impact. Use points only to calculate a child split or to document an unresolved unknown.
+- If Canvas points and `overview.md` disagree, report the conflict and keep the percentage tied to the course-grade category unless the user asks otherwise.
+
+Default category percentages from `overview.md`:
+
+- MTH-252: Achieve `1.12%`; WHW `2%`; Discussion Reflection `0.45%`; Reading Quiz `0.2%`; Mini-Exams 1-4 `10%`; Mini-Exam 5 `13%`.
+- MTH-253: web homework `2%`; written homework `3%`; discussion board `3.34%`; unit quiz `10%`; final exam `15%`.
+- PH 212: homework `1%`; lab discussion/prep `1.05%`; lab report `2.09%`; participation `~0.18% nominal; drops apply`; pre-lecture `~0.18% nominal; drops apply`; quiz `20% counted if retained`; final exam `15%`.
+
+## Hierarchical Assignments
+
+Use parent/child checklist rows when one Canvas assignment has multiple required parts, checkpoints, posts, replies, uploads, or other due dates.
+
+Parent row:
+
+```md
+- [ ] Thu 6/25 11:59pm: Discussion: Course Introductions, **~1.05% total**.
+```
+
+Child rows:
+
+```md
+    - [ ] Thu 6/25 11:59pm: Reply to topic, **~0.63%**.
+    - [ ] Sat 6/27 11:59pm: Required replies (4), **~0.42%**.
+```
+
+Calculate child percentage when points are available:
+
+```text
+child percent = parent category percent * child points / total points
+```
+
+If the point split is unknown, write `**included in parent**` on child rows instead of inventing a percentage.
+
+For assignments spanning multiple weeks, include the relevant parent/child rows in each week:
+
+- In the first week, note `Continues in Week N`.
+- In later weeks, note `Continued from Week N; do not double-count`.
+- Keep the same Canvas parent title in every week so repeated parts are recognizable as the same assignment.
+
 ## Editing Rules
 
 - Use `apply_patch` for manual edits.
@@ -94,6 +151,9 @@ Do not run the full Canvas scraper unless the user explicitly asks for a scrape.
 - Do not remove or rewrite unrelated personal notes.
 - Maintain the existing course headings and category organization unless the user asks to reorganize.
 - Add a category heading only when needed by a missing item.
+- Format weekly entries using the Weekly Checklist Entry Schema.
+- Convert raw points to course-grade percentages using `overview.md` whenever possible.
+- Use hierarchical parent/child rows for multipart assignments.
 - Sort items within each course/category by due date/time. Put undated items after dated items unless course context makes a different placement clearly better.
 - Use exact dates when known. If a date/time is inferred, either verify it or label it as inferred/uncertain in the report.
 - When an existing date is wrong and the user asked not to change dates, report the mismatch instead of editing it.

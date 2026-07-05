@@ -1,6 +1,6 @@
 DO NOT EDIT THESE FILES DURING CANVAS SCRAPES. THESE ARE MY PERSONAL RECORDS. ONLY EDIT WHEN INSTRUCTED.
 
-# Week 1 Todo (6/21-6/27)
+# Week 1 Todo (6/22-6/28)
 
 Source: archived Canvas scrape and `overview.md`.
 
@@ -12,9 +12,12 @@ Source: archived Canvas scrape and `overview.md`.
 ### Participation
 - [X] Wed 6/24: Unit 1 Discussion Board, about **3.34%**.
     - [X] Wed 6/24: Main Post
-    - [X] Wed 6/28: Response Post 
+    - [X] Sun 6/28: Response Post
 
 ## PHY-212: General Physics with Calculus
+
+### Homework
+- [ ] Sun 6/28 11:59pm: HW 1 - Rotational Motion, **1%**.
 
 ### Labs
 - [X] Thu 6/25 11:59pm: Lab 1 Discussion, **1.05%**.
