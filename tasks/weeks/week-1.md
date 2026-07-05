@@ -27,11 +27,13 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Wed 6/24 10:00am: M1-1pre, pre-lecture.
 - [ ] Thu 6/25 10:00am: M1-2pre, pre-lecture.
 
-### Participation
+### Lecture
 - [ ] Mon 6/22 2:00pm: M1-0, about **0.18%**.
 - [ ] Tue 6/23 2:00pm: M1-00, about **0.18%**.
 - [ ] Wed 6/24 2:00pm: M1-1, about **0.18%**.
 - [ ] Thu 6/25 2:00pm: M1-2, about **0.18%**.
+
+### Participation
 - [X] Thu 6/25 11:59pm: Discussion: Course Introductions  **20 pts** total.
     - [X] Thu 6/25 11:59pm: Reply to topic, **12 pts**.
     - [X] Sat 6/27 11:59pm: Reply to entries (4), **8 pts**.
