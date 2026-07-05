@@ -30,5 +30,7 @@ Source: archived Canvas scrape and `overview.md`.
 - [ ] Tue 6/23 2:00pm: M1-00, about **0.18%**.
 - [ ] Wed 6/24 2:00pm: M1-1, about **0.18%**.
 - [ ] Thu 6/25 2:00pm: M1-2, about **0.18%**.
-- [ ] Thu 6/25 11:59pm: Course Introductions reply to topic, part of **20 pts** item.
-- [ ] Sat 6/27 11:59pm: Course Introductions required replies (4), part of **20 pts** item.
+- [X] Thu 6/25 11:59pm: Discussion: Course Introductions  **20 pts** total.
+    - [X] Thu 6/25 11:59pm: Reply to topic, **12 pts**.
+    - [X] Sat 6/27 11:59pm: Reply to entries (4), **8 pts**.
+    

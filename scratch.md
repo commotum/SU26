@@ -41,3 +41,6 @@ Write a script that when given a course-code (ie MF1, MF2, MF3, CA1, CA2, DEQ, P
 3. a "Lessons" folder per module with the .md files for each of that module's lessons (named and indexed to match the course map structure and lesson names)
 4. a "Source" folder per module with the source folders for each of that module's lessons (most importantly the images in the lesson in an images folder, but also the source html and json so we can correct any .md errors we notice by referring to the source material)
 5. a "Home.md" page per course sitting in that courses root folder (like /Users/jake/Developer/study/Old/Continuous-Time-Signal-Processing/Home.md)
+
+
+sweet now can you add a skill called setup-lessons that takes a given .md file (in the same format as all of these) with lots of problems, and which runs the match-ma-lesson skill once per problem, one at a time? for each lesson matched it should copy (not move, the original should stay in place) that lesson and its source either to the Lessons folder or Prerequisites folder and all source folders to the Source folder, (obviously don't do duplicates here)

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Update Tasks"
+  short_description: "Reconcile Canvas and weekly task lists"
+  default_prompt: "Use $update-tasks to audit Canvas, overview.md, and the weekly task lists before updating tasks."
