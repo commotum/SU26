@@ -44,6 +44,8 @@ Task with details:
   - Details: [TASK-0008](#task-0008)
 - [ ] TASK-0009 | P0 | user | PH 212 | Choose PH 212 Quiz 1 accommodation version - reply to Hadley by 2026-07-02 17:00 if using extra time
   - Details: [TASK-0009](#task-0009)
+- [ ] TASK-0013 | P0 | user | PH 212 | Submit PH 212 Quiz 1 notes - upload permitted note sheet to Gradescope by 2026-07-04 17:00
+  - Details: [TASK-0013](#task-0013)
 - [ ] TASK-0010 | P1 | user | MTH 253 | Complete MTH 253 Unit 2 work - track two Achieve web homeworks, one Gradescope written assignment, and the Week 4 quiz
   - Details: [TASK-0010](#task-0010)
 - [ ] TASK-0011 | P1 | user | PH 212 | Verify PH 212 M21-pre upload - confirm Gradescope upload workflow before Quiz 1 and note no 7/1 participation assignment
@@ -222,6 +224,19 @@ Deadline: 2026-07-06
 Acceptance: MTH 252 Week 1 assignments covered by Gilliam's extension are submitted or confirmed complete.
 Blockers:
 Notes: EMAIL-0149 was restored unread because it is a direct instructor reply granting the extension. Gilliam invited follow-up if more extension time is needed.
+
+### TASK-0013 - Submit PH 212 Quiz 1 Notes
+
+Title: Submit PH 212 Quiz 1 Notes
+Description: PH 212 requires a separate Quiz 1 notes upload before Quiz 1; Canvas now shows assignment 10557097 due Saturday at 5:00pm for 5 points through an external tool.
+Responsibility: user
+Source: Canvas scrape and user-provided Canvas assignment detail
+Context: Canvas assignment https://canvas.oregonstate.edu/courses/2053526/assignments/10557097; the July 3 scrape saw it as Quiz 1 notes from the Module 1 Required Activities page, but the direct assignment page returned Access Denied on 2026-07-02 18:16 PDT.
+Next action: Prepare the permitted Quiz 1 notes sheet, place photo ID on top, scan it, and submit it through the Canvas external tool/Gradescope.
+Deadline: 2026-07-04 17:00
+Acceptance: Quiz 1 notes upload is submitted and visible/confirmed in Canvas or Gradescope before the deadline.
+Blockers:
+Notes: The module page says to submit 1/2 to 1 page of equations, diagrams, etc. relevant to Quiz 1 with photo ID on top. This item was missing from the weekly checklist audit because it had no captured due date and was routed to no_due_found/manual-review rows after Access Denied in the July 3 scrape. Current Canvas detail from user: due Saturday by 5:00pm, 5 points, external tool, available Jun 28 at 5:00pm - Aug 14 at 11:00am.
 
 ```md
 ### TASK-0001 - Short Title

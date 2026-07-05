@@ -19,8 +19,16 @@ Source: archived Canvas scrape and `overview.md`.
 - [X] Sat 6/27: Lab Partner Values Survey, lab setup item.
 - [X] Sat 6/27 11:59pm: Lab 1 Report, **2.09%**.
 
+### Pre-Lecture
+- [ ] Mon 6/22 10:00am: M1-0pre, pre-lecture.
+- [ ] Tue 6/23 10:00am: M1-00pre, pre-lecture.
+- [ ] Wed 6/24 10:00am: M1-1pre, pre-lecture.
+- [ ] Thu 6/25 10:00am: M1-2pre, pre-lecture.
+
 ### Participation
-- [ ] Mon 6/22: M1-0, about **0.18%**.
-- [ ] Tue 6/23: M1-00, about **0.18%**.
-- [ ] Wed 6/24: M1-1, about **0.18%**.
-- [ ] Thu 6/25: M1-2, about **0.18%**.
+- [ ] Mon 6/22 2:00pm: M1-0, about **0.18%**.
+- [ ] Tue 6/23 2:00pm: M1-00, about **0.18%**.
+- [ ] Wed 6/24 2:00pm: M1-1, about **0.18%**.
+- [ ] Thu 6/25 2:00pm: M1-2, about **0.18%**.
+- [ ] Thu 6/25 11:59pm: Course Introductions reply to topic, part of **20 pts** item.
+- [ ] Sat 6/27 11:59pm: Course Introductions required replies (4), part of **20 pts** item.
