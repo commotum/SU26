@@ -61,28 +61,38 @@
 
 - **Week 1** (6/22-6/28)
   - **No Tests**.
+
 - **Week 2** (6/29-7/5)
   - **MTH-253:** Unit 1 Quiz, Tue 6/30, **10%**.
+
 - **Week 3** (7/6-7/12)
   - **PHY-212:** Quiz 1, Mon 7/6, **20% counted if retained**.
   - **MTH-252:** Mini-Exam 1, Thu 7/9, **10%**.
+
 - **Week 4** (7/13-7/19)
   - **MTH-253:** Unit 2 Quiz, Mon 7/13, **10%**.
+
 - **Week 5** (7/20-7/26)
   - **PHY-212:** Quiz 2, Mon 7/20, **20% counted if retained**.
   - **MTH-252:** Mini-Exam 2, Thu 7/23, **10%**.
+
 - **Week 6** (7/27-8/2)
   - **No Tests**.
+
 - **Week 7** (8/3-8/9)
   - **MTH-253:** Unit 3 Quiz, Mon 8/3, **10%**.
   - **PHY-212:** Quiz 3, Mon 8/3, **20% counted if retained**.
   - **MTH-252:** Mini-Exam 3, Thu 8/6, **10%**.
+
 - **Week 8** (8/10-8/16)
   - **PHY-212:** Final Exam, Thu 8/13, **15%**.
+
 - **Week 9** (8/17-8/23)
   - **MTH-252:** Mini-Exam 4, Thu 8/20, **10%**.
+
 - **Week 10** (8/24-8/30)
   - **MTH-253:** Unit 4 Quiz, Mon 8/24, **10%**.
+  
 - **Week 11** (8/31-9/6)
   - **MTH-253:** Final Exam, Tue 9/1, **15%**.
   - **MTH-252:** Final Mini-Exam 5, Wed 9/2, **13%**.
