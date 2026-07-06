@@ -35,7 +35,7 @@ Source: archived Canvas scrape and `overview.md`.
 - [X] Mon 6/22 2:00pm: Participation: M1-0, **~0.18% nominal; drops apply**.
 - [X] Tue 6/23 2:00pm: Participation: M1-00, **~0.18% nominal; drops apply**.
 - [X] Wed 6/24 2:00pm: Participation: M1-1, **~0.18% nominal; drops apply**.
-- [ ] Thu 6/25 2:00pm: Participation: M1-2, **~0.18% nominal; drops apply**.
+- [X] Thu 6/25 2:00pm: Participation: M1-2, **~0.18% nominal; drops apply**.
 
 ### Participation
 - [X] Thu 6/25 11:59pm: Discussion: Course Introductions, **~2.09% lab total**. Continues through Sat 6/27.
