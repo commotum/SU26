@@ -29,7 +29,7 @@ Source: archived Canvas scrape and `overview.md`.
 
 ### Pre-Lecture
 - [X] Wed 6/24 10:00am: Pre-Lecture: M1-1pre, **~0.18% nominal; drops apply**.
-- [ ] Thu 6/25 10:00am: Pre-Lecture: M1-2pre, **~0.18% nominal; drops apply**.
+- [X] Thu 6/25 10:00am: Pre-Lecture: M1-2pre, **~0.18% nominal; drops apply**.
 
 ### Lecture
 - [X] Mon 6/22 2:00pm: Participation: M1-0, **~0.18% nominal; drops apply**.
