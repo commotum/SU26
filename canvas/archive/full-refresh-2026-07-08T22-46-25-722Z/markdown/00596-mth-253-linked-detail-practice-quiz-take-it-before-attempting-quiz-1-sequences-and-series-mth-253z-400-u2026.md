@@ -1,0 +1,180 @@
+# Practice Quiz (take it before attempting Quiz 1!): SEQUENCES AND SERIES (MTH_253Z_400_U2026)
+
+- Course: MTH-253
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- Captured: 2026-07-08T23:19:47.991Z
+- Canvas object: quiz 3166971
+- Redirected: no
+
+## Headings
+- H1: Practice Quiz (take it before attempting Quiz 1!)
+- H2: Instructions
+- H2: Purpose
+- H3: Note on Scanning and Uploading:
+- H2: Instructions
+- H3: Attempt History
+
+## Visible Text
+Practice Quiz (take it before attempting Quiz 1!) 
+Due Jun 28 at 11:59am Points 20 Questions 2 Available Jun 21 at 12am - Sep 4 at 11:59pm Time Limit 15 Minutes Allowed Attempts Unlimited
+Instructions
+
+Purpose
+
+This 2-question quiz before the final exam to familiarize yourself with the structure of our quizzes and exams. Make sure you practice scanning and uploading your handwritten answers to the free response questions!
+
+Unlike the unit quizzes, this quiz can be taken many times in order to test your equipment. 
+
+Note on Scanning and Uploading:
+You can scan by using a phone application, such as CamScanner and send the scan to your computer/laptop you are using to take the quiz to upload. You can also use your regular Camera app. However, make sure to convert your picture to a format that can be read by Canvas, pdf is preferred.
+You can do so by using the insert tab in the reply window for the question and selecting uploads document for a pdf file (upload image for a .jpg). Alternatively, you just can drag and drop the .pdf file directly into the reply window.
+Make sure to check that the file you upload is readable after submission (click on the link and see if it opens)! 
+
+Let me know if you have trouble scanning and uploading readable files.
+
+Instructions
+
+Read these directions before you begin (these are the typical directions, similar to those for a regular quiz):
+
+This quiz has 2 questions - 1 Multiple Choice and 1 Free Response. No partial credit is awarded on the Multiple Choice questions. Partial credit can be awarded on the free response questions. 
+This is an individual online quiz. Working in groups or using AI in any form is prohibited, see the syllabus for the AI use statement.
+ Students are allowed to use a regular scientific calculator -- either handheld or online. No phones or other electronic devices are allowed except to scan and upload the written solutions where prompted.
+Students are also allowed to to use their handwritten/printed notes. It is recommended to have a one-page summary of handwritten or printed notes with formulas, theorems, etc, rather than relying on a whole textbook worth of stuff. Remember, having too many notes usually results in over-reliance on the notes rather than one's own knowledge, leading to a lot of time lost hopelessly searching through the notes where careful thinking about a problem is far more productive!  
+Working together, using AI, or consulting resources not listed above is considered Academic Dishonesty. 
+There is a 15-minute timer that will begin once you click Start.  You are welcome to use the full 15 minutes if you'd like. However, the quiz is designed to take approximately 10 min to complete. 
+There is a 15-minute timer that will begin once you click Start.  You are welcome to use the full 15 minutes if you'd like. However, the quiz is designed to take approximately 10 min to complete. 
+To receive credit on the free response questions, in addition to the short answer in the space provided, a scanned pdf of the detailed handwritten solutions and explanations must be uploaded as an attachment to the question. For these questions, your reasoning is more important than the final answer!
+You can use your phone and an application such as CamScanner to scan and upload your solutions. Make sure you uploads rendered clearly and are easy to read.
+Multiple Choice Questions are worth 5 points each. Free Response questions are worth 15 points each.
+Since this is a practice quiz, it will not count towards your final score and will be able to re-take it many times, but you should attempt it before taking Quiz 1, so the "due date" is set at 11:59AM on Sunday 6/28. 
+You can skip a question and return to it later while taking your quiz, but once you click submit the questions can no longer be accessed. 
+Take the Quiz Again
+Attempt History
+	Attempt	Time	Score
+KEPT	Attempt 2	
+Time:
+1 minute	
+Score:
+5 out of 20 
+Pending Review:
+*
+LATEST	Attempt 2	
+Time:
+1 minute	
+Score:
+5 out of 20 
+Pending Review:
+*
+	Attempt 1	
+Time:
+15 minutes	
+Score:
+5 out of 20 
+Pending Review:
+*
+
+* Some questions not yet graded
+
+Submitted Jun 26 at 7:26pm
+ 
+Correct answer
+Question 1
+5 / 5 pts
+
+What is the limit 
+lim
+𝑛
+→
+∞
+1
+𝑛
+?
+
+  0 
+
+Good job!
+
+  
+∞
+ 
+  limit does not exist 
+  
+𝑛
+ 
+ 
+Question 2
+Not yet graded / 15 pts
+
+Explain what do you think we mean when we say that the series  
+∑
+𝑛
+=
+1
+∞
+𝑎
+𝑛
+ is divergent.
+
+ 
+
+Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit. 
+
+Your Answer:
+
+A divergent series is an infinite sum that does not reach one final answer. Since we keep adding terms forever, the total does not settle down.Practice-Quiz.pdf
+Download Practice-Quiz.pdf
+
+Previous
+Next
+
+## Links
+- Take the Quiz Again -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/take?user_id=6660414
+- Attempt 2 -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=2
+- Attempt 2 -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=2
+- Attempt 1 -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565 -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050#
+- https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944 -> https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944
+- Practice-Quiz.pdf -> https://canvas.oregonstate.edu/users/6660414/files/119294133?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&wrap=1
+- Download Practice-Quiz.pdf -> https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1
+- Previous -> https://canvas.oregonstate.edu/courses/2053263/modules/items/26885526
+- Next -> https://canvas.oregonstate.edu/courses/2053263/modules/items/26885527
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+
+## Hidden Text
+- Purpose This 2-question quiz before the final exam to familiarize yourself with the structure of our quizzes and exams. Make sure you practice scanning and uploading your handwritten answers to the free response questions! Unlike the unit quizzes, this quiz can be taken many times in order to test your equipment. Note on Scanning and Uploading: You can scan by using a phone application, such as CamScanner and send the scan to your computer/laptop you are using to take the quiz to upload. You can also use your regular Camera app. However, make sure to convert your picture to a format that can be read by Canvas, pdf is preferred. You can do so by using the insert tab in the reply window for the question and selecting uploads document for a pdf file (upload image for a .jpg). Alternatively, you just can drag and drop the .pdf file directly into the reply window. Make sure to check that the file you upload is readable after submission (click on the link and see if it opens)! Let me know if you have trouble scanning and uploading readable files. Instructions Read these directions before you begin (these are the typical directions, similar to those for a regular quiz): This quiz has 2 questions - 1 Multiple Choice and 1 Free Response. No partial credit is awarded on the Multiple Choice questions. Partial credit can be awarded on the free response questions. This is an individual online quiz. Working in groups or using AI in any form is prohibited, see the syllabus for the AI use statement. Students are allowed to use a regular scientific calculator -- either handheld or online. No phones or other electronic devices are allowed except to scan and upload the written solutions where prompted. Students are also allowed to to use their handwritten/printed notes. It is recommended to have a one-page summary of handwritten or printed notes with formulas, theorems, etc, rather than relying on a whole textbook worth of stuff. Remember, having too many notes usually results in over-reliance on the notes rather than one's own knowledge, leading to a lot of time lost hopelessly searching through the notes where careful thinking about a problem is far more productive! Working together, using AI, or consulting resources not listed above is considered Academic Dishonesty. There is a 15-minute timer that will begin once you click Start. You are welcome to use the full 15 minutes if you'd like. However, the quiz is designed to take approximately 10 min to complete. There is a 15-minute timer that will begin once you click Start. You are welcome to use the full 15 minutes if you'd like. However, the quiz is designed to take approximately 10 min to complete. To receive credit on the free response questions, in addition to the short answer in the space provided, a scanned pdf of the detailed handwritten solutions and explanations must be uploaded as an attachment to the question. For these questions, your reasoning is more important than the final answer! You can use your phone and an application such as CamScanner to scan and upload your solutions. Make sure you uploads rendered clearly and are easy to read. Multiple Choice Questions are worth 5 points each. Free Response questions are worth 15 points each. Since this is a practice quiz, it will not count towards your final score and will be able to re-take it many times, but you should attempt it before taking Quiz 1, so the "due date" is set at 11:59AM on Sunday 6/28. You can skip a question and return to it later while taking your quiz, but once you click submit the questions can no longer be accessed.
+- Time:
+- Score:
+- Pending Review:
+- Time:
+- Score:
+- Pending Review:
+- Time:
+- Score:
+- Pending Review:
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question 111017010 <p>What is the limit \(\lim\limits_{n\to\infty}\frac{1}{n}\)?</p> What is the limit limn→∞1n\lim\limits_{n\to\infty}\frac{1}{n}? 618 0 0 exact_answer none 59149565 618 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Good job! Good job! 4838 ∞\infty ∞\infty exact_answer none 59149565 4838 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6636 limit does not exist limit does not exist exact_answer none 59149565 6636 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1708 nn nn exact_answer none 59149565 1708 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 Not yet graded / 15 pts Edit this Question Delete this Question 0 essay_question 111017380 <p>Explain what do you think we mean when we say that the series&nbsp; \(\sum\limits_{n=1}^{\infty}a_n\) is divergent.</p> <p>&nbsp;</p> <p><strong>Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit.&nbsp;</strong></p> Explain what do you think we mean when we say that the series ∑n=1∞an\sum\limits_{n=1}^{\infty}a_n is divergent. Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit. Your Answer: A divergent series is an infinite sum that does not reach one final answer. Since we keep adding terms forever, the total does not settle down.Practice-Quiz.pdfDownload Practice-Quiz.pdf
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Download Practice-Quiz.pdf
+- Previous Next
+- Previous
+- Next

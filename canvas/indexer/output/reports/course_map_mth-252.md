@@ -1,6 +1,6 @@
 # MTH-252 Course Map
 
-Generated 2026-07-02 from the completed Canvas crawl archive.
+Generated 2026-07-08 from the completed Canvas crawl archive.
 
 ## Summary
 
@@ -9,10 +9,10 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 - Tasks: 268
 - Surface-only Assignments/Grades rows: 0
 - Retry URLs queued: 0
-- Parsed downloads: 60
-- Downloads needing action: 19
+- Parsed downloads: 57
+- Downloads needing action: 29
 - Rule-improvement buckets: 1
-- Manual-review rows: 111
+- Manual-review rows: 114
 
 ## Modules
 
@@ -24,13 +24,13 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 
 - **ACTION** [Start Here — Overview](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-overview?module_item_id=26982519) - module_item_has_task
 - **REF** [Start Here — Instructor Information & Communication Policy](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-instructor-information-and-communication-policy?module_item_id=26982520) - module_item_important_reference
-- **SETUP** [Syllabus and Calendar (as of 6/21) --> Both Sections 400 and 401](https://canvas.oregonstate.edu/courses/2080857/pages/syllabus-and-calendar-as-of-6-slash-21-%3E-both-sections-400-and-401?module_item_id=26982522) - module_item_has_task
+- **SETUP** [Syllabus and Calendar (as of 7/05) --> Both Sections 400 and 401](https://canvas.oregonstate.edu/courses/2080857/pages/syllabus-and-calendar-as-of-7-slash-05-%3E-both-sections-400-and-401?module_item_id=26982522) - module_item_has_task
 - **SETUP** [Get your MTH 252Z Course Materials! (Access Code + Ebook)](https://canvas.oregonstate.edu/courses/2080857/pages/get-your-mth-252z-course-materials-access-code-+-ebook?module_item_id=26990499) - module_item_has_task
 - **SETUP** [Achieve Registration Process_v3.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223565?module_item_id=26982524) - module_item_has_task
 - **ACTION** [Free Trial/Grace Period in Achieve (2 weeks)](https://canvas.oregonstate.edu/courses/2080857/pages/free-trial-slash-grace-period-in-achieve-2-weeks?module_item_id=26982525) - module_item_has_task
 - **PREP** [OpenStax Course Online Textbook (pdf downloadable) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982526) - module_item_has_task
-- **SETUP** Gradescope Submissions - Students are held accountable for verifying submissions 8 context_module_sub_header 26982527 0 Score at least Must score at least to complete this module item Scored at least Module item has been completed by scoring at least Score at least % Must score at least % to complete this module item Scored at least % Module item has been completed by scoring at least % View Must view in order to complete this module item Viewed Module item has been viewed and is complete Mark done Must mark this module item done in order to complete Marked done Module item marked as done and is complete Contribute Must contribute to this module item to complete it Contributed Contributed to this module item and is complete Submit Must submit this module item to complete it Submitted Module item submitted and is complete - module_item_reference_only
-- **PREP** Videos below: Show what verifying subs looks like. 9 context_module_sub_header 26982528 0 Score at least Must score at least to complete this module item Scored at least Module item has been completed by scoring at least Score at least % Must score at least % to complete this module item Scored at least % Module item has been completed by scoring at least % View Must view in order to complete this module item Viewed Module item has been viewed and is complete Mark done Must mark this module item done in order to complete Marked done Module item marked as done and is complete Contribute Must contribute to this module item to complete it Contributed Contributed to this module item and is complete Submit Must submit this module item to complete it Submitted Module item submitted and is complete - module_item_reference_only
+- **SETUP** Gradescope Submissions - Students are held accountable for verifying submissions 8 - module_item_reference_only
+- **PREP** Videos below: Show what verifying subs looks like. 9 - module_item_reference_only
 - **SETUP** [Gradescope Submission Using Phone (no audio)](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982529) - module_item_has_task
 - **SETUP** [Gradescope Submission Using Computer (no audio)](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982530) - module_item_has_task
 - **REF** [Start Here — Where to go for help?](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-where-to-go-for-help?module_item_id=26982531) - module_item_reference_only
@@ -63,7 +63,7 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 - **TASK** [Module 1 — Written Homework (WHW 1) 🕓 2 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586053?module_item_id=26982549) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Intro Reflect 1](https://canvas.oregonstate.edu/courses/2080857/assignments/10586044?module_item_id=26982550) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.1 Approximating Areas](https://canvas.oregonstate.edu/courses/2080857/assignments/10586025?module_item_id=26982551) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475?module_item_id=26982552) - module_item_has_task
+- **TASK** [Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475?module_item_id=26982552) (715 pts) - module_item_has_task
 
 ### 6. Module 2: Intro to Definite Integral and Properties
 
@@ -75,11 +75,11 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 - **TASK** [Module 2 — Written Homework (WHW 2) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586055?module_item_id=26982558) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Reflection 2](https://canvas.oregonstate.edu/courses/2080857/assignments/10586063?module_item_id=26982559) due Jul 9 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.2 The Definite Integral](https://canvas.oregonstate.edu/courses/2080857/assignments/10586026?module_item_id=26982560) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 2 — Discussion Reflection 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474?module_item_id=26982561) due Jul 7 at 12:59am - module_item_has_task
+- **TASK** [Module 2 — Discussion Reflection 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474?module_item_id=26982561) (1315 pts) - module_item_has_task
 
 ### 7. Mini-Exam 1: Available Tuesday - Thursday of Week 3
 
-- **TASK** [Mini-Exam 1 - Tues - Thur --> No Calculators](https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562) due Jul 9 by 11:59pm (5 pts) - module_item_has_task
+- **TASK** [Mini-Exam 1 - Tues - Thur (No late submissions)](https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562) due Jul 9 by 11:59pm (5 pts) - module_item_has_task
 
 ### 8. Module 3: The Fundamental Theorems of Calculus
 
@@ -202,7 +202,7 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 
 ### 19. Final Exam: Available Monday - Wednesday of week 11
 
-- **REF** Retake - Only ONE retake submission is permitted. 1 context_module_sub_header 26982651 0 Score at least Must score at least to complete this module item Scored at least Module item has been completed by scoring at least Score at least % Must score at least % to complete this module item Scored at least % Module item has been completed by scoring at least % View Must view in order to complete this module item Viewed Module item has been viewed and is complete Mark done Must mark this module item done in order to complete Marked done Module item marked as done and is complete Contribute Must contribute to this module item to complete it Contributed Contributed to this module item and is complete Submit Must submit this module item to complete it Submitted Module item submitted and is complete - module_item_reference_only
+- **REF** Retake - Only ONE retake submission is permitted. 1 - module_item_reference_only
 - **TASK** [Final Mini-Exam 5 --> Monday to Wednesday](https://canvas.oregonstate.edu/courses/2080857/assignments/10586043?module_item_id=26982652) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Mini-Exam 1 - Retake](https://canvas.oregonstate.edu/courses/2080857/assignments/10586046?module_item_id=26982653) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Mini-Exam 2 - Retake](https://canvas.oregonstate.edu/courses/2080857/assignments/10586047?module_item_id=26982654) due Sep 2 by 11:59pm (5 pts) - module_item_has_task
@@ -408,24 +408,26 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 
 - [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223459/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [WHW1-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [ME1-W26-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [MTH 252Z-400 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [MTH 252Z-401 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [ME1-U26-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Unit-1-Student-Study-Guide.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Unit-1-Student-Study-Guide-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW3-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 9 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 18 examples
+- graded_task_missing_due / missing_due_text: 19 examples

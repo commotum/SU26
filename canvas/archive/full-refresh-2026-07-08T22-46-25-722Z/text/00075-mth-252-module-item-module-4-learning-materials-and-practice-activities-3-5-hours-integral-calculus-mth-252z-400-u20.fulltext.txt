@@ -1,0 +1,108 @@
+
+            
+
+  
+
+
+
+    Module 4 — Learning Materials and Practice Activities  🕓 3 - 5 hours
+    
+
+  
+    
+
+Intro
+Understanding how to appropriately apply the Net Change Theorem and to build intuition for efficiently using substitution comes by practicing a variety of problem types. Below you find a broad range of reading and practice problems to support the mastery of this material.  Then we complete our study of basic antiderivatives by studying integrals of exponentials and logarithms.  As substitution will be used in almost every section going forward, it is recommended that you take advantage of as much practice as possible with the material given. 
+Readings
+Read the following section from your textbook, OpenStax College. (2016). Calculus, Volume 2:Links to an external site.
+
+Section 1.4 - Pages 64 – 72
+Section 1.5 – Pages 82 – 89
+Section 1.6 – Pages 93 - 102
+
+Riemann Sum Calculator (RSC)
+Instructions:
+
+Go to the Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.
+Input the relevant integrand function, adjust bounds, input the number of rectangles, and select your sum type.
+Slide to the number of rectangles desired.
+
+Videos
+These YouTube videos are useful resources to review the definitions needed to identify and compute the rectangular areas for our approximations. 
+-- Optional Lecture Notes: 1.4, 1.5, 1.6 - Lecture 1.4 - 1.6.pdf
+-- Annotated notes with answer from
+
+1.3, 4.10, 1.4: Lecture-1.3-to-ME2 pages 1 - 10.pdf
+1.5: Lecture-1.3-to-ME2 pages 14 - 19.pdf
+
+OpenStax 1.4: Net Change Theorem
+
+Net Change Theorem IntroductionLinks to an external site. (13:16)
+Net Change with Velocity: Displacement & Total DistanceLinks to an external site. (1 of 2) (11:52)
+Net Change with Velocity: Displacement & Total DistanceLinks to an external site. (2 of 2) (13:05)
+Displacement and Total Distance ExampleLinks to an external site. (4:20)
+Net Displacement at Time tLinks to an external site. (10:49)
+Integration of Odd and Even FunctionsLinks to an external site. (5:15)
+Definite Integrals of Odd FunctionsLinks to an external site. (7:58)
+
+OpenStax 1.5: Substitution
+
+Substitution with Indefinite Integrals IntroLinks to an external site. (11:04)
+Substitution with Definite Integrals IntroLinks to an external site. (9:29)
+Substitution – Definite Integral Changing BoundsLinks to an external site. (6:59)
+Substitution – Examples and Back SubstitutionLinks to an external site. (21:34)
+Substitution with radicalsLinks to an external site. (7:15)
+Substitution with LogarithmsLinks to an external site. (1:50)
+Substitution Example with TrigonometryLinks to an external site. (2:53)
+
+OpenStax 1.6: Integrals Involving Exponential and Logarithmic Functions
+
+Integration Involving Polynomial, Exponential, and QuotientLinks to an external site. (2:43)
+Integration Involving Exponential and LogarithmLinks to an external site. (3:31)
+Examples of Integrals with ExponentialsLinks to an external site. (11:16)
+Integration Involving Exponentials and Logarithms (Substitution)Links to an external site. (10:31)
+Integral Resulting in LogarithmsLinks to an external site. (3:58)
+Integral Application of Natural LogLinks to an external site. (18:36)
+
+Practice Activities
+Do the following practice problems from your textbook, OpenStax College. (2016). Calculus, Volume 2.Links to an external site. Odd problems have the answer in the online book.
+OpenStax 1.4: Net Change Theorem
+
+Section 1.4: Example 1.24 – Net Change. Try the problem using your notes. Then expand to see full solution.
+Section 1.4: Example 1.25 – Total Distance. Try the problem using your notes. Then expand to see full solution.
+Section 1.4: Example 1.26 – Applying Net Change Theorem. Try the problem using your notes. Then expand to see full solution.
+Section 1.4: 223, 225, 226, 228
+
+OpenStax 1.5: Substitution
+
+Section 1.5: Example 1.31 – Substitution. Try the problem using your notes. Then expand to see full solution.
+Section 1.5: Example 1.33 – Substitution with Shifting. Try the problem using your notes. Then expand to see full solution.
+Section 1.5: Example 1.35 – Substitution with Definite Integral. Try the problem using your notes. Then expand to see full solution.
+Section 1.5: 260, 266, 275, 284, 293, 297
+
+OpenStax 1.6: Integrals Involving Exponential and Logarithmic Functions
+
+Section 1.6: Example 1.38 – Roots of an Exponential. Try the problem using your notes. Then expand to see full solution.
+Section 1.6: Example 1.42 – Finding a Function. Try the problem using your notes. Then expand to see full solution.
+Section 1.6: Example 1.47 – Antiderivative with Logs. Try the problem using your notes. Then expand to see full solution.
+Section 1.6: 329, 331, 333, 337, 343, 357, 365
+
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

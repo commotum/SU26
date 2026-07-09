@@ -1,0 +1,32 @@
+
+            
+  Integration using long division 
+    This site was opened in a new browser window.
+    
+      If it didn't open automatically, select the button below.
+    
+    
+      
+        Open Integration using long division  in a new window
+      
+    
+
+
+  
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+
+  document.getElementById('open_url_button').click();
+
+
+          

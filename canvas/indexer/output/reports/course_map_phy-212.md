@@ -1,18 +1,18 @@
 # PHY-212 Course Map
 
-Generated 2026-07-02 from the completed Canvas crawl archive.
+Generated 2026-07-08 from the completed Canvas crawl archive.
 
 ## Summary
 
 - Modules: 5
-- Module items: 46
-- Tasks: 112
+- Module items: 45
+- Tasks: 142
 - Surface-only Assignments/Grades rows: 48
-- Retry URLs queued: 42
+- Retry URLs queued: 85
 - Parsed downloads: 23
-- Downloads needing action: 26
+- Downloads needing action: 47
 - Rule-improvement buckets: 1
-- Manual-review rows: 139
+- Manual-review rows: 166
 
 ## Modules
 
@@ -28,7 +28,7 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 ### 2. Course information
 
 - **REF** [General information](https://canvas.oregonstate.edu/courses/2053526/pages/general-information?module_item_id=26896936) - module_item_reference_only
-- **SETUP** [Syllabus](https://canvas.oregonstate.edu/courses/2053526/files/119256264?module_item_id=26992777) - module_item_has_task
+- **SETUP** [Syllabus](https://canvas.oregonstate.edu/courses/2053526/files/119369072?module_item_id=26992777) - module_item_has_task
 - **REF** [Zoom info](https://canvas.oregonstate.edu/courses/2053526/pages/zoom-info?module_item_id=26896938) - module_item_reference_only
 - **REF** [Announcements](https://canvas.oregonstate.edu/courses/2053526/pages/announcements?module_item_id=26896939) - module_item_reference_only
 - **REF** [TA Info & Scheduler](https://canvas.oregonstate.edu/courses/2053526/pages/ta-info-and-scheduler?module_item_id=26896940) - module_item_reference_only
@@ -51,7 +51,6 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 - **REF** [Financial resources and more](https://canvas.oregonstate.edu/courses/2053526/pages/financial-resources-and-more?module_item_id=26896952) - module_item_reference_only
 - **REF** [Academic Misconduct Scenarios](https://canvas.oregonstate.edu/courses/2053526/pages/academic-misconduct-scenarios?module_item_id=26896953) - module_item_reference_only
 - **REF** [Scanned text on reserve at the library](https://canvas.oregonstate.edu/courses/2053526/pages/scanned-text-on-reserve-at-the-library?module_item_id=26896954) - module_item_important_reference
-- **REF** [Help getting internet](https://canvas.oregonstate.edu/courses/2053526/pages/help-getting-internet?module_item_id=26896955) - module_item_important_reference
 - **REF** [Scanning Resources](https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources-2?module_item_id=26896956) - module_item_important_reference
 
 ### 4. Module 1 | Circular Motion
@@ -79,84 +78,87 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 
 ## Assignments/Grades Not In Modules
 
-- **ASSIGNMENTS** [M1-0](https://canvas.oregonstate.edu/courses/2053526/assignments/10591118) due Jun 22 at 12:44pm (1 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-00](https://canvas.oregonstate.edu/courses/2053526/assignments/10592346) due Jun 23 at 12:12pm (2 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10592982) due Jun 24 at 1:02pm (3 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-2](https://canvas.oregonstate.edu/courses/2053526/assignments/10593560) due Jun 25 at 12:22pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-3](https://canvas.oregonstate.edu/courses/2053526/assignments/10595057) due Jun 29 at 12:24pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-4](https://canvas.oregonstate.edu/courses/2053526/assignments/10595549) due Jun 30 at 12:16pm (6 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-5](https://canvas.oregonstate.edu/courses/2053526/assignments/10597145) due Jul 2 at 12:56pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M2-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557070) due Jul 2 at 10:00am (3 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 1 Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557057) due Jun 27 at 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557058) due Jul 4 at 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 3 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557059) due Jul 11 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 4 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557060) due Jul 18 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 5 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061) due Jul 25 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 6 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557062) due Aug 8 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047) due Aug 1 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Capstone Lab Week 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557046) due Aug 15 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **GRADES** [Lab 1 Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557057/submissions/6660414) due Jun 27 at 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [M2-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557070/submissions/6660414) due Jul 2 at 10:00am (3 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Lab 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557058/submissions/6660414) due Jul 4 at 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Lab 3 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557059/submissions/6660414) due Jul 11 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Lab 4 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557060/submissions/6660414) due Jul 18 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Lab 5 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061/submissions/6660414) due Jul 25 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047/submissions/6660414) due Aug 1 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Lab 6 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557062/submissions/6660414) due Aug 8 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [Capstone Lab Week 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557046/submissions/6660414) due Aug 15 by 11:59pm (20 pts) - grades_surface_task_not_in_modules
-- **GRADES** [M1-0](https://canvas.oregonstate.edu/courses/2053526/assignments/10591118/submissions/6660414) due Jun 22 at 12:44pm (1 pts) - grades_surface_task_not_in_modules
-- **GRADES** [M1-00](https://canvas.oregonstate.edu/courses/2053526/assignments/10592346/submissions/6660414) due Jun 23 at 12:12pm (2 pts) - grades_surface_task_not_in_modules
-- **GRADES** [M1-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10592982/submissions/6660414) due Jun 24 at 1:02pm (3 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 1 Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557057/submissions/6660414) due Jun 27 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M2-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557070/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1 Notes](https://canvas.oregonstate.edu/courses/2053526/assignments/10557097/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557058/submissions/6660414) due Jul 4 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1A](https://canvas.oregonstate.edu/courses/2053526/assignments/10557098/submissions/6660414) due Jul 6 by 11:25am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1B](https://canvas.oregonstate.edu/courses/2053526/assignments/10557101/submissions/6660414) due Jul 6 by 11:55am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1A_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557100/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1B_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557103/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1A_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557099/submissions/6660414) due Jul 6 by 6:25pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 1B_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557102/submissions/6660414) due Jul 6 by 6:55pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 3 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557059/submissions/6660414) due Jul 11 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2 Notes](https://canvas.oregonstate.edu/courses/2053526/assignments/10557105/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 4 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557060/submissions/6660414) due Jul 18 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2A](https://canvas.oregonstate.edu/courses/2053526/assignments/10557106/submissions/6660414) due Jul 20 by 11:25am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2B](https://canvas.oregonstate.edu/courses/2053526/assignments/10557109/submissions/6660414) due Jul 20 by 11:55am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2A_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557108/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2B_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557111/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2A_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557107/submissions/6660414) due Jul 20 by 6:25pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2B_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557110/submissions/6660414) due Jul 20 by 6:55pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 5 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061/submissions/6660414) due Jul 25 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3 Notes](https://canvas.oregonstate.edu/courses/2053526/assignments/10557113/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047/submissions/6660414) due Aug 1 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3A](https://canvas.oregonstate.edu/courses/2053526/assignments/10557114/submissions/6660414) due Aug 3 by 11:25am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3B](https://canvas.oregonstate.edu/courses/2053526/assignments/10557117/submissions/6660414) due Aug 3 by 11:55am (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3A_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557116/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3B_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557119/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3A_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557115/submissions/6660414) due Aug 3 by 6:25pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 3B_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557118/submissions/6660414) due Aug 3 by 6:55pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Lab 6 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557062/submissions/6660414) due Aug 8 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Final Notes](https://canvas.oregonstate.edu/courses/2053526/assignments/10557056/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Final A_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557050/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Final B_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557053/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Capstone Lab Week 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557046/submissions/6660414) due Aug 15 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4A](https://canvas.oregonstate.edu/courses/2053526/assignments/10557122/submissions/6660414) due Aug 24 by 12:25pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4B](https://canvas.oregonstate.edu/courses/2053526/assignments/10557125/submissions/6660414) due Aug 24 by 12:55pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4A_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557124/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4B_asy_work](https://canvas.oregonstate.edu/courses/2053526/assignments/10557127/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4A_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557123/submissions/6660414) due Aug 24 by 6:25pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 4B_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557126/submissions/6660414) due Aug 24 by 6:55pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M1-0](https://canvas.oregonstate.edu/courses/2053526/assignments/10591118/submissions/6660414) due Jun 22 at 12:44pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M1-00](https://canvas.oregonstate.edu/courses/2053526/assignments/10592346/submissions/6660414) due Jun 23 at 12:12pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M1-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10592982/submissions/6660414) due Jun 24 at 1:02pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [M1-2](https://canvas.oregonstate.edu/courses/2053526/assignments/10593560/submissions/6660414) due Jun 25 at 12:22pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [M1-3](https://canvas.oregonstate.edu/courses/2053526/assignments/10595057/submissions/6660414) due Jun 29 at 12:24pm (5 pts) - grades_surface_task_not_in_modules
-- **GRADES** [M1-4](https://canvas.oregonstate.edu/courses/2053526/assignments/10595549/submissions/6660414) due Jun 30 at 12:16pm (6 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M1-4](https://canvas.oregonstate.edu/courses/2053526/assignments/10595549/submissions/6660414) due Jun 30 at 12:16pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [M1-5](https://canvas.oregonstate.edu/courses/2053526/assignments/10597145/submissions/6660414) due Jul 2 at 12:56pm (5 pts) - grades_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-0](https://canvas.oregonstate.edu/courses/2053526/assignments/10591118) due Jun 22 at 12:44pm (1 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-00](https://canvas.oregonstate.edu/courses/2053526/assignments/10592346) due Jun 23 at 12:12pm (2 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10592982) due Jun 24 at 1:02pm (3 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-2](https://canvas.oregonstate.edu/courses/2053526/assignments/10593560) due Jun 25 at 12:22pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-3](https://canvas.oregonstate.edu/courses/2053526/assignments/10595057) due Jun 29 at 12:24pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-4](https://canvas.oregonstate.edu/courses/2053526/assignments/10595549) due Jun 30 at 12:16pm (6 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M1-5](https://canvas.oregonstate.edu/courses/2053526/assignments/10597145) due Jul 2 at 12:56pm (5 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [M2-1pre](https://canvas.oregonstate.edu/courses/2053526/assignments/10557070) due Jul 2 at 10:00am (3 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 1 Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557057) due Jun 27 at 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557058) due Jul 4 at 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 3 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557059) due Jul 11 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 4 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557060) due Jul 18 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 5 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061) due Jul 25 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Lab 6 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557062) due Aug 8 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047) due Aug 1 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
-- **ASSIGNMENTS** [Capstone Lab Week 2 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557046) due Aug 15 by 11:59pm (20 pts) - assignments_surface_task_not_in_modules
+- **GRADES** [M2-1](https://canvas.oregonstate.edu/courses/2053526/assignments/10598091/submissions/6660414) due Jul 7 at 12:51pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [M2-2](https://canvas.oregonstate.edu/courses/2053526/assignments/10598691/submissions/6660414) due Jul 8 at 12:15pm (5 pts) - grades_surface_task_not_in_modules
 
 ## Review Queues
 
 ### Retry
 
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556937) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556938) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556943) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556947) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556951) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556958) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556959) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556967) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556975) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556991) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556996) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557013) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557015) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557020) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557027) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557105) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557106) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557107) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557108) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557109) - high
-- ... 22 more retry URLs
+- [capture_failed](https://canvas.oregonstate.edu/courses/2053526/assignments/10557036) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557112) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025986) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025987) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025988) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025989) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025990) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025991) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025992) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025993) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025994) - high
+- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025995) - high
+- ... 65 more retry URLs
 
 ### Downloads Needing Action
 
+- [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119369072/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
@@ -166,18 +168,15 @@ Generated 2026-07-02 from the completed Canvas crawl archive.
 - [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [M1-2.pdf](https://canvas.oregonstate.edu/files/119356772/download) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [M1-3.pdf](https://canvas.oregonstate.edu/files/119358414/download) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119369072/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Basic-Excel-Workflows.pptx](https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_DATA_time-distance.txt](https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ... 6 more downloads
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [quiz1_practice.pdf](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 27 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 31 examples
+- graded_task_missing_due / missing_due_text: 59 examples

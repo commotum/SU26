@@ -1,0 +1,28 @@
+Module 8 — Overview
+
+Introduction
+
+This section is a continuation of our study of graphical application of integration. We turn our attention to solids of revolution using the Shell Method. Although both the disk/washer and shell methods can often be used interchangeably to find the volumes, they each are needed separately to solve physical application problems. In these setting they absolutely can no longer be used interchangeably.  Lastly we will study how to use integration to measure the length of an arc created by the graph of a function.
+
+Module Learning Outcomes
+
+After successful completion of this module, you will be able to:
+
+Describe the definite integral as a limit of Riemann sums and illustrate and interpret definite integrals as areas and signed areas. 
+Evaluate integrals using basic numerical integration rules.
+Apply the fundamental theorem of calculus to evaluate integrals and to differentiate integrals with respect to a limit of integration.
+Use integration to find areas and volumes of regions and calculate physical quantities such as total distance t raveled, displacement, work, and volume.
+
+This module aligns with the following course learning outcomes: 3, 4.
+
+Task List
+
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-4)
+Complete the Alta Assignments (MLOs 1-4)
+Submit the Written Homework (MLOs 1-4)
+Contribute to the Discussion Reflection (MLOs 1-4)
+
+Previous
+Next

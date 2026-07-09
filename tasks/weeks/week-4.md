@@ -2,7 +2,7 @@ DO NOT EDIT THESE FILES DURING CANVAS SCRAPES. THESE ARE MY PERSONAL RECORDS. ON
 
 # Week 4 Todo (7/13-7/19)
 
-Source: archived Canvas scrape and `overview.md`.
+Source: refreshed Canvas scrape (`full-refresh-2026-07-08T22-46-25-722Z`) and `overview.md`.
 
 ## MTH-252: Integral Calculus
 
@@ -25,15 +25,16 @@ Source: archived Canvas scrape and `overview.md`.
 ## PHY-212: General Physics with Calculus
 
 ### Exams
-- [ ] Sat 7/18 5:00pm: Assignment: Quiz 2 notes, **included in Quiz 2 prep; exact % not separated in overview**.
+- [ ] Sat 7/18 5:00pm: Assignment: Quiz 2 Notes, **included in Quiz 2 prep; exact % not separated in overview**.
 
 ### Homework
-- [ ] Tue 7/14: Quiz: Hw 4 (ch12b), **1%**. Due time not visible in local scrape.
-- [ ] Fri 7/17: Quiz: Hw 5 (ch13), **1%**. Due time not visible in local scrape.
+- [ ] Wed 7/15 11:59pm: Quiz: Hw 4 - Rotational Dynamics, **1%**.
+- [ ] Fri 7/17 11:59pm: Quiz: Hw 5 - Gravity, **1%**.
 
 ### Pre-Lecture
-- [ ] Mon 7/13 10:00am: Pre-Lecture: M2-6pre, **~0.18% nominal; drops apply**.
-- [ ] Tue 7/14 10:00am: Pre-Lecture: M2-7pre, **~0.18% nominal; drops apply**.
+- [ ] Mon 7/13 10:00am: Pre-Lecture: M2-5pre, **~0.18% nominal; drops apply**.
+- [ ] Tue 7/14 10:00am: Pre-Lecture: M2-6pre, **~0.18% nominal; drops apply**.
+- [ ] Wed 7/15 10:00am: Pre-Lecture: M2-7pre, **~0.18% nominal; drops apply**.
 
 ### Participation
 - [ ] Mon 7/13 2:00pm: Participation: M2-5, **~0.18% nominal; drops apply**.

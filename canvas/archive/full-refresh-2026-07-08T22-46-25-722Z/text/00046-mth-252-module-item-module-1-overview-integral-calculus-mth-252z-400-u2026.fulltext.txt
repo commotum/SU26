@@ -1,0 +1,55 @@
+
+            
+
+  
+
+
+
+    Module 1  — Overview
+    
+
+  
+    
+
+Introduction
+This week we will explore various techniques for evaluating integrals. Although our primary approach will be using numerical integration rules, geometric methods will also be introduced. Going further, we will learn how to interpret (definite) integrals as either signed/net area or total area.  Finally, we will also explore ways in which we can abstract the notion of "area" to solve application problems. 
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Calculate left, right, and midpoint sums, and draw their corresponding rectangles. 
+Calculate Riemann sums from tables and graphs. 
+Use geometric methods to find area under a curve.
+Evaluate and interpret Riemann sums to approximate area under a curve.
+Use a Riemann sum calculator (RSC) to computationally approximate Riemann Sums.
+Use and interpret the results of the course Riemann sum calculator (RSC).
+
+This module aligns with the following course learning outcomes: 1-4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-6)
+Complete the Reading Quiz (MLOs 1-6)
+Complete the Achieve Assignment (MLOs 1-6)
+Submit the Written Homework (MLOs 1-6)
+Contribute to the Discussion Reflection (MLOs 1-6)
+
+    
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

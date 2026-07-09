@@ -1,0 +1,1116 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/submissions/31723249",
+      "index": 0,
+      "method": "post",
+      "text": "Correct answers are hidden. Score for this attempt: 5 out of 5 * * Some questions not yet graded Submitted Jul 5 at 10:09pm This attempt took 121 minutes. Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 111098108 <div class=\"tex2jax_ignore\"> <p><span style=\"font-size: 20px;\">Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes.</span></p> <p><span style=\"font-size: 20px;\">For the formula for the bullet speed v in terms of the given variables, would you expect to find D in the numerator or denominator?</span></p> <p><span style=\"font-size: 20px;\">Explain. Be sure to include your explanation in the last question where you show work for this assignment.</s"
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H2",
+      "text": "M1-2asy Results for Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Warning"
+    },
+    {
+      "index": 1,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 111098108 <div class=\"tex2jax_ignore\"> <p><span style=\"font-size: 20px;\">Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes.</span></p> <p><span style=\"font-size: 20px;\">For the formula for the bullet speed v in terms of the given variables, would you expect to find D in the numerator or denominator?</span></p> <p><span style=\"font-size: 20px;\">Explain. Be sure to include your explanation in the last question where you show work for this assignment.</span></p> <p><img class=\"display\" src=\"https://d1py7umku9kunm.cloudfront.net/assets/9153772/bulletCylinder_2.JPG\"></p> </div><p><span style=\"font-size: 20px;\">The angular velocity of a spinning disk is given by ω(t) = A - B t<sup>2</sup>. <span>Through what angle does the disk turn between t</span><sub>0</sub><span>&nbsp;= 0.0s and the time at which it reverses its direction of rotation?</span></span></p> <p><span style=\"font-size: 20px;\"><span>Consider the case where A = 18 s<sup>-1</sup>&nbsp;and B = 0.50 s<sup>-3</sup>.</span></span></p> <p><span style=\"font-size: 20px;\">Enter your answer in radians.</span></p> Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes. For the formula for the bullet speed v in terms of the given variables, would you expect to find D in the numerator or denominator? Explain. Be sure to include your explanation in the last question where you show work for this assignment. The angular velocity of a spinning disk is given by ω(t) = A - B t2. Through what angle does the disk turn between t0 = 0.0s and the time at which it reverses its direction of rotation? Consider the case where A = 18 s-1 and B = 0.50 s-3. Enter your answer in radians. 2272 numerator numerator exact_answer none 59026256 2272 margin of error +/- 7206 denominator denominator exact_answer none 59026256 7206 margin of error +/- 9950 neither neither exact_answer none 59026256 9950 margin of error +/-"
+    },
+    {
+      "index": 2,
+      "text": "Move To..."
+    },
+    {
+      "index": 3,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 4,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 5,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 6,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 110816601 <div class=\"tex2jax_ignore\"> <p><span style=\"font-size: 20px;\">Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes.</span></p> <p><span style=\"font-size: 20px;\">For the formula for the bullet speed v in terms of the given variables, would you expect to find T in the numerator or denominator?</span></p> <p><span style=\"font-size: 20px;\">Explain. Be sure to include your explanation in the last question where you show work for this assignment.</span></p> <p><img class=\"display\" src=\"https://d1py7umku9kunm.cloudfront.net/assets/9153772/bulletCylinder_2.JPG\"></p> </div> Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes. For the formula for the bullet speed v in terms of the given variables, would you expect to find T in the numerator or denominator? Explain. Be sure to include your explanation in the last question where you show work for this assignment. 6981 numerator numerator exact_answer none 59026257 6981 margin of error +/- 5711 denominator denominator exact_answer none 59026257 5711 margin of error +/- 4074 neither neither exact_answer none 59026257 4074 margin of error +/-"
+    },
+    {
+      "index": 7,
+      "text": "Move To..."
+    },
+    {
+      "index": 8,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 9,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 10,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 11,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 111098111 <div class=\"tex2jax_ignore\"> <p><span style=\"font-size: 20px;\">Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes.</span></p> <p><span style=\"font-size: 20px;\">For the formula for the bullet speed v in terms of the given variables, would you expect to find <span>ϴ</span> in the numerator or denominator?</span></p> <p><span style=\"font-size: 20px;\">Explain. Be sure to include your explanation in the last question where you show work for this assignment.</span></p> <p><img class=\"display\" src=\"https://d1py7umku9kunm.cloudfront.net/assets/9153772/bulletCylinder_2.JPG\"></p> </div> Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes. For the formula for the bullet speed v in terms of the given variables, would you expect to find ϴ in the numerator or denominator? Explain. Be sure to include your explanation in the last question where you show work for this assignment. 5833 numerator numerator exact_answer none 59026258 5833 margin of error +/- 1883 denominator denominator exact_answer none 59026258 1883 margin of error +/- 3788 neither neither exact_answer none 59026258 3788 margin of error +/-"
+    },
+    {
+      "index": 12,
+      "text": "Move To..."
+    },
+    {
+      "index": 13,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 14,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 15,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 16,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 111098113 <div id=\"question_new_question_text\" class=\"question_text user_content enhanced\"> <p><span style=\"font-size: 20px;\">Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes.</span></p> <p><span style=\"font-size: 20px;\">Find the bullet speed v in terms of the given variables, where D = 0.86 m, ϴ = pi/6 and T = 0.22 s. Enter your answer in m/s.<br></span></p> <p><span style=\"font-size: 20px;\">Be sure to include your work in the last question where you show work for this assignment.</span></p> <p><img class=\"display\" style=\"max-width: 400px;\" src=\"https://d1py7umku9kunm.cloudfront.net/assets/9153772/bulletCylinder_2.JPG\"></p> </div> Consider the system pictured: a bullet is shot through two holes in disks a distance D apart, attached to a shaft that rotates at constant angular speed with a period T. ϴ describes the fixed angular separation of the holes. Find the bullet speed v in terms of the given variables, where D = 0.86 m, ϴ = pi/6 and T = 0.22 s. Enter your answer in m/s. Be sure to include your work in the last question where you show work for this assignment."
+    },
+    {
+      "index": 17,
+      "text": "Move To..."
+    },
+    {
+      "index": 18,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 19,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 20,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 21,
+      "text": "Numerical answer"
+    },
+    {
+      "index": 22,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 111098118 <p><span style=\"font-size: 14pt;\">The diagrams below show velocity vectors of objects in uniform circular motion. Please rank their radial accelerations. Explain your choices, include your explanation in the document showing your work.</span></p> <p><img src=\"/courses/2053526/files/118705621/preview\" alt=\"four cases for radial acceleration\"></p> The diagrams below show velocity vectors of objects in uniform circular motion. Please rank their radial accelerations. Explain your choices, include your explanation in the document showing your work. 9672 A < B < C < D A < B < C < D exact_answer none 59178579 9672 margin of error +/- 3441 A < B < D < C A < B < D < C exact_answer none 59178579 3441 margin of error +/- 6651 A < C < B < D A < C < B < D exact_answer none 59178579 6651 margin of error +/- 1985 A < C < D < B A < C < D < B exact_answer none 59178579 1985 margin of error +/- 6493 B < A < C < D B < A < C < D exact_answer none 59178579 6493 margin of error +/- 6746 B < A < D < C B < A < D < C exact_answer none 59178579 6746 margin of error +/- 2350 B < C < A < D B < C < A < D exact_answer none 59178579 2350 margin of error +/- 354 B < C < D < A B < C < D < A exact_answer none 59178579 354 margin of error +/- 4430 B < D < A < C B < D < A < C exact_answer none 59178579 4430 margin of error +/- 6918 B < D < C < A B < D < C < A exact_answer none 59178579 6918 margin of error +/- 3505 C < A < B < D C < A < B < D exact_answer none 59178579 3505 margin of error +/- 8886 C < A < D < B C < A < D < B exact_answer none 59178579 8886 margin of error +/- 4474 C < B < A < D C < B < A < D exact_answer none 59178579 4474 margin of error +/- 5118 C < B < D < A C < B < D < A exact_answer none 59178579 5118 margin of error +/- 1576 C < D < A < B C < D < A < B exact_answer none 59178579 1576 margin of error +/- 4553 C < D < B < A C < D < B < A exact_answer none 59178579 4553 margin of error +/- 7386 D < A < B < C D < A < B < C exact_answer none 59178579 7386 margin of error +/- 9536 D < A < C < B D < A < C < B exact_answer none 59178579 9536 margin of error +/- 8603 D < B < A < C D < B < A < C exact_answer none 59178579 8603 margin of error +/- 4157 D < B < C < A D < B < C < A exact_answer none 59178579 4157 margin of error +/- 9963 D < C < A < B D < C < A < B exact_answer none 59178579 9963 margin of error +/- 1867 D < C < B < A D < C < B < A exact_answer none 59178579 1867 margin of error +/-"
+    },
+    {
+      "index": 23,
+      "text": "Move To..."
+    },
+    {
+      "index": 24,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 25,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 26,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 27,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 Not yet graded / 0 pts Edit this Question Delete this Question 0 essay_question <span style=\"font-size: 14pt;\">Using your own words, enter at least 50 words describing the concepts underlying the topic for today. <span>You need to completely answer this question to get credit for this assignment.</span></span> Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment. Your Answer: Circular motion involves velocity changing direction even when speed stays the same. This means an object moving in a circle is still accelerating. In uniform circular motion, that acceleration points toward the center and is called radial or centripetal acceleration. Its size depends on the object's speed and the radius of the path: higher speed increases radial acceleration, while a larger radius decreases it."
+    },
+    {
+      "index": 28,
+      "text": "Move To..."
+    },
+    {
+      "index": 29,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 30,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 31,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 32,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 Not yet graded / 0 pts Edit this Question Delete this Question 0 file_upload_question <p><span style=\"font-size: 14pt;\">You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.</span></p> <p><span style=\"font-size: 14pt;\">For help with scanning, please see <a title=\"Scanning Resources\" href=\"/courses/2053526/pages/scanning-resources\">Scanning Resources</a>.</span></p> You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question. For help with scanning, please see Scanning Resources. M1-2.pdf"
+    },
+    {
+      "index": 33,
+      "text": "Move To..."
+    },
+    {
+      "index": 34,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 35,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 36,
+      "text": "Delete this Question"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160491",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades20",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026256",
+      "index": 36,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026256",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026257",
+      "index": 39,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026257",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026258",
+      "index": 42,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026258",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026259",
+      "index": 45,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026259",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 47,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59178579",
+      "index": 48,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59178579",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026260",
+      "index": 51,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026260",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026261",
+      "index": 54,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026261",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/files/119356772/download",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/files/119356772/download",
+      "rel": "",
+      "target": "",
+      "text": "M1-2.pdf",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1",
+      "index": 57,
+      "raw_href": "?version=1",
+      "rel": "",
+      "target": "",
+      "text": "This score is pending review, and may change Attempt 1: 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491",
+      "index": 58,
+      "raw_href": "/courses/2053526/quizzes/3160491",
+      "rel": "",
+      "target": "",
+      "text": "Back to Quiz",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 0,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026256",
+      "index": 2,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026256",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026257",
+      "index": 5,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026257",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 6,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026258",
+      "index": 8,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026258",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026259",
+      "index": 11,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026259",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59178579",
+      "index": 14,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59178579",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 15,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026260",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026260",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 18,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026261",
+      "index": 20,
+      "raw_href": "/courses/2053526/quizzes/3160491/questions/59026261",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/files/119356772/download",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/files/119356772/download",
+      "rel": "",
+      "target": "",
+      "text": "M1-2.pdf",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades20"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Jacob Peterson's Quiz History: M1-2asy",
+  "page_id": "00720-phy-212-linked-detail-jacob-peterson-s-quiz-history-m1-2asy",
+  "captured_at": "2026-07-08T23:25:55.239Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00382-phy-212-linked-detail-m1-2asy-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Attempt 1",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160491",
+  "html_sha256": "223cd1f6df6068f85a6964bab6601ee6602e5fd9d33f943ac8b52179e26a8417",
+  "text_sha256": "9fcd0365578620b0dd65f6d4e3f1d7dc59418cc971b4431946b6696b10a2df4f",
+  "requires_external_handler": false
+}

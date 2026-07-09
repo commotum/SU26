@@ -1,0 +1,205 @@
+# M1-3asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/assignments/10557003
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508
+- Captured: 2026-07-08T23:09:10.591Z
+- Canvas object: quiz 3160508
+- Redirected: yes
+
+## Headings
+- H1: M1-3asy
+- H2: Instructions
+- H2: Purpose
+- H2: Instructions
+- H3: Attempt History
+
+## Visible Text
+M1-3asy 
+Due Jul 1 at 2pm Points 5 Questions 7 Available Jun 29 at 2pm - Aug 14 at 11:59pm Time Limit None Allowed Attempts Unlimited
+Instructions
+Purpose
+
+The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. 
+
+If you got full credit for the Zoom lecture participation assignment for today, you do not need to do this asynchronous equivalent. You can get credit for one or the other, not both.
+
+Instructions
+
+A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution.
+
+Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for all questions, you will not get credit for the activity. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. For help with producing a scan, please see the Scanning Resources document.
+
+There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material.  You are required to complete this question to get credit for the day's assignment.
+
+You may use multiple attempts on this assignment to improve your score.
+
+If you need assistance, please reach out for help from the Wormhole, office hours or email.
+
+Take the Quiz Again
+Attempt History
+	Attempt	Time	Score
+LATEST	Attempt 1	
+Time:
+56 minutes	
+Score:
+5 out of 5 
+Pending Review:
+*
+
+* Some questions not yet graded
+
+ Correct answers are hidden.
+Score for this attempt: 5 out of 5 *
+Submitted Jul 6 at 3:01am
+This attempt took 56 minutes.
+ 
+Question 1
+1 / 1 pts
+
+A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the speed of a particle on the rim of the wheel?
+
+Enter your answer in m/s.
+
+Remember for all asynchronous participation questions, you are required to show your work for calculations or explain your reasoning for multiple choice questions, and upload in the last question.
+
+ 
+Question 2
+1 / 1 pts
+
+A person rides on a Ferris wheel of radius r at constant angular velocity ω. How does the normal force exerted on the rider from their seat at the top compare to the normal force on the rider from their seat at the bottom? Explain.
+
+  
+
+Ntop = Nbottom
+
+  
+
+Ntop > Nbottom
+
+  
+
+Ntop < Nbottom
+
+ 
+Question 3
+1 / 1 pts
+
+A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the bottom of the wheel?
+
+Enter your answer in Newtons.
+
+ 
+Question 4
+1 / 1 pts
+
+A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the top of the wheel?
+
+Enter your answer in Newtons.
+
+ 
+Question 5
+1 / 1 pts
+
+A 1.3 g coin on a turntable at radius 0.35 m has max static friction coefficient between the coin and surface of 0.18. Find ω in rad/s such that the coin just starts to slip.
+
+ 
+Question 6
+Not yet graded / 0 pts
+Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment.
+Your Answer:
+
+The main idea today was circular motion and how forces cause an object to keep moving in a circle. Even if speed is constant, velocity is still changing because direction changes, so there must be inward acceleration. For Ferris wheels, the normal force changes depending on position because gravity either helps or opposes the needed inward force. On a turntable, static friction provides the inward force, and slipping starts when friction can no longer supply enough centripetal force.
+
+ 
+Question 7
+Not yet graded / 0 pts
+
+You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.
+
+For help with scanning, please see Scanning Resources.
+
+ M1-3.pdf
+Quiz Score: 5 out of 5
+
+## Links
+- Scanning Resources -> https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources
+- Take the Quiz Again -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/take?user_id=6660414
+- Attempt 1 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/history?version=1
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026315 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026315
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026316 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026316
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026317 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026317
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026318 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026318
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026319 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026319
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026320 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026320
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026321 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026321
+- Scanning Resources -> https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources
+- M1-3.pdf -> https://canvas.oregonstate.edu/files/119358414/download
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+
+## Hidden Text
+- Purpose The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. If you got full credit for the Zoom lecture participation assignment for today, you do not need to do this asynchronous equivalent. You can get credit for one or the other, not both. Instructions A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution. Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for all questions, you will not get credit for the activity. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. For help with producing a scan, please see the Scanning Resources document. There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material. You are required to complete this question to get credit for the day's assignment. You may use multiple attempts on this assignment to improve your score. If you need assistance, please reach out for help from the Wormhole, office hours or email.
+- Time:
+- Score:
+- Pending Review:
+- Warning
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 111109943 <div class="tex2jax_ignore"> <p><span style="font-size: 14pt;">A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the speed of a particle on the rim of the wheel?</span></p> <p><span style="font-size: 14pt;">Enter your answer in m/s.</span></p> <p><span style="font-size: 14pt;">Remember for all asynchronous participation questions, you are required to show your work for calculations or explain your reasoning for multiple choice questions, and upload in the last question.</span></p> </div> A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the speed of a particle on the rim of the wheel? Enter your answer in m/s. Remember for all asynchronous participation questions, you are required to show your work for calculations or explain your reasoning for multiple choice questions, and upload in the last question.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 110816598 <div class="tex2jax_ignore"> <p><span style="font-size: 14pt;">A person rides on a Ferris wheel of radius r at constant angular velocity ω. How does the normal force exerted on the rider from their seat at the top compare to the normal force on the rider from their seat at the bottom? Explain.</span></p> </div> A person rides on a Ferris wheel of radius r at constant angular velocity ω. How does the normal force exerted on the rider from their seat at the top compare to the normal force on the rider from their seat at the bottom? Explain. 8567 Ntop = Nbottom Ntop = Nbottom exact_answer none 59026316 8567 margin of error +/- 2542 Ntop > Nbottom Ntop > Nbottom exact_answer none 59026316 2542 margin of error +/- 8881 Ntop < Nbottom Ntop < Nbottom exact_answer none 59026316 8881 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 110816599 <div class="tex2jax_ignore"> <p><span style="font-size: 14pt;">A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the bottom of the wheel?</span></p> <p><span style="font-size: 14pt;">Enter your answer in Newtons.</span></p> </div> A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the bottom of the wheel? Enter your answer in Newtons.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 110816600 <div id="question_new_question_text" class="question_text user_content enhanced"> <p><span style="font-size: 14pt;">A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the top of the wheel?</span></p> <p><span style="font-size: 14pt;">Enter your answer in Newtons.</span></p> </div> A Ferris Wheel of radius 42 m is rotating at a constant angular velocity of 0.16 rad/s. What is the magnitude of the normal force on a 68 kg person from their seat when they are at the top of the wheel? Enter your answer in Newtons.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 1 / 1 pts Edit this Question Delete this Question 0 numerical_question 111110031 <p><span style="font-size: 14pt;">A 1.3 g coin on a turntable at radius 0.35 m has max static friction coefficient between the coin and surface of 0.18. Find ω in rad/s such that the coin just starts to slip.</span></p> A 1.3 g coin on a turntable at radius 0.35 m has max static friction coefficient between the coin and surface of 0.18. Find ω in rad/s such that the coin just starts to slip.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 Not yet graded / 0 pts Edit this Question Delete this Question 0 essay_question <span style="font-size: 14pt;">Using your own words, enter at least 50 words describing the concepts underlying the topic for today. <span>You need to completely answer this question to get credit for this assignment.</span></span> Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment. Your Answer: The main idea today was circular motion and how forces cause an object to keep moving in a circle. Even if speed is constant, velocity is still changing because direction changes, so there must be inward acceleration. For Ferris wheels, the normal force changes depending on position because gravity either helps or opposes the needed inward force. On a turntable, static friction provides the inward force, and slipping starts when friction can no longer supply enough centripetal force.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 Not yet graded / 0 pts Edit this Question Delete this Question 0 file_upload_question <div style="width: 98%; max-width: 1000px;"> <p><span style="font-size: 14pt;">You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.</span></p> <p><span style="font-size: 14pt;">For help with scanning, please see&nbsp;<a title="Scanning Resources" href="/courses/2053526/pages/scanning-resources">Scanning Resources</a>.</span></p> </div> You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question. For help with scanning, please see Scanning Resources. M1-3.pdf
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question

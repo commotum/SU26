@@ -1,0 +1,464 @@
+# Hw 2 - Rotational Dynamics: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414
+- Captured: 2026-07-08T23:28:24.841Z
+- Canvas object: quiz 3160444
+- Redirected: no
+
+## Headings
+- H1: Hw 2 - Rotational Dynamics
+- H2: Instructions
+
+## Visible Text
+Hw 2 - Rotational Dynamics 
+Due Jul 3 at 11:59pm Points 20 Questions 13 Available Jun 27 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 4
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. 
+→
+F
+) although be careful because sometimes Canvas may format this to boldface font; F! The magnitude of the corresponding vector is given in italics; F.
+
+Take the Quiz Again
+ Correct answers will be available on Jul 10 at 12am.
+Score for this attempt: 20 out of 20
+Submitted Jul 5 at 11:25pm
+This attempt took 18 minutes.
+ 
+Question 1
+1 / 1 pts
+
+The figures below show a bob of mass m attached to a light string of length L which traverses a circular trajectory at constant speed when viewed from above/below.
+
+The string makes an angle θ with the horizontal and the period of the circular motion is T (constant).
+
+Is the bob undergoing uniform circular motion?
+
+Choose the correct answer with the best explanation.
+
+  Yes, because the bob moves in a circular path at a constant speed 
+  Not necessarily because it depends on if the tension in the string is constant 
+  No, because even with a constant period, the bob experiences changing radial and tangential accelerations 
+  Yes, because the bob moves in a circular path with a constant period 
+ 
+Question 2
+1 / 1 pts
+
+The figures below show a bob of mass m attached to a light string of length L which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle θ with the horizontal and the period of the circular motion is T (constant).
+
+What is the radius of the circular trajectory?
+
+  L
+  Lcosθ
+  Lsinθ
+  Ltanθ
+ 
+Question 3
+1 / 1 pts
+
+The figures below show a bob of mass m attached to a light string of length L which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle θ with the horizontal and the period of the circular motion is T (constant).
+
+What is the magnitude of the object's centripetal force?
+
+  
+4π2mr
+
+
+T2
+  
+2πmr
+
+
+T2
+  
+mr
+
+
+T2
+  
+mr
+
+
+2πT2
+  
+mr
+
+
+4πT2
+ 
+Question 4
+1 / 1 pts
+
+The figures below show a bob of mass m attached to a light string of length L which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle θ with the horizontal and the period of the circular motion is T (constant).
+
+Given the side-view of the "filled" (i.e. not dashed) bob below in Figure 2, where does the net force on the bob point?
+
+  Directly to the left 
+  Directly to the right 
+  Along the string, toward the ceiling 
+  Not listed 
+ 
+Question 5
+3 / 3 pts
+
+The figures below show a bob of mass m attached to a light string of length L which undergoes uniform circular motion.
+
+The string makes an angle θ with the horizontal and the period of the circular motion is T.
+
+What is θ in terms of the other given variables? (Remember that "g" is always considered given unless otherwise stated!)
+
+Hint: Make a free-body diagram of the "filled" bob in the side-view and write the ∑Fr=mar & ∑Fy=may component equations for the radial and vertical directions. Simplify these as much as possible and use the resulting equations to solve for θ.
+
+  arccos(
+gT2
+
+
+2πL
+)
+  arcsin(
+gT2
+
+
+2πL
+)
+  arctan(
+gT2
+
+
+2πL
+)
+  arccos(
+gT2
+
+
+4π2L
+)
+  arcsin(
+gT2
+
+
+4π2L
+)
+  arctan(
+gT2
+
+
+4π2L
+)
+ 
+Question 6
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass m traversing a circular track banked at angle θ from the horizontal with constant speed v.
+
+The track has radius r and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0, then this is the direction in which it will point).
+
+If the y-axis points vertically upwards, which of the following gives the equation for the net force along the y direction?
+
+Take n to be the magnitude of the normal force on the car and f the magnitude of the frictional force.
+
+  0=may=∑Fy=ncosθ+fsinθ−mg
+  0=may=∑Fy=nsinθ+fcosθ−mg
+  0=may=∑Fy=ncosθ−fsinθ−mg
+  0=may=∑Fy=nsinθ−fcosθ−mg
+ 
+Question 7
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass m traversing a circular track banked at angle θ from the horizontal with constant speed v.
+
+The track has radius r and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0, then this is the direction in which it will point).
+
+Which of the following options is the correct equation for the component of the net force along the centripetal c direction (i.e. pointing radially inward toward the circle's center)?
+
+Take n to be the magnitude of the normal force on the car and f the magnitude of the frictional force.
+
+  
+mv2
+
+
+r
+=mac=∑Fc=nsinθ+fcosθ
+  
+mv2
+
+
+r
+=mac=∑Fc=nsinθ−fcosθ
+  
+mv2
+
+
+r
+=mac=∑Fc=ncosθ+fsinθ
+  
+mv2
+
+
+r
+=mac=∑Fc=ncosθ−fsinθ
+ 
+Question 8
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass m traversing a circular track banked at angle θ from the horizontal with constant speed v.
+
+The track has radius r and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0, then this is the direction in which it will point).
+
+What is the magnitude of the static frictional force on the car?
+
+  mg+
+mv2
+
+
+r
+cosθ
+  mg−
+mv2
+
+
+r
+cosθ
+  mgsinθ+
+mv2
+
+
+r
+cosθ
+  mgsinθ−
+mv2
+
+
+r
+cosθ
+ 
+Question 9
+2 / 2 pts
+
+The figure below shows an F1 sports car of mass m traversing a circular track banked at angle θ from the horizontal with constant speed v.
+
+The track has radius r and there is (static) friction between the tires and the track.
+
+Which of the following are true statements regarding this scenario?
+
+  The direction of the static friction force acting on the car depends on v
+  The magnitude of the static friction force acting on the car depends on v
+  There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius r and will slide along the ramp/incline
+  In the side view, the acceleration of the car points directly to the left 
+  In the side view, the acceleration of the car points down the ramp/incline 
+  If v=
+√
+grtanθ
+ then there will be no static friction on the car as it traverses the racetrack
+ 
+Question 10
+1 / 1 pts
+
+Skateboarder Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop). Neglect rolling friction.
+
+Which of the following statements are true regarding Hony's motion?
+
+  There exists a minimum speed which Hony needs to be going when entering the loop-the-loop in order to complete it 
+  At the minimum speed, the normal force on Hony goes to zero at the top of the loop 
+  Hony undergoes uniform circular motion while completing the loop-the-loop 
+  The centripetal force on Hony is constant while completing the loop-the-loop 
+  The mechanical energy (i.e. kinetic + potential) of Hony is (approximately) conserved 
+ 
+Question 11
+3 / 3 pts
+
+Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop) of radius r.
+
+What's the minimum speed required for Hony Tawk to enter the loop-the-loop with in order to complete it? Ignore rolling friction.
+
+Hint: Make a free-body diagram for Hony when at the top of the loop-the-loop and consider your answers to the previous question.
+
+  
+√
+2gr
+  
+√
+3gr
+  2
+√
+gr
+  
+√
+5gr
+ 
+Question 12
+1 / 1 pts
+
+Starting from rest, a penguin lying slides down the right side of a spherical igloo of radius r.
+
+Neglecting friction, the penguin will slide off and at some angle θc from the vertical eventually lose contact with the igloo.
+
+Which of the following is true about the penguin the instant before losing contact with the igloo?
+
+  The normal force on the penguin from the igloo is negligible/zero 
+  The centripetal force on the penguin is negligible/zero 
+  The penguin's acceleration was directed tangentially to the igloo's surface
+  Prior to this instant, the penguin had been undergoing uniform circular motion 
+ 
+Question 13
+3 / 3 pts
+
+A penguin lying on its belly slides down the right side of a spherical igloo, starting from rest.
+
+Neglecting friction, the penguin will slide off and, at some angle θc from the vertical, eventually lose contact with the igloo.
+
+To two significant figures, what is this critical angle θc?
+
+Hint: First draw a free-body diagram for the penguin. Then use this to find the equation for the component of the net force along the radial direction and simplify as much as possible. Also notice that the mechanical energy of the penguin is conserved since friction is negligible.
+
+  39∘
+  42∘
+  44∘
+  48∘
+  51∘
+Quiz Score: 20 out of 20
+
+## Links
+- Take the Quiz Again -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025986 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025986
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025987 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025987
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025988 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025988
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025989 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025989
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025990 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025990
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025991 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025991
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025992 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025992
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025993 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025993
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025994 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025994
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025995 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025995
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025996 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025996
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025997 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025997
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025998 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025998
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+
+## Hidden Text
+- Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind: 1. You are encouraged to work with others. 2. You can exit the assignment without submitting and return later to complete it. 3. You have up to four attempts to complete this assignment. Your highest score will be kept. 4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late. 5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time. 6. Vectors are indicated with an arrow on top (e.g. →F\vec{F}) although be careful because sometimes Canvas may format this to boldface font; F\mathbf{F}! The magnitude of the corresponding vector is given in italics; FF.
+- Warning
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figures below show a bob of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> attached to a light string of length <img class="equation_image" title="L" src="/equation_images/L?scale=1" alt="LaTeX: L" data-equation-content="L" data-ignore-a11y-check=""> which traverses a circular trajectory at constant speed when viewed from above/below.</p> <p>The string makes an angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> with the horizontal and the period of the circular motion is <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check=""> (constant).</p> <p>Is the bob undergoing <span style="text-decoration: underline;">uniform</span> circular motion?</p> <p>Choose the correct answer with the best explanation.</p> <p><img id="109423584" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705841/preview" alt="w2_bob.png" width="700" height="317"></p> The figures below show a bob of mass mm attached to a light string of length LL which traverses a circular trajectory at constant speed when viewed from above/below. The string makes an angle θ\theta with the horizontal and the period of the circular motion is TT (constant). Is the bob undergoing uniform circular motion? Choose the correct answer with the best explanation. 3573 Yes, because the bob moves in a circular path at a constant speed Yes, because the bob moves in a circular path at a constant speed exact_answer none 59025986 3573 margin of error +/- 6872 Not necessarily because it depends on if the tension in the string is constant Not necessarily because it depends on if the tension in the string is constant exact_answer none 59025986 6872 margin of error +/- 7284 No, because even with a constant period, the bob experiences changing radial and tangential accelerations No, because even with a constant period, the bob experiences changing radial and tangential accelerations exact_answer none 59025986 7284 margin of error +/- 4006 Yes, because the bob moves in a circular path with a constant period Yes, because the bob moves in a circular path with a constant period exact_answer none 59025986 4006 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figures below show a bob of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> attached to a light string of length <img class="equation_image" title="L" src="/equation_images/L?scale=1" alt="LaTeX: L" data-equation-content="L" data-ignore-a11y-check=""> which traverses a circular trajectory when viewed from above/below.</p> <p>The string makes an angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> with the horizontal and the period of the circular motion is <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check=""> (constant).</p> <p>What is the radius of the circular trajectory?</p> <p><img id="109423584" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705841/preview" alt="w2_bob.png" width="700" height="317"></p> The figures below show a bob of mass mm attached to a light string of length LL which traverses a circular trajectory when viewed from above/below. The string makes an angle θ\theta with the horizontal and the period of the circular motion is TT (constant). What is the radius of the circular trajectory? 6817 No answer text provided. LL No answer text provided. LL exact_answer none 59025987 6817 margin of error +/- 6151 No answer text provided. LcosθL\cos\theta No answer text provided. LcosθL\cos\theta exact_answer none 59025987 6151 margin of error +/- 846 No answer text provided. LsinθL\sin\theta No answer text provided. LsinθL\sin\theta exact_answer none 59025987 846 margin of error +/- 9020 No answer text provided. LtanθL\tan\theta No answer text provided. LtanθL\tan\theta exact_answer none 59025987 9020 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figures below show a bob of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> attached to a light string of length <img class="equation_image" title="L" src="/equation_images/L?scale=1" alt="LaTeX: L" data-equation-content="L" data-ignore-a11y-check=""> which traverses a circular trajectory when viewed from above/below.</p> <p>The string makes an angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> with the horizontal and the period of the circular motion is <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check=""> (constant).</p> <p>What is the magnitude of the object's centripetal force?</p> <p><img id="109423584" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705841/preview" alt="w2_bob.png" width="700" height="317"></p> The figures below show a bob of mass mm attached to a light string of length LL which traverses a circular trajectory when viewed from above/below. The string makes an angle θ\theta with the horizontal and the period of the circular motion is TT (constant). What is the magnitude of the object's centripetal force? 7266 No answer text provided. 4π2mrT2\frac{4\pi^2mr}{T^2} No answer text provided. 4π2mrT2\frac{4\pi^2mr}{T^2} exact_answer none 59025988 7266 margin of error +/- 5642 No answer text provided. 2πmrT2\frac{2\pi mr}{T^2} No answer text provided. 2πmrT2\frac{2\pi mr}{T^2} exact_answer none 59025988 5642 margin of error +/- 2423 No answer text provided. mrT2\frac{mr}{T^2} No answer text provided. mrT2\frac{mr}{T^2} exact_answer none 59025988 2423 margin of error +/- 6069 No answer text provided. mr2πT2\frac{mr}{2\pi T^2} No answer text provided. mr2πT2\frac{mr}{2\pi T^2} exact_answer none 59025988 6069 margin of error +/- 4998 No answer text provided. mr4πT2\frac{mr}{4\pi T^2} No answer text provided. mr4πT2\frac{mr}{4\pi T^2} exact_answer none 59025988 4998 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figures below show a bob of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> attached to a light string of length <img class="equation_image" title="L" src="/equation_images/L?scale=1" alt="LaTeX: L" data-equation-content="L" data-ignore-a11y-check=""> which traverses a circular trajectory when viewed from above/below.</p> <p>The string makes an angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> with the horizontal and the period of the circular motion is <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check=""> (constant).</p> <p>Given the side-view of the "<span style="text-decoration: underline;"><strong>filled</strong></span>" (i.e. not dashed) bob below in Figure 2, where does the net force on the bob point?</p> <p><img id="109423584" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705841/preview" alt="w2_bob.png" width="700" height="317"></p> The figures below show a bob of mass mm attached to a light string of length LL which traverses a circular trajectory when viewed from above/below. The string makes an angle θ\theta with the horizontal and the period of the circular motion is TT (constant). Given the side-view of the "filled" (i.e. not dashed) bob below in Figure 2, where does the net force on the bob point? 3922 Directly to the left Directly to the left exact_answer none 59025989 3922 margin of error +/- 5976 Directly to the right Directly to the right exact_answer none 59025989 5976 margin of error +/- 2364 Along the string, toward the ceiling Along the string, toward the ceiling exact_answer none 59025989 2364 margin of error +/- 429 Not listed Not listed exact_answer none 59025989 429 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figures below show a bob of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> attached to a light string of length <img class="equation_image" title="L" src="/equation_images/L?scale=1" alt="LaTeX: L" data-equation-content="L" data-ignore-a11y-check=""> which undergoes uniform circular motion.</p> <p>The string makes an angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> with the horizontal and the period of the circular motion is <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check="">.</p> <p>What is <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> in terms of the other given variables? (Remember that "<img class="equation_image" title="g" src="/equation_images/g?scale=1" alt="LaTeX: g" data-equation-content="g" data-ignore-a11y-check="">" is always considered given unless otherwise stated!)</p> <p>Hint: Make a free-body diagram of the "filled" bob in the side-view and write the <img class="equation_image" title="\sum F_r = ma_r" src="/equation_images/%255Csum%2520F_r%2520%253D%2520ma_r?scale=1" alt="LaTeX: \sum F_r = ma_r" data-equation-content="\sum F_r = ma_r" data-ignore-a11y-check=""> &amp; <img class="equation_image" title="\sum F_y = ma_y" src="/equation_images/%255Csum%2520F_y%2520%253D%2520ma_y?scale=1" alt="LaTeX: \sum F_y = ma_y" data-equation-content="\sum F_y = ma_y" data-ignore-a11y-check="">&nbsp;component equations for the radial and vertical directions. Simplify these as much as possible and use the resulting equations to solve for <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check="">.</p> <p><img id="109423584" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705841/preview" alt="w2_bob.png" width="700" height="317"></p> The figures below show a bob of mass mm attached to a light string of length LL which undergoes uniform circular motion. The string makes an angle θ\theta with the horizontal and the period of the circular motion is TT. What is θ\theta in terms of the other given variables? (Remember that "gg" is always considered given unless otherwise stated!) Hint: Make a free-body diagram of the "filled" bob in the side-view and write the ∑Fr=mar\sum F_r = ma_r & ∑Fy=may\sum F_y = ma_y component equations for the radial and vertical directions. Simplify these as much as possible and use the resulting equations to solve for θ\theta. 990 No answer text provided. arccos(gT22πL)\text{arccos}\left(\frac{gT^2}{2\pi L}\right) No answer text provided. arccos(gT22πL)\text{arccos}\left(\frac{gT^2}{2\pi L}\right) exact_answer none 59025990 990 margin of error +/- 8622 No answer text provided. arcsin(gT22πL)\text{arcsin}\left(\frac{gT^2}{2\pi L}\right) No answer text provided. arcsin(gT22πL)\text{arcsin}\left(\frac{gT^2}{2\pi L}\right) exact_answer none 59025990 8622 margin of error +/- 4193 No answer text provided. arctan(gT22πL)\text{arctan}\left(\frac{gT^2}{2\pi L}\right) No answer text provided. arctan(gT22πL)\text{arctan}\left(\frac{gT^2}{2\pi L}\right) exact_answer none 59025990 4193 margin of error +/- 2091 No answer text provided. arccos(gT24π2L)\text{arccos}\left(\frac{gT^2}{4\pi^2 L}\right) No answer text provided. arccos(gT24π2L)\text{arccos}\left(\frac{gT^2}{4\pi^2 L}\right) exact_answer none 59025990 2091 margin of error +/- 7256 No answer text provided. arcsin(gT24π2L)\text{arcsin}\left(\frac{gT^2}{4\pi^2 L}\right) No answer text provided. arcsin(gT24π2L)\text{arcsin}\left(\frac{gT^2}{4\pi^2 L}\right) exact_answer none 59025990 7256 margin of error +/- 950 No answer text provided. arctan(gT24π2L)\text{arctan}\left(\frac{gT^2}{4\pi^2 L}\right) No answer text provided. arctan(gT24π2L)\text{arctan}\left(\frac{gT^2}{4\pi^2 L}\right) exact_answer none 59025990 950 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figure below shows an F1 sports car of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> traversing a circular track banked at angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> from the horizontal with constant speed <img class="equation_image" title="v" src="/equation_images/v?scale=1" alt="LaTeX: v" data-equation-content="v" data-ignore-a11y-check="">.</p> <p>The track has radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> and there is friction between the tires and the track.</p> <p>Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. <img class="equation_image" title="v=0" src="/equation_images/v%253D0?scale=1" alt="LaTeX: v=0" data-equation-content="v=0" data-ignore-a11y-check="">, then this is the direction in which it will point).</p> <p>If the <img class="equation_image" title="y" src="/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="">-axis points vertically upwards, which of the following gives the equation for the net force along the <img class="equation_image" title="y" src="/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check=""> direction?</p> <p>Take <img class="equation_image" title="n" src="/equation_images/n?scale=1" alt="LaTeX: n" data-equation-content="n" data-ignore-a11y-check=""> to be the magnitude of the normal force on the car and <img class="equation_image" title="f" src="/equation_images/f?scale=1" alt="LaTeX: f" data-equation-content="f" data-ignore-a11y-check=""> the magnitude of the frictional force.</p> <p><img id="109431652" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705942/preview" alt="w2_bank.png" width="700" height="404"></p> The figure below shows an F1 sports car of mass mm traversing a circular track banked at angle θ\theta from the horizontal with constant speed vv. The track has radius rr and there is friction between the tires and the track. Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0v=0, then this is the direction in which it will point). If the yy-axis points vertically upwards, which of the following gives the equation for the net force along the yy direction? Take nn to be the magnitude of the normal force on the car and ff the magnitude of the frictional force. 6189 No answer text provided. 0=may=∑Fy=ncosθ+fsinθ−mg0 = ma_y = \sum F_y = n\cos\theta + f\sin\theta - mg No answer text provided. 0=may=∑Fy=ncosθ+fsinθ−mg0 = ma_y = \sum F_y = n\cos\theta + f\sin\theta - mg exact_answer none 59025991 6189 margin of error +/- 8874 No answer text provided. 0=may=∑Fy=nsinθ+fcosθ−mg0 = ma_y = \sum F_y = n\sin\theta + f\cos\theta - mg No answer text provided. 0=may=∑Fy=nsinθ+fcosθ−mg0 = ma_y = \sum F_y = n\sin\theta + f\cos\theta - mg exact_answer none 59025991 8874 margin of error +/- 1424 No answer text provided. 0=may=∑Fy=ncosθ−fsinθ−mg0 = ma_y = \sum F_y = n\cos\theta - f\sin\theta - mg No answer text provided. 0=may=∑Fy=ncosθ−fsinθ−mg0 = ma_y = \sum F_y = n\cos\theta - f\sin\theta - mg exact_answer none 59025991 1424 margin of error +/- 9985 No answer text provided. 0=may=∑Fy=nsinθ−fcosθ−mg0 = ma_y = \sum F_y = n\sin\theta - f\cos\theta - mg No answer text provided. 0=may=∑Fy=nsinθ−fcosθ−mg0 = ma_y = \sum F_y = n\sin\theta - f\cos\theta - mg exact_answer none 59025991 9985 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figure below shows an F1 sports car of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> traversing a circular track banked at angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> from the horizontal with constant speed <img class="equation_image" title="v" src="/equation_images/v?scale=1" alt="LaTeX: v" data-equation-content="v" data-ignore-a11y-check="">.</p> <p>The track has radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> and there is friction between the tires and the track.</p> <p>Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. <img class="equation_image" title="v=0" src="/equation_images/v%253D0?scale=1" alt="LaTeX: v=0" data-equation-content="v=0" data-ignore-a11y-check="">, then this is the direction in which it will point).</p> <p>Which of the following options is the correct equation for the component of the net force along the centripetal <img class="equation_image" title="c" src="/equation_images/c?scale=1" alt="LaTeX: c" data-equation-content="c" data-ignore-a11y-check="">&nbsp;direction (i.e. pointing radially inward toward the circle's center)?</p> <p>Take <img class="equation_image" title="n" src="/equation_images/n?scale=1" alt="LaTeX: n" data-equation-content="n" data-ignore-a11y-check=""> to be the magnitude of the normal force on the car and <img class="equation_image" title="f" src="/equation_images/f?scale=1" alt="LaTeX: f" data-equation-content="f" data-ignore-a11y-check=""> the magnitude of the frictional force.</p> <p><img id="109431652" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705942/preview" alt="w2_bank.png" width="700" height="404"></p> The figure below shows an F1 sports car of mass mm traversing a circular track banked at angle θ\theta from the horizontal with constant speed vv. The track has radius rr and there is friction between the tires and the track. Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0v=0, then this is the direction in which it will point). Which of the following options is the correct equation for the component of the net force along the centripetal cc direction (i.e. pointing radially inward toward the circle's center)? Take nn to be the magnitude of the normal force on the car and ff the magnitude of the frictional force. 1549 No answer text provided. mv2r=mac=∑Fc=nsinθ+fcosθ\frac{mv^2}{r} = ma_c = \sum F_c = n\sin\theta + f\cos\theta No answer text provided. mv2r=mac=∑Fc=nsinθ+fcosθ\frac{mv^2}{r} = ma_c = \sum F_c = n\sin\theta + f\cos\theta exact_answer none 59025992 1549 margin of error +/- 9104 No answer text provided. mv2r=mac=∑Fc=nsinθ−fcosθ\frac{mv^2}{r} = ma_c = \sum F_c = n\sin\theta - f\cos\theta No answer text provided. mv2r=mac=∑Fc=nsinθ−fcosθ\frac{mv^2}{r} = ma_c = \sum F_c = n\sin\theta - f\cos\theta exact_answer none 59025992 9104 margin of error +/- 5712 No answer text provided. mv2r=mac=∑Fc=ncosθ+fsinθ\frac{mv^2}{r} = ma_c = \sum F_c = n\cos\theta + f\sin\theta No answer text provided. mv2r=mac=∑Fc=ncosθ+fsinθ\frac{mv^2}{r} = ma_c = \sum F_c = n\cos\theta + f\sin\theta exact_answer none 59025992 5712 margin of error +/- 4534 No answer text provided. mv2r=mac=∑Fc=ncosθ−fsinθ\frac{mv^2}{r} = ma_c = \sum F_c = n\cos\theta - f\sin\theta No answer text provided. mv2r=mac=∑Fc=ncosθ−fsinθ\frac{mv^2}{r} = ma_c = \sum F_c = n\cos\theta - f\sin\theta exact_answer none 59025992 4534 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 8 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The figure below shows an F1 sports car of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> traversing a circular track banked at angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> from the horizontal with constant speed <img class="equation_image" title="v" src="/equation_images/v?scale=1" alt="LaTeX: v" data-equation-content="v" data-ignore-a11y-check="">.</p> <p>The track has radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> and there is friction between the tires and the track.</p> <p>Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. <img class="equation_image" title="v=0" src="/equation_images/v%253D0?scale=1" alt="LaTeX: v=0" data-equation-content="v=0" data-ignore-a11y-check="">, then this is the direction in which it will point).</p> <p>What is the magnitude of the static frictional force on the car?</p> <p><img id="109431652" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705942/preview" alt="w2_bank.png" width="700" height="404"></p> The figure below shows an F1 sports car of mass mm traversing a circular track banked at angle θ\theta from the horizontal with constant speed vv. The track has radius rr and there is friction between the tires and the track. Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. v=0v=0, then this is the direction in which it will point). What is the magnitude of the static frictional force on the car? 7268 No answer text provided. mg+mv2rcosθmg + \frac{mv^2}{r}\cos\theta No answer text provided. mg+mv2rcosθmg + \frac{mv^2}{r}\cos\theta exact_answer none 59025993 7268 margin of error +/- 4732 No answer text provided. mg−mv2rcosθmg - \frac{mv^2}{r}\cos\theta No answer text provided. mg−mv2rcosθmg - \frac{mv^2}{r}\cos\theta exact_answer none 59025993 4732 margin of error +/- 9103 No answer text provided. mgsinθ+mv2rcosθmg\sin\theta + \frac{mv^2}{r}\cos\theta No answer text provided. mgsinθ+mv2rcosθmg\sin\theta + \frac{mv^2}{r}\cos\theta exact_answer none 59025993 9103 margin of error +/- 7769 No answer text provided. mgsinθ−mv2rcosθmg\sin\theta - \frac{mv^2}{r}\cos\theta No answer text provided. mgsinθ−mv2rcosθmg\sin\theta - \frac{mv^2}{r}\cos\theta exact_answer none 59025993 7769 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 9 2 / 2 pts Edit this Question Delete this Question 0 multiple_answers_question <p>The figure below shows an F1 sports car of mass <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check=""> traversing a circular track banked at angle <img class="equation_image" title="\theta" src="/equation_images/%255Ctheta?scale=1" alt="LaTeX: \theta" data-equation-content="\theta" data-ignore-a11y-check=""> from the horizontal with constant speed <img class="equation_image" title="v" src="/equation_images/v?scale=1" alt="LaTeX: v" data-equation-content="v" data-ignore-a11y-check="">.</p> <p>The track has radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> and there is (static) friction between the tires and the track.</p> <p>Which of the following are true statements regarding this scenario?</p> <p><img id="109431652" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705942/preview" alt="w2_bank.png" width="700" height="404"></p> The figure below shows an F1 sports car of mass mm traversing a circular track banked at angle θ\theta from the horizontal with constant speed vv. The track has radius rr and there is (static) friction between the tires and the track. Which of the following are true statements regarding this scenario? 4655 The direction of the static friction force acting on the car depends on The direction of the static friction force acting on the car depends on vv The direction of the static friction force acting on the car depends on The direction of the static friction force acting on the car depends on vv Your Answer: (You left this blank) exact_answer none 59025994 4655 margin of error +/- 1870 The magnitude of the static friction force acting on the car depends on The magnitude of the static friction force acting on the car depends on vv The magnitude of the static friction force acting on the car depends on The magnitude of the static friction force acting on the car depends on vv Your Answer: (You left this blank) exact_answer none 59025994 1870 margin of error +/- 7560 There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius and will slide along the ramp/incline There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius rr and will slide along the ramp/incline There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius and will slide along the ramp/incline There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius rr and will slide along the ramp/incline Your Answer: (You left this blank) exact_answer none 59025994 7560 margin of error +/- 867 In the side view, the acceleration of the car points directly to the left In the side view, the acceleration of the car points directly to the left Your Answer: (You left this blank) exact_answer none 59025994 867 margin of error +/- 4047 In the side view, the acceleration of the car points down the ramp/incline In the side view, the acceleration of the car points down the ramp/incline exact_answer none 59025994 4047 margin of error +/- 3212 If then there will be no static friction on the car as it traverses the racetrack If v=√grtanθv=\sqrt{gr\tan\theta} then there will be no static friction on the car as it traverses the racetrack If then there will be no static friction on the car as it traverses the racetrack If v=√grtanθv=\sqrt{gr\tan\theta} then there will be no static friction on the car as it traverses the racetrack Your Answer: (You left this blank) exact_answer none 59025994 3212 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 10 1 / 1 pts Edit this Question Delete this Question 0 multiple_answers_question <p>Skateboarder Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop). Neglect rolling friction.</p> <p>Which of the following statements are true regarding Hony's motion?</p> <p><img id="109448603" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705944/preview" alt="w2_loop.png" width="700" height="286"></p> Skateboarder Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop). Neglect rolling friction. Which of the following statements are true regarding Hony's motion? 9854 There exists a minimum speed which Hony needs to be going when entering the loop-the-loop in order to complete it There exists a minimum speed which Hony needs to be going when entering the loop-the-loop in order to complete it Your Answer: (You left this blank) exact_answer none 59025995 9854 margin of error +/- 8293 At the minimum speed, the normal force on Hony goes to zero at the top of the loop At the minimum speed, the normal force on Hony goes to zero at the top of the loop Your Answer: (You left this blank) exact_answer none 59025995 8293 margin of error +/- 6616 Hony undergoes uniform circular motion while completing the loop-the-loop Hony undergoes uniform circular motion while completing the loop-the-loop exact_answer none 59025995 6616 margin of error +/- 5979 The centripetal force on Hony is constant while completing the loop-the-loop The centripetal force on Hony is constant while completing the loop-the-loop exact_answer none 59025995 5979 margin of error +/- 4133 The mechanical energy (i.e. kinetic + potential) of Hony is (approximately) conserved The mechanical energy (i.e. kinetic + potential) of Hony is (approximately) conserved Your Answer: (You left this blank) exact_answer none 59025995 4133 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 11 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop) of radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check="">.</p> <p>What's the minimum speed required for Hony Tawk to enter the loop-the-loop with in order to complete it? Ignore rolling friction.</p> <p>Hint: Make a free-body diagram for Hony when at the top of the loop-the-loop and consider your answers to the previous question.</p> <p><img id="109448603" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705944/preview" alt="w2_loop.png" width="700" height="286"></p> Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop) of radius rr. What's the minimum speed required for Hony Tawk to enter the loop-the-loop with in order to complete it? Ignore rolling friction. Hint: Make a free-body diagram for Hony when at the top of the loop-the-loop and consider your answers to the previous question. 9066 2 g r √2gr\sqrt{2gr} 2 g r √2gr\sqrt{2gr} exact_answer none 59025996 9066 margin of error +/- 4798 3 g r √3gr\sqrt{3gr} 3 g r √3gr\sqrt{3gr} exact_answer none 59025996 4798 margin of error +/- 8006 2 g r 2√gr2\sqrt{gr} 2 g r 2√gr2\sqrt{gr} exact_answer none 59025996 8006 margin of error +/- 570 5 g r √5gr\sqrt{5gr} 5 g r √5gr\sqrt{5gr} exact_answer none 59025996 570 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 12 1 / 1 pts Edit this Question Delete this Question 0 multiple_answers_question <p>Starting from rest, a penguin lying slides down the right side of a spherical igloo of radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check="">.</p> <p>Neglecting friction, the penguin will slide off and at some angle <img class="equation_image" title="\theta_\text{c}" src="/equation_images/%255Ctheta_%255Ctext%257Bc%257D?scale=1" alt="LaTeX: \theta_\text{c}" data-equation-content="\theta_\text{c}" data-ignore-a11y-check=""> from the vertical eventually lose contact with the igloo.</p> <p>Which of the following is true about the penguin the <strong>instant before</strong> losing contact with the igloo?</p> <p><img id="109448966" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705820/preview" alt="w2_penguin.png" width="700" height="390"></p> Starting from rest, a penguin lying slides down the right side of a spherical igloo of radius rr. Neglecting friction, the penguin will slide off and at some angle θc\theta_\text{c} from the vertical eventually lose contact with the igloo. Which of the following is true about the penguin the instant before losing contact with the igloo? 3473 The normal force on the penguin from the igloo is negligible/zero The normal force on the penguin from the igloo is negligible/zero Your Answer: (You left this blank) exact_answer none 59025997 3473 margin of error +/- 3479 The centripetal force on the penguin is negligible/zero The centripetal force on the penguin is negligible/zero exact_answer none 59025997 3479 margin of error +/- 6116 The penguin's acceleration was directed tangentially to the igloo's surface The penguin's acceleration was directed tangentially to the igloo's surface The penguin's acceleration was directed tangentially to the igloo's surface The penguin's acceleration was directed tangentially to the igloo's surface exact_answer none 59025997 6116 margin of error +/- 6257 Prior to this instant, the penguin had been undergoing uniform circular motion Prior to this instant, the penguin had been undergoing uniform circular motion exact_answer none 59025997 6257 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 13 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A penguin lying on its belly slides down the right side of a spherical igloo, starting from rest.</p> <p>Neglecting friction, the penguin will slide off and, at some angle <img class="equation_image" title="\theta_\text{c}" src="/equation_images/%255Ctheta_%255Ctext%257Bc%257D?scale=1" alt="LaTeX: \theta_\text{c}" data-equation-content="\theta_\text{c}" data-ignore-a11y-check=""> from the vertical, eventually lose contact with the igloo.</p> <p>To two significant figures, what is this critical angle <img class="equation_image" title="\theta_\text{c}" src="/equation_images/%255Ctheta_%255Ctext%257Bc%257D?scale=1" alt="LaTeX: \theta_\text{c}" data-equation-content="\theta_\text{c}" data-ignore-a11y-check="">?</p> <p>Hint: First draw a free-body diagram for the penguin. Then use this to find the equation for the component of the net force along the radial direction and simplify as much as possible. Also notice that the mechanical energy of the penguin is conserved since friction is negligible.</p> <p><img id="109448966" style="display: block; margin-left: auto; margin-right: auto;" src="/courses/2053526/files/118705820/preview" alt="w2_penguin.png" width="700" height="390"></p> A penguin lying on its belly slides down the right side of a spherical igloo, starting from rest. Neglecting friction, the penguin will slide off and, at some angle θc\theta_\text{c} from the vertical, eventually lose contact with the igloo. To two significant figures, what is this critical angle θc\theta_\text{c}? Hint: First draw a free-body diagram for the penguin. Then use this to find the equation for the component of the net force along the radial direction and simplify as much as possible. Also notice that the mechanical energy of the penguin is conserved since friction is negligible. 646 39 ∘ 39∘39^\circ 39 ∘ 39∘39^\circ exact_answer none 59025998 646 margin of error +/- 6624 42 ∘ 42∘42^\circ 42 ∘ 42∘42^\circ exact_answer none 59025998 6624 margin of error +/- 9248 44 ∘ 44∘44^\circ 44 ∘ 44∘44^\circ exact_answer none 59025998 9248 margin of error +/- 5175 48 ∘ 48∘48^\circ 48 ∘ 48∘48^\circ exact_answer none 59025998 5175 margin of error +/- 8835 51 ∘ 51∘51^\circ 51 ∘ 51∘51^\circ exact_answer none 59025998 8835 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question

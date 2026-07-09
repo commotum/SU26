@@ -1,0 +1,1591 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Load Mini-Exam 1 - Tues - Thur (No late submissions) in a new window",
+      "type": "submit"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Update Criterion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Update Comments",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Update Rating",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Create Rubric",
+      "type": "submit"
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://lti.int.turnitin.com/oidc/login/0f6a5cfb-a9de-4eb4-bf3c-a025d61f8010",
+      "index": 0,
+      "method": "POST",
+      "text": "This tool needs to be loaded in a new browser window Load Mini-Exam 1 - Tues - Thur (No late submissions) in a new window This tool was successfully loaded in a new browser window. Reload the page to access the tool again."
+    },
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562",
+      "index": 1,
+      "method": "",
+      "text": "Description Please include a description Long Description Cancel Update Criterion"
+    },
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562",
+      "index": 2,
+      "method": "",
+      "text": "Rating Score Rating max score to > pts Rating Title Please include a rating title Rating Description Cancel Update Rating"
+    },
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562",
+      "index": 3,
+      "method": "",
+      "text": "I'll write free-form comments when assessing students Remove points from rubric Don't post Outcomes results to Learning Mastery Gradebook Use this rubric for assignment grading Hide score total for assessment results Cancel Create Rubric"
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Mini-Exam 1 - Tues - Thur (No late submissions)"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Formatting"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Submission Details"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Due Date"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Grading"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Practice Problems"
+    },
+    {
+      "index": 7,
+      "level": "H2",
+      "text": "Rubric"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Actions"
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "(Links to an external site.)"
+    },
+    {
+      "index": 5,
+      "text": "Actions"
+    },
+    {
+      "index": 6,
+      "text": "Actions"
+    },
+    {
+      "index": 7,
+      "text": "Rating min score"
+    },
+    {
+      "index": 8,
+      "text": "Rubric"
+    },
+    {
+      "index": 9,
+      "text": "Edit Rubric"
+    },
+    {
+      "index": 10,
+      "text": "Find Another Rubric"
+    },
+    {
+      "index": 11,
+      "text": "Delete Rubric"
+    },
+    {
+      "index": 12,
+      "text": "Title"
+    },
+    {
+      "index": 13,
+      "text": "This criterion is linked to a Learning Outcome Description of criterion threshold: 5 pts Range Edit criterion description Delete criterion row"
+    },
+    {
+      "index": 14,
+      "text": "This criterion is linked to a Learning Outcome"
+    },
+    {
+      "index": 15,
+      "text": "Range"
+    },
+    {
+      "index": 16,
+      "text": "Edit criterion description"
+    },
+    {
+      "index": 17,
+      "text": "Delete criterion row"
+    },
+    {
+      "index": 18,
+      "text": "5 to >0 pts Full Marks blank 0 to >0 pts No Marks blank_2 This area will be used by the assessor to leave comments related to this criterion."
+    },
+    {
+      "index": 21,
+      "text": "Add rating"
+    },
+    {
+      "index": 24,
+      "text": "pts / 5 pts --"
+    },
+    {
+      "index": 25,
+      "text": "Points"
+    },
+    {
+      "index": 26,
+      "text": "This criterion is linked to a Learning Outcome Description of criterion threshold: 5 pts Range Edit criterion description Delete criterion row"
+    },
+    {
+      "index": 27,
+      "text": "This criterion is linked to a Learning Outcome"
+    },
+    {
+      "index": 28,
+      "text": "Range"
+    },
+    {
+      "index": 29,
+      "text": "Edit criterion description"
+    },
+    {
+      "index": 30,
+      "text": "Delete criterion row"
+    },
+    {
+      "index": 31,
+      "text": "5 to >0 pts Full Marks blank 0 to >0 pts No Marks blank_2 This area will be used by the assessor to leave comments related to this criterion."
+    },
+    {
+      "index": 34,
+      "text": "Add rating"
+    },
+    {
+      "index": 37,
+      "text": "pts / 5 pts --"
+    },
+    {
+      "index": 38,
+      "text": "Points"
+    },
+    {
+      "index": 39,
+      "text": "Total Points: 5 out of 5"
+    },
+    {
+      "index": 40,
+      "text": "I'll write free-form comments when assessing students Remove points from rubric Don't post Outcomes results to Learning Mastery Gradebook Use this rubric for assignment grading Hide score total for assessment results Cancel Create Rubric"
+    },
+    {
+      "index": 41,
+      "text": "Previous Next"
+    },
+    {
+      "index": 42,
+      "text": "Previous"
+    },
+    {
+      "index": 43,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562",
+      "title": "",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Mini-Exam 1 - Tues - Thur (No late submissions)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments",
+      "index": 16,
+      "raw_href": "/courses/2080857/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045",
+      "rel": "",
+      "target": "",
+      "text": "Mini-Exam 1 - Tues - Thur (No late submissions)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "ME1-U26-Template.pdf",
+      "title": "ME1-U26-Template.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:gilliamm@oregonstate.edu",
+      "index": 32,
+      "raw_href": "mailto:gilliamm@oregonstate.edu",
+      "rel": "",
+      "target": "_blank",
+      "text": "gilliamm@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "video showing uploads from a smartphone and also from a computer.",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/gradescope/id1563280912&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECBwQAQ&usg=AOvVaw2wcAkpxpDf4Judwxa87ZmC",
+      "index": 34,
+      "raw_href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/gradescope/id1563280912&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECBwQAQ&usg=AOvVaw2wcAkpxpDf4Judwxa87ZmC",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click here for Apple Link, in App StoreLinks to an external site.",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.gradescope.student%26hl%3Den_US&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECB4QAQ&usg=AOvVaw0SCW4Nl4otPaGLDnXOXnpO",
+      "index": 35,
+      "raw_href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.gradescope.student%26hl%3Den_US&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECB4QAQ&usg=AOvVaw0SCW4Nl4otPaGLDnXOXnpO",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click here for PlayStore download.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.camscanner.com/",
+      "index": 36,
+      "raw_href": "https://www.camscanner.com/",
+      "rel": "",
+      "target": "_blank",
+      "text": "CamScanner-Free (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "Unit-1-Student-Study-Guide.pdf",
+      "title": "Unit-1-Student-Study-Guide.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "Unit-1-Student-Study-Guide-Key.pdf",
+      "title": "Unit-1-Student-Study-Guide-Key.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find Rubric",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find a Rubric",
+      "title": "Find Existing Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubrics/%7B%7B%20id%20%7D%7D",
+      "index": 49,
+      "raw_href": "/courses/2080857/rubrics/%7B%7B%20id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "Edit Rubric",
+      "title": "Edit Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find Another Rubric",
+      "title": "Find Another Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D",
+      "index": 51,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "Delete Rubric",
+      "title": "Delete Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D/assessments/%7B%7B%20assessment_id%20%7D%7D",
+      "index": 52,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D/assessments/%7B%7B%20assessment_id%20%7D%7D",
+      "rel": "nofollow",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubrics/%7B%7B%20rubric_id%20%7D%7D",
+      "index": 53,
+      "raw_href": "/courses/2080857/rubrics/%7B%7B%20rubric_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "index": 54,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "index": 55,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit criterion description",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete criterion row",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Add rating",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 62,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Additional Comments"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 64,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit criterion description",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete criterion row",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 67,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Add rating",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 70,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Additional Comments"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982561",
+      "index": 72,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982561",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "index": 73,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "ME1-U26-Template.pdf",
+      "title": "ME1-U26-Template.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "mailto:gilliamm@oregonstate.edu",
+      "index": 5,
+      "raw_href": "mailto:gilliamm@oregonstate.edu",
+      "rel": "",
+      "target": "_blank",
+      "text": "gilliamm@oregonstate.edu",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "video showing uploads from a smartphone and also from a computer.",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/gradescope/id1563280912&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECBwQAQ&usg=AOvVaw2wcAkpxpDf4Judwxa87ZmC",
+      "index": 7,
+      "raw_href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://apps.apple.com/us/app/gradescope/id1563280912&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECBwQAQ&usg=AOvVaw2wcAkpxpDf4Judwxa87ZmC",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click here for Apple Link, in App StoreLinks to an external site.",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.gradescope.student%26hl%3Den_US&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECB4QAQ&usg=AOvVaw0SCW4Nl4otPaGLDnXOXnpO",
+      "index": 8,
+      "raw_href": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://play.google.com/store/apps/details%3Fid%3Dcom.gradescope.student%26hl%3Den_US&ved=2ahUKEwiJxavC7uKPAxUkOjQIHfXPFUMQFnoECB4QAQ&usg=AOvVaw0SCW4Nl4otPaGLDnXOXnpO",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Click here for PlayStore download.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.camscanner.com/",
+      "index": 9,
+      "raw_href": "https://www.camscanner.com/",
+      "rel": "",
+      "target": "_blank",
+      "text": "CamScanner-Free (Links to an external site.)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "Unit-1-Student-Study-Guide.pdf",
+      "title": "Unit-1-Student-Study-Guide.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "rel": "",
+      "target": "_blank",
+      "text": "Unit-1-Student-Study-Guide-Key.pdf",
+      "title": "Unit-1-Student-Study-Guide-Key.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1",
+      "index": 18,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find Rubric",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find a Rubric",
+      "title": "Find Existing Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubrics/%7B%7B%20id%20%7D%7D",
+      "index": 22,
+      "raw_href": "/courses/2080857/rubrics/%7B%7B%20id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "Edit Rubric",
+      "title": "Edit Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "index": 23,
+      "raw_href": "https://canvas.oregonstate.edu/search/rubrics?q=",
+      "rel": "",
+      "target": "",
+      "text": "Find Another Rubric",
+      "title": "Find Another Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D",
+      "index": 24,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "Delete Rubric",
+      "title": "Delete Rubric"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D/assessments/%7B%7B%20assessment_id%20%7D%7D",
+      "index": 25,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20rubric_association_id%20%7D%7D/assessments/%7B%7B%20assessment_id%20%7D%7D",
+      "rel": "nofollow",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubrics/%7B%7B%20rubric_id%20%7D%7D",
+      "index": 26,
+      "raw_href": "/courses/2080857/rubrics/%7B%7B%20rubric_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "index": 27,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "index": 28,
+      "raw_href": "/courses/2080857/rubric_associations/%7B%7B%20association_id%20%7D%7D",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit criterion description",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete criterion row",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Add rating",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Additional Comments"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit criterion description",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete criterion row",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Add rating",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Additional Comments"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982561",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982561",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades4"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982562",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586045?module_item_id=26982562",
+  "source_surface": "module_item",
+  "tables": [
+    {
+      "caption": "Title",
+      "index": 0,
+      "text": "Title Criteria Ratings Pts This criterion is linked to a Learning Outcome Description of criterion threshold: 5 pts Range Edit criterion description Delete criterion row 5 to >0 pts Full Marks blank 0 to >0 pts No Marks blank_2 This area will be used by the assessor to leave comments related to this criterion. pts / 5 pts -- This criterion is linked to a Learning Outcome Description of criterion threshold: 5 pts Range Edit criterion description Delete criterion row 5 to >0 pts Full Marks blank 0 to >0 pts No Marks blank_2 This area will be used by the assessor to leave comments related to this criterion. pts / 5 pts --"
+    }
+  ],
+  "title": "Mini-Exam 1 - Tues - Thur (No late submissions)",
+  "page_id": "00064-mth-252-module-item-mini-exam-1-tues-thur-no-late-submissions",
+  "captured_at": "2026-07-08T22:50:05.970Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Mini-Exam 1 - Tues - Thur (No late submissions)",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "assignment",
+  "canvas_object_id": "10586045",
+  "html_sha256": "5cc8b3a3377593e7c27ed8d719ed913ab8b0390708cc510a274eece96df5c68a",
+  "text_sha256": "1a651c3492c51e0e915bb2e0a4cd413d4a134ca461a06308b7ca768da28d9f02",
+  "requires_external_handler": true
+}

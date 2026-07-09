@@ -1,0 +1,1572 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Reply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Manage Discussion by Joseph Kehoe",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Reply to post from Joseph KehoeReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Like post from Joseph Kehoe LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "Manage Discussion by Natalia Helm",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 11,
+      "text": "Reply to post from Natalia HelmReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 12,
+      "text": "Like post from Natalia Helm LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 13,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 14,
+      "text": "Manage Discussion by Joshua Baughman",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 15,
+      "text": "Reply to post from Joshua BaughmanReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 16,
+      "text": "Like post from Joshua Baughman LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 17,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 18,
+      "text": "Manage Discussion by Makenna Crockett",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 19,
+      "text": "Expand discussion thread from Makenna Crockett1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 20,
+      "text": "Reply to post from Makenna CrockettReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 21,
+      "text": "Like post from Makenna Crockett LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 22,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 23,
+      "text": "Manage Discussion by Lucas Werlau",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 24,
+      "text": "Expand discussion thread from Lucas Werlau1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 25,
+      "text": "Reply to post from Lucas WerlauReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 26,
+      "text": "Like post from Lucas Werlau LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 27,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 28,
+      "text": "Manage Discussion by Lucas Mai",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 29,
+      "text": "Expand discussion thread from Lucas Mai2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 30,
+      "text": "Reply to post from Lucas MaiReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 31,
+      "text": "Like post from Lucas Mai LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 32,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 33,
+      "text": "Manage Discussion by Brian Telles",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 34,
+      "text": "Expand discussion thread from Brian Telles1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 35,
+      "text": "Reply to post from Brian TellesReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 36,
+      "text": "Like post from Brian Telles LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 37,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 38,
+      "text": "Manage Discussion by Zachary Britton",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 39,
+      "text": "Expand discussion thread from Zachary Britton2 Replies, 2 Unread2 Replies, 2 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 40,
+      "text": "Reply to post from Zachary BrittonReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 41,
+      "text": "Like post from Zachary Britton LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 42,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 43,
+      "text": "Manage Discussion by Thomas Aberli",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 44,
+      "text": "Expand discussion thread from Thomas Aberli1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 45,
+      "text": "Reply to post from Thomas AberliReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 46,
+      "text": "Like post from Thomas Aberli LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 47,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 48,
+      "text": "Manage Discussion by Dominic Bautista Sanchez",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 49,
+      "text": "Expand discussion thread from Dominic Bautista Sanchez1 Reply, 1 Unread1 Reply, 1 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 50,
+      "text": "Reply to post from Dominic Bautista SanchezReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 51,
+      "text": "Like post from Dominic Bautista Sanchez LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 52,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 53,
+      "text": "Manage Discussion by Jane Kelly Brooks",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 54,
+      "text": "Expand discussion thread from Jane Kelly Brooks6 Replies, 6 Unread6 Replies, 6 Unread",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 55,
+      "text": "Reply to post from Jane Kelly BrooksReply",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 56,
+      "text": "Like post from Jane Kelly Brooks LikeLike count: 0",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 57,
+      "text": "Mark as ReadMark as Read",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Due Date"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Grading"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Reply from Joseph Kehoe"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Reply from Natalia Helm"
+    },
+    {
+      "index": 7,
+      "level": "H2",
+      "text": "Reply from Joshua Baughman"
+    },
+    {
+      "index": 8,
+      "level": "H2",
+      "text": "Reply from Makenna Crockett"
+    },
+    {
+      "index": 9,
+      "level": "H2",
+      "text": "Reply from Lucas Werlau"
+    },
+    {
+      "index": 10,
+      "level": "H2",
+      "text": "Reply from Lucas Mai"
+    },
+    {
+      "index": 11,
+      "level": "H2",
+      "text": "Reply from Brian Telles"
+    },
+    {
+      "index": 12,
+      "level": "H2",
+      "text": "Reply from Zachary Britton"
+    },
+    {
+      "index": 13,
+      "level": "H2",
+      "text": "Reply from Thomas Aberli"
+    },
+    {
+      "index": 14,
+      "level": "H2",
+      "text": "Reply from Dominic Bautista Sanchez"
+    },
+    {
+      "index": 15,
+      "level": "H2",
+      "text": "Reply from Jane Kelly Brooks"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort byDue Jul 10 11:59pm Available from Jul 7 until Jul 1315 points possible26 Replies, 26 Unread26 Replies, 26 UnreadUnsubscribedManage DiscussionDiscussion Topic: Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Purpose Discussion Reflections are a research-based techniqueLinks to an external site. to improve students' conceptual understanding of the material and problems-solving processes (more reflective exercisesLinks to an external site.). This is a way for you to author material that is specific to you and/or your solutions. For this discussion board, please share brief responses to the following prompts. Remember that this is an academic setting, so appropriate language and complete sentences are expected. Instructions Action 1: Consider the following symbolic notation. Briefly describe/reflect on what comes to mind: Action 2: Using the image above, separately interpret (1), (2), and (3), interpreting what each one conceptually means graphically. Action 3: Read through two other posts, reply to theirs sharing thoughts or add constructive feedback to two different posts, interpreting the above symbols. Due Date Friday of week 3 at 11:59 pm Pacific Time Grading This activity is worth 15 points (5 points per action). ReplyMark post as readJKJoseph KehoeJul 8 3:04pmManage Discussion by Joseph KehoeReply from Joseph KehoeAction 1: This is a Riemann sum that approximates the total area under a function made up of n rectangles.Action 2: The height of each rectangle, taken from the function's value at a chosen point.Action 3: This is the width of each rectangle, created by dividing the interval from a-b into equal n pieces. Reply to post from Joseph KehoeReplyLike post from Joseph Kehoe LikeLike count: 0 Mark as ReadMark as ReadMark post as readNHNatalia HelmJul 8 3pmManage Discussion by Natalia HelmReply from Natalia HelmAction 1: when I see that symbolic notation, the first thing that comes to my mind is the area under a curve. Before taking calculus, I probably would have only seen it as mathematical expression, but now I associate it with approximating area using rectangles. Action 2: (1) The sigma symbol represents adding the area of all the rectangles together to approximate the total area under the curve. (2) f(xi)​ represents the height of each rectangle. (3) dx represents the width of each rectangle.Reply to post from Natalia HelmReplyLike post from Natalia Helm LikeLike count: 0 Mark as ReadMark as ReadMark post as readJBJoshua BaughmanJul 8 2:57pm | Last edited Jul 8 2:59pmManage Discussion by Joshua BaughmanReply from Joshua BaughmanAction 1: Consider the following symbolic notation. Briefly describe/reflect on what comes to mind: I see a default Reimann Sum equation to determine the total area under a curve, that currently has no values added to help determine an actual area. Giving us default values of n, f(x) and Δx\\Delta x. Action 2: Using the image above, separately interpret (1), (2), and (3), interpreting what each one conceptually means graphically. Section 1, I think of adding up the area under a curve. (sum). This area allows me to determine my starting (a), my end (b) of the curve, along with the (n) which lets me determine the size of my Δx\\Delta x. Section 2 I think of the equation to determine the area under the curve at a specific point. Without this information, I am unable to determine the area under a curve. Section 3 I think of the size of the domain that we are splitting up the area under the curve into. A larger n, and therefor a larger number of sections will allow for a closer approximation of the area under a curve. Reply to post from Joshua BaughmanReplyLike post from Joshua Baughman LikeLike count: 0 Mark as ReadMark as ReadMark post as readMCMakenna CrockettJul 8 2:16pm | Last reply Jul 8 3:07pmManage Discussion by Makenna CrockettReply from Makenna Crockett1; when I see this I think of the sum of all the smaller parts of the function/equation 2; 1st term is the addition of all the areas of the rectangles. The second is the height of the rectangles and the third is the width. Expand discussion thread from Makenna Crockett1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Makenna CrockettReplyLike post from Makenna Crockett LikeLike count: 0 Mark as ReadMark as ReadMark post as readLWLucas WerlauJul 8 1:06pm | Last reply Jul 8 3:04pmManage Discussion by Lucas WerlauReply from Lucas WerlauAction 1: The first thing that comes to mind when I see this notation is that I will be finding the area of each rectangle and adding them together from rectangle 1 to rectangle n to approximate the area under the curve. Action 2: The first term represents adding the areas of all the rectangles from the first to the nth rectangle. The second term represents the height of each rectangle, and the third term represents the width of each rectangle.Expand discussion thread from Lucas Werlau1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Lucas WerlauReplyLike post from Lucas Werlau LikeLike count: 0 Mark as ReadMark as ReadMark post as readLMLucas MaiJul 8 7:06am | Last edited Jul 8 7:07am | Last reply Jul 8 3:33pmManage Discussion by Lucas MaiReply from Lucas MaiQ1/ When I see this equation, I know that we need sum of many small pieces together to estimate something else bigger. Q2/ (1) means starting from the first piece and ending at the n-th piece, (2) means the value of the function at a chosen point, and (3) means small change in x<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>x</mi></mrow></semantics></math> Expand discussion thread from Lucas Mai2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Lucas MaiReplyLike post from Lucas Mai LikeLike count: 0 Mark as ReadMark as ReadMark post as readBTBrian TellesJul 8 6:39am | Last reply Jul 8 2:16pmManage Discussion by Brian TellesReply from Brian Telles1) Looking at it right away I note this is sigma notation. Which is one form of notation we have been using to represent our Reiman Sums. Which these last two weeks we have learned is finding an approximation of an area of a curve by adding a whole bunch of area of a rectangle. Sigman Notation particularly sticks out to me from the week 1 lectures as way to \"write trillions of terms in a short way\" particularly in a real world application where we might have the time to write out every single term. 2) 1- Is kind of representing what I said above. Adding the sum of are of rectangles from the start and end of an interval 2 -the height of a rectangle at each point 3-width of the rectangles we are using. Or even simpler would be, how many rectangles do we need to add, knowing how long and wide they are.Expand discussion thread from Brian Telles1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Brian TellesReplyLike post from Brian Telles LikeLike count: 0 Mark as ReadMark as ReadMark post as readZBZachary BrittonJul 8 6:36am | Last reply Jul 8 3:31pmManage Discussion by Zachary BrittonReply from Zachary BrittonAction 1: When I see that symbolic notation the first thing that comes to mind is the Riemann sum notation. This is the type of notation that needs to be used when there are too many rectangles to write each one out by hand to estimate the area under the curve. As the number of rectangles increases the answer becomes more accurate. Action 2: For image 1, that symbol notation wants all the separate areas of the rectangles to be added up from the first rectangle to the nth rectangle. Graphically it means to added up all the rectangles under the curve to estimate the total area. For image 2, it represents the heights of each rectangle on the graph. The height is determined by the function value that is chosen based on the type of interval you are using (left endpoint, midpoint, or right endpoint). For image 3, it represents the width of each rectangle. Graphically it represents each subintervals width. As delta x gets smaller, more rectangles are created and gives a more accurate approximation of the area under the curve. Expand discussion thread from Zachary Britton2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Zachary BrittonReplyLike post from Zachary Britton LikeLike count: 0 Mark as ReadMark as ReadMark post as readTAThomas AberliJul 8 3:51am | Last reply Jul 8 6:47amManage Discussion by Thomas AberliReply from Thomas AberliAction 1: When I consider symbolic notation, I think of how elegant it can represent a large scale (even infinite) quantity of mathematical operations. As Professor G has stated, math has it's own \"language\". I've never been inclined to learning world languages, but the language of math has always been interesting to me. You can tell fascinating stories with mathematical language. Action 2: (1) represents the vertical \"slicing up\" of the area between the curve and x-axis. (2) represents the value of the function at each x for the intervals being sliced up. (3) represents the width of each slice. Expand discussion thread from Thomas Aberli1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Thomas AberliReplyLike post from Thomas Aberli LikeLike count: 0 Mark as ReadMark as ReadMark post as readDSDominic Bautista SanchezJul 8 1:50am | Last reply Jul 8 3:52amManage Discussion by Dominic Bautista SanchezReply from Dominic Bautista SanchezAction 1: When I see this symbolic notation, I picture a curve on a graph with a ton of rectangles under it. And that the size of these rectangles can vary, which can make the approximation for the area underneath the curve even better. More rectangles mean an ever-better approximation of the area under that specific curve. Action 2: 1. This part tells us that all of the rectangles underneath the curve are all being added up together. 2. This part tells us the height of each rectangle. This is found by choosing between the left endpoints and the right endpoints of the rectangles that touch the curve. 3. This part tells us the width of each rectangle and that it is equal for every rectangle. This is found by applying the formula (b-a)/n.Expand discussion thread from Dominic Bautista Sanchez1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Dominic Bautista SanchezReplyLike post from Dominic Bautista Sanchez LikeLike count: 0 Mark as ReadMark as ReadMark post as readJBJane Kelly BrooksJul 7 11:36pm | Last reply Jul 8 3:12pmManage Discussion by Jane Kelly BrooksReply from Jane Kelly BrooksAction 1 When I see this notation, I think of estimating the area under a curve by adding together lots of small rectangles. As the rectangles get thinner, the estimate becomes more accurate and approaches the exact value of the definite integral. Action 2 (1) means to add up all of the rectangles. (2) is the height of each rectangle, found by evaluating the function at a chosen point in the interval. (3) is the width of each rectangle. Making it smaller gives a better approximation of the area under the curve.Expand discussion thread from Jane Kelly Brooks6 Replies, 6 Unread6 Replies, 6 UnreadReply to post from Jane Kelly BrooksReplyLike post from Jane Kelly Brooks LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "26 Replies, 26 Unread26 Replies, 26 UnreadUnsubscribedManage DiscussionDiscussion Topic: Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Purpose Discussion Reflections are a research-based techniqueLinks to an external site. to improve students' conceptual understanding of the material and problems-solving processes (more reflective exercisesLinks to an external site.). This is a way for you to author material that is specific to you and/or your solutions. For this discussion board, please share brief responses to the following prompts. Remember that this is an academic setting, so appropriate language and complete sentences are expected. Instructions Action 1: Consider the following symbolic notation. Briefly describe/reflect on what comes to mind: Action 2: Using the image above, separately interpret (1), (2), and (3), interpreting what each one conceptually means graphically. Action 3: Read through two other posts, reply to theirs sharing thoughts or add constructive feedback to two different posts, interpreting the above symbols. Due Date Friday of week 3 at 11:59 pm Pacific Time Grading This activity is worth 15 points (5 points per action). Reply"
+    },
+    {
+      "index": 5,
+      "text": "26 Replies, 26 Unread"
+    },
+    {
+      "index": 6,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 7,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 8,
+      "text": "Discussion Topic: Module 2 — Discussion Reflection 🕓 0.5 hour"
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Mark post as readJKJoseph KehoeJul 8 3:04pmManage Discussion by Joseph KehoeReply from Joseph KehoeAction 1: This is a Riemann sum that approximates the total area under a function made up of n rectangles.Action 2: The height of each rectangle, taken from the function's value at a chosen point.Action 3: This is the width of each rectangle, created by dividing the interval from a-b into equal n pieces. Reply to post from Joseph KehoeReplyLike post from Joseph Kehoe LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 13,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 14,
+      "text": "Manage Discussion by Joseph Kehoe"
+    },
+    {
+      "index": 15,
+      "text": "Reply from Joseph Kehoe"
+    },
+    {
+      "index": 16,
+      "text": "Reply to post from Joseph Kehoe"
+    },
+    {
+      "index": 17,
+      "text": "Like post from Joseph Kehoe"
+    },
+    {
+      "index": 18,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 19,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 20,
+      "text": "Mark post as readNHNatalia HelmJul 8 3pmManage Discussion by Natalia HelmReply from Natalia HelmAction 1: when I see that symbolic notation, the first thing that comes to my mind is the area under a curve. Before taking calculus, I probably would have only seen it as mathematical expression, but now I associate it with approximating area using rectangles. Action 2: (1) The sigma symbol represents adding the area of all the rectangles together to approximate the total area under the curve. (2) f(xi)​ represents the height of each rectangle. (3) dx represents the width of each rectangle.Reply to post from Natalia HelmReplyLike post from Natalia Helm LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 21,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 22,
+      "text": "Manage Discussion by Natalia Helm"
+    },
+    {
+      "index": 23,
+      "text": "Reply from Natalia Helm"
+    },
+    {
+      "index": 24,
+      "text": "Reply to post from Natalia Helm"
+    },
+    {
+      "index": 25,
+      "text": "Like post from Natalia Helm"
+    },
+    {
+      "index": 26,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 27,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 28,
+      "text": "Mark post as readJBJoshua BaughmanJul 8 2:57pm | Last edited Jul 8 2:59pmManage Discussion by Joshua BaughmanReply from Joshua BaughmanAction 1: Consider the following symbolic notation. Briefly describe/reflect on what comes to mind: I see a default Reimann Sum equation to determine the total area under a curve, that currently has no values added to help determine an actual area. Giving us default values of n, f(x) and Δx\\Delta x. Action 2: Using the image above, separately interpret (1), (2), and (3), interpreting what each one conceptually means graphically. Section 1, I think of adding up the area under a curve. (sum). This area allows me to determine my starting (a), my end (b) of the curve, along with the (n) which lets me determine the size of my Δx\\Delta x. Section 2 I think of the equation to determine the area under the curve at a specific point. Without this information, I am unable to determine the area under a curve. Section 3 I think of the size of the domain that we are splitting up the area under the curve into. A larger n, and therefor a larger number of sections will allow for a closer approximation of the area under a curve. Reply to post from Joshua BaughmanReplyLike post from Joshua Baughman LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 29,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 30,
+      "text": "Manage Discussion by Joshua Baughman"
+    },
+    {
+      "index": 31,
+      "text": "Reply from Joshua Baughman"
+    },
+    {
+      "index": 32,
+      "text": "Reply to post from Joshua Baughman"
+    },
+    {
+      "index": 33,
+      "text": "Like post from Joshua Baughman"
+    },
+    {
+      "index": 34,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 35,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 36,
+      "text": "Mark post as readMCMakenna CrockettJul 8 2:16pm | Last reply Jul 8 3:07pmManage Discussion by Makenna CrockettReply from Makenna Crockett1; when I see this I think of the sum of all the smaller parts of the function/equation 2; 1st term is the addition of all the areas of the rectangles. The second is the height of the rectangles and the third is the width. Expand discussion thread from Makenna Crockett1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Makenna CrockettReplyLike post from Makenna Crockett LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 37,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 38,
+      "text": "Manage Discussion by Makenna Crockett"
+    },
+    {
+      "index": 39,
+      "text": "Reply from Makenna Crockett"
+    },
+    {
+      "index": 40,
+      "text": "Expand discussion thread from Makenna Crockett"
+    },
+    {
+      "index": 41,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 42,
+      "text": "Reply to post from Makenna Crockett"
+    },
+    {
+      "index": 43,
+      "text": "Like post from Makenna Crockett"
+    },
+    {
+      "index": 44,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 45,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 46,
+      "text": "Mark post as readLWLucas WerlauJul 8 1:06pm | Last reply Jul 8 3:04pmManage Discussion by Lucas WerlauReply from Lucas WerlauAction 1: The first thing that comes to mind when I see this notation is that I will be finding the area of each rectangle and adding them together from rectangle 1 to rectangle n to approximate the area under the curve. Action 2: The first term represents adding the areas of all the rectangles from the first to the nth rectangle. The second term represents the height of each rectangle, and the third term represents the width of each rectangle.Expand discussion thread from Lucas Werlau1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Lucas WerlauReplyLike post from Lucas Werlau LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 47,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 48,
+      "text": "Manage Discussion by Lucas Werlau"
+    },
+    {
+      "index": 49,
+      "text": "Reply from Lucas Werlau"
+    },
+    {
+      "index": 50,
+      "text": "Expand discussion thread from Lucas Werlau"
+    },
+    {
+      "index": 51,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 52,
+      "text": "Reply to post from Lucas Werlau"
+    },
+    {
+      "index": 53,
+      "text": "Like post from Lucas Werlau"
+    },
+    {
+      "index": 54,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 55,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 56,
+      "text": "Mark post as readLMLucas MaiJul 8 7:06am | Last edited Jul 8 7:07am | Last reply Jul 8 3:33pmManage Discussion by Lucas MaiReply from Lucas MaiQ1/ When I see this equation, I know that we need sum of many small pieces together to estimate something else bigger. Q2/ (1) means starting from the first piece and ending at the n-th piece, (2) means the value of the function at a chosen point, and (3) means small change in x<math xmlns=\"http://www.w3.org/1998/Math/MathML\"><semantics><mrow><mi>x</mi></mrow></semantics></math> Expand discussion thread from Lucas Mai2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Lucas MaiReplyLike post from Lucas Mai LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 57,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 58,
+      "text": "Manage Discussion by Lucas Mai"
+    },
+    {
+      "index": 59,
+      "text": "Reply from Lucas Mai"
+    },
+    {
+      "index": 60,
+      "text": "Expand discussion thread from Lucas Mai"
+    },
+    {
+      "index": 61,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 62,
+      "text": "Reply to post from Lucas Mai"
+    },
+    {
+      "index": 63,
+      "text": "Like post from Lucas Mai"
+    },
+    {
+      "index": 64,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 65,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 66,
+      "text": "Mark post as readBTBrian TellesJul 8 6:39am | Last reply Jul 8 2:16pmManage Discussion by Brian TellesReply from Brian Telles1) Looking at it right away I note this is sigma notation. Which is one form of notation we have been using to represent our Reiman Sums. Which these last two weeks we have learned is finding an approximation of an area of a curve by adding a whole bunch of area of a rectangle. Sigman Notation particularly sticks out to me from the week 1 lectures as way to \"write trillions of terms in a short way\" particularly in a real world application where we might have the time to write out every single term. 2) 1- Is kind of representing what I said above. Adding the sum of are of rectangles from the start and end of an interval 2 -the height of a rectangle at each point 3-width of the rectangles we are using. Or even simpler would be, how many rectangles do we need to add, knowing how long and wide they are.Expand discussion thread from Brian Telles1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Brian TellesReplyLike post from Brian Telles LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 67,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 68,
+      "text": "Manage Discussion by Brian Telles"
+    },
+    {
+      "index": 69,
+      "text": "Reply from Brian Telles"
+    },
+    {
+      "index": 70,
+      "text": "Expand discussion thread from Brian Telles"
+    },
+    {
+      "index": 71,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 72,
+      "text": "Reply to post from Brian Telles"
+    },
+    {
+      "index": 73,
+      "text": "Like post from Brian Telles"
+    },
+    {
+      "index": 74,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 75,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 76,
+      "text": "Mark post as readZBZachary BrittonJul 8 6:36am | Last reply Jul 8 3:31pmManage Discussion by Zachary BrittonReply from Zachary BrittonAction 1: When I see that symbolic notation the first thing that comes to mind is the Riemann sum notation. This is the type of notation that needs to be used when there are too many rectangles to write each one out by hand to estimate the area under the curve. As the number of rectangles increases the answer becomes more accurate. Action 2: For image 1, that symbol notation wants all the separate areas of the rectangles to be added up from the first rectangle to the nth rectangle. Graphically it means to added up all the rectangles under the curve to estimate the total area. For image 2, it represents the heights of each rectangle on the graph. The height is determined by the function value that is chosen based on the type of interval you are using (left endpoint, midpoint, or right endpoint). For image 3, it represents the width of each rectangle. Graphically it represents each subintervals width. As delta x gets smaller, more rectangles are created and gives a more accurate approximation of the area under the curve. Expand discussion thread from Zachary Britton2 Replies, 2 Unread2 Replies, 2 UnreadReply to post from Zachary BrittonReplyLike post from Zachary Britton LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 77,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 78,
+      "text": "Manage Discussion by Zachary Britton"
+    },
+    {
+      "index": 79,
+      "text": "Reply from Zachary Britton"
+    },
+    {
+      "index": 80,
+      "text": "Expand discussion thread from Zachary Britton"
+    },
+    {
+      "index": 81,
+      "text": "2 Replies, 2 Unread"
+    },
+    {
+      "index": 82,
+      "text": "Reply to post from Zachary Britton"
+    },
+    {
+      "index": 83,
+      "text": "Like post from Zachary Britton"
+    },
+    {
+      "index": 84,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 85,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 86,
+      "text": "Mark post as readTAThomas AberliJul 8 3:51am | Last reply Jul 8 6:47amManage Discussion by Thomas AberliReply from Thomas AberliAction 1: When I consider symbolic notation, I think of how elegant it can represent a large scale (even infinite) quantity of mathematical operations. As Professor G has stated, math has it's own \"language\". I've never been inclined to learning world languages, but the language of math has always been interesting to me. You can tell fascinating stories with mathematical language. Action 2: (1) represents the vertical \"slicing up\" of the area between the curve and x-axis. (2) represents the value of the function at each x for the intervals being sliced up. (3) represents the width of each slice. Expand discussion thread from Thomas Aberli1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Thomas AberliReplyLike post from Thomas Aberli LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 87,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 88,
+      "text": "Manage Discussion by Thomas Aberli"
+    },
+    {
+      "index": 89,
+      "text": "Reply from Thomas Aberli"
+    },
+    {
+      "index": 90,
+      "text": "Expand discussion thread from Thomas Aberli"
+    },
+    {
+      "index": 91,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 92,
+      "text": "Reply to post from Thomas Aberli"
+    },
+    {
+      "index": 93,
+      "text": "Like post from Thomas Aberli"
+    },
+    {
+      "index": 94,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 95,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 96,
+      "text": "Mark post as readDSDominic Bautista SanchezJul 8 1:50am | Last reply Jul 8 3:52amManage Discussion by Dominic Bautista SanchezReply from Dominic Bautista SanchezAction 1: When I see this symbolic notation, I picture a curve on a graph with a ton of rectangles under it. And that the size of these rectangles can vary, which can make the approximation for the area underneath the curve even better. More rectangles mean an ever-better approximation of the area under that specific curve. Action 2: 1. This part tells us that all of the rectangles underneath the curve are all being added up together. 2. This part tells us the height of each rectangle. This is found by choosing between the left endpoints and the right endpoints of the rectangles that touch the curve. 3. This part tells us the width of each rectangle and that it is equal for every rectangle. This is found by applying the formula (b-a)/n.Expand discussion thread from Dominic Bautista Sanchez1 Reply, 1 Unread1 Reply, 1 UnreadReply to post from Dominic Bautista SanchezReplyLike post from Dominic Bautista Sanchez LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 97,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 98,
+      "text": "Manage Discussion by Dominic Bautista Sanchez"
+    },
+    {
+      "index": 99,
+      "text": "Reply from Dominic Bautista Sanchez"
+    },
+    {
+      "index": 100,
+      "text": "Expand discussion thread from Dominic Bautista Sanchez"
+    },
+    {
+      "index": 101,
+      "text": "1 Reply, 1 Unread"
+    },
+    {
+      "index": 102,
+      "text": "Reply to post from Dominic Bautista Sanchez"
+    },
+    {
+      "index": 103,
+      "text": "Like post from Dominic Bautista Sanchez"
+    },
+    {
+      "index": 104,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 105,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 106,
+      "text": "Mark post as readJBJane Kelly BrooksJul 7 11:36pm | Last reply Jul 8 3:12pmManage Discussion by Jane Kelly BrooksReply from Jane Kelly BrooksAction 1 When I see this notation, I think of estimating the area under a curve by adding together lots of small rectangles. As the rectangles get thinner, the estimate becomes more accurate and approaches the exact value of the definite integral. Action 2 (1) means to add up all of the rectangles. (2) is the height of each rectangle, found by evaluating the function at a chosen point in the interval. (3) is the width of each rectangle. Making it smaller gives a better approximation of the area under the curve.Expand discussion thread from Jane Kelly Brooks6 Replies, 6 Unread6 Replies, 6 UnreadReply to post from Jane Kelly BrooksReplyLike post from Jane Kelly Brooks LikeLike count: 0 Mark as ReadMark as Read"
+    },
+    {
+      "index": 107,
+      "text": "Mark post as read"
+    },
+    {
+      "index": 108,
+      "text": "Manage Discussion by Jane Kelly Brooks"
+    },
+    {
+      "index": 109,
+      "text": "Reply from Jane Kelly Brooks"
+    },
+    {
+      "index": 110,
+      "text": "Expand discussion thread from Jane Kelly Brooks"
+    },
+    {
+      "index": 111,
+      "text": "6 Replies, 6 Unread"
+    },
+    {
+      "index": 112,
+      "text": "Reply to post from Jane Kelly Brooks"
+    },
+    {
+      "index": 113,
+      "text": "Like post from Jane Kelly Brooks"
+    },
+    {
+      "index": 114,
+      "text": "Like count: 0"
+    },
+    {
+      "index": 115,
+      "text": "Mark as Read"
+    },
+    {
+      "index": 116,
+      "text": "Previous Next"
+    },
+    {
+      "index": 117,
+      "text": "Previous"
+    },
+    {
+      "index": 118,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 2 — Discussion Reflection 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2080857/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+      "index": 17,
+      "raw_href": "/courses/2080857/discussion_topics/11593474",
+      "rel": "",
+      "target": "",
+      "text": "Module 2 — Discussion Reflection 🕓 0.5 hour",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://files.eric.ed.gov/fulltext/EJ1163452.pdf",
+      "index": 27,
+      "raw_href": "https://files.eric.ed.gov/fulltext/EJ1163452.pdf",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "a research-based techniqueLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://tc2.ca/uploads/TTT/Write_reflectively_in_math.pdf",
+      "index": 28,
+      "raw_href": "https://tc2.ca/uploads/TTT/Write_reflectively_in_math.pdf",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "more reflective exercisesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6730167",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6730167",
+      "rel": "",
+      "target": "",
+      "text": "Joseph Kehoe",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723306",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723306",
+      "rel": "",
+      "target": "",
+      "text": "Natalia Helm",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "rel": "",
+      "target": "",
+      "text": "Joshua Baughman",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6630876",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6630876",
+      "rel": "",
+      "target": "",
+      "text": "Makenna Crockett",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6644764",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6644764",
+      "rel": "",
+      "target": "",
+      "text": "Lucas Werlau",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6721097",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6721097",
+      "rel": "",
+      "target": "",
+      "text": "Lucas Mai",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "rel": "",
+      "target": "",
+      "text": "Brian Telles",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6734386",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6734386",
+      "rel": "",
+      "target": "",
+      "text": "Zachary Britton",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6784784",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6784784",
+      "rel": "",
+      "target": "",
+      "text": "Thomas Aberli",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6684254",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6684254",
+      "rel": "",
+      "target": "",
+      "text": "Dominic Bautista Sanchez",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6759850",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6759850",
+      "rel": "",
+      "target": "",
+      "text": "Jane Kelly Brooks",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982560",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982560",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982562",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982562",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://files.eric.ed.gov/fulltext/EJ1163452.pdf",
+      "index": 0,
+      "raw_href": "https://files.eric.ed.gov/fulltext/EJ1163452.pdf",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "a research-based techniqueLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://tc2.ca/uploads/TTT/Write_reflectively_in_math.pdf",
+      "index": 1,
+      "raw_href": "https://tc2.ca/uploads/TTT/Write_reflectively_in_math.pdf",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "more reflective exercisesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6730167",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6730167",
+      "rel": "",
+      "target": "",
+      "text": "Joseph Kehoe",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723306",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723306",
+      "rel": "",
+      "target": "",
+      "text": "Natalia Helm",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6764255",
+      "rel": "",
+      "target": "",
+      "text": "Joshua Baughman",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6630876",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6630876",
+      "rel": "",
+      "target": "",
+      "text": "Makenna Crockett",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6644764",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6644764",
+      "rel": "",
+      "target": "",
+      "text": "Lucas Werlau",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6721097",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6721097",
+      "rel": "",
+      "target": "",
+      "text": "Lucas Mai",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6723190",
+      "rel": "",
+      "target": "",
+      "text": "Brian Telles",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6734386",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6734386",
+      "rel": "",
+      "target": "",
+      "text": "Zachary Britton",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6784784",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6784784",
+      "rel": "",
+      "target": "",
+      "text": "Thomas Aberli",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6684254",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6684254",
+      "rel": "",
+      "target": "",
+      "text": "Dominic Bautista Sanchez",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/users/6759850",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/users/6759850",
+      "rel": "",
+      "target": "",
+      "text": "Jane Kelly Brooks",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982560",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982560",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982562",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982562",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades4"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Topic: Module 2 — Discussion Reflection 🕓 0.5 hour",
+  "page_id": "00223-mth-252-linked-detail-topic-module-2-discussion-reflection-0-5-hour",
+  "captured_at": "2026-07-08T22:59:37.267Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00007-mth-252-discussions-discussions-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "unread,Module 2 — Discussion Reflection 🕓 0.5 hourModule 2 — Discussion Reflection 🕓 0.5 hour Available until Jul 13, 11:59 PM Due Jul 10, 11:59 PM Last post at Jul 8, 3:33 PM",
+  "depth": 1,
+  "redirected": false,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11593474",
+  "html_sha256": "000aa91db4c8d8e5e45bf6b0e47015531a085111c5069455bbbc0ae763883b44",
+  "text_sha256": "080ef0e9c8a95af1fee083f53aa8b0e4c1be4557ddd2233afb5d91f0dd50f74b",
+  "requires_external_handler": false
+}

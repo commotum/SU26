@@ -1,0 +1,77 @@
+Module 2 — Learning Materials and Practice Activities 🕓 3 - 5 hours
+
+Intro
+
+Here we further develop our understanding of Riemann sums by exploring various approximations and application problems. Riemann sums covered so far include the following: upper sum, lower sum, left endpoint, right endpoint, and midpoint approximations.  The material below will help us develop a deeper understanding of the topic. 
+
+Readings
+
+Read the following section from your textbook, OpenStax College. (2016). Calculus, Volume 2:
+Links to an external site.
+
+Section 1.2 – Pages 27-41
+Riemann Sum Calculator (RSC)
+
+Instructions:
+
+Go to the Riemann Sum Computational Course Tool (GeoGebra)
+Links to an external site.
+Input the relevant integrand function, adjust bounds, input the number of rectangles, and select your sum type.
+Slide to the number of rectangles desired.
+Videos
+
+These YouTube videos are useful resources to review the definitions needed to identify and compute the rectangular areas for our approximations. 
+
+The definition of the definite integral
+Links to an external site.
+ (9:21)
+Setting up the symbols for the definite integral
+Links to an external site.
+ (3:02)
+Converting Riemann sum to definite integral
+Links to an external site.
+ (3:00)
+Properties of the definite integral
+Links to an external site.
+ (7:45)
+Properties of the definite integrals (splitting up sum)
+Links to an external site.
+Applying properties of the definite integrals
+Links to an external site.
+ (2:56)
+Evaluating definite integrals using geometry (lines)
+Links to an external site.
+ (3:57)
+Evaluating definite integrals using geometry (circles)
+Links to an external site.
+ (3:14)
+Average Value and Finding the C to Equal Average
+Links to an external site.
+ (15:33)
+Practice Activities
+
+Do the following practice problems from your textbook, OpenStax College. (2016). Calculus, Volume 2.
+Links to an external site.
+ Odd problems have the answer in the online book.
+
+Section 1.2: Example 1.8 – Try before expanding to see the full solution in the reading.
+Section 1.2: 61, 63, 75, 77, 78, 79, 81, 89, 93, 112, 113
+Interactive Visualization (Optional)
+
+The Geogebra interactive is a useful tool to explore how these sums apply to different functions. 
+
+Instructions:
+
+Go to Illustration of Definite Integral
+Links to an external site.
+Graph a function and drag points on x-axis to set bounds.
+Adjust the number of rectangles used for a sum approximation with n-slider.
+Visualize left (d=0) or right Riemann (d=1) sums over that interval by adjusting d-slider.
+Check the boxes to compare actual area with estimates.
+Note: Trapezium is only to show other types of sums that we will not be exploring. This will not be on any assessments.  
+
+As you interact with the object, consider the following question:
+
+What type of approximation do we get by setting the d-slider to d = 0.5 ?
+Previous
+Next

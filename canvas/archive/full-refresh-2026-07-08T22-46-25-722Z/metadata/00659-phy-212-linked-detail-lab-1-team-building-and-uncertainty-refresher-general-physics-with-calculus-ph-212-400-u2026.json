@@ -1,0 +1,708 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Lab 1: Team Building and Uncertainty Refresher"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "PH212 – General Physics with Calculus"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Part 0: Creating an Inclusive and Collaborative Lab Environment"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Part 1: Experimental and Measurement Uncertainty"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Measurement Uncertainty"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Statistical Uncertainty"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Part 2: Applying Uncertainty to Experimental Data"
+    },
+    {
+      "index": 7,
+      "level": "H3",
+      "text": "Part 3: Decide on Meeting Times as a Group"
+    },
+    {
+      "index": 8,
+      "level": "H3",
+      "text": "Part 4: Submit Your Lab Report (Individual Submission)"
+    }
+  ],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Lab 1: Team Building and Uncertainty Refresher",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades21",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "rel": "",
+      "target": "",
+      "text": "lab supplies needed",
+      "title": "Lab Supplies"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536",
+      "rel": "",
+      "target": "",
+      "text": "“Lab Partner Values Survey”",
+      "title": "Lab Partner Values Survey"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Discussion Board",
+      "title": "Course Introductions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion Board",
+      "title": "Lab 0 Discussion"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": ".",
+      "title": "Lab 0 Discussion"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "rel": "",
+      "target": "",
+      "text": "Lab Materials",
+      "title": "Lab Supplies"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "rel": "",
+      "target": "",
+      "text": "Gradescope",
+      "title": "Lab 0 Group Report"
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "rel": "",
+      "target": "",
+      "text": "lab supplies needed",
+      "title": "Lab Supplies"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536",
+      "rel": "",
+      "target": "",
+      "text": "“Lab Partner Values Survey”",
+      "title": "Lab Partner Values Survey"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563802",
+      "rel": "",
+      "target": "",
+      "text": "Course Introductions Discussion Board",
+      "title": "Course Introductions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion Board",
+      "title": "Lab 0 Discussion"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+      "rel": "",
+      "target": "",
+      "text": ".",
+      "title": "Lab 0 Discussion"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-supplies",
+      "rel": "",
+      "target": "",
+      "text": "Lab Materials",
+      "title": "Lab Supplies"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557057",
+      "rel": "",
+      "target": "",
+      "text": "Gradescope",
+      "title": "Lab 0 Group Report"
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades21"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/lab-1-team-building-and-uncertainty-refresher",
+  "source_surface": "linked_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "As you work through the lab: Q#: Bold, numbered items reference things that need to be included in your lab report questions to answer, data, plots, or drawings ■ Items with a square bullet are action items you’ll need to do to progress through the lab. ➤ Items with an arrow are hints, tips, or things to keep in mind when completing tasks. Boxed information is about either the expectations for your lab reports or key concepts for the course."
+    },
+    {
+      "caption": "",
+      "index": 1,
+      "text": "Make sure to fill out your schedule as accurately and completely as possible. Your availability helps your group set consistent meeting times and coordinate with your TA, and it allows the instructional team to reorganize groups if schedules change or a member drops the course. Providing your best-accuracy availability ensures your group can function smoothly and share responsibilities fairly."
+    },
+    {
+      "caption": "",
+      "index": 2,
+      "text": "What is Uncertainty? Uncertainty is the acknowledgement that we cannot measure things exactly, and so any conclusion based on measurements will always include a range of possible answers. When making a measurement, there is no single “true value” of the measurand (measured quantity) that we can determine. Instead, we can define an interval that defines the range of values that we think are probable for the measurand. The narrower the interval, the more precisely we can approximate the measurand. When including uncertainty in a value, we report it as A ± ΔA. We believe the value is A, but we’re unable to rule out the possibility that it’s higher or lower by an amount ΔA. (Sometimes it’s written +Δ1 / -Δ2 if the higher and lower ranges are different.) For example, if we’re confident a time is between 2.42 and 2.48 s, it would be reported as 2.45 s ± 0.03 s."
+    },
+    {
+      "caption": "",
+      "index": 3,
+      "text": "800 psi ± 50 psi 50 ml ± 5 ml 15.10 mm ± 0.05 mm"
+    },
+    {
+      "caption": "",
+      "index": 4,
+      "text": "12.45 sec ± 0.01 sec 9.95 mm ± 0.01 mm 2.0428 g ± 0.0001 g"
+    },
+    {
+      "caption": "",
+      "index": 5,
+      "text": "12.347 m ± 0.1 m 0.4567 s ± 0.02 s 5.982 kg ± 0.5 kg 5.1) ? 5.2) ? 5.3) ?"
+    },
+    {
+      "caption": "",
+      "index": 6,
+      "text": "This gauge measures in degrees. Conical flask measures in ml. Maximum measurement of the flask is 25 ml. Temperature gauge measures in Celsius. 6.1) ? 6.2) ? 6.3) ?"
+    },
+    {
+      "caption": "",
+      "index": 7,
+      "text": "Trial 1 Trial 2 Trial 3 Trial 4 Trial 5 Average Mass of object (g) 0.56 0.58 0.50 0.52 0.56 0.54"
+    },
+    {
+      "caption": "",
+      "index": 8,
+      "text": "Object # Mass of Object (g) Trial 1 Trial 2 Trial 3 Trial 4 Trial 5 Average Statistical Uncertainty 1 0.53 0.55 0.54 0.56 0.52 0.54 ? 2 1.12 1.10 1.14 1.09 1.15 1.12 ? 3 2.03 2.01 2.06 1.98 2.02 2.02 ?"
+    },
+    {
+      "caption": "",
+      "index": 9,
+      "text": "Trial v0 (m/s) a1 (m/s2) a2 (m/s2) a3 (m/s2) aavg (m/s2) Statistical Uncertainty (s) Total Uncertainty (s) 1 0.05 0.94 0.92 0.79 0.88 0.08 0.13 2 0.10 0.85 0.90 0.93 0.89 0.04 ? 3 0.15 0.74 0.93 0.84 0.84 0.10 0.14 4 0.20 0.75 0.85 0.92 0.84 0.09 0.13 5 0.25 0.96 0.95 0.74 0.88 0.12 ? 6 0.30 0.86 0.96 0.82 0.88 0.07 ? 7 0.35 0.84 0.74 0.79 0.79 0.05 0.11 8 0.40 0.86 0.79 0.79 0.81 0.04 0.11 9 0.45 0.84 0.80 0.74 0.79 0.05 0.11 10 0.50 0.88 0.90 0.79 0.86 0.06 ? 11 0.55 0.96 0.78 0.83 0.86 0.09 0.14 12 0.60 0.92 0.97 0.85 0.91 0.06 0.12 13 0.65 0.91 0.82 0.89 0.87 0.05 ? 14 0.70 0.95 0.87 0.89 0.90 0.04 ? 15 0.75 0.79 0.92 0.83 0.85 0.07 0.12"
+    }
+  ],
+  "title": "Lab 1: Team Building and Uncertainty Refresher: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00659-phy-212-linked-detail-lab-1-team-building-and-uncertainty-refresher-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-08T23:23:05.541Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00357-phy-212-module-item-lab-1-instructions-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Lab 1 Team Building and Uncertainty Refresher",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "page",
+  "canvas_object_id": "lab-1-team-building-and-uncertainty-refresher",
+  "html_sha256": "7af165c1b459f57dde54b4777dce429469edca80a636f5f8801cf632544397fa",
+  "text_sha256": "9139e6e36d75e95e678721888ed5b9b94a2dc0e8d0148f722ad644b779450170",
+  "requires_external_handler": false
+}

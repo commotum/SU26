@@ -1,0 +1,598 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Collapse Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Unit 2 - Reminder of Assignments Due This WeekUnit 2 - Reminder of Assignments Due This Week"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenCollapse ThreadsFilter bySearch entries or author...Sort bySEQUENCES AND SERIES (MTH_253Z_400_U2026) Available from Jul 6 12am until Jul 13 11:59pmUnsubscribedManage DiscussionDiscussion Topic: Unit 2 - Reminder of Assignments Due This WeekUnit 2 - Reminder of Assignments Due This WeekHi everyone, This is the second (and last) week of Unit 2. Below you will find some reminders about the assignments due this week: Unit 2 Written Homework - Due Thursday 7/9 Week 3 Web Homework - Due Sunday 7/12 Unit 2 Quiz - Opens Sunday 7/12 and closes Monday 7/13 As always, please don't hesitate to let me know if you have any questions. You can either send me an email or post your questions in the Unit 2 Q&A Discussion board. Have a great week!This topic is closed for comments."
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "UnsubscribedManage DiscussionDiscussion Topic: Unit 2 - Reminder of Assignments Due This WeekUnit 2 - Reminder of Assignments Due This WeekHi everyone, This is the second (and last) week of Unit 2. Below you will find some reminders about the assignments due this week: Unit 2 Written Homework - Due Thursday 7/9 Week 3 Web Homework - Due Sunday 7/12 Unit 2 Quiz - Opens Sunday 7/12 and closes Monday 7/13 As always, please don't hesitate to let me know if you have any questions. You can either send me an email or post your questions in the Unit 2 Q&A Discussion board. Have a great week!This topic is closed for comments."
+    },
+    {
+      "index": 5,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 6,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 7,
+      "text": "Discussion Topic: Unit 2 - Reminder of Assignments Due This Week"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Unit 2 - Reminder of Assignments Due This Week",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 16,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482",
+      "index": 17,
+      "raw_href": "/courses/2053263/discussion_topics/11558482",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 - Reminder of Assignments Due This Week",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 18,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 21,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 22,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 23,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 24,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 25,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 29,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2",
+      "title": "Unit 2 - Overview"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2025202/pages/unit-4-overview",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2025202/pages/unit-4-overview",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 - Overview",
+      "title": "Unit 4 - Overview"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Written Homework",
+      "title": "Unit 2 - Written Homework Assignment"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373",
+      "rel": "",
+      "target": "",
+      "text": "Week 3 Web Homework",
+      "title": "Week 3 Web Homework: Introduction to Series"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Quiz",
+      "title": "Unit 2 Quiz"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Q&A Discussion board",
+      "title": "Unit 2 - Q&A Discussion Board (Optional)"
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2",
+      "title": "Unit 2 - Overview"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2025202/pages/unit-4-overview",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2025202/pages/unit-4-overview",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 - Overview",
+      "title": "Unit 4 - Overview"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Written Homework",
+      "title": "Unit 2 - Written Homework Assignment"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373",
+      "rel": "",
+      "target": "",
+      "text": "Week 3 Web Homework",
+      "title": "Week 3 Web Homework: Introduction to Series"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Quiz",
+      "title": "Unit 2 Quiz"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Q&A Discussion board",
+      "title": "Unit 2 - Q&A Discussion Board (Optional)"
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades4"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558482",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Topic: Unit 2 - Reminder of Assignments Due This Week",
+  "page_id": "00282-mth-253-linked-detail-topic-unit-2-reminder-of-assignments-due-this-week",
+  "captured_at": "2026-07-08T23:02:57.715Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00013-mth-253-announcements-announcements-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "unread,Unit 2 - Reminder of Assignments Due This Week",
+  "depth": 1,
+  "redirected": false,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11558482",
+  "html_sha256": "0ae5d8abd1c4e6dc53fbac8f0ceb0387cff099369e61c4132e146db0066b389b",
+  "text_sha256": "6a5f22e272daf9dbc0c1eb13376718a321fd1dffac2b08bf741fb95cb86f545b",
+  "requires_external_handler": false
+}

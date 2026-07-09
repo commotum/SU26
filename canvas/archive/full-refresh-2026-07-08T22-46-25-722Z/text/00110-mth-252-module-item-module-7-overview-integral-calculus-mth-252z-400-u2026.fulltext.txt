@@ -1,0 +1,53 @@
+
+            
+
+  
+
+
+
+    Module 7  — Overview
+    
+
+  
+    
+
+Introduction
+We now move forward to apply all the techniques to solve problems.  To start we will begin by solving graphical application problems.  These problems are geometric in nature and relate to area in a plane and volume in space, all bounded by graphs of functions.  In the textbook you can also find several ways in which we use graphical application problems to model real-world problem.  
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Find the area of a region bounded by one or more curves over a closed interval.
+Express the area between two curves as an integral with respect to both coordinate axes and non-coordinate axes.
+Use the general slicing method to compute the volume of a solid.
+Use the disk and washer method to compute the volume of a solid.
+Discriminate between the disc and washer method.
+
+This module aligns with the following course learning outcomes: 3, 4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-5)
+Complete the Alta Assignments (MLOs 1-5)
+Submit the Written Homework (MLOs 1-5)
+Contribute to the Discussion Reflection (MLOs 1-5)
+
+    
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

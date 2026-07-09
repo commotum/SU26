@@ -1,0 +1,87 @@
+
+            
+
+  
+
+
+
+    Module 6 — Learning Materials and Practice Activities  🕓 3 - 5 hours
+    
+
+  
+    
+
+Intro
+The techniques we are finishing this week involve subtle details. The approach is determined by the structure or components of the integrand. Because of this, continue practice will strengthen our mathematical intuition.  This makes using all these techniques get easier with practice.  Below are a variety of examples, readings, and practice problems to support us with this effort.
+Readings
+Read the following section from your textbook, OpenStax College. (2016). Calculus, Volume 2:Links to an external site.
+
+Section 3.3 – 285-295
+Section 3.4 – 298-307
+
+Riemann Sum Calculator (RSC)
+Instructions:
+
+Go to the Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.
+Input the relevant integrand function, adjust bounds, input the number of rectangles, and select your sum type.
+Slide to the number of rectangles desired.
+
+Videos
+These YouTube videos are useful resources to review the definitions needed to identify and compute the rectangular areas for our approximations. 
+OpenStax 3.3: Trigonometric Substitution
+
+Trigonometric Substitution – IntroLinks to an external site. (7:15)
+Trig Sub – General Example 1Links to an external site. (13:12)
+Trig Sub – Example 2 - Sum of SquaresLinks to an external site. 3 (6:23)
+Trig Sub – Example 3 – Difference of SquaresLinks to an external site. (5:32)
+Trig Sub – Example 4 – Difference of SquaresLinks to an external site. (8:30)
+Trig Sub – Random ExamplesLinks to an external site. (19:49)
+
+OpenStax 3.4: Partial Fraction Decomposition (and polynomial long division)
+
+Partial Fraction Decomposition – IntroLinks to an external site. (12:55)
+Integration – Polynomial Long DivisionLinks to an external site. (6:28)
+Partial Fraction Decomposition – Setup Only PracticeLinks to an external site. (6:17)
+Partial Fraction Decomposition – Linear FactorsLinks to an external site. (5:41)
+Integration with Partial Fraction DecompositionLinks to an external site. (41:06)
+Partial Fraction Decomposition – Quadratic FactorLinks to an external site. (10:12)
+Partial Fraction Decomposition – Long Division and PFDLinks to an external site. (9:13)
+Partial Fraction Decomposition – Advanced ExampleLinks to an external site. (8:28)
+
+Practice Activities
+Do the following practice problems from your textbook, OpenStax College. (2016). Calculus, Volume 2.Links to an external site. Odd problems have the answer in the online book.
+OpenStax 3.3: Trigonometric Substitution
+
+Section 3.3: Example 3.22 – Difference of Squares. Try the problem using your notes. Then expand to see full solution.
+Section 3.3: Example 3.24 – Sum of Squares. Try the problem using your notes. **Notice the use of the reference triangle.** Then expand to see full solution.
+Section 3.3: 131, 135, 142, 146, 153, 160, 164.
+
+OpenStax 3.4: Partial Fraction Decomposition (and polynomial long division)
+
+Section 3.4: Example 3.28 – Polynomial Long Division. **See Media linkLinks to an external site. in online book for review.** Try the problem using your notes. Then expand to see full solution.
+Section 3.4: Example 3.29 – Non-repeated Linear Factors. Try the problem using your notes. Then expand to see full solution.
+Section 3.4: Example 3.30 – Two-step preparation. Try the problem using your notes. Then expand to see full solution.
+Section 3.4: Example 3.31 – U-sub, then Partial Faction Decomposition. Try the problem using your notes. Then expand to see full solution.
+Section 3.4: Example 3.32 – Repeated Linear Factors. Try the problem using your notes. Then expand to see full solution.
+Section 3.4: Example 3.33 – Irreducible Quadratic Factor. Try the problem using your notes. Then expand to see full solution.
+Section 3.4: 183, 189, 196, 197, 201, 203, 206, 217, 241
+
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

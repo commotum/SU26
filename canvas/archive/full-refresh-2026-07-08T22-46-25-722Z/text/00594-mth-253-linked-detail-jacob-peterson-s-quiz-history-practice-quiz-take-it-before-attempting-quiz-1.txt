@@ -1,0 +1,49 @@
+Practice Quiz (take it before attempting Quiz 1!) Results for Jacob Peterson
+Submitted Jun 26 at 7:26pm
+ 
+Correct answer
+Question 1
+5 / 5 pts
+
+What is the limit 
+lim
+𝑛
+→
+∞
+1
+𝑛
+?
+
+  0 
+
+Good job!
+
+  
+∞
+ 
+  limit does not exist 
+  
+𝑛
+ 
+ 
+Question 2
+Not yet graded / 15 pts
+
+Explain what do you think we mean when we say that the series  
+∑
+𝑛
+=
+1
+∞
+𝑎
+𝑛
+ is divergent.
+
+ 
+
+Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit. 
+
+Your Answer:
+
+A divergent series is an infinite sum that does not reach one final answer. Since we keep adding terms forever, the total does not settle down.Practice-Quiz.pdf
+Download Practice-Quiz.pdf
