@@ -1,0 +1,119 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Sun, Jul 19
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - 'heading "Question 12 of 15 - Week 4 Web Homework: The Divergence and Integral Tests" [level=2]'
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 15 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph: No late submissions.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts" [active]:
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1500"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1500
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 12 of 15" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the bounds for the sum of the given convergent series.
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: √
+            - generic: "6"
+            - img "the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k raised to the the square root of 6 power, math"
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: "the lower bound:"
+          - textbox
+        - group "Math Equation":
+          - generic: "the upper bound:"
+          - textbox
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

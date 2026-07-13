@@ -1,0 +1,24 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: 𝑘
+            - generic: −
+            - generic: "1"
+            - generic: "6"
+            - generic: 𝑘
+            - generic: )
+            - img "the sum from k equals 1 to infinity of open paren k minus 16 over k close paren, math"
+        - group "Multiple Choice":
+          - group "Determine whether the series converges or diverges.":
+            - generic: Determine whether the series converges or diverges.
+            - radio "The series diverges."
+            - generic: The series diverges.
+            - radio "The series converges."
+            - generic: The series converges.

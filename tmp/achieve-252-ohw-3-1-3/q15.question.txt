@@ -1,0 +1,28 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: For the integral
+              - generic: ∫
+              - generic: "4"
+              - generic: "0"
+              - generic: (
+              - generic: "4"
+              - generic: 𝑥
+              - generic: "2"
+              - generic: +
+              - generic: "9"
+              - generic: )
+              - generic: 𝑑
+              - generic: 𝑥
+              - generic: ","
+              - img "the integral from 0 to 4 of open paren 4 x squared plus 9 close paren d x comma, math"
+              - text: find all numbers
+              - generic: 𝑢
+              - img "u, math"
+              - text: guaranteed by the Mean Value Theorem for Integrals.
+            - paragraph: (Use symbolic notation and fractions where needed. Give your answer in the form of a comma separated list.)
+          - group "Math Equation":
+            - generic: 𝑢
+            - generic: =
+            - img "u equals, math"
+            - textbox

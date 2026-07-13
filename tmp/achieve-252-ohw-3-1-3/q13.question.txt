@@ -1,0 +1,21 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find the definite integral using the Fundamental Theorem of Calculus and properties of the definite integral.
+            - paragraph: (Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: ∫
+            - generic: 𝑒
+            - generic: "1"
+            - generic: "5"
+            - generic: 𝑠
+            - generic: "2"
+            - generic: +
+            - generic: "2"
+            - generic: 𝑠
+            - generic: 𝑠
+            - generic: "2"
+            - generic: 𝑑
+            - generic: 𝑠
+            - generic: =
+            - img "the integral from 1 to e of the fraction with numerator 5 s squared plus 2 s and denominator s squared d s equals, math"
+            - textbox

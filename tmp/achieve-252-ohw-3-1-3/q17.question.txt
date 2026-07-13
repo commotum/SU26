@@ -1,0 +1,126 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Suppose that
+              - generic: 𝐹
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - img "F of x, math"
+              - text: is an antiderivative of
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - img "f of x, math"
+              - text: on the interval
+              - generic: "["
+              - generic: "0"
+              - generic: ","
+              - generic: "8"
+              - generic: "]"
+              - img "open bracket 0 comma 8 close bracket, math"
+              - text: . Use the graph of the given piecewise linear function
+              - generic: 𝑦
+              - generic: =
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - img "y equals f of x, math"
+              - text: "to answer the following:"
+            - paragraph
+            - paragraph
+            - paragraph
+          - group "Multiple Choice":
+            - group "Which of the following describes \\(f'\\left(3.9\\right)\\) ?":
+              - paragraph: Which of the following describes \(f'\left(3.9\right)\) ?
+              - radio "Not enough information to determine."
+              - paragraph: Not enough information to determine.
+              - radio "\\(f'\\left(3.9\\right)<0\\)"
+              - paragraph: \(f'\left(3.9\right)<0\)
+              - radio "\\(f'\\left(3.9\\right)\\ =\\ 0\\)"
+              - paragraph: \(f'\left(3.9\right)\ =\ 0\)
+              - radio "\\(f'\\left(3.9\\right)>0\\)"
+              - paragraph: \(f'\left(3.9\right)>0\)
+          - group "Multiple Select":
+            - group "Select all the x, math -values in the domain at which the accumulation function F of x equals the integral from 0 to x of f of t d t, math is negative.":
+              - paragraph:
+                - text: Select all the
+                - generic: 𝑥
+                - img "x, math"
+                - text: "-values in the domain at which the accumulation function"
+                - generic: 𝐹
+                - generic: (
+                - generic: 𝑥
+                - generic: )
+                - generic: =
+                - generic: ∫
+                - generic: 𝑥
+                - generic: "0"
+                - generic: 𝑓
+                - generic: (
+                - generic: 𝑡
+                - generic: )
+                - generic: 𝑑
+                - generic: 𝑡
+                - img "F of x equals the integral from 0 to x of f of t d t, math"
+                - text: is negative.
+              - checkbox "x equals 0, math"
+              - paragraph:
+                - generic: 𝑥
+                - generic: =
+                - generic: "0"
+                - img "x equals 0, math"
+              - checkbox "\\(x=2.5\\)"
+              - paragraph: \(x=2.5\)
+              - checkbox "𝑥 = 4 . 5"
+              - paragraph:
+                - generic: 𝑥
+                - generic: =
+                - generic: "4"
+                - generic: .
+                - generic: "5"
+              - checkbox "\\(x=1.0\\)"
+              - paragraph: \(x=1.0\)
+              - checkbox "\\(x=0.75\\)"
+              - paragraph: \(x=0.75\)
+              - checkbox "\\(x=7.0\\)"
+              - paragraph: \(x=7.0\)
+          - group "Multiple Choice":
+            - group "Evaluate the integral:$$\\int_2^6f'\\left(x\\right)dx$$":
+              - paragraph: Evaluate the integral:$$\int_2^6f'\left(x\right)dx$$
+              - radio "\\(0\\)"
+              - paragraph: \(0\)
+              - radio "\\(1\\)"
+              - paragraph: \(1\)
+              - radio "\\(-4\\)"
+              - paragraph: \(-4\)
+              - radio "\\(4\\)"
+              - paragraph: \(4\)
+              - radio "\\(12\\)"
+              - paragraph: \(12\)
+              - radio "\\(-12\\)"
+              - paragraph: \(-12\)
+          - group "Multiple Choice":
+            - group "Approximate the integral:$$\\int_5^0f'\\left(x\\right)dx$$":
+              - paragraph: Approximate the integral:$$\int_5^0f'\left(x\right)dx$$
+              - radio "\\(-2\\)"
+              - paragraph: \(-2\)
+              - radio "\\(4\\)"
+              - paragraph: \(4\)
+              - radio "\\(2\\)"
+              - paragraph: \(2\)
+              - radio "\\(-4\\)"
+              - paragraph: \(-4\)
+          - group "Multiple Choice":
+            - group "Evaluate \\(F'\\left(5\\right)\\).":
+              - paragraph: Evaluate \(F'\left(5\right)\).
+              - radio "\\(-7.5\\)"
+              - paragraph: \(-7.5\)
+              - radio "\\(5\\)"
+              - paragraph: \(5\)
+              - radio "\\(-2\\)"
+              - paragraph: \(-2\)
+              - radio "\\(2\\)"
+              - paragraph: \(2\)

@@ -1,0 +1,20 @@
+      - generic "Question content":
+        - group "Multiple Choice":
+          - group "Does the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k raised to the 1 divided by 8 power, math converge or diverge?":
+            - text: Does
+            - generic: ∑
+            - generic: ∞
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: "1"
+            - generic: /
+            - generic: "8"
+            - img "the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k raised to the 1 divided by 8 power, math"
+            - text: converge or diverge?
+            - radio "The series converges."
+            - generic: The series converges.
+            - radio "The series diverges."
+            - generic: The series diverges.

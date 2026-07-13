@@ -1,0 +1,118 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Sun, Jul 19
+- region "Main content":
+  - iframe [active]:
+    - document
+    - main:
+      - 'heading "Question 3 of 15 - Week 4 Web Homework: The Divergence and Integral Tests" [level=2]'
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 15 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph: No late submissions.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts" [active]:
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+            - button "Q10 Unlimited attempts":
+              - generic: Q10
+              - generic: Unlimited attempts
+            - button "Q11 Unlimited attempts":
+              - generic: Q11
+              - generic: Unlimited attempts
+            - button "Q12 Unlimited attempts":
+              - generic: Q12
+              - generic: Unlimited attempts
+            - button "Q13 Unlimited attempts":
+              - generic: Q13
+              - generic: Unlimited attempts
+            - button "Q14 Unlimited attempts":
+              - generic: Q14
+              - generic: Unlimited attempts
+            - button "Q15 Unlimited attempts":
+              - generic: Q15
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 1500"':
+          - generic: "+0"
+          - text: pts
+          - generic: /1500
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 3 of 15" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph: "$$ \\sum_{k=1}^{\\infty} {\\frac{1}{k^{0.5}}} $$"
+          - paragraph: Use the Integral Test to determine whether the series converges or diverges.
+        - group "Multiple Choice":
+          - group "Select the correct answer.":
+            - generic: Select the correct answer.
+            - radio "The series diverges since the integral approaches negative infinity period, math"
+            - text: The series diverges since the integral approaches
+            - generic: −
+            - generic: ∞
+            - generic: .
+            - img "negative infinity period, math"
+            - 'radio "The series converges since the value of the integral is \\\\(-\\frac{1}{0.5} \\text{.}\\\\)"'
+            - generic: "The series converges since the value of the integral is \\\\(-\\frac{1}{0.5} \\text{.}\\\\)"
+            - 'radio "The series converges since the value of the integral is \\\\(0\\text{.}\\\\)"'
+            - generic: "The series converges since the value of the integral is \\\\(0\\text{.}\\\\)"
+            - 'radio "The series diverges since the integral approaches \\\\(\\infty\\text{.}\\\\)"'
+            - generic: "The series diverges since the integral approaches \\\\(\\infty\\text{.}\\\\)"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

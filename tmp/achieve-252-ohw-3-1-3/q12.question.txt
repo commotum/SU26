@@ -1,0 +1,27 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Use Part 2 of the Fundamental Theorem of Calculus to find the definite integral.
+            - paragraph:
+              - generic: ∫
+              - generic: "1"
+              - generic: 𝑒
+              - generic: "3"
+              - generic: "1"
+              - generic: 𝑥
+              - generic: 𝑑
+              - generic: 𝑥
+              - img "the integral from e cubed to 1 of 1 over x d x, math"
+            - paragraph: (Express numbers in exact form. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - paragraph:
+              - generic: ∫
+              - generic: "1"
+              - generic: 𝑒
+              - generic: "3"
+              - generic: "1"
+              - generic: 𝑥
+              - generic: 𝑑
+              - generic: 𝑥
+              - generic: =
+              - img "the integral from e cubed to 1 of 1 over x d x equals, math"
+            - textbox

@@ -1,0 +1,38 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find all the antiderivatives of the function.
+            - paragraph:
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - generic: =
+              - generic: s
+              - generic: i
+              - generic: "n"
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - generic: +
+              - generic: "2"
+              - generic: "1"
+              - generic: +
+              - generic: 𝑥
+              - generic: "2"
+              - img "f of x equals sine x plus the fraction with numerator 2 and denominator 1 plus x squared, math"
+            - paragraph:
+              - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+              - generic: 𝐶
+              - img "C, math"
+              - text: for the arbitrary constant. Absorb into
+              - generic: 𝐶
+              - img "C, math"
+              - text: as much as possible.)
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - img "F of x equals, math"
+            - textbox

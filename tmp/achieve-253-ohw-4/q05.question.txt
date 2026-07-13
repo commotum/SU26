@@ -1,0 +1,21 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Determine whether the series converges or diverges.
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: "1"
+            - generic: "3"
+            - img "the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k to the 13th power, math"
+        - group "Multiple Choice":
+          - group "The series":
+            - generic: The series
+            - radio "diverges."
+            - generic: diverges.
+            - radio "converges."
+            - generic: converges.

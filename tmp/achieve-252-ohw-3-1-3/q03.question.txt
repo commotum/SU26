@@ -1,0 +1,8 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find the derivative using Part 1 of the Fundamental Theorem of Calculus.
+            - paragraph: "$$ \\frac{d}{dx}\\left[\\int_{7}^{1/x}\\sin^{9}{(t)}\\,dt\\right] $$"
+            - paragraph: (Express numbers in exact form. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: "\\\\(\\displaystyle{\\frac{d}{dx}\\left[\\int_{7}^{1/x}\\sin^{9}{(t)}\\,dt\\right]=}\\\\)"
+            - textbox

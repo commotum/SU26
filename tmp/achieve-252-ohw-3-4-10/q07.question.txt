@@ -1,0 +1,36 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Find all antiderivatives of the function
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - generic: =
+              - generic: "6"
+              - generic: 𝑥
+              - generic: +
+              - generic: "4"
+              - generic: √
+              - generic: "1"
+              - generic: −
+              - generic: 𝑥
+              - generic: "2"
+              - generic: .
+              - img "f of x equals 6 x plus the fraction with numerator 4 and denominator the square root of 1 minus x squared period, math"
+            - paragraph:
+              - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+              - generic: 𝐶
+              - img "C, math"
+              - text: for the arbitrary constant. Absorb into
+              - generic: 𝐶
+              - img "C, math"
+              - text: as muсh as possible.)
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - img "F of x equals, math"
+            - textbox

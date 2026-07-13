@@ -1,0 +1,18 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find the definite integral.
+            - paragraph: (Express numbers in exact form. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: ∫
+            - generic: "2"
+            - generic: −
+            - generic: "2"
+            - generic: 𝑥
+            - generic: "2"
+            - generic: /
+            - generic: "3"
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral from negative 2 to 2 of x raised to the 2 divided by 3 power d x equals, math"
+            - textbox

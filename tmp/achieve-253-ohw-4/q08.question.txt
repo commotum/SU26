@@ -1,0 +1,40 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: "1"
+            - generic: "6"
+            - generic: 𝑘
+            - generic: −
+            - generic: "1"
+            - generic: "7"
+            - generic: 𝑘
+            - generic: )
+            - img "the sum from k equals 1 to infinity of open paren the fraction with numerator 1 and denominator 6 to the k-th power minus the fraction with numerator 1 and denominator 7 to the k-th power close paren, math"
+        - group "Multiple Choice":
+          - group "Determine whether the series converges or diverges.":
+            - generic: Determine whether the series converges or diverges.
+            - radio "The series converges and the sum is 1 over 30 period, math"
+            - text: The series converges and the sum is
+            - generic: "1"
+            - generic: "3"
+            - generic: "0"
+            - generic: .
+            - img "1 over 30 period, math"
+            - radio "The series converges, but the sum cannot be determined."
+            - generic: The series converges, but the sum cannot be determined.
+            - radio "The series converges and the sum is 1 over 42 period, math"
+            - text: The series converges and the sum is
+            - generic: "1"
+            - generic: "4"
+            - generic: "2"
+            - generic: .
+            - img "1 over 42 period, math"
+            - radio "The series diverges."
+            - generic: The series diverges.

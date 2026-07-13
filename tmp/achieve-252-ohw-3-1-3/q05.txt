@@ -1,0 +1,307 @@
+- document
+- iframe [active]:
+  - document
+  - link "Skip to main content":
+    - /url: "#main-content"
+  - button "Back to My Course":
+  - button "Go back":
+  - heading "Assessment" [level=1]
+  - strong: "Due:"
+  - text: Mon, Jul 13
+  - region "Main content":
+    - iframe [active]:
+      - document
+      - main:
+        - heading "Question 5 of 17 - Achieve - 1.3 The Fundamental Theorem of Calculus" [level=2]
+        - navigation:
+          - button "Collapse assignment menu" [expanded]:
+            - text: Completed 0 of 17 Questions
+          - heading "Grading Settings" [level=4]
+          - button "Hide" [expanded]
+          - list:
+            - paragraph: Unlimited attempts per question.
+            - paragraph: No penalty for incorrect attempts.
+            - paragraph:
+              - text: Submit up to
+              - generic: 34 days late
+              - text: for a daily penalty of
+              - generic: 3%
+              - text: off the total score.
+            - paragraph: View solution explanations after completing each question.
+            - paragraph: Access to supplemental resources.
+            - paragraph: Access to AI Tutor assistance.
+          - navigation "Non-Sequential Question":
+            - list:
+              - button "Q1 Unlimited attempts":
+                - generic: Q1
+                - generic: Unlimited attempts
+              - button "Q2 Unlimited attempts":
+                - generic: Q2
+                - generic: Unlimited attempts
+              - button "Q3 Unlimited attempts":
+                - generic: Q3
+                - generic: Unlimited attempts
+              - button "Q4 Unlimited attempts":
+                - generic: Q4
+                - generic: Unlimited attempts
+              - button "Q5 Unlimited attempts" [active]:
+                - generic: Q5
+                - generic: Unlimited attempts
+              - button "Q6 Unlimited attempts":
+                - generic: Q6
+                - generic: Unlimited attempts
+              - button "Q7 Unlimited attempts":
+                - generic: Q7
+                - generic: Unlimited attempts
+              - button "Q8 Unlimited attempts":
+                - generic: Q8
+                - generic: Unlimited attempts
+              - button "Q9 Unlimited attempts":
+                - generic: Q9
+                - generic: Unlimited attempts
+              - button "Q10 Unlimited attempts":
+                - generic: Q10
+                - generic: Unlimited attempts
+              - button "Q11 Unlimited attempts":
+                - generic: Q11
+                - generic: Unlimited attempts
+              - button "Q12 Unlimited attempts":
+                - generic: Q12
+                - generic: Unlimited attempts
+              - button "Q13 Unlimited attempts":
+                - generic: Q13
+                - generic: Unlimited attempts
+              - button "Q14 Unlimited attempts":
+                - generic: Q14
+                - generic: Unlimited attempts
+              - button "Q15 Unlimited attempts":
+                - generic: Q15
+                - generic: Unlimited attempts
+              - button "Q16 Unlimited attempts":
+                - generic: Q16
+                - generic: Unlimited attempts
+              - button "Q17 Unlimited attempts":
+                - generic: Q17
+                - generic: Unlimited attempts
+        - navigation "Assignment Tools":
+          - heading "Assignment Tools" [level=2]
+          - 'generic "Assignment Score: 0 out of 1700"':
+            - generic: "+0"
+            - text: pts
+            - generic: /1700
+          - button "Switch to New Layout"
+          - button "Beta flag":
+            - generic: Beta
+          - list:
+            - button "Open AI Tutor":
+              - generic: AI Tutor
+              - button "Open in-app informational guide"
+          - button "Submit Answer"
+          - generic "Expand to Full Screen Mode":
+            - button "Full screen":
+        - generic "Sequential Question":
+          - button "previous question":
+          - heading "Question 5 of 17" [level=2]
+          - button "next question":
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Consider the function
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑡
+              - generic: )
+              - generic: =
+              - generic: "1"
+              - generic: "4"
+              - generic: "3"
+              - generic: √
+              - generic: 𝑡
+              - img "f of t equals 14 the cube root of t, math"
+              - text: over the
+              - generic: i
+              - generic: "n"
+              - generic: t
+              - generic: e
+              - generic: r
+              - generic: v
+              - generic: a
+              - generic: l
+              - generic: −
+              - generic: "8"
+              - generic: ≤
+              - generic: 𝑡
+              - generic: ≤
+              - generic: "8"
+              - generic: .
+              - img "interval negative 8 is less than or equal to t is less than or equal to 8 period, math"
+          - group "Multiple Choice":
+            - group "Identify the accumulation function F, math associated with f, math over the indicated interval as an integral.":
+              - paragraph:
+                - text: Identify the accumulation function
+                - generic: 𝐹
+                - img "F, math"
+                - text: associated with
+                - generic: 𝑓
+                - img "f, math"
+                - text: over the indicated interval as an integral.
+              - radio "16 minus 21 over 2 x the cube root of x, math"
+              - paragraph:
+                - generic: "1"
+                - generic: "6"
+                - generic: −
+                - generic: "2"
+                - generic: "1"
+                - generic: "2"
+                - generic: 𝑥
+                - generic: "3"
+                - generic: √
+                - generic: 𝑥
+                - img "16 minus 21 over 2 x the cube root of x, math"
+              - radio "21 over 2 x the cube root of x minus 168, math"
+              - paragraph:
+                - generic: "2"
+                - generic: "1"
+                - generic: "2"
+                - generic: 𝑥
+                - generic: "3"
+                - generic: √
+                - generic: 𝑥
+                - generic: −
+                - generic: "1"
+                - generic: "6"
+                - generic: "8"
+                - img "21 over 2 x the cube root of x minus 168, math"
+              - radio "21 over 2 times open paren the fourth root of x close paren cubed minus open paren the fourth root of negative 8 close paren cubed, math"
+              - paragraph:
+                - generic: "2"
+                - generic: "1"
+                - generic: "2"
+                - generic: (
+                - generic: "4"
+                - generic: √
+                - generic: 𝑥
+                - generic: )
+                - generic: "3"
+                - generic: −
+                - generic: (
+                - generic: "4"
+                - generic: √
+                - generic: −
+                - generic: "8"
+                - generic: )
+                - generic: "3"
+                - img "21 over 2 times open paren the fourth root of x close paren cubed minus open paren the fourth root of negative 8 close paren cubed, math"
+              - radio "168 minus 21 over 2 x the cube root of x, math"
+              - paragraph:
+                - generic: "1"
+                - generic: "6"
+                - generic: "8"
+                - generic: −
+                - generic: "2"
+                - generic: "1"
+                - generic: "2"
+                - generic: 𝑥
+                - generic: "3"
+                - generic: √
+                - generic: 𝑥
+                - img "168 minus 21 over 2 x the cube root of x, math"
+              - radio "21 over 2 times open paren the fourth root of x close paren cubed minus 16, math"
+              - paragraph:
+                - generic: "2"
+                - generic: "1"
+                - generic: "2"
+                - generic: (
+                - generic: "4"
+                - generic: √
+                - generic: 𝑥
+                - generic: )
+                - generic: "3"
+                - generic: −
+                - generic: "1"
+                - generic: "6"
+                - img "21 over 2 times open paren the fourth root of x close paren cubed minus 16, math"
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Find
+              - generic: 𝐹
+              - img "F, math"
+              - text: at the given numbers.
+            - paragraph: (Give exact answers. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: −
+            - generic: "1"
+            - generic: )
+            - generic: =
+            - img "F of negative 1 equals, math"
+            - textbox
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: "0"
+            - generic: )
+            - generic: =
+            - img "F of 0 equals, math"
+            - textbox
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: "8"
+            - generic: )
+            - generic: =
+            - img "F of 8 equals, math"
+            - textbox
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Graph
+              - generic: 𝐹
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - img "F of x, math"
+              - text: such that
+              - generic: 𝐹
+              - img "F, math"
+              - text: is the accumulation function associated with
+              - generic: 𝑓
+              - generic: o
+              - generic: v
+              - generic: e
+              - generic: r
+              - generic: −
+              - generic: "8"
+              - generic: ≤
+              - generic: 𝑡
+              - generic: ≤
+              - generic: "8"
+              - generic: .
+              - img "f over negative 8 is less than or equal to t is less than or equal to 8 period, math"
+          - group "Graded Graph":
+            - generic: 𝐹
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - img "F of x equals, math"
+            - textbox
+            - application "Desmos Graphing Calculator":
+              - region "Graph Settings Controls":
+                - group "Zoom":
+                  - button "Zoom In":
+                    - generic: 
+                  - button "Zoom Out":
+                    - generic: 
+              - generic "Powered by Desmos": powered by
+              - generic: 
+              - img "graph paper. X axis visible from negative 10 to 10 and is labeled x. Y axis visible from negative 250 to 250 and is labeled y. Grid lines are visible. 0 audio traceable curves."
+        - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+      - paragraph
+      - paragraph
+  - alert: Integration Hub
+- log
+- log
+- log
+- log
+- button "Open Resource Center"

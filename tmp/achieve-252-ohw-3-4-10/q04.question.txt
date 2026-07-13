@@ -1,0 +1,31 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find all the antiderivatives of the function.
+            - paragraph:
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - generic: =
+              - generic: 𝑥
+              - generic: "2"
+              - generic: +
+              - generic: "8"
+              - generic: 𝑥
+              - img "f of x equals the fraction with numerator x squared plus 8 and denominator x, math"
+            - paragraph:
+              - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+              - generic: 𝐶
+              - img "C, math"
+              - text: for the arbitrary constant. Absorb into
+              - generic: 𝐶
+              - img "C, math"
+              - text: as much as possible.)
+          - group "Math Equation":
+            - generic: 𝐹
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - img "F of x equals, math"
+            - textbox

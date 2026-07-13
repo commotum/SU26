@@ -1,0 +1,40 @@
+        - generic "Question content":
+          - paragraph: © Macmillan Learning
+          - group "Ungraded Text":
+            - text: Calculate the derivative with respect
+            - generic: t
+            - generic: o
+            - generic: 𝑥
+            - generic: .
+            - img "to x period, math"
+            - generic: 𝑑
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: ∫
+            - generic: "1"
+            - generic: "0"
+            - generic: "7"
+            - generic: 𝑥
+            - generic: 𝑒
+            - generic: −
+            - generic: 𝑡
+            - generic: 𝑑
+            - generic: 𝑡
+            - img "d over d x the integral from x to 107 of e raised to the negative t power d t, math"
+          - group "Math Equation":
+            - generic: 𝑑
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: ∫
+            - generic: "1"
+            - generic: "0"
+            - generic: "7"
+            - generic: 𝑥
+            - generic: 𝑒
+            - generic: −
+            - generic: 𝑡
+            - generic: 𝑑
+            - generic: 𝑡
+            - generic: =
+            - img "d over d x the integral from x to 107 of e raised to the negative t power d t equals, math"
+            - textbox

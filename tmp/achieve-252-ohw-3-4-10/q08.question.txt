@@ -1,0 +1,45 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Find the particular function
+              - generic: 𝑦
+              - img "y, math"
+              - text: given that
+            - paragraph:
+              - generic: 𝑑
+              - generic: 𝑦
+              - generic: 𝑑
+              - generic: 𝑥
+              - generic: =
+              - generic: "4"
+              - generic: √
+              - generic: 𝑥
+              - generic: −
+              - generic: "7"
+              - generic: 𝑥
+              - generic: √
+              - generic: 𝑥
+              - generic: +
+              - generic: "7"
+              - generic: ","
+              - generic: w
+              - generic: h
+              - generic: e
+              - generic: "n"
+              - generic: 𝑥
+              - generic: =
+              - generic: "1"
+              - generic: ","
+              - generic: 𝑦
+              - generic: =
+              - generic: "2"
+              - img "d y over d x equals 4 the square root of x minus 7 x the square root of x plus 7 comma when x equals 1 comma y equals 2, math"
+            - paragraph: (Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: 𝑦
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - img "y of x equals, math"
+            - textbox

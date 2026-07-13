@@ -1,0 +1,96 @@
+      - generic "Question content":
+        - group "Multiple Select":
+          - group "Select the correct statements.":
+            - generic: Select the correct statements.
+            - checkbox "If the sum from k equals 1 to infinity of open paren a sub k plus b sub k close paren, math converges, then the sum from k equals 1 to infinity of a sub k, math converges and the sum from k equals 1 to infinity of b sub k, math converges."
+            - text: If
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: 𝑎
+            - generic: 𝑘
+            - generic: +
+            - generic: 𝑏
+            - generic: 𝑘
+            - generic: )
+            - img "the sum from k equals 1 to infinity of open paren a sub k plus b sub k close paren, math"
+            - text: converges, then
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: 𝑎
+            - generic: 𝑘
+            - img "the sum from k equals 1 to infinity of a sub k, math"
+            - text: converges and
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: 𝑏
+            - generic: 𝑘
+            - img "the sum from k equals 1 to infinity of b sub k, math"
+            - text: converges.
+            - checkbox "If the first 100, math terms of two infinite series are different, but from the 101 stones, math term on they are identical, then either both series converge or both diverge."
+            - text: If the first
+            - generic: "1"
+            - generic: "0"
+            - generic: "0"
+            - img "100, math"
+            - text: terms of two infinite series are different, but from the
+            - generic: "1"
+            - generic: "0"
+            - generic: "1"
+            - generic: s
+            - generic: t
+            - img "101 stones, math"
+            - text: term on they are identical, then either both series converge or both diverge.
+            - checkbox "If the sum from k equals 1 to infinity of a sub k equals S, math is a convergent series and c, math is a nonzero real number, then the sum from k equals 1 to infinity of open paren c a sub k close paren equals c S period, math"
+            - text: If
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: 𝑎
+            - generic: 𝑘
+            - generic: =
+            - generic: 𝑆
+            - img "the sum from k equals 1 to infinity of a sub k equals S, math"
+            - text: is a convergent series and
+            - generic: 𝑐
+            - img "c, math"
+            - text: is a nonzero real number, then
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: (
+            - generic: 𝑐
+            - generic: 𝑎
+            - generic: 𝑘
+            - generic: )
+            - generic: =
+            - generic: 𝑐
+            - generic: 𝑆
+            - generic: .
+            - img "the sum from k equals 1 to infinity of open paren c a sub k close paren equals c S period, math"
+            - checkbox "The series the sum from k equals 1 to infinity of k cubed, math diverges."
+            - text: The series
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: 𝑘
+            - generic: "3"
+            - img "the sum from k equals 1 to infinity of k cubed, math"
+            - text: diverges.
+            - checkbox "For an infinite series of positive terms, if its sequence of partial sums is not bounded, then the series could converge or diverge."
+            - generic: For an infinite series of positive terms, if its sequence of partial sums is not bounded, then the series could converge or diverge.

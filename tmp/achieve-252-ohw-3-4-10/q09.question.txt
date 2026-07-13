@@ -1,0 +1,53 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: The acceleration of an object in rectilinear motion is given. Find the position function
+              - generic: 𝑠
+              - generic: =
+              - generic: 𝑠
+              - generic: (
+              - generic: 𝑡
+              - generic: )
+              - img "s equals s of t, math"
+              - text: of the object under the given initial conditions.
+            - paragraph:
+              - generic: 𝑎
+              - generic: (
+              - generic: 𝑡
+              - generic: )
+              - generic: =
+              - generic: 𝑒
+              - generic: 𝑡
+              - generic: m
+              - generic: /
+              - generic: s
+              - generic: "2"
+              - generic: ","
+              - generic: 𝑠
+              - generic: (
+              - generic: "0"
+              - generic: )
+              - generic: =
+              - generic: "0"
+              - generic: m
+              - generic: ","
+              - generic: 𝑣
+              - generic: (
+              - generic: "0"
+              - generic: )
+              - generic: =
+              - generic: "5"
+              - generic: m
+              - generic: /
+              - generic: s
+              - img "a of t equals e to the t-th power m slash s squared comma s of 0 equals 0 m comma v of 0 equals 5 m slash s, math"
+            - paragraph: (Express numbers in exact form. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: 𝑠
+            - generic: (
+            - generic: 𝑡
+            - generic: )
+            - generic: =
+            - img "s of t equals, math"
+            - textbox
+            - generic: m

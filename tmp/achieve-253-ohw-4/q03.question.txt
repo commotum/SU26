@@ -1,0 +1,20 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph: "$$ \\sum_{k=1}^{\\infty} {\\frac{1}{k^{0.5}}} $$"
+          - paragraph: Use the Integral Test to determine whether the series converges or diverges.
+        - group "Multiple Choice":
+          - group "Select the correct answer.":
+            - generic: Select the correct answer.
+            - radio "The series diverges since the integral approaches negative infinity period, math"
+            - text: The series diverges since the integral approaches
+            - generic: −
+            - generic: ∞
+            - generic: .
+            - img "negative infinity period, math"
+            - 'radio "The series converges since the value of the integral is \\\\(-\\frac{1}{0.5} \\text{.}\\\\)"'
+            - generic: "The series converges since the value of the integral is \\\\(-\\frac{1}{0.5} \\text{.}\\\\)"
+            - 'radio "The series converges since the value of the integral is \\\\(0\\text{.}\\\\)"'
+            - generic: "The series converges since the value of the integral is \\\\(0\\text{.}\\\\)"
+            - 'radio "The series diverges since the integral approaches \\\\(\\infty\\text{.}\\\\)"'
+            - generic: "The series diverges since the integral approaches \\\\(\\infty\\text{.}\\\\)"

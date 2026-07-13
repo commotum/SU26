@@ -1,0 +1,25 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "2"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: (
+            - generic: l
+            - generic: "n"
+            - generic: 𝑘
+            - generic: )
+            - generic: "2"
+            - img "the sum from k equals 2 to infinity of 1 over k times open paren l n k close paren squared, math"
+        - group "Multiple Choice":
+          - group "Determine whether the series converges or diverges.":
+            - generic: Determine whether the series converges or diverges.
+            - radio "The series diverges."
+            - generic: The series diverges.
+            - radio "The series converges."
+            - generic: The series converges.

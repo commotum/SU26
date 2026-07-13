@@ -1,0 +1,45 @@
+        - generic "Question content":
+          - paragraph: © Macmillan Learning
+          - group "Ungraded Text":
+            - text: Evaluate the following definite integral if an antiderivative of the integrand
+            - generic: i
+            - generic: s
+            - generic: 𝐹
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: =
+            - generic: 𝑥
+            - generic: "3"
+            - generic: −
+            - generic: "3"
+            - generic: 𝑥
+            - generic: "2"
+            - generic: +
+            - generic: "7"
+            - generic: 𝑥
+            - generic: +
+            - generic: "1"
+            - generic: .
+            - img "is F of x equals x cubed minus 3 x squared plus 7 x plus 1 period, math"
+          - group "Numeric Entry":
+            - generic: ∫
+            - generic: "5"
+            - generic: "1"
+            - generic: (
+            - generic: "3"
+            - generic: 𝑥
+            - generic: "2"
+            - generic: −
+            - generic: "6"
+            - generic: 𝑥
+            - generic: +
+            - generic: "7"
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral from 1 to 5 of open paren 3 x squared minus 6 x plus 7 close paren d x equals, math"
+            - text: 
+            - textbox "the integral from 1 to 5 of open paren 3 x squared minus 6 x plus 7 close paren d x equals, math"
+            - text: 

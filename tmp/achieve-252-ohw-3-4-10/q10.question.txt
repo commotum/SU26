@@ -1,0 +1,41 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph:
+              - text: A ball is thrown straight up from the ground level, with an initial velocity of
+              - generic: "2"
+              - generic: "9"
+              - generic: .
+              - generic: "4"
+              - generic: m
+              - generic: /
+              - generic: s
+              - generic: .
+              - img "29.4 m slash s period, math"
+              - text: How high is the ball thrown? Assume the acceleration due to gravity is
+              - generic: "9"
+              - generic: .
+              - generic: "8"
+              - generic: m
+              - generic: /
+              - generic: s
+              - generic: "2"
+              - generic: .
+              - img "9.8 m slash s squared period, math"
+            - paragraph: (Use decimal notation. Give your answer to one decimal place.)
+          - group "Numeric Entry":
+            - generic: "high of the ball thrown:"
+            - text: 
+            - textbox "high of the ball thrown:"
+            - text: 
+            - generic: m
+            - img "m, math"
+          - group "Ungraded Text":
+            - paragraph: How long will it take the ball to return to the ground level?
+            - paragraph: (Give your answer as a whole or exact number.)
+          - group "Numeric Entry":
+            - generic: "time to take the ball to return to the ground level:"
+            - text: 
+            - textbox "time to take the ball to return to the ground level:"
+            - text: 
+            - generic: s
+            - img "s, math"

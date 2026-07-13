@@ -1,0 +1,46 @@
+        - generic "Question content":
+          - paragraph: © Macmillan Learning
+          - group "Ungraded Text":
+            - paragraph:
+              - text: Consider the function.
+              - generic: 𝑓
+              - generic: (
+              - generic: 𝑥
+              - generic: )
+              - generic: =
+              - generic: 𝑥
+              - generic: "2"
+              - img "f of x equals x squared, math"
+            - paragraph:
+              - text: Calculate the average value of
+              - generic: 𝑓
+              - img "f, math"
+              - text: on the interval
+              - generic: "["
+              - generic: "3"
+              - generic: ","
+              - generic: "7"
+              - generic: "]"
+              - generic: .
+              - img "open bracket 3 comma 7 close bracket period, math"
+              - text: Give an exact answer.
+          - group "Math Equation":
+            - generic: "Average value:"
+            - textbox
+          - group "Ungraded Text":
+            - text: Determine
+            - generic: 𝑐
+            - img "c, math"
+            - text: such that the average value of the function is equal to
+            - generic: 𝑓
+            - generic: (
+            - generic: 𝑐
+            - generic: )
+            - generic: .
+            - img "f of c period, math"
+            - text: Give an exact answer with no radicals in the denominator.
+          - group "Math Equation":
+            - generic: 𝑐
+            - generic: =
+            - img "c equals, math"
+            - textbox

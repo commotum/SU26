@@ -1,0 +1,24 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find the definite integral.
+            - paragraph: (Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: ∫
+            - generic: 𝜋
+            - generic: /
+            - generic: "4"
+            - generic: −
+            - generic: 𝜋
+            - generic: /
+            - generic: "2"
+            - generic: c
+            - generic: o
+            - generic: s
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral from negative pi divided by 2 to pi divided by 4 of cosine x d x equals, math"
+            - textbox

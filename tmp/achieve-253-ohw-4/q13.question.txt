@@ -1,0 +1,34 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the bounds for the sum of the given convergent series.
+          - paragraph:
+            - generic: "7"
+            - generic: +
+            - generic: "7"
+            - generic: "4"
+            - generic: "4"
+            - generic: √
+            - generic: "2"
+            - generic: +
+            - generic: "7"
+            - generic: "9"
+            - generic: "4"
+            - generic: √
+            - generic: "3"
+            - generic: +
+            - generic: "7"
+            - generic: "1"
+            - generic: "6"
+            - generic: "4"
+            - generic: √
+            - generic: "4"
+            - generic: +
+            - generic: ⋯
+            - img "7 plus 7 over 4 the fourth root of 2 plus 7 over 9 the fourth root of 3 plus 7 over 16 the fourth root of 4 plus dot dot dot, math"
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: "the lower bound:"
+          - textbox
+        - group "Math Equation":
+          - generic: "the upper bound:"
+          - textbox

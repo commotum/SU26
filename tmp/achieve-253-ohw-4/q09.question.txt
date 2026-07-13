@@ -1,0 +1,28 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Consider the series
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "3"
+            - generic: "3"
+            - generic: 𝑘
+            - generic: "5"
+            - generic: +
+            - generic: "6"
+            - generic: 𝑘
+            - generic: "5"
+            - generic: −
+            - generic: "2"
+            - generic: 𝑘
+            - generic: "4"
+            - img "the sum from k equals 3 to infinity of the fraction with numerator 3 k to the fifth power plus 6 and denominator k to the fifth power minus 2 k to the fourth power, math"
+        - group "Multiple Choice":
+          - group "Determine whether the series converges or diverges.":
+            - generic: Determine whether the series converges or diverges.
+            - radio "The series converges."
+            - generic: The series converges.
+            - radio "The series diverges."
+            - generic: The series diverges.

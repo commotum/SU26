@@ -1,0 +1,41 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: The
+            - generic: 𝑝
+            - generic: "-"
+            - img "p minus, math"
+            - text: series converges. Find an interval of width 1 that contains the sum
+            - generic: ∑
+            - generic: ∞
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: "1"
+            - generic: "5"
+            - generic: .
+            - img "the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k to the 15th power period, math"
+          - paragraph:
+            - text: (Use symbolic notation and fractions where needed. Give your answers as intervals in the form
+            - generic: (
+            - generic: ∗
+            - generic: ","
+            - generic: ∗
+            - generic: )
+            - generic: .
+            - img "open paren asterisk comma asterisk close paren period, math"
+            - text: Use the symbol
+            - generic: ∞
+            - img "infinity, math"
+            - text: for infinity,
+            - generic: ∪
+            - img "union, math"
+            - text: for combining intervals, and an appropriate type of parenthesis "(", ")", "[" or "]" depending on whether the interval is open or closed. Enter
+            - generic: ∅
+            - img "normal empty set, math"
+            - text: if the interval is empty.)
+        - group "Math Equation":
+          - generic: "interval:"
+          - textbox

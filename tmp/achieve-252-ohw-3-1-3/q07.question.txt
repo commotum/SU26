@@ -1,0 +1,17 @@
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Find the definite integral using Part 2 of the Fundamental Theorem of Calculus.
+            - paragraph: (Give an exact answer. Use symbolic notation and fractions where needed.)
+          - group "Math Equation":
+            - generic: ∫
+            - generic: "1"
+            - generic: "0"
+            - generic: "2"
+            - generic: "1"
+            - generic: 𝑥
+            - generic: "4"
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral from 2 to 10 of the fraction with numerator 1 and denominator x to the fourth power d x equals, math"
+            - textbox

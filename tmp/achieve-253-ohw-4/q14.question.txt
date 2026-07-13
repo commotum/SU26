@@ -1,0 +1,23 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the bounds for the sum of the given convergent series.
+          - paragraph:
+            - generic: ∞
+            - generic: ∑
+            - generic: 𝑘
+            - generic: =
+            - generic: "1"
+            - generic: "1"
+            - generic: 𝑘
+            - generic: "2"
+            - generic: +
+            - generic: "3"
+            - generic: "6"
+            - img "the sum from k equals 1 to infinity of the fraction with numerator 1 and denominator k squared plus 36, math"
+          - paragraph: (Use symbolic notation and fractions where needed. Write the answer in terms of inverse tangent.)
+        - group "Math Equation":
+          - generic: "the lower bound:"
+          - textbox
+        - group "Math Equation":
+          - generic: "the upper bound:"
+          - textbox

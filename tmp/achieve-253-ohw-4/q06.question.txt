@@ -1,0 +1,37 @@
+      - generic "Question content":
+        - group "Ungraded Text":
+          - text: Determine whether the
+          - generic: 𝑝
+          - generic: "-"
+          - img "p minus, math"
+          - text: series converges or diverges.
+          - generic: "1"
+          - generic: +
+          - generic: "1"
+          - generic: "4"
+          - generic: "7"
+          - generic: √
+          - generic: "2"
+          - generic: +
+          - generic: "1"
+          - generic: "9"
+          - generic: "7"
+          - generic: √
+          - generic: "3"
+          - generic: +
+          - generic: "1"
+          - generic: "1"
+          - generic: "6"
+          - generic: "7"
+          - generic: √
+          - generic: "4"
+          - generic: +
+          - generic: …
+          - img "1 plus 1 over 4 the seventh root of 2 plus 1 over 9 the seventh root of 3 plus 1 over 16 the seventh root of 4 plus dot dot dot, math"
+        - group "Multiple Choice":
+          - group "The series":
+            - generic: The series
+            - radio "diverges."
+            - generic: diverges.
+            - radio "converges."
+            - generic: converges.
