@@ -1,0 +1,478 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Dr G's Videos --> 3.7"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Download 252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf"
+    },
+    {
+      "index": 1,
+      "text": "Previous Next"
+    },
+    {
+      "index": 2,
+      "text": "Previous"
+    },
+    {
+      "index": 3,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=4f592b47-b940-4795-84ea-f90813f38a5a",
+      "title": "Michael Gilliam's Personal Meeting Room",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e642c278-d9db-4913-91a9-1eab7beebf16",
+      "title": "2.5, 3.7 - Pumping and Improper Integral Examples.",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 3,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Dr G's Videos --> 3.7",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618?wrap=1",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf",
+      "title": "252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618/download?download_frd=1",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download 252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982644",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982644",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982646",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982646",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618?wrap=1",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf",
+      "title": "252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618/download?download_frd=1",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/files/119223618/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download 252-Lecture-2.5-to-ME5 pages 5 - 8, 13 - 17, 19, 20-1-2.pdf",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982644",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982644",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982646",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982646",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-7?module_item_id=26982645#",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Dr G's Videos --> 3.7: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00439-mth-252-linked-detail-dr-g-s-videos-3-7-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-07-18T06:31:24.593Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00148-mth-252-module-item-dr-g-s-videos-3-7-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Actions",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "page",
+  "canvas_object_id": "dr-gs-videos-%3E-3-dot-7",
+  "html_sha256": "b89214c0b3a068197e66c2470d5bb33e4f0b39ab184b9fd71a67f773fe65b2c2",
+  "text_sha256": "6ac7f4f150f728d4ca0a199710f220a192b2bb1895ec885dbe23a357dd9cf9d6",
+  "requires_external_handler": false
+}

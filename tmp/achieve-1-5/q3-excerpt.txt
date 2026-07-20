@@ -1,0 +1,14 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Solve the indefinite integral.
+          - paragraph: "$$ \\int {\\sqrt{x+36}\\,dx} $$"
+          - paragraph: "Use symbolic notation and fractions where needed. Express the constant of integration \\\\(\\text{as } C\\text{.}\\\\)"
+        - group "Math Equation":
+          - generic: "\\\\( \\displaystyle{\\int {\\sqrt{x+36}\\,dx}}= \\\\)"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

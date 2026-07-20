@@ -1,0 +1,20 @@
+Quiz 1B_asy (Remotely Proctored) Results for Jacob Peterson
+ Correct answers are hidden.
+Score for this quiz: 32 out of 40
+Submitted Jul 6 at 4:51pm
+This attempt took 10 minutes.
+ 
+Question 1
+32 / 40 pts
+
+A 7.27 kg greyhound holds onto a rope that is wound around a spool with radius 2.2 m.
+
+At t = 0.0 s, the greyhound starts from rest at the spool and moves straight away from it, unwinding the rope.
+
+Solve completely symbolically in terms of given variables before inserting numerical values.
+
+Enter "1" in the textbox to indicate you have read the question.
+
+Upload your scan pdf to Quiz1B_asy_work in Gradescope.
+
+Quiz Score: 32 out of 40

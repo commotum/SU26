@@ -1,0 +1,26 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the indefinite integral.
+          - paragraph:
+            - text: (Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as muсh as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "4"
+          - generic: 𝑒
+          - generic: "7"
+          - generic: /
+          - generic: 𝑥
+          - generic: 𝑥
+          - generic: "2"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of the fraction with numerator 4 e raised to the 7 divided by x power and denominator x squared d x equals, math"
+          - textbox
+      

@@ -1,0 +1,22 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - generic: Evaluate the indefinite integral.
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "3"
+          - generic: 𝑒
+          - generic: "4"
+          - generic: 𝑥
+          - generic: +
+          - generic: "7"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of 3 e raised to the 4 x plus 7 power d x equals, math"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

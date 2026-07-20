@@ -1,0 +1,26 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Kate wants to evaluate the integral shown by using the substitution method.
+          - paragraph: "$$ \\int{\\frac{2x+9}{\\left(3x^{2} + 27x - 3 \\right)^{4}} \\, dx} $$"
+          - paragraph: She uses \\( u \\) as her substitution variable.
+        - group "Multiple Choice":
+          - group "Choose the expression that allows Kate to evaluate the integral.":
+            - generic: Choose the expression that allows Kate to evaluate the integral.
+            - 'radio "\\\\(\\displaystyle{u=\\left(3x^{2}+27x-3 \\right)^{4}\\\\}\\\\\\\\)"'
+            - generic: "\\\\(\\displaystyle{u=\\left(3x^{2}+27x-3 \\right)^{4}\\\\}\\\\\\\\)"
+            - 'radio "\\\\(\\displaystyle{u=2x\\\\}\\\\ \\\\)"'
+            - generic: "\\\\(\\displaystyle{u=2x\\\\}\\\\ \\\\)"
+            - 'radio "\\\\(\\displaystyle{u=3x^{2}\\\\}\\\\\\\\)"'
+            - generic: "\\\\(\\displaystyle{u=3x^{2}\\\\}\\\\\\\\)"
+            - 'radio "\\\\( \\displaystyle{u=\\frac{2x+9}{3x^{2} +27x-3}\\\\}\\\\\\\\)"'
+            - generic: "\\\\( \\displaystyle{u=\\frac{2x+9}{3x^{2} +27x-3}\\\\}\\\\\\\\)"
+            - 'radio "\\\\(\\displaystyle{u=3x^{2}+27x-3 \\\\}\\\\\\\\)"'
+            - generic: "\\\\(\\displaystyle{u=3x^{2}+27x-3 \\\\}\\\\\\\\)"
+            - 'radio "\\\\(\\displaystyle{u=2x+9\\\\}\\\\\\\\)"'
+            - generic: "\\\\(\\displaystyle{u=2x+9\\\\}\\\\\\\\)"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

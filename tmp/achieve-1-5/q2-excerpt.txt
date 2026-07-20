@@ -1,0 +1,23 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: "Use \\\\( u\\text{-}\\\\)substitution to evaluate the indefinite integral."
+          - paragraph: "$$ \\int{ \\left( 3 - 5x \\right)^{2}\\,dx} $$"
+        - group "Multiple Choice":
+          - group "Select the correct solution to an indefinite integral.":
+            - generic: Select the correct solution to an indefinite integral.
+            - 'radio "\\\\( -\\dfrac{1}{5}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"'
+            - generic: "\\\\( -\\dfrac{1}{5}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"
+            - 'radio "\\\\( \\dfrac{1}{3}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"'
+            - generic: "\\\\( \\dfrac{1}{3}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"
+            - 'radio "\\\\( -\\dfrac{5}{3}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"'
+            - generic: "\\\\( -\\dfrac{5}{3}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"
+            - 'radio "\\\\( \\dfrac{1}{15}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"'
+            - generic: "\\\\( \\dfrac{1}{15}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"
+            - 'radio "\\\\( -\\dfrac{1}{15}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"'
+            - generic: "\\\\( -\\dfrac{1}{15}\\left( 3 - 5x \\right)^{3} + C \\\\ \\\\)"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

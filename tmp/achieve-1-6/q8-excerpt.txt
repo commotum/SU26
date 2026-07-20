@@ -1,0 +1,54 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Evaluate the definite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: "6"
+            - generic: )
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: "5"
+            - generic: )
+            - generic: 𝑒
+            - generic: 𝑥
+            - generic: 𝑒
+            - generic: 𝑥
+            - generic: +
+            - generic: "1"
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from l n of 5 to l n of 6 of the fraction with numerator e to the x-th power and denominator e to the x-th power plus 1 d x, math"
+          - paragraph: Give your answer in exact form.
+        - group "Math Equation":
+          - generic: ∫
+          - generic: l
+          - generic: "n"
+          - generic: (
+          - generic: "6"
+          - generic: )
+          - generic: l
+          - generic: "n"
+          - generic: (
+          - generic: "5"
+          - generic: )
+          - generic: 𝑒
+          - generic: 𝑥
+          - generic: 𝑒
+          - generic: 𝑥
+          - generic: +
+          - generic: "1"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from l n of 5 to l n of 6 of the fraction with numerator e to the x-th power and denominator e to the x-th power plus 1 d x equals, math"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

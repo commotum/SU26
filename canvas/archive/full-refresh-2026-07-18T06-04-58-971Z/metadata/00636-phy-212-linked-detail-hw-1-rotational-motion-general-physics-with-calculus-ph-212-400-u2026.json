@@ -1,0 +1,1730 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Hw 1 - Rotational Motion"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Note that although Canvas calls this a \"quiz,\" it is actually a homework assignment. Here are some things to keep in mind: 1. You are encouraged to work with others. 2. You can exit the assignment without submitting and return later to complete it. 3. You have up to four attempts to complete this assignment. Your highest score will be kept. 4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late. 5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time."
+    },
+    {
+      "index": 1,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A wheel spins with an angular speed of 120 revolutions per minute.</p> <p>What is its angular speed in radians per second?</p> A wheel spins with an angular speed of 120 revolutions per minute. What is its angular speed in radians per second? 960 No answer text provided. No answer text provided. exact_answer none 59026233 960 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4608 No answer text provided. No answer text provided. exact_answer none 59026233 4608 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5982 No answer text provided. No answer text provided. exact_answer none 59026233 5982 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 9885 No answer text provided. No answer text provided. exact_answer none 59026233 9885 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 2,
+      "text": "Move To..."
+    },
+    {
+      "index": 3,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 4,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 5,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 6,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>An object travels along a circular trajectory of radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\">.</p> <p>At one instant, the particle’s speed is <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and increasing at a constant rate <img class=\"equation_image\" title=\"a\" src=\"/equation_images/a?scale=1\" alt=\"LaTeX: a\" data-equation-content=\"a\" data-ignore-a11y-check=\"\">.</p> <p>Assuming the object speeds up at this same rate, how much time will it take to complete one revolution?</p> <p>Hint: Your answer <img class=\"equation_image\" title=\"r,v,a\" src=\"/equation_images/r%252Cv%252Ca?scale=1\" alt=\"LaTeX: r,v,a\" data-equation-content=\"r,v,a\" data-ignore-a11y-check=\"\"> must all be positive!</p> An object travels along a circular trajectory of radius . At one instant, the particle’s speed is and increasing at a constant rate . Assuming the object speeds up at this same rate, how much time will it take to complete one revolution? Hint: Your answer must all be positive! 230 No answer text provided. No answer text provided. exact_answer none 59026234 230 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4825 No answer text provided. No answer text provided. exact_answer none 59026234 4825 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 5502 No answer text provided. No answer text provided. exact_answer none 59026234 5502 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6751 No answer text provided. No answer text provided. exact_answer none 59026234 6751 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 2399 No answer text provided. No answer text provided. exact_answer none 59026234 2399 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 7,
+      "text": "Move To..."
+    },
+    {
+      "index": 8,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 9,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 10,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 11,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question 110816244 <p>The <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the angular acceleration of an object moving along a circular trajectory has <img class=\"equation_image\" title=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" src=\"/equation_images/%255Calpha_z%255Cleft(t%255Cright)%2520%253D%2520Bt%255E2%2520%252B%2520C?scale=1\" alt=\"LaTeX: \\alpha_z\\left(t\\right) = Bt^2 + C\" data-equation-content=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"B\" src=\"/equation_images/B?scale=1\" alt=\"LaTeX: B\" data-equation-content=\"B\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"C\" src=\"/equation_images/C?scale=1\" alt=\"LaTeX: C\" data-equation-content=\"C\" data-ignore-a11y-check=\"\"> are constants of the appropriate dimension.</p> <p>What SI units is <img class=\"equation_image\" title=\"B\" src=\"/equation_images/B?scale=1\" alt=\"LaTeX: B\" data-equation-content=\"B\" data-ignore-a11y-check=\"\"> measured in?</p> The -component of the angular acceleration of an object moving along a circular trajectory has , where and are constants of the appropriate dimension. What SI units is measured in? 8073 No answer text provided. No answer text provided. exact_answer none 59026235 8073 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6207 No answer text provided. No answer text provided. exact_answer none 59026235 6207 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5259 No answer text provided. No answer text provided. exact_answer none 59026235 5259 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8023 No answer text provided. No answer text provided. exact_answer none 59026235 8023 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 177 No answer text provided. No answer text provided. exact_answer none 59026235 177 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7600 No answer text provided. No answer text provided. exact_answer none 59026235 7600 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 12,
+      "text": "Move To..."
+    },
+    {
+      "index": 13,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 14,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 15,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 16,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the angular acceleration of an object moving along a circular trajectory has <img class=\"equation_image\" title=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" src=\"/equation_images/%255Calpha_z%255Cleft(t%255Cright)%2520%253D%2520Bt%255E2%2520%252B%2520C?scale=1\" alt=\"LaTeX: \\alpha_z\\left(t\\right) = Bt^2 + C\" data-equation-content=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"B\" src=\"/equation_images/B?scale=1\" alt=\"LaTeX: B\" data-equation-content=\"B\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"C\" src=\"/equation_images/C?scale=1\" alt=\"LaTeX: C\" data-equation-content=\"C\" data-ignore-a11y-check=\"\"> are constants of the appropriate dimension.</p> <p>Let <img class=\"equation_image\" title=\"\\omega_z\\left(t\\right)\" src=\"/equation_images/%255Comega_z%255Cleft(t%255Cright)?scale=1\" alt=\"LaTeX: \\omega_z\\left(t\\right)\" data-equation-content=\"\\omega_z\\left(t\\right)\" data-ignore-a11y-check=\"\"> denote the <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\"> component of the object's angular velocity. If <img class=\"equation_image\" title=\"\\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" src=\"/equation_images/%255Comega_z%255Cleft(0%255Ctext%257B%2520s%257D%255Cright)%2520%253D%2520%255Comega_0?scale=1\" alt=\"LaTeX: \\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" data-equation-content=\"\\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" data-ignore-a11y-check=\"\">, what is <img class=\"equation_image\" title=\"\\omega_z\\left(t\\right)\" src=\"/equation_images/%255Comega_z%255Cleft(t%255Cright)?scale=1\" alt=\"LaTeX: \\omega_z\\left(t\\right)\" data-equation-content=\"\\omega_z\\left(t\\right)\" data-ignore-a11y-check=\"\">?</p> The -component of the angular acceleration of an object moving along a circular trajectory has , where and are constants of the appropriate dimension. Let denote the component of the object's angular velocity. If , what is ? 4463 No answer text provided. No answer text provided. exact_answer none 59026236 4463 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6173 No answer text provided. No answer text provided. exact_answer none 59026236 6173 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6687 No answer text provided. No answer text provided. exact_answer none 59026236 6687 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9760 No answer text provided. No answer text provided. exact_answer none 59026236 9760 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7231 No answer text provided. No answer text provided. exact_answer none 59026236 7231 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 749 No answer text provided. No answer text provided. exact_answer none 59026236 749 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 17,
+      "text": "Move To..."
+    },
+    {
+      "index": 18,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 19,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 20,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 21,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the angular acceleration of an object moving along a circular trajectory has <img class=\"equation_image\" title=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" src=\"/equation_images/%255Calpha_z%255Cleft(t%255Cright)%2520%253D%2520Bt%255E2%2520%252B%2520C?scale=1\" alt=\"LaTeX: \\alpha_z\\left(t\\right) = Bt^2 + C\" data-equation-content=\"\\alpha_z\\left(t\\right) = Bt^2 + C\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"B\" src=\"/equation_images/B?scale=1\" alt=\"LaTeX: B\" data-equation-content=\"B\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"C\" src=\"/equation_images/C?scale=1\" alt=\"LaTeX: C\" data-equation-content=\"C\" data-ignore-a11y-check=\"\"> are constants of the appropriate dimension.</p> <p>Let <img class=\"equation_image\" title=\"\\omega_z\\left(t\\right)\" src=\"/equation_images/%255Comega_z%255Cleft(t%255Cright)?scale=1\" alt=\"LaTeX: \\omega_z\\left(t\\right)\" data-equation-content=\"\\omega_z\\left(t\\right)\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"\\theta_z\\left(t\\right)\" src=\"/equation_images/%255Ctheta_z%255Cleft(t%255Cright)?scale=1\" alt=\"LaTeX: \\theta_z\\left(t\\right)\" data-equation-content=\"\\theta_z\\left(t\\right)\" data-ignore-a11y-check=\"\"> denote the <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\"> components of the object's angular velocity and position, respectively.</p> <p>If <img class=\"equation_image\" title=\"\\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" src=\"/equation_images/%255Comega_z%255Cleft(0%255Ctext%257B%2520s%257D%255Cright)%2520%253D%2520%255Comega_0?scale=1\" alt=\"LaTeX: \\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" data-equation-content=\"\\omega_z\\left(0\\text{ s}\\right) = \\omega_0\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"\\theta_z\\left(0\\text{ s}\\right) = \\theta_0\" src=\"/equation_images/%255Ctheta_z%255Cleft(0%255Ctext%257B%2520s%257D%255Cright)%2520%253D%2520%255Ctheta_0?scale=1\" alt=\"LaTeX: \\theta_z\\left(0\\text{ s}\\right) = \\theta_0\" data-equation-content=\"\\theta_z\\left(0\\text{ s}\\right) = \\theta_0\" data-ignore-a11y-check=\"\">, what is <img class=\"equation_image\" title=\"\\theta_z\\left(t\\right)\" src=\"/equation_images/%255Ctheta_z%255Cleft(t%255Cright)?scale=1\" alt=\"LaTeX: \\theta_z\\left(t\\right)\" data-equation-content=\"\\theta_z\\left(t\\right)\" data-ignore-a11y-check=\"\">?</p> The -component of the angular acceleration of an object moving along a circular trajectory has , where and are constants of the appropriate dimension. Let and denote the components of the object's angular velocity and position, respectively. If and , what is ? 3560 No answer text provided. No answer text provided. exact_answer none 59026237 3560 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5605 No answer text provided. No answer text provided. exact_answer none 59026237 5605 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6497 No answer text provided. No answer text provided. exact_answer none 59026237 6497 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5785 No answer text provided. No answer text provided. exact_answer none 59026237 5785 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 794 No answer text provided. No answer text provided. exact_answer none 59026237 794 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 22,
+      "text": "Move To..."
+    },
+    {
+      "index": 23,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 24,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 25,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 26,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 1 / 1 pts Edit this Question Delete this Question 0 true_false_question <p><span style=\"color: #000000;\">Consider an object undergoing <em>uniform</em> circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> its velocity, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> its angular speed, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> is perpendicular to <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing uniform circular motion. Let be the position of the object relative to the circle's center, its velocity, its angular speed, and its acceleration. True or false: is perpendicular to . 9738 True True exact_answer none 59026238 9738 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 9420 False False exact_answer none 59026238 9420 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 27,
+      "text": "Move To..."
+    },
+    {
+      "index": 28,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 29,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 30,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 31,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 1 / 1 pts Edit this Question Delete this Question 0 true_false_question <p><span style=\"color: #000000;\">Consider an object undergoing <em>uniform</em> circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\">&nbsp;is perpendicular to <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: is perpendicular to . 7709 True True exact_answer none 59026239 7709 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1277 False False exact_answer none 59026239 1277 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 32,
+      "text": "Move To..."
+    },
+    {
+      "index": 33,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 34,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 35,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 36,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 8 1 / 1 pts Edit this Question Delete this Question 0 true_false_question <p><span style=\"color: #000000;\">Consider an object undergoing <em>uniform</em> circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> has magnitude <img class=\"equation_image\" title=\"r\\omega\" src=\"/equation_images/r%255Comega?scale=1\" alt=\"LaTeX: r\\omega\" data-equation-content=\"r\\omega\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: has magnitude . 6652 True True exact_answer none 59026240 6652 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 7309 False False exact_answer none 59026240 7309 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 37,
+      "text": "Move To..."
+    },
+    {
+      "index": 38,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 39,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 40,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 41,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 9 1 / 1 pts Edit this Question Delete this Question 0 true_false_question <p><span style=\"color: #000000;\">Consider an object undergoing <em>uniform</em> circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> has magnitude <img class=\"equation_image\" title=\"\\frac{v^2}{r} = \\omega^2r\" src=\"/equation_images/%255Cfrac%257Bv%255E2%257D%257Br%257D%2520%253D%2520%255Comega%255E2r?scale=1\" alt=\"LaTeX: \\frac{v^2}{r} = \\omega^2r\" data-equation-content=\"\\frac{v^2}{r} = \\omega^2r\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: has magnitude . 3185 True True exact_answer none 59026241 3185 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 9752 False False exact_answer none 59026241 9752 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 42,
+      "text": "Move To..."
+    },
+    {
+      "index": 43,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 44,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 45,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 46,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 10 1 / 1 pts Edit this Question Delete this Question 0 true_false_question 110816234 <p><span style=\"color: #000000;\">Now consider an object undergoing <span style=\"text-decoration: underline;\"><em><strong><span style=\"font-size: 14pt;\">non</span>-uniform</strong></em></span> circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> is perpendicular to <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\">.</span></p> Now consider an object undergoing non-uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: is perpendicular to . 3164 True True exact_answer none 59026242 3164 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 5224 False False exact_answer none 59026242 5224 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 47,
+      "text": "Move To..."
+    },
+    {
+      "index": 48,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 49,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 50,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 51,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 11 1 / 1 pts Edit this Question Delete this Question 0 true_false_question 110816235 <p><span style=\"color: #000000;\">Consider an object undergoing <span style=\"text-decoration: underline;\"><em><strong><span style=\"font-size: 14pt;\">non</span>-uniform</strong></em></span>&nbsp;circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\">&nbsp;is perpendicular to <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing non-uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: is perpendicular to . 7141 True True exact_answer none 59026243 7141 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6428 False False exact_answer none 59026243 6428 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 52,
+      "text": "Move To..."
+    },
+    {
+      "index": 53,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 54,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 55,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 56,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 12 1 / 1 pts Edit this Question Delete this Question 0 true_false_question 110816236 <p><span style=\"color: #000000;\">Consider an object undergoing <span style=\"text-decoration: underline;\"><em><strong><span style=\"font-size: 14pt;\">non</span>-uniform</strong></em></span>&nbsp;circular motion.</span></p> <p><span style=\"color: #000000;\">Let <img class=\"equation_image\" title=\"\\vec{r}\" src=\"/equation_images/%255Cvec%257Br%257D?scale=1\" alt=\"LaTeX: \\vec{r}\" data-equation-content=\"\\vec{r}\" data-ignore-a11y-check=\"\"> be the position of the object relative to the circle's center, <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> the velocity of the object, <img class=\"equation_image\" title=\"\\omega\" src=\"/equation_images/%255Comega?scale=1\" alt=\"LaTeX: \\omega\" data-equation-content=\"\\omega\" data-ignore-a11y-check=\"\"> the angular speed of the object, and <img class=\"equation_image\" title=\"\\vec{a}\" src=\"/equation_images/%255Cvec%257Ba%257D?scale=1\" alt=\"LaTeX: \\vec{a}\" data-equation-content=\"\\vec{a}\" data-ignore-a11y-check=\"\"> its acceleration.</span></p> <p><span style=\"color: #000000;\"><strong><span style=\"text-decoration: underline;\">True or false:</span></strong> <img class=\"equation_image\" title=\"\\vec{v}\" src=\"/equation_images/%255Cvec%257Bv%257D?scale=1\" alt=\"LaTeX: \\vec{v}\" data-equation-content=\"\\vec{v}\" data-ignore-a11y-check=\"\"> has magnitude <img class=\"equation_image\" title=\"r\\omega\" src=\"/equation_images/r%255Comega?scale=1\" alt=\"LaTeX: r\\omega\" data-equation-content=\"r\\omega\" data-ignore-a11y-check=\"\">.</span></p> Consider an object undergoing non-uniform circular motion. Let be the position of the object relative to the circle's center, the velocity of the object, the angular speed of the object, and its acceleration. True or false: has magnitude . 3542 True True exact_answer none 59026244 3542 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 4933 False False exact_answer none 59026244 4933 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 57,
+      "text": "Move To..."
+    },
+    {
+      "index": 58,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 59,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 60,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 61,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 13 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>An object is moving counterclockwise along the circular trajectory depicted in the diagrams below.</p> <p>If the object is speeding up, which arrow represents its acceleration?</p> <p><img id=\"109338189\" src=\"/courses/2053526/files/118705985/preview\" alt=\"hw1_accels.png\" width=\"550\" height=\"312\"></p> An object is moving counterclockwise along the circular trajectory depicted in the diagrams below. If the object is speeding up, which arrow represents its acceleration? 7214 A A exact_answer none 59026245 7214 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7856 B B exact_answer none 59026245 7856 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8973 C C exact_answer none 59026245 8973 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 2422 D D exact_answer none 59026245 2422 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4842 E E exact_answer none 59026245 4842 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 62,
+      "text": "Move To..."
+    },
+    {
+      "index": 63,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 64,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 65,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 66,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 14 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>The plot below shows the<span>&nbsp;<img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the </span>angular position of an object over a 5 second time interval. Select the option which shows <span>the <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of </span>the object's corresponding angular velocity over that same interval.</p> <p><img id=\"109328925\" src=\"/courses/2053526/files/118705903/preview\" alt=\"theta_vs_time.png\" width=\"400\" height=\"300\"></p> The plot below shows the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular velocity over that same interval. 8392 No answer text provided. No answer text provided. exact_answer none 59026246 8392 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1062 No answer text provided. No answer text provided. exact_answer none 59026246 1062 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1671 No answer text provided. No answer text provided. exact_answer none 59026246 1671 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7322 No answer text provided. No answer text provided. exact_answer none 59026246 7322 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 67,
+      "text": "Move To..."
+    },
+    {
+      "index": 68,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 69,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 70,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 71,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 15 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p><span>The plot below shows the plot of the <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the angular position of an object over a 5 second time interval. Select the option which shows the <img class=\"equation_image\" title=\"z\" src=\"/equation_images/z?scale=1\" alt=\"LaTeX: z\" data-equation-content=\"z\" data-ignore-a11y-check=\"\">-component of the object's corresponding angular acceleration over that same interval.</span></p> <p><span><img id=\"109329483\" src=\"/courses/2053526/files/118705682/preview\" alt=\"theta_vs_time.png\" width=\"400\" height=\"300\"></span></p> The plot below shows the plot of the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular acceleration over that same interval. 3209 No answer text provided. No answer text provided. exact_answer none 59026247 3209 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1966 No answer text provided. No answer text provided. exact_answer none 59026247 1966 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3655 No answer text provided. No answer text provided. exact_answer none 59026247 3655 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7656 No answer text provided. No answer text provided. exact_answer none 59026247 7656 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 72,
+      "text": "Move To..."
+    },
+    {
+      "index": 73,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 74,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 75,
+      "text": "Delete this Question"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160489",
+      "rel": "",
+      "target": "",
+      "text": "Hw 1 - Rotational Motion",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades33",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "index": 34,
+      "raw_href": "/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026233",
+      "index": 37,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026233",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026234",
+      "index": 40,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026234",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026235",
+      "index": 43,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026235",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026236",
+      "index": 46,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026236",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 47,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026237",
+      "index": 49,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026237",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026238",
+      "index": 52,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026238",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026239",
+      "index": 55,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026239",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026240",
+      "index": 58,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026240",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026241",
+      "index": 61,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026241",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 62,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026242",
+      "index": 64,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026242",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026243",
+      "index": 67,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026243",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026244",
+      "index": 70,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026244",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 72,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026245",
+      "index": 73,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026245",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 74,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 75,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026246",
+      "index": 76,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026246",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 77,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 78,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026247",
+      "index": 79,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026247",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/history",
+      "index": 80,
+      "raw_href": "/courses/2053526/quizzes/3160489/history",
+      "rel": "",
+      "target": "",
+      "text": "View Previous Attempts",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "index": 81,
+      "raw_href": "/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "index": 0,
+      "raw_href": "/courses/2053526/quizzes/3160489/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 2,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026233",
+      "index": 3,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026233",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026234",
+      "index": 6,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026234",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026235",
+      "index": 9,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026235",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026236",
+      "index": 12,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026236",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026237",
+      "index": 15,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026237",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026238",
+      "index": 18,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026238",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 20,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026239",
+      "index": 21,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026239",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 22,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 23,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026240",
+      "index": 24,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026240",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 25,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 26,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026241",
+      "index": 27,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026241",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026242",
+      "index": 30,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026242",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026243",
+      "index": 33,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026243",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026244",
+      "index": 36,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026244",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026245",
+      "index": 39,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026245",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026246",
+      "index": 42,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026246",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026247",
+      "index": 45,
+      "raw_href": "/courses/2053526/quizzes/3160489/questions/59026247",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades33"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Hw 1 - Rotational Motion: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00636-phy-212-linked-detail-hw-1-rotational-motion-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-18T06:41:13.367Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00513-phy-212-linked-detail-hw-1-rotational-motion-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Take the Quiz Again",
+  "depth": 3,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160489",
+  "html_sha256": "8ba0778fe2153dc62c9e98c915c9e88fd8f1904334487d14027cbce632d6338c",
+  "text_sha256": "b8fc98c6a3d4076972685c089862923a199d0c872ed9a227df21c7af903841fa",
+  "requires_external_handler": false
+}

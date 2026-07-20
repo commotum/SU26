@@ -1,0 +1,44 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the integral.
+          - paragraph:
+            - generic: ∫
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: 𝑥
+            - generic: (
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: )
+            - generic: "1"
+            - generic: "4"
+            - img "the integral of the fraction with numerator d x and denominator x times open paren l n of x close paren to the 14th power, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: 𝑥
+          - generic: (
+          - generic: l
+          - generic: "n"
+          - generic: (
+          - generic: 𝑥
+          - generic: )
+          - generic: )
+          - generic: "1"
+          - generic: "4"
+          - generic: =
+          - img "the integral of the fraction with numerator d x and denominator x times open paren l n of x close paren to the 14th power equals, math"
+          - textbox
+      

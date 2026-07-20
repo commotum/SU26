@@ -1,121 +1,49 @@
 # Blocked Review
 
-Generated 2026-07-08.
+Generated 2026-07-17.
 
 ## Retry Manifest
 
-- **MTH-253** [module_item_blocked](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050) - high
-- **MTH-253** [unauthorized](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565) - high
-- **MTH-253** [unauthorized](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556937) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556943) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556959) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556991) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556996) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557013) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557015) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557027) - high
-- **PHY-212** [capture_failed](https://canvas.oregonstate.edu/courses/2053526/assignments/10557036) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556942) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556957) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556962) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556976) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556979) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556980) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556981) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556985) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556988) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556992) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557002) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557004) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557018) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557022) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557031) - high
 - **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557112) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025986) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025987) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025988) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025989) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025990) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025991) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025992) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025993) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025994) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025995) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025996) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025997) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025998) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026082) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026083) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026084) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026085) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026086) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186599) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186604) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186611) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/questions/59026167) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160476) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160476/questions/59026168) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026233) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026234) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026235) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026236) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026237) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026238) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026239) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026240) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026241) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026242) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026243) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026244) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026245) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026246) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026247) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026256) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026257) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026258) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026259) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026260) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026261) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59178579) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160500) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160500/questions/59026278) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026315) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026316) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026317) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026318) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026319) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026320) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026321) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026406) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026408) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026409) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026410) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026411) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026412) - high
-- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026413) - high
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025986|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025987|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025988|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025989|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025990|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025991|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025992|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025993|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025994|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025995|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025996|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025997|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160444/questions/59025998) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026083|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026082|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026084|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186604|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186599|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59186611|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026085|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160457/questions/59026086) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/questions/59026167) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160476|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160476/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160476/questions/59026168) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/history?version=2|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489#|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026233|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026234|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026235|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026236|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026237|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026238|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026239|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026240|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026241|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026242|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026243|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026244|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026245|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026246|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160489/questions/59026247) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026256|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026257|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026258|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026259|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59178579|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026260|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160491/questions/59026261) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160500|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160500/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160500/questions/59026278) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026315|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026316|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026317|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026318|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026319|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026320|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160508/questions/59026321) - medium
-- **PHY-212** [blocked_or_broken](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/take?user_id=6660414|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/history?version=1|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528#|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026406|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026408|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026409|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026410|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026411|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026412|https://canvas.oregonstate.edu/courses/2053526/quizzes/3160528/questions/59026413) - medium
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-wave-optics-%7C-learning-materials) - high
+- **PHY-212** [unauthorized](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-wave-optics-%7C-required-activities) - high
 
 ## Rule Improvements
 
-- **MTH-252** graded_task_missing_due / missing_due_text: 19 examples
-- **MTH-253** graded_task_missing_due / missing_due_text: 8 examples
-- **PHY-212** graded_task_missing_due / missing_due_text: 59 examples
+- **MTH-252** graded_task_missing_due / missing_due_text: 23 examples
+- **MTH-253** graded_task_missing_due / missing_due_text: 9 examples
+- **PHY-212** graded_task_missing_due / missing_due_text: 67 examples
 
 ## Manual Review Counts
 
 -  screenshot_failed: 1
-- MTH-252 critical_setup: 14
-- MTH-252 external_tool: 94
+- MTH-252 critical_setup: 15
+- MTH-252 external_surface: 133
+- MTH-252 external_tool: 65
 - MTH-252 graded_task: 1
-- MTH-252 lecture_video: 2
+- MTH-252 lecture_video: 4
+- MTH-252 module_item_external_unvisited: 133
 - MTH-252 prep_reading: 3
-- MTH-253 critical_setup: 6
-- MTH-253 external_tool: 38
+- MTH-253 critical_setup: 5
+- MTH-253 external_tool: 36
 - MTH-253 prep_reading: 7
-- PHY-212 blocked_or_broken: 3
-- PHY-212 critical_setup: 13
-- PHY-212 expected_access_denied_until_released: 3
-- PHY-212 external_tool: 6
-- PHY-212 graded_task: 89
-- PHY-212 grades_surface_task_not_in_modules: 48
-- PHY-212 indexed_not_read: 2
-- PHY-212 missing_due_text: 1
-- PHY-212 prep_reading: 1
+- PHY-212 critical_setup: 16
+- PHY-212 external_tool: 10
+- PHY-212 graded_task: 81
+- PHY-212 grades_surface_task_not_in_modules: 30
+- PHY-212 lecture_video: 1

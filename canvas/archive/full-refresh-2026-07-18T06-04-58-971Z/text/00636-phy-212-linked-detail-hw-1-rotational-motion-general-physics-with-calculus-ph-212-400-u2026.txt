@@ -1,0 +1,210 @@
+Hw 1 - Rotational Motion
+Due Jun 28 at 11:59pm Points 18 Questions 15 Available Jun 22 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 4
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+Take the Quiz Again
+Score for this attempt: 18 out of 18
+Submitted Jul 5 at 10:58pm
+This attempt took 4 minutes.
+ 
+Question 1
+1 / 1 pts
+
+A wheel spins with an angular speed of 120 revolutions per minute.
+
+What is its angular speed in radians per second?
+
+  
+  
+  
+  
+ 
+Question 2
+2 / 2 pts
+
+An object travels along a circular trajectory of radius .
+
+At one instant, the particle’s speed is  and increasing at a constant rate .
+
+Assuming the object speeds up at this same rate, how much time will it take to complete one revolution?
+
+Hint: Your answer  must all be positive!
+
+  
+  
+  
+  
+  
+ 
+Question 3
+1 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+What SI units is  measured in?
+
+  
+  
+  
+  
+  
+  
+ 
+Question 4
+1 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+Let  denote the  component of the object's angular velocity. If , what is ?
+
+  
+  
+  
+  
+  
+  
+ 
+Question 5
+1 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+Let  and  denote the  components of the object's angular velocity and position, respectively.
+
+If  and , what is ?
+
+  
+  
+  
+  
+  
+ 
+Question 6
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  its velocity,  its angular speed, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Question 7
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Question 8
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Question 9
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Question 10
+1 / 1 pts
+
+Now consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Question 11
+1 / 1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Question 12
+1 / 1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Question 13
+1 / 1 pts
+
+An object is moving counterclockwise along the circular trajectory depicted in the diagrams below.
+
+If the object is speeding up, which arrow represents its acceleration?
+
+  A 
+  B 
+  C 
+  D 
+  E 
+ 
+Question 14
+2 / 2 pts
+
+The plot below shows the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular velocity over that same interval.
+
+  
+  
+  
+  
+ 
+Question 15
+2 / 2 pts
+
+The plot below shows the plot of the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular acceleration over that same interval.
+
+  
+  
+  
+  
+Quiz Score: 18 out of 18

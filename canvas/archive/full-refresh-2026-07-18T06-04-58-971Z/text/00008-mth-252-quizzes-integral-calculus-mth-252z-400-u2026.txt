@@ -1,0 +1,39 @@
+Recent Announcements
+unread,
+ME1 (mini-exam 1) graded
+@everyone ME1 grades are in Canvas. I will be publishing them for you to view and submit Regrade Requests later today around 8pm.
+
+Posted on:
+
+Jul 16, 2026, 4:05 PM
+
+INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+Welcome to MTH 252! --> For BOTH Sections 400 and 401
+
+In this course we continue our study of Calculus.  More specifically we will study, abstract, and apply the idea of measuring area between two curves.  To group the content in a meaningful way, this course is split into five units:
+
+Unit 1 - We introduce Riemann sums as a tool to approximate area by summing up the area of rectangles.
+Unit 2 - We study the Fundamental Theorem of Calculus and related properties, which rely on "undoing" derivatives.
+Unit 3 - We study a variety of problem-solving techniques in order to apply the Fundamental Theorem of Calculus to more complex settings.
+Unit 4 - We explore various graphical applications.
+Unit 5 - We apply our techniques to solve real-world problems.
+
+We are very happy to have you in this course and look forward to working with you throughout the quarter! 
+
+Watch this video that gives an overview of your MTH 252 Canvas course:
+
+Course Learning Outcomes
+
+By the end of this course, you should be able to:
+
+Describe the definite integral as a limit of Riemann sums and illustrate and interpret definite integrals as areas and signed areas.
+Evaluate integrals using basic numerical integration rules.
+Apply the fundamental theorem of calculus to evaluate integrals and to differentiate integrals with respect to a limit of integration.
+Use integration to find areas and volumes of regions and calculate physical quantities such as total distance traveled, displacement, work, and volume.
+
+ 
+
+Jump to a Module
+
+Banner Art: Education illustrations by Storyset
+Links to an external site.

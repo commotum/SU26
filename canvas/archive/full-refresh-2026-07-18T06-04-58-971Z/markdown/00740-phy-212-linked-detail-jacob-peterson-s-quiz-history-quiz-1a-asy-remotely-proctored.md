@@ -1,0 +1,118 @@
+# Jacob Peterson's Quiz History: Quiz 1A_asy (Remotely Proctored)
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1
+- Captured: 2026-07-18T06:45:40.859Z
+- Canvas object: quiz 3160453
+- Redirected: no
+
+## Headings
+- H2: Quiz 1A_asy (Remotely Proctored) Results for Jacob Peterson
+
+## Visible Text
+Quiz 1A_asy (Remotely Proctored) Results for Jacob Peterson
+ Correct answers are hidden.
+Score for this quiz: 25 out of 35
+Submitted Jul 6 at 4:32pm
+This attempt took 30 minutes.
+ 
+Question 1
+5 / 5 pts
+If an object travels at a constant speed in a circular path, the acceleration of the object is
+  in the same direction as the velocity of the object. 
+  in the opposite direction of the velocity of the object. 
+  perpendicular to the velocity of the object. 
+ 
+Question 2
+5 / 5 pts
+
+A truck moves at constant speed at the bottom of a circular dip as shown. Which vector could depict the net force? 
+
+  A 
+  B 
+  C 
+  D 
+  E 
+  F 
+  G 
+  H 
+ 
+Question 3
+5 / 5 pts
+
+A circular loop of radius R spins as shown. A glass bead of mass m is free to slide on the loop and remains at an angle θ. Assume there is no friction anywhere in the system.
+
+ Which free-body diagram could accurately depict the bead?
+
+  A 
+  B 
+  C 
+  D 
+ 
+Question 4
+10 / 20 pts
+
+A key has tension T, moving as shown in the diagram.
+
+A. Draw a free-body diagram of the key using the r and t axes. Be sure to label all vectors and axes and keep vector lengths consistent.
+
+B. Find the magnitude of the total acceleration of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.
+
+C. Find the angular speed of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.
+
+Place your initials in the text box to indicate you have read the question.
+
+Upload your scan pdf to Quiz1A_asy_work in Gradescope within 5 minutes of exiting this quiz.
+
+ 
+
+Your Answer:
+
+JP
+
+Quiz Score: 25 out of 35
+
+## Links
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026063 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026063
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026066 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026066
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026070 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026070
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026072 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160453/questions/59026072
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Warning
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question 110816828 <span style="font-size: 14pt;">If an object travels at a constant speed in a circular path, the acceleration of the object is</span> If an object travels at a constant speed in a circular path, the acceleration of the object is 4717 in the same direction as the velocity of the object. in the same direction as the velocity of the object. exact_answer none 59026063 4717 margin of error +/- 9093 in the opposite direction of the velocity of the object. in the opposite direction of the velocity of the object. exact_answer none 59026063 9093 margin of error +/- 6045 perpendicular to the velocity of the object. perpendicular to the velocity of the object. exact_answer none 59026063 6045 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question <p><img src="/courses/2053526/files/118705751/preview" alt="truck moving left at the bottom of a dip"></p> <p><img src="/courses/2053526/files/118705737/preview" alt="assortment of vectors"></p> <p><span style="font-size: 14pt;">A truck moves at constant speed at the bottom of a circular dip as shown. Which vector could depict the net force?&nbsp;</span></p> A truck moves at constant speed at the bottom of a circular dip as shown. Which vector could depict the net force? 2925 A A exact_answer none 59026066 2925 margin of error +/- 5201 B B exact_answer none 59026066 5201 margin of error +/- 2598 C C exact_answer none 59026066 2598 margin of error +/- 8912 D D exact_answer none 59026066 8912 margin of error +/- 4283 E E exact_answer none 59026066 4283 margin of error +/- 8339 F F exact_answer none 59026066 8339 margin of error +/- 3179 G G exact_answer none 59026066 3179 margin of error +/- 6239 H H exact_answer none 59026066 6239 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question <p><img src="/courses/2053526/files/118705753/preview" alt="bead on spinning hoop"></p> <p><span style="font-size: 14pt;">A circular loop of radius R spins as shown. A glass bead of mass m is free to slide on the loop and remains at an angle θ. Assume there is no friction anywhere in the system.</span></p> <p><span style="font-size: 14pt;">&nbsp;Which free-body diagram could accurately depict the bead?</span></p> A circular loop of radius R spins as shown. A glass bead of mass m is free to slide on the loop and remains at an angle θ. Assume there is no friction anywhere in the system. Which free-body diagram could accurately depict the bead? 8492 A A exact_answer none 59026070 8492 margin of error +/- 4842 B B exact_answer none 59026070 4842 margin of error +/- 18 C C exact_answer none 59026070 18 margin of error +/- 3985 D D exact_answer none 59026070 3985 margin of error +/-
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 10 / 20 pts Edit this Question Delete this Question 0 essay_question <p><img src="/courses/2053526/files/118705953/preview" alt="key on a string"></p> <p><span style="font-size: 14pt;">A key has tension T, moving as shown in the diagram.</span></p> <p><span style="font-size: 14pt;">A. Draw a free-body diagram of the key using the r and t axes. Be sure to label all vectors and axes and keep vector lengths consistent.</span></p> <p><span style="font-size: 14pt;">B. Find the magnitude of the total acceleration of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.</span></p> <p><span style="font-size: 14pt;">C. Find the angular speed of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.</span></p> <p><span style="font-size: 14pt;">Place your initials in the text box to indicate you have read the question.</span></p> <p><span style="font-size: 14pt;">Upload your scan pdf to Quiz1A_asy_work in Gradescope within 5 minutes of exiting this quiz.</span></p> <p>&nbsp;</p> A key has tension T, moving as shown in the diagram. A. Draw a free-body diagram of the key using the r and t axes. Be sure to label all vectors and axes and keep vector lengths consistent. B. Find the magnitude of the total acceleration of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement. C. Find the angular speed of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement. Place your initials in the text box to indicate you have read the question. Upload your scan pdf to Quiz1A_asy_work in Gradescope within 5 minutes of exiting this quiz. Your Answer: JP
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question

@@ -1,0 +1,48 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: Find the indefinite integral
+            - generic: ∫
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: 𝑥
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: 𝑥
+            - generic: "3"
+            - generic: )
+            - img "the integral of the fraction with numerator d x and denominator x l n of open paren x cubed close paren, math"
+            - text: using the substitution
+            - generic: 𝑢
+            - generic: =
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: .
+            - img "u equals l n of x period, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: 𝑥
+          - generic: l
+          - generic: "n"
+          - generic: (
+          - generic: 𝑥
+          - generic: "3"
+          - generic: )
+          - generic: =
+          - img "the integral of the fraction with numerator d x and denominator x l n of open paren x cubed close paren equals, math"
+          - textbox
+      

@@ -1,0 +1,26 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the integral.
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the constant of integration. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as muсh as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: 𝑥
+          - generic: (
+          - generic: 𝑥
+          - generic: +
+          - generic: "4"
+          - generic: )
+          - generic: "5"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of x times open paren x plus 4 close paren to the fifth power d x equals, math"
+          - textbox
+      

@@ -1,0 +1,225 @@
+- document
+- link "Skip to main content":
+  - /url: "#main-content"
+- button "Back to My Course":
+- button "Go back":
+- heading "Assessment" [level=1]
+- strong: "Due:"
+- text: Mon, Jul 20
+- region "Main content":
+  - iframe:
+    - document
+    - main:
+      - heading "Question 1 of 9 - Achieve - 1.4 Integration Formulas and the Net Change Theorem" [level=2]
+      - navigation:
+        - button "Collapse assignment menu" [expanded]:
+          - text: Completed 0 of 9 Questions
+        - heading "Grading Settings" [level=4]
+        - button "Hide" [expanded]
+        - list:
+          - paragraph: Unlimited attempts per question.
+          - paragraph: No penalty for incorrect attempts.
+          - paragraph:
+            - text: Submit up to
+            - generic: 34 days late
+            - text: for a daily penalty of
+            - generic: 3%
+            - text: off the total score.
+          - paragraph: View solution explanations after completing each question.
+          - paragraph: Access to supplemental resources.
+          - paragraph: Access to AI Tutor assistance.
+        - navigation "Non-Sequential Question":
+          - list:
+            - button "Q1 Unlimited attempts":
+              - generic: Q1
+              - generic: Unlimited attempts
+            - button "Q2 Unlimited attempts":
+              - generic: Q2
+              - generic: Unlimited attempts
+            - button "Q3 Unlimited attempts":
+              - generic: Q3
+              - generic: Unlimited attempts
+            - button "Q4 Unlimited attempts":
+              - generic: Q4
+              - generic: Unlimited attempts
+            - button "Q5 Unlimited attempts":
+              - generic: Q5
+              - generic: Unlimited attempts
+            - button "Q6 Unlimited attempts":
+              - generic: Q6
+              - generic: Unlimited attempts
+            - button "Q7 Unlimited attempts":
+              - generic: Q7
+              - generic: Unlimited attempts
+            - button "Q8 Unlimited attempts":
+              - generic: Q8
+              - generic: Unlimited attempts
+            - button "Q9 Unlimited attempts":
+              - generic: Q9
+              - generic: Unlimited attempts
+      - navigation "Assignment Tools":
+        - heading "Assignment Tools" [level=2]
+        - 'generic "Assignment Score: 0 out of 900"':
+          - generic: "+0"
+          - text: pts
+          - generic: /900
+        - button "Switch to New Layout"
+        - button "Beta flag":
+          - generic: Beta
+        - list:
+          - button "Open AI Tutor":
+            - generic: AI Tutor
+            - button "Open in-app informational guide"
+        - button "Submit Answer"
+        - generic "Expand to Full Screen Mode":
+          - button "Full screen":
+      - generic "Sequential Question":
+        - button "previous question":
+        - heading "Question 1 of 9" [level=2]
+        - button "next question":
+      - generic "Question content":
+        - group "Ungraded Text":
+          - paragraph:
+            - text: An object in rectilinear motion is moving along a horizontal line with velocity
+            - generic: 𝑣
+            - generic: (
+            - generic: 𝑡
+            - generic: )
+            - generic: =
+            - generic: 𝑡
+            - generic: "3"
+            - generic: +
+            - generic: "2"
+            - generic: "9"
+            - generic: 𝑡
+            - generic: "2"
+            - generic: −
+            - generic: "3"
+            - generic: "0"
+            - generic: 𝑡
+            - generic: m
+            - generic: /
+            - generic: s
+            - img "v of t equals t cubed plus 29 t squared minus 30 t m slash s, math"
+            - text: over the interval
+            - generic: −
+            - generic: "1"
+            - generic: ≤
+            - generic: 𝑡
+            - generic: ≤
+            - generic: "3"
+            - img "negative 1 is less than or equal to t is less than or equal to 3, math"
+            - text: (in seconds).
+          - paragraph:
+            - text: Find the net displacement
+            - generic: 𝑙
+            - img "l, math"
+            - text: of the object.
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: 𝑙
+          - generic: =
+          - img "l equals, math"
+          - textbox
+          - generic: m
+          - img "m, math"
+        - group "Ungraded Text":
+          - paragraph:
+            - text: Find the total distance
+            - generic: 𝑠
+            - img "s, math"
+            - text: traveled by the object.
+          - paragraph: (Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: 𝑠
+          - generic: =
+          - img "s equals, math"
+          - textbox
+          - generic: m
+          - img "m, math"
+        - group "Multiple Select":
+          - group "Interpret the results in the context of the problem.":
+            - generic: Interpret the results in the context of the problem.
+            - checkbox "The object traveled a total distance of l, math meters from t equals negative 1, math to t equals 3, math seconds."
+            - text: The object traveled a total distance of
+            - generic: 𝑙
+            - img "l, math"
+            - text: meters from
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: to
+            - generic: 𝑡
+            - generic: =
+            - generic: "3"
+            - img "t equals 3, math"
+            - text: seconds.
+            - checkbox "After moving from t equals negative 1, math to t equals 3, math seconds, the object is s, math meters to the right of where it was at t equals negative 1, math seconds."
+            - text: After moving from
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: to
+            - generic: 𝑡
+            - generic: =
+            - generic: "3"
+            - img "t equals 3, math"
+            - text: seconds, the object is
+            - generic: 𝑠
+            - img "s, math"
+            - text: meters to the right of where it was at
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: seconds.
+            - checkbox "After moving from t equals negative 1, math to t equals 3, math seconds, the object is l, math meters to the right of where it was at t equals negative 1, math seconds."
+            - text: After moving from
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: to
+            - generic: 𝑡
+            - generic: =
+            - generic: "3"
+            - img "t equals 3, math"
+            - text: seconds, the object is
+            - generic: 𝑙
+            - img "l, math"
+            - text: meters to the right of where it was at
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: seconds.
+            - checkbox "The object traveled a total distance of s, math meters from t equals negative 1, math to t equals 3, math seconds."
+            - text: The object traveled a total distance of
+            - generic: 𝑠
+            - img "s, math"
+            - text: meters from
+            - generic: 𝑡
+            - generic: =
+            - generic: −
+            - generic: "1"
+            - img "t equals negative 1, math"
+            - text: to
+            - generic: 𝑡
+            - generic: =
+            - generic: "3"
+            - img "t equals 3, math"
+            - text: seconds.
+        - button "Scroll to Bottom"
+      - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

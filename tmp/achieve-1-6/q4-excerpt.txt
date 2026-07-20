@@ -1,0 +1,38 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the indefinite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: 𝑥
+            - generic: 𝑒
+            - generic: 𝑥
+            - generic: +
+            - generic: "1"
+            - generic: "2"
+            - generic: 𝑥
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral of the fraction with numerator x e to the x-th power plus 1 and denominator 2 x d x, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: 𝑥
+          - generic: 𝑒
+          - generic: 𝑥
+          - generic: +
+          - generic: "1"
+          - generic: "2"
+          - generic: 𝑥
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of the fraction with numerator x e to the x-th power plus 1 and denominator 2 x d x equals, math"
+          - textbox
+      

@@ -1,0 +1,40 @@
+
+            
+
+  
+
+
+
+    Module 2  — Overview
+  
+    
+
+Introduction
+This week we will make connections between Riemann sums and the definite integral, highlighting the difference between approximation versus exact.  Application problems using both tools will be considered.  Finally, we will introduce the Fundamental Theorems of Calculus, which will be an important springboard for future weeks.  
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Evaluate finite Riemann sums using the course Riemann sum Calculator (RSC).
+Make connections between the value of a Riemann sum and an associated application problem.
+Relate and convert between Riemann sums and definite integrals.
+Determine the error for a left, right, or midpoint approximation (Riemann sum) for a given number of rectangles.
+Use geometry to find the area under special types of curves.
+
+This module aligns with the following course learning outcomes: 1-4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-5)
+Complete the Achieve Assignment (MLOs 1-4)
+Submit the Written Homework (MLOs 2-5)
+Contribute to the Discussion Reflection (MLOs 1-4)
+
+    
+
+
+
+
+
+
+
+          

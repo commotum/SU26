@@ -1,0 +1,164 @@
+Hw 4 - Rotational Dynamics Results for Jacob Peterson
+ Correct answers will be available on Jul 22 at 12am.
+Score for this attempt: 22 out of 23
+Submitted Jul 17 at 9:26pm
+This attempt took 19 minutes.
+ 
+Question 1
+1 / 1 pts
+
+Two uniform solid cylinders, one having mass M radius R, the other mass 4M and radius R/2, are simultaneously released from rest at the top of a ramp of height h inclined at angle θ. Each cylinder rolls to the bottom without slipping against the ramp's surface.
+
+Which one reaches the bottom first?
+
+  the M and R one 
+  the 4M and R/2 one 
+  they both reach the bottom at the same time 
+ 
+Question 2
+2 / 2 pts
+
+Two uniform solid cylinders, one having mass M radius R, the other mass 4M and radius R/2, are simultaneously released from rest at the top of a ramp of height h inclined at angle θ. Each cylinder rolls to the bottom without slipping against the ramp's surface.
+
+How much time does it take for the mass 4M and radius R/2 cylinder to reach the bottom?
+
+  √h2gsinθ
+  √hgcosθ
+  √10hgsinθcosθ
+  √3hgsin2θ
+ 
+Question 3
+2 / 2 pts
+
+Two uniform solid cylinders, one having mass M radius R, the other mass 4M and radius R/2, are simultaneously released from rest at the top of a ramp of height h inclined at angle θ. Each cylinder rolls to the bottom without slipping against the ramp's surface.
+
+With what speed does the 4M and R/2 cylinder reach the bottom?
+
+  √2ghcosθ
+  √ghcosθ4
+  √4gh3
+  √5ghsinθ2
+ 
+Question 4
+2 / 2 pts
+
+Two uniform solid cylinders, one having mass M radius R, the other mass 4M and radius R/2, are simultaneously released from rest at the top of a ramp of height h inclined at angle θ. Each cylinder rolls to the bottom without slipping against the ramp's surface.
+
+What is the total kinetic energy of the 4M and R/2 cylinder at the instant it reaches the bottom?
+
+  Mghsinθ
+  4MgRcosθ
+  4Mgh
+  2MgRsinθ
+ 
+Question 5
+3 / 3 pts
+
+A yo-yo has mass M, inner axle radius R/4, and outer radius R. A massless string wrapped around the yo-yo's axle is pulled to the right by a force of magnitude T (shown below).
+
+Assuming the string does not slip against the axle, there is negligible rolling friction, and that the yo-yo rolls without slipping, find the magnitude of the acceleration of its center of mass. Treat it as a uniform cylinder of mass M and radius R.
+
+Hint: Draw an extended free-body diagram for the yo-yo and then apply both the translational and rotational forms of Newton's second law. Connect the resulting equations using the rolling without slipping constraint.
+
+  5T6M
+  TM
+  7T6M
+  8T3M
+ 
+Question 6
+1 / 1 pts
+
+As shown in the figure below, a uniform sphere of mass m/2 and radius r is placed with its center of mass directly above the end of a thin, uniform rod of mass m and length L.
+
+What should the distance d be so that the system is in static equilibrium?
+
+  2L/5
+  L/3
+  L/4
+ 
+Question 7
+1 / 1 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+Which of the following is a true statement?
+
+  After the collision, the ball + rod system will not rotate 
+  After the collision, the ball + rod system will rotate about an axis passing through the rod's center of mass 
+  After the collision, the ball + rod system will rotate about an axis passing through the ball + rod system's center of mass 
+ 
+Partial
+Question 8
+1 / 2 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+Which of the following quantities below are the same before and after the collision (i.e. conserved)?
+
+  Center of mass momentum of the ball 
+  Center of mass momentum of the rod + ball system 
+  Angular momentum of the rod about its center of mass 
+  Angular momentum of the rod + ball system about the center of mass of the rod + ball system 
+  Angular momentum of the rod + ball system about the center of mass of the rod 
+  Total kinetic energy of the rod + ball system 
+ 
+Question 9
+2 / 2 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a uniform ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+What is the moment of inertia of the ball + rod system about an axis perpendicular to the rod's long axis and passing through its center?
+
+Hint: Do not treat the ball as a point mass. Recall that the moment of inertia of a uniform sphere (mass M, radius R) about its center of mass is 25MR2.
+
+ 
+
+  524mL2+710mr2
+  125mL2+27mr2
+ 
+Question 10
+2 / 2 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+How far from the center of the rod is the center of mass of the combined ball + rod system/object? (Neglect the third "z" dimension of their centers of mass; you can just assume they are aligned at the same z-value. In other words, just work within the 2-dimensional, "xy" plane of the figure below.)
+
+  √(L6)2+(r3)2
+  √(2L5)2+(2r)2
+ 
+Question 11
+2 / 2 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a uniform ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+What is the moment of inertia of the ball + rod system about the axis for which the ball + rod system rotates after the collision?
+
+Hint: Use the parallel-axis theorem and your answers to the previous two questions.
+
+  16mL2+815mr2
+  116mL2+23mr2
+ 
+Question 12
+2 / 2 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a uniform ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+Given the figure below, assume a traditional right-handed xyz coordinate system (+x to the right, +y upwards, and +z out of the screen) with the origin placed at the center of mass of the ball + rod system.
+
+After the collision, what is the angular momentum of the ball + rod system about this origin?
+
+  −16mrvˆz
+  16mLvˆz
+ 
+Question 13
+1 / 1 pts
+
+A thin, uniform rod of mass m and length L sits at rest in outer space when a uniform ball (not spinning) of mass m/2 and radius r strikes one end of the rod with speed v and sticks to it.
+
+Let the magnitude of your answer to the previous question be L0 and your answer to the question before that be I0.
+
+What is the angular speed of the ball + rod system about the system's rotation axis after the collision?
+
+  L03I0
+  L0I0
+Quiz Score: 22 out of 23

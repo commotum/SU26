@@ -1,0 +1,58 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Multiple Select":
+          - group "Select the true statements about the substitution method.":
+            - generic: Select the true statements about the substitution method.
+            - checkbox "It may only be used to evaluate definite integrals."
+            - generic: It may only be used to evaluate definite integrals.
+            - checkbox "It utilizes the formula the integral of f of u of x u prime of x d x equals the integral of f of u d u period, math"
+            - text: It utilizes the formula
+            - generic: ∫
+            - generic: 𝑓
+            - generic: (
+            - generic: 𝑢
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: )
+            - generic: 𝑢
+            - generic: ′
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - generic: ∫
+            - generic: 𝑓
+            - generic: (
+            - generic: 𝑢
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑢
+            - generic: .
+            - img "the integral of f of u of x u prime of x d x equals the integral of f of u d u period, math"
+            - checkbox "It is based on the power rule for derivatives."
+            - generic: It is based on the power rule for derivatives.
+            - checkbox "It is useful to solve the integral the integral of 3 x squared the square root of x cubed plus 2 d x period, math"
+            - text: It is useful to solve the integral
+            - generic: ∫
+            - generic: "3"
+            - generic: 𝑥
+            - generic: "2"
+            - generic: √
+            - generic: 𝑥
+            - generic: "3"
+            - generic: +
+            - generic: "2"
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: .
+            - img "the integral of 3 x squared the square root of x cubed plus 2 d x period, math"
+            - checkbox "It is based on the chain rule for derivatives."
+            - generic: It is based on the chain rule for derivatives.
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

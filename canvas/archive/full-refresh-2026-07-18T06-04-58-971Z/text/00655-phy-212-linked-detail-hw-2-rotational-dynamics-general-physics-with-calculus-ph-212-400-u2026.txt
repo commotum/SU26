@@ -1,0 +1,226 @@
+Hw 2 - Rotational Dynamics 
+Due Jul 3 at 11:59pm Points 20 Questions 13 Available Jun 27 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 4
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; .
+
+Take the Quiz Again
+Score for this attempt: 20 out of 20
+Submitted Jul 5 at 11:25pm
+This attempt took 18 minutes.
+ 
+Question 1
+1 / 1 pts
+
+The figures below show a bob of mass  attached to a light string of length  which traverses a circular trajectory at constant speed when viewed from above/below.
+
+The string makes an angle  with the horizontal and the period of the circular motion is  (constant).
+
+Is the bob undergoing uniform circular motion?
+
+Choose the correct answer with the best explanation.
+
+  Yes, because the bob moves in a circular path at a constant speed 
+  Not necessarily because it depends on if the tension in the string is constant 
+  No, because even with a constant period, the bob experiences changing radial and tangential accelerations 
+  Yes, because the bob moves in a circular path with a constant period 
+ 
+Question 2
+1 / 1 pts
+
+The figures below show a bob of mass  attached to a light string of length  which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle  with the horizontal and the period of the circular motion is  (constant).
+
+What is the radius of the circular trajectory?
+
+  
+  
+  
+  
+ 
+Question 3
+1 / 1 pts
+
+The figures below show a bob of mass  attached to a light string of length  which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle  with the horizontal and the period of the circular motion is  (constant).
+
+What is the magnitude of the object's centripetal force?
+
+  
+  
+  
+  
+  
+ 
+Question 4
+1 / 1 pts
+
+The figures below show a bob of mass  attached to a light string of length  which traverses a circular trajectory when viewed from above/below.
+
+The string makes an angle  with the horizontal and the period of the circular motion is  (constant).
+
+Given the side-view of the "filled" (i.e. not dashed) bob below in Figure 2, where does the net force on the bob point?
+
+  Directly to the left 
+  Directly to the right 
+  Along the string, toward the ceiling 
+  Not listed 
+ 
+Question 5
+3 / 3 pts
+
+The figures below show a bob of mass  attached to a light string of length  which undergoes uniform circular motion.
+
+The string makes an angle  with the horizontal and the period of the circular motion is .
+
+What is  in terms of the other given variables? (Remember that "" is always considered given unless otherwise stated!)
+
+Hint: Make a free-body diagram of the "filled" bob in the side-view and write the  &  component equations for the radial and vertical directions. Simplify these as much as possible and use the resulting equations to solve for .
+
+  
+  
+  
+  
+  
+  
+ 
+Question 6
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass  traversing a circular track banked at angle  from the horizontal with constant speed .
+
+The track has radius  and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. , then this is the direction in which it will point).
+
+If the -axis points vertically upwards, which of the following gives the equation for the net force along the  direction?
+
+Take  to be the magnitude of the normal force on the car and  the magnitude of the frictional force.
+
+  
+  
+  
+  
+ 
+Question 7
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass  traversing a circular track banked at angle  from the horizontal with constant speed .
+
+The track has radius  and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. , then this is the direction in which it will point).
+
+Which of the following options is the correct equation for the component of the net force along the centripetal  direction (i.e. pointing radially inward toward the circle's center)?
+
+Take  to be the magnitude of the normal force on the car and  the magnitude of the frictional force.
+
+  
+  
+  
+  
+ 
+Question 8
+1 / 1 pts
+
+The figure below shows an F1 sports car of mass  traversing a circular track banked at angle  from the horizontal with constant speed .
+
+The track has radius  and there is friction between the tires and the track.
+
+Assume the friction points up the track in the side-view (we know that if the car is parked, i.e. , then this is the direction in which it will point).
+
+What is the magnitude of the static frictional force on the car?
+
+  
+  
+  
+  
+ 
+Question 9
+2 / 2 pts
+
+The figure below shows an F1 sports car of mass  traversing a circular track banked at angle  from the horizontal with constant speed .
+
+The track has radius  and there is (static) friction between the tires and the track.
+
+Which of the following are true statements regarding this scenario?
+
+  The direction of the static friction force acting on the car depends on 
+  The magnitude of the static friction force acting on the car depends on 
+  There is a maximum speed which the car can go, above which it cannot maintain the circular trajectory of radius  and will slide along the ramp/incline
+  In the side view, the acceleration of the car points directly to the left 
+  In the side view, the acceleration of the car points down the ramp/incline 
+  If  then there will be no static friction on the car as it traverses the racetrack
+ 
+Question 10
+1 / 1 pts
+
+Skateboarder Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop). Neglect rolling friction.
+
+Which of the following statements are true regarding Hony's motion?
+
+  There exists a minimum speed which Hony needs to be going when entering the loop-the-loop in order to complete it 
+  At the minimum speed, the normal force on Hony goes to zero at the top of the loop 
+  Hony undergoes uniform circular motion while completing the loop-the-loop 
+  The centripetal force on Hony is constant while completing the loop-the-loop 
+  The mechanical energy (i.e. kinetic + potential) of Hony is (approximately) conserved 
+ 
+Question 11
+3 / 3 pts
+
+Hony Tawk completes a circular loop-the-loop (i.e. never leaves contact with the loop) of radius .
+
+What's the minimum speed required for Hony Tawk to enter the loop-the-loop with in order to complete it? Ignore rolling friction.
+
+Hint: Make a free-body diagram for Hony when at the top of the loop-the-loop and consider your answers to the previous question.
+
+  
+  
+  
+  
+ 
+Question 12
+1 / 1 pts
+
+Starting from rest, a penguin lying slides down the right side of a spherical igloo of radius .
+
+Neglecting friction, the penguin will slide off and at some angle  from the vertical eventually lose contact with the igloo.
+
+Which of the following is true about the penguin the instant before losing contact with the igloo?
+
+  The normal force on the penguin from the igloo is negligible/zero 
+  The centripetal force on the penguin is negligible/zero 
+  The penguin's acceleration was directed tangentially to the igloo's surface
+  Prior to this instant, the penguin had been undergoing uniform circular motion 
+ 
+Question 13
+3 / 3 pts
+
+A penguin lying on its belly slides down the right side of a spherical igloo, starting from rest.
+
+Neglecting friction, the penguin will slide off and, at some angle  from the vertical, eventually lose contact with the igloo.
+
+To two significant figures, what is this critical angle ?
+
+Hint: First draw a free-body diagram for the penguin. Then use this to find the equation for the component of the net force along the radial direction and simplify as much as possible. Also notice that the mechanical energy of the penguin is conserved since friction is negligible.
+
+  
+  
+  
+  
+  
+Quiz Score: 20 out of 20

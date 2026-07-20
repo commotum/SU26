@@ -1,0 +1,19 @@
+M2-1pre 
+Due Jul 2 by 10am Points 3 Submitting an external tool Attempts 0 Allowed Attempts 1 Available Jun 27 at 10am - Aug 14 at 10am
+
+                     
+
+Block 1 with mass m is at the origin. Block 2 with mass 1.8 m is a distance d to the right along the x-axis.  What is the location on the x-axis of the center of mass of the system?
+
+Solve symbolically, showing your work in your own handwriting on paper,  Do not use lined or graph paper.
+
+Take a picture of your work and convert it to a scan using the scanning software. Save your work as a pdf and upload to Gradescope.
+
+Your submission will be graded on the correctness of the solution and quality of your scan.
+
+For help in scanning, please see the Scanning Resources document.
+
+You have one attempt for this submission.
+
+This tool needs to be loaded in a new browser window
+Load M2-1pre in a new window

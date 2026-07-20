@@ -1,0 +1,77 @@
+
+            
+
+  
+
+
+
+    Module 8 — Learning Materials and Practice Activities  🕓 3 - 5 hours
+  
+    
+
+Intro
+Graphical application problems require careful attention to the details given in the hypothesis and a solid understanding of graphs. As we continue studying volumes and areas, practicing a variety of problems is optimal for building and strengthening your intuition about these various problem types. Below is content material and problems that will help you achieve your goals.
+Readings
+Read the following section from your textbook, OpenStax College. (2016). Calculus, Volume 2:Links to an external site.
+
+Section 2.3 – 154-165
+Section 2.4 – 169-173 - skipping surface area
+
+Riemann Sum Calculator (RSC)
+Instructions:
+
+Go to the Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.
+Input the relevant integrand function, adjust bounds, input the number of rectangles, and select your sum type.
+Slide to the number of rectangles desired.
+
+Videos
+These YouTube videos are useful resources to review the definitions needed to identify and compute the rectangular areas for our approximations. 
+OpenStax 2.3: Volume of Revolution: Cylindrical Shells (Shell Method)
+
+Volume of Revolution – Shell Method about x = 0 (the y-axis)Links to an external site. (7:40)
+
+Interactive (notice difference from disk method): https://www.geogebra.org/m/m2jphatdLinks to an external site.
+Interactive: https://www.geogebra.org/m/v7ymgg9xLinks to an external site.
+
+
+Shell Method about x = 0 - Example 1Links to an external site. (7:48)
+Shell Method about x = 0 - Example 2Links to an external site. (4:09)
+Shell Method about x = 4 – Example 3Links to an external site. (5:52)
+Shell Method about the y = 0 (the x-axis)Links to an external site. (8:50)
+Shell Method about y = 1 – Example 1Links to an external site. (11:22)
+
+OpenStax 2.4: Arc Length of a Curve (Skipping Surface Area)
+
+Introduction to Arc Length – Part 1Links to an external site. (7:07)
+
+Interactive: https://www.geogebra.org/m/AQdFBK5NLinks to an external site.
+
+
+Finding Arc Length of Linear FunctionLinks to an external site. (4:03)
+Finding Arc Length of a Radical FunctionLinks to an external site. (6:27)
+Finding Arc Length of a Quadratic Function (using integral table)Links to an external site. (7:25)
+
+Practice Activities
+Do the following practice problems from your textbook, OpenStax College. (2016). Calculus, Volume 2.Links to an external site. Odd problems have the answer in the online book.
+OpenStax 2.3: Volume of Revolution: Cylindrical Shells (Shell Method)
+
+Section 2.3: Example 2.12 – Shell Method. Try the problem using your notes. Then expand to see full solution.
+Section 2.3: Example 2.14 – Shell Method Around x-axis. Try the problem using your notes. Then expand to see full solution.
+Section 2.3: Example 2.15 – Shell Method Around Non-Coordinate Axis, x=-1. Try the problem using your notes. Then expand to see full solution.
+Section 2.3: 124, 233, 134, 141, 144, 148
+
+OpenStax 2.4: Arc Length of a Curve (Skipping Surface Area)
+
+Section 2.4: Example 2.18 – Arc Length. Try the problem using your notes. Then expand to see full solution.
+Section 2.4: Example 2.19 – Arc Length, use Riemann Sum Calculator. Try the problem using your notes. Then expand to see full solution.
+Section 2.4: Example 2.20 – Arc Length respect to y. Try the problem using your notes. Then expand to see full solution.
+Section 2.4: 177, 181, 182
+
+
+
+
+
+
+
+
+          

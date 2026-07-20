@@ -1,0 +1,39 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the definite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: "3"
+            - generic: "1"
+            - generic: 𝑒
+            - generic: "4"
+            - generic: 𝑥
+            - generic: 𝑒
+            - generic: "4"
+            - generic: 𝑥
+            - generic: −
+            - generic: "1"
+            - generic: "0"
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from 1 to 3 of the fraction with numerator e raised to the 4 x power and denominator e raised to the 4 x power minus 10 d x, math"
+          - paragraph: (Give an exact answer. Use symbolic notation and fractions where needed.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "3"
+          - generic: "1"
+          - generic: 𝑒
+          - generic: "4"
+          - generic: 𝑥
+          - generic: 𝑒
+          - generic: "4"
+          - generic: 𝑥
+          - generic: −
+          - generic: "1"
+          - generic: "0"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from 1 to 3 of the fraction with numerator e raised to the 4 x power and denominator e raised to the 4 x power minus 10 d x equals, math"
+          - textbox
+      

@@ -1,0 +1,40 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Evaluate the definite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: l
+            - generic: "n"
+            - generic: (
+            - generic: "6"
+            - generic: )
+            - generic: "1"
+            - generic: 𝑒
+            - generic: "2"
+            - generic: 𝑥
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from 1 to l n of 6 of e raised to the 2 x power d x, math"
+          - paragraph: Leave your answer in exact form.
+        - group "Math Equation":
+          - generic: ∫
+          - generic: l
+          - generic: "n"
+          - generic: (
+          - generic: "6"
+          - generic: )
+          - generic: "1"
+          - generic: 𝑒
+          - generic: "2"
+          - generic: 𝑥
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from 1 to l n of 6 of e raised to the 2 x power d x equals, math"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

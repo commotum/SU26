@@ -1,0 +1,60 @@
+
+            
+
+  
+
+
+
+    Simple Pendulum Instructions
+  
+    In this experiment, you will investigate damping in a simple pendulum by recording its motion and analyzing the resulting data using Vernier Video Analysis. A simple pendulum consists of a mass suspended from a string that oscillates back and forth under the influence of gravity. You will record a video of the pendulum’s motion and use video analysis software to track its angular displacement (or horizontal position) as a function of time. From this data, you will determine how the amplitude changes during successive oscillations and extract the damping constant by analyzing the decay of the motion.
+ 
+Build the setup
+
+Build a simple pendulum in the same way as in Labs 3 and 4. Note: the string length must be at least 0.7 m (2 ft) to minimize noticeable precession (i.e., rotation of the plane of oscillation).
+Pull the pendulum to the side by a small angle (~10°) and release it.
+Record a video of the motion from the front. Please note the following requirements:
+
+Camera stability: Place your camera or phone on a stable surface or stand. Holding the camera by hand will introduce significant measurement errors.
+Camera alignment: The camera must be perpendicular to the plane of motion of the pendulum to avoid perspective distortion. This is critical for accurate video analysis.
+Recording duration: Approximately 1 minute and above is recommended. You do not need to wait for the pendulum to come completely to rest.
+Frame rate: A frame rate of 30 fps or 60 fps is sufficient. 
+
+
+
+ 
+Video Preparation in Vernier Video Analysis
+
+Access Vernier Video Analysis: Address: https://videoanalysis.app/Links to an external site.. (License key: f1t7gMi5z) 
+Click Import Video and load your recording.
+Set the scale: On the left sidebar, click System → Scale. Set the two ends of the scale bar to the two ends of the string, then enter the string length (in meters) in the input box at the top
+Set the origin: On the left sidebar, click System → Origin and move the origin of the coordinate system to the pivot point of the pendulum. Play the entire video to check whether the pivot point remains aligned with the origin. If the pivot point shifts in later frames, you will need to retake the video and ensure the camera set up is stable.
+Switch to the polar system: While in the origin setup interface, click the POLAR button at the top to switch from the Cartesian coordinate system to the polar coordinate system. You should see additional columns, including θ (rad), appear in the data table.
+Set the axis orientation: The positive x-direction should point directly downward and pass through the rest position of the pendulum. Drag the x circle on the x-axis to adjust its orientation. Play the video to ensure the pendulum oscillates about the x-axis.
+
+ 
+Analyze the video
+The instructions below show the process of manual tracking only. Autotracking requires high-quality recordings with a clear view of the pendulum mass at all times. Please use with caution.
+
+Start tracking: Click the Add button in the top-left corner.
+Play the video until the pendulum reaches its first maximum displacement on the right. Use the step forward/backward buttons at the bottom to locate the exact frame.
+Click on the mass of the pendulum to mark its position. A data entry will appear in the data table on the right, and a data point will appear on the plot.
+Continue playing the video until the pendulum reaches its maximum displacement on the right again. Use the step forward/backward buttons to locate the exact frame, as before.
+Click on the mass of the pendulum to mark its position.
+Repeat this process for the entire video. If you anticipate many data points, you can choose to repeat this process every two periods instead. You can save your project locally using the top-left button. Use the “TRAILS” button on the left to turn on/off the visibility of the dots.
+At the upper left, click the menu icon and select Export...CSV to download the data table. Alternatively, copy and paste the data table in the bottom-right corner into an Excel file and proceed to data processing.
+
+ 
+Data processing in Excel
+
+In Excel, choose File → Import → CSV and select your data table, or just copy the Time (s) and θ (rad) columns into an empty sheet.
+Extract the damping factor: Select both the time column and the amplitude column, then click Insert → Scatter Plot. You should observe a decaying exponential trend over time in the data. Right-click on the data points and select Add Trendline. In the side panel, choose Exponential and check both “Display Equation on chart” and “Display R-squared value on chart”. The damping factor is the coefficient multiplying the variable t in the fitted equation.
+
+ 
+
+
+
+
+
+
+          

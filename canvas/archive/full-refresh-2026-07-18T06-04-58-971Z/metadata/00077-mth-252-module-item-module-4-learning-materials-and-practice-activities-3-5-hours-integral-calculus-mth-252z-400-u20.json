@@ -1,0 +1,1039 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 4 — Learning Materials and Practice Activities 🕓 3 - 5 hours"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Intro"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Riemann Sum Calculator (RSC)"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Videos"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Practice Activities"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 15,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 16,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 17,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 18,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 19,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 20,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 21,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 22,
+      "text": "Previous Next"
+    },
+    {
+      "index": 23,
+      "text": "Previous"
+    },
+    {
+      "index": 24,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857",
+      "title": "",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 4 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 26,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 27,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/ge30297b0748bf4487a1dfbfc596dcc93?wrap=1",
+      "index": 28,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/ge30297b0748bf4487a1dfbfc596dcc93?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture 1.4 - 1.6.pdf",
+      "title": "Lecture 1.4 - 1.6.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc3c6b79863a061929a4071806eda7241?wrap=1",
+      "index": 29,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/gc3c6b79863a061929a4071806eda7241?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture-1.3-to-ME2 pages 1 - 10.pdf",
+      "title": "Lecture-1.3-to-ME2 pages 1 - 10.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/g9ca04ab1991259a305542a037d6078d1?wrap=1",
+      "index": 30,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/g9ca04ab1991259a305542a037d6078d1?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture-1.3-to-ME2 pages 14 - 19.pdf",
+      "title": "Lecture-1.3-to-ME2 pages 14 - 19.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/GOjde4xOarw",
+      "index": 31,
+      "raw_href": "https://youtu.be/GOjde4xOarw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Change Theorem IntroductionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/df1Qr8pepx0?si=yRHvRo0GSC9NEbu6",
+      "index": 32,
+      "raw_href": "https://youtu.be/df1Qr8pepx0?si=yRHvRo0GSC9NEbu6",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Change with Velocity: Displacement & Total DistanceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/mlwUw4gaBuM",
+      "index": 33,
+      "raw_href": "https://youtu.be/mlwUw4gaBuM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Displacement and Total Distance ExampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/HLYafwRnYyk",
+      "index": 34,
+      "raw_href": "https://youtu.be/HLYafwRnYyk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Displacement at Time tLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/gxcZ80pWOx0",
+      "index": 35,
+      "raw_href": "https://youtu.be/gxcZ80pWOx0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration of Odd and Even FunctionsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/MKM_E81rFII",
+      "index": 36,
+      "raw_href": "https://youtu.be/MKM_E81rFII",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite Integrals of Odd FunctionsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/568hUU4beuk",
+      "index": 37,
+      "raw_href": "https://youtu.be/568hUU4beuk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with Indefinite Integrals IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/hjr27pv8pHQ",
+      "index": 38,
+      "raw_href": "https://youtu.be/hjr27pv8pHQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with Definite Integrals IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jUwNl_PDeDY",
+      "index": 39,
+      "raw_href": "https://youtu.be/jUwNl_PDeDY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution – Definite Integral Changing BoundsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sdYdnpYn-1o",
+      "index": 40,
+      "raw_href": "https://youtu.be/sdYdnpYn-1o",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution – Examples and Back SubstitutionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/kQqcFtxFjPA",
+      "index": 41,
+      "raw_href": "https://youtu.be/kQqcFtxFjPA",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with radicalsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/902ta0Kshoc",
+      "index": 42,
+      "raw_href": "https://youtu.be/902ta0Kshoc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with LogarithmsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/CVfe5vNy4y4",
+      "index": 43,
+      "raw_href": "https://youtu.be/CVfe5vNy4y4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution Example with TrigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/y7S3HZpzURc",
+      "index": 44,
+      "raw_href": "https://youtu.be/y7S3HZpzURc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Polynomial, Exponential, and QuotientLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ttQSupFIh4s",
+      "index": 45,
+      "raw_href": "https://youtu.be/ttQSupFIh4s",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Exponential and LogarithmLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/D9dqdbCgJQM",
+      "index": 46,
+      "raw_href": "https://youtu.be/D9dqdbCgJQM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Examples of Integrals with ExponentialsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jr2hzPLpaHw",
+      "index": 47,
+      "raw_href": "https://youtu.be/jr2hzPLpaHw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Exponentials and Logarithms (Substitution)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/LRYX9E7zzsw",
+      "index": 48,
+      "raw_href": "https://youtu.be/LRYX9E7zzsw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integral Resulting in LogarithmsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ZL3rzP04cGQ",
+      "index": 49,
+      "raw_href": "https://youtu.be/ZL3rzP04cGQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integral Application of Natural LogLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 50,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982572",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982572",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982574",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982574",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 0,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 1,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/ge30297b0748bf4487a1dfbfc596dcc93?wrap=1",
+      "index": 2,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/ge30297b0748bf4487a1dfbfc596dcc93?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture 1.4 - 1.6.pdf",
+      "title": "Lecture 1.4 - 1.6.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/gc3c6b79863a061929a4071806eda7241?wrap=1",
+      "index": 3,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/gc3c6b79863a061929a4071806eda7241?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture-1.3-to-ME2 pages 1 - 10.pdf",
+      "title": "Lecture-1.3-to-ME2 pages 1 - 10.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/$CANVAS_COURSE_REFERENCE$/file_ref/g9ca04ab1991259a305542a037d6078d1?wrap=1",
+      "index": 4,
+      "raw_href": "$CANVAS_COURSE_REFERENCE$/file_ref/g9ca04ab1991259a305542a037d6078d1?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Lecture-1.3-to-ME2 pages 14 - 19.pdf",
+      "title": "Lecture-1.3-to-ME2 pages 14 - 19.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/GOjde4xOarw",
+      "index": 5,
+      "raw_href": "https://youtu.be/GOjde4xOarw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Change Theorem IntroductionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/df1Qr8pepx0?si=yRHvRo0GSC9NEbu6",
+      "index": 6,
+      "raw_href": "https://youtu.be/df1Qr8pepx0?si=yRHvRo0GSC9NEbu6",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Change with Velocity: Displacement & Total DistanceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/mlwUw4gaBuM",
+      "index": 7,
+      "raw_href": "https://youtu.be/mlwUw4gaBuM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Displacement and Total Distance ExampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/HLYafwRnYyk",
+      "index": 8,
+      "raw_href": "https://youtu.be/HLYafwRnYyk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Net Displacement at Time tLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/gxcZ80pWOx0",
+      "index": 9,
+      "raw_href": "https://youtu.be/gxcZ80pWOx0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration of Odd and Even FunctionsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/MKM_E81rFII",
+      "index": 10,
+      "raw_href": "https://youtu.be/MKM_E81rFII",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite Integrals of Odd FunctionsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/568hUU4beuk",
+      "index": 11,
+      "raw_href": "https://youtu.be/568hUU4beuk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with Indefinite Integrals IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/hjr27pv8pHQ",
+      "index": 12,
+      "raw_href": "https://youtu.be/hjr27pv8pHQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with Definite Integrals IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jUwNl_PDeDY",
+      "index": 13,
+      "raw_href": "https://youtu.be/jUwNl_PDeDY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution – Definite Integral Changing BoundsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/sdYdnpYn-1o",
+      "index": 14,
+      "raw_href": "https://youtu.be/sdYdnpYn-1o",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution – Examples and Back SubstitutionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/kQqcFtxFjPA",
+      "index": 15,
+      "raw_href": "https://youtu.be/kQqcFtxFjPA",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with radicalsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/902ta0Kshoc",
+      "index": 16,
+      "raw_href": "https://youtu.be/902ta0Kshoc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution with LogarithmsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/CVfe5vNy4y4",
+      "index": 17,
+      "raw_href": "https://youtu.be/CVfe5vNy4y4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Substitution Example with TrigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/y7S3HZpzURc",
+      "index": 18,
+      "raw_href": "https://youtu.be/y7S3HZpzURc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Polynomial, Exponential, and QuotientLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ttQSupFIh4s",
+      "index": 19,
+      "raw_href": "https://youtu.be/ttQSupFIh4s",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Exponential and LogarithmLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/D9dqdbCgJQM",
+      "index": 20,
+      "raw_href": "https://youtu.be/D9dqdbCgJQM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Examples of Integrals with ExponentialsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jr2hzPLpaHw",
+      "index": 21,
+      "raw_href": "https://youtu.be/jr2hzPLpaHw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integration Involving Exponentials and Logarithms (Substitution)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/LRYX9E7zzsw",
+      "index": 22,
+      "raw_href": "https://youtu.be/LRYX9E7zzsw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integral Resulting in LogarithmsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ZL3rzP04cGQ",
+      "index": 23,
+      "raw_href": "https://youtu.be/ZL3rzP04cGQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Integral Application of Natural LogLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 24,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982572",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982572",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982574",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982574",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982573",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/module-4-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982573",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 4 — Learning Materials and Practice Activities 🕓 3 - 5 hours: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00077-mth-252-module-item-module-4-learning-materials-and-practice-activities-3-5-hours-integral-calculus-mth-252z-400-u20",
+  "captured_at": "2026-07-18T06:10:38.779Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Module 4 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-4-learning-materials-and-practice-activities-3-5-hours-2",
+  "html_sha256": "6620862711c71b491989fdddad2dd7fc428fb173d6546240518401a5ae26a07f",
+  "text_sha256": "3b844be737d5681323da223b776725682e18a36fac5f90bdee676dae0165dd4f",
+  "requires_external_handler": false
+}

@@ -1,0 +1,10 @@
+Lab 1 Report 
+Due Jun 27 by 11:59pm Points 20 Submitting an external tool Available Jun 21 at 12am - Aug 15 at 11:59pm
+Submit Your Lab Report (Individual Submission for This Week)
+
+For this first lab, you will submit your work individually. Group lab reports will begin in future weeks once groups have been fully formed. This week, each student is responsible for completing their own responses and uploading their report to Gradescope. Upload your responses to the Gradescope assignment for this lab.
+
+If you experience technical issues or are unsure about the submission process, contact your TA as soon as possible. Group lab report submissions and shared file uploads will begin next week.
+
+This tool needs to be loaded in a new browser window
+Load Lab 1 Report in a new window

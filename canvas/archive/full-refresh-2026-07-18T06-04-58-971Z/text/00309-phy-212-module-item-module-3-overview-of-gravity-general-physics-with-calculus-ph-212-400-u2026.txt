@@ -1,0 +1,36 @@
+Module 3 | Overview of Gravity
+
+ 
+
+Introduction
+
+For this module, we will focus on gravitation where the system has sufficient spatial extent that the acceleration due to gravity cannot be considered constant.
+
+Weekly Learning Outcomes
+
+After successful completion of this week, you will be able to: 
+
+determine whether or not the change in the acceleration due to gravity is negligible for the system
+define gravitational force for an extended system
+define and use Kepler's three laws concerning orbital motion
+define and use Newton's law of gravity
+determine the potential energy of a system of gravitationally coupled objects
+analyze the behavior of orbiting satellites
+analyze the behavior of a system of gravitating objects
+synthesize infomation about a gravitationally coupled system based on an energy diagram
+analyze the motion of a geostationary satellite
+Task List
+
+In order to achieve these learning outcomes, please make sure to complete the following:
+
+Study the readings and lectures: Module 3 | Gravity | Learning Materials
+Complete all of the required activities: Module 3 | Gravity | Required Activities
+Complete the online homework
+Complete all pre-lecture and participation assignments
+Complete all lab assignments
+Complete all quiz assignments
+
+ 
+
+Previous
+Next

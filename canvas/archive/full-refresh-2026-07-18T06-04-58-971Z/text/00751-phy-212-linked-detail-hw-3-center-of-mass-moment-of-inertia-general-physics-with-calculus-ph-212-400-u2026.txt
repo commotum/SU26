@@ -1,0 +1,149 @@
+Hw 3 - Center of Mass & Moment of Inertia
+Due Jul 12 at 11:59pm Points 12 Questions 10 Available Jul 4 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 4
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; .
+
+Take the Quiz Again
+ Correct answers will be available on Jul 19 at 12am.
+Score for this attempt: 12 out of 12
+Submitted Jul 17 at 9:23pm
+This attempt took 35 minutes.
+ 
+Question 1
+2 / 2 pts
+Which of the following statements are true regarding the meaning of ?
+  The variable  represents the shortest (perpendicular) distance from the axis of rotation to the position of the infinitesimal mass element .
+  The value of the integral (moment of inertia) depends on the choice of the axis of rotation. 
+  The integration is over all mass elements () of the specified object/system in question.
+  If  is expressed in terms of an object's linear/surface/volume density, the integration then becomes over the object's geometry.
+  
+
+This formula should be applied to continuous objects/systems.
+
+For discrete point-like objects, the discrete version:  can be used. Here the sum is over the number  of point-like objects in the system,  being their respective masses and  their perpendicular distances from the desired axis.
+
+ 
+Question 2
+1 / 1 pts
+Which of the following statements are true?
+  If the x-coordinates of the center of mass of objects 1 and 2 are  and , then the center of mass of the combined, two-object system is , where  and  are their respective masses
+  If the moment of inertia of object 1 about some axis is  and the moment of inertia of object 2 about the same axis is , then the moment of inertia of their combined, two-object system about that axis is 
+  If the moment of inertia of object 1 about some axis is  and the moment of inertia of object 2 about the same axis is , then the total, combined moment of inertia of the two-object system about that axis is , where  and  are their respective masses
+ 
+Question 3
+1 / 1 pts
+
+A thin rod of mass  and length  is oriented along the -axis so that it has linear mass density . One end of the rod lies at  and the other at .
+
+What is the constant  in terms of  and ?
+
+  
+  
+ 
+Question 4
+1 / 1 pts
+
+A thin rod of mass  and length  is oriented along the -axis so that it has linear mass density . One end of the rod lies at  and the other at .
+
+What is the x-coordinate of the center of mass of the rod?
+
+  
+  
+  
+ 
+Question 5
+1 / 1 pts
+
+A thin rod of mass  and length  is oriented along the -axis so that it has linear mass density . One end of the rod lies at  and the other at .
+
+What is the moment of inertia of the rod about an axis passing through the origin and perpendicular to the rod's long axis?
+
+  
+  
+  
+ 
+Question 6
+1 / 1 pts
+
+The moment of inertia of a uniform disk (mass , radius ) about the axis passing through its center and perpendicular to the plane of the disk is .
+
+What is the moment of inertia of the disk about an axis parallel to that one, but passing through a point on the rim?
+
+  
+  
+  
+  
+ 
+Question 7
+2 / 2 pts
+
+Two identical, uniform disks of mass  and radius  are stuck together at contact point  (shown below).
+
+The two-disk system is spun about an axis passing through  and perpendicular to the plane of the disks at angular speed , so that the system has total rotational kinetic energy .
+
+The two-disk system is then spun about an axis parallel to the previous one, but passing through  at the same angular speed  so that the system has total rotational kinetic energy .
+
+What is the ratio ?
+
+  
+  
+  
+  
+  
+ 
+Question 8
+1 / 1 pts
+
+A circular hole of radius  is removed from a uniform disk (mass , radius ) at a distance  away from its center (shown below).
+
+What is the mass of removed portion?
+
+  
+  
+  
+ 
+Question 9
+1 / 1 pts
+
+A circular hole of radius  is removed from a uniform disk (mass , radius ) at a distance  away from its center.
+
+Consider an xy-coordinate system whose origin placed at the center of the original disk with +x pointing to the right and +y pointing upwards in the image below.
+
+What is the y-coordinate of the center of mass of the excavated disk?
+
+Hint: No math required.
+
+  
+  
+  
+  
+  
+ 
+Question 10
+1 / 1 pts
+
+A circular hole of radius  is removed from a uniform disk (mass , radius ) at a distance  away from its center.
+
+Consider an xy-coordinate system whose origin is placed at the center of the original disk with +x pointing to the right and +y pointing upwards in the image below.
+
+What is the x-coordinate of the center of mass of the excavated disk?
+
+  
+  
+  
+  
+  
+Quiz Score: 12 out of 12

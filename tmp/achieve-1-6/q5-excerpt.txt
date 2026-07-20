@@ -1,0 +1,22 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the deﬁnite integral.
+          - paragraph: (Use symbolic notation and fractions where needed. Enter "DNE" in the answer field if the integral does not exist.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "9"
+          - generic: "0"
+          - generic: 𝑒
+          - generic: "9"
+          - generic: 𝑥
+          - generic: 𝑒
+          - generic: "9"
+          - generic: 𝑥
+          - generic: +
+          - generic: "1"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from 0 to 9 of the fraction with numerator e raised to the 9 x power and denominator e raised to the 9 x power plus 1 d x equals, math"
+          - textbox
+      

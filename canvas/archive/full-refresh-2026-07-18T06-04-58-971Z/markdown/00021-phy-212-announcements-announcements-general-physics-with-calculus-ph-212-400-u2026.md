@@ -1,0 +1,132 @@
+# Announcements: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+
+- Course: PHY-212
+- Source surface: announcements
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/announcements
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/announcements
+- Captured: 2026-07-18T06:07:04.510Z
+- Canvas object: course_page
+- Redirected: no
+
+## Headings
+- H1: Announcements
+- H2: Announcements List
+- H3: Quiz 2 July 18 - 20
+- H3: Quiz 1 July 4-6
+- H3: M2-1pre upload
+- H3: 7/1 Lecture canceled
+- H3: Please email your Lab TA to confirm your meeting time
+- H3: First day lecture and participation
+- H3: Welcome!
+
+## Visible Text
+Announcements
+Announcement Filter
+Search discussions by title
+Mark All as Read
+External Feeds
+Announcements List
+KH
+Quiz 2 July 18 - 20
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi Everyone, Please be sure to take Quiz 2, covering material from Chapters 12 and 13. Please be sure to submit all of the homework for these chapters before taking the quiz.  You need to take both Part A and Part B of the quiz. You may take the quiz once, either in Proctorio or in a Zoom session, not both.  The Proctorio version opens 5pm Saturday July 18 and closes 5pm Monday July 20 All times refer to Pacific Daylight Time. You can alternatively take the quiz during a Zoom session Monday July 20  at 11am or 6pm.  If you opt to take the Proctorio version of the quiz, please submit the Proctorio Practice quiz before taking the quiz. You may choose to take the quiz in an approved testing center. You need to contact Ecampus Testing Center to make arrangements before taking the quiz. This can take up to two weeks, but can be considerably shorter for testing centers that have already been approved. Please email me the details if you are using an approved testing center. You can access the practice quiz and solutions in the Learning Materials page in the current Module. Note sheet: There is no equation sheet provided for the quiz. You are required to make your own note sheet to use as a resource. You can include equations, diagrams, etc. on your note sheet.  Your note sheet scan must include your photo ID. Be sure to submit your note sheet before starting your quiz. You will not receive credit for the quiz without having submitted a note sheet with photo ID. There will be a deduction of 1 point per day for late submission, not to go below 1/2 point. The due date for the note sheet will be at 5pm Saturday, but your notes will not be marked late if you submit them before you start your quiz. You are required to submit 1/2 to one 8.5"x11" page of notes in your own handwriting, containing material pertinent to this quiz.  All notes must be handwritten, no scanned images, minimized images or AI generated material is allowed on the page. You can include equations, diagrams, general notes, etc in your note sheet: whatever you think will be helpful during the quiz. Place your photo ID on the note sheet and take a picture of it, convert it so a pdf scan and upload to the Gradescope assignment Quiz 2 notes.  You will also be asked to read and acknowledge an integrity statement, stating that you will use your note sheet and no other material for the quiz. You are not allowed to use the textbook, internet, friends, AI, etc. You may also refer to your Quiz 1 notes during the quiz, but do not upload them. Your note sheet will be worth 5 points, graded for quality and quantity of content. In class via Zoom: The Zoom meeting will be the same one used for regular class. Come to class at the regular time using the regular Zoom meeting information.You are required to be in the Zoom session with your web cam on to receive credit for the quiz. There will be a second Zoom meeting at 6pm. If you do not take the quiz during the regular Zoom class time, you can take another version of the quiz during the alternate Zoom session at 6pm. The 6pm version of the quiz will have the same format and level of difficulty for the questions. See the Zoom info page in the Course Information module for the 6pm Zoom link.  You need to have a working web cam turned on for the duration of the quiz. If you do not have a web cam, you can use a cell phone camera. The noise can be distracting so it is ok to turn your mic down during the quiz. The chat will be set so you can message me if you have any questions. If there are any corrections or clarifications, they will be made in the chat. The quiz will be delivered in Gradescope in two parts, Quiz 2A and Quiz 2B. You need to take both parts. Part A will consist of three multiple choice questions and a short calculation question and will open at 11:00 am and close at 11:20 am with an extra 5 minutes for uploading your written work to Gradescope. There will be a 5 minute break, and Part B will be a longer written-out problem that will open at 11:30 am and close at 11:50 am with an extra 5 minutes for submission of your pdf to Gradescope. All work for written questions must be hand-written by you. The timing of the Quiz 2A_6pm and Quiz 2B_6pm parts for the 6pm version of the quiz will be of the same form and duration. Calculator for Zoom session: If you take the quiz in the Zoom session, you can use whatever calculator you feel comfortable with. Asynchronously using Proctorio: Please make sure that your computer is set up correctly for Proctorio. You are required to take the Proctorio Practice Quiz before attempting to take a quiz via Proctorio. Read the Proctorio setup and troubleshooting page first. If you are asked for an access code, you are not set up correctly. Please see the Proctorio troubleshooting page in the Course information module if you have any issues. You need stable internet and have a working web cam that functions throughout the quiz.  The asynchronous quiz will include randomly chosen questions from a bank of questions with the same difficulty as the Zoom modality versions. There will be three multiple choice questions and a short written question in Part A, and a longer written problem in Part B. You need to take both parts. Quiz2A_asy and Quiz2B_asy will open at 5 pm 7/18 and close at 5 pm 7/20. Your written work will be uploaded to Quiz2A_asy_work and Quiz2B_asy_work in Gradescope. Late submissions are not accepted. Access Part A in Canvas. Write your work for the written problem in your own handwriting on a piece of paper, scan it and convert to pdf. The Canvas quiz will remain open for a maximum of 20 minutes. After you exit the quiz, you will have five minutes to upload your scan to  Gradescope. If over 5 minutes passes after your quiz ends in Proctorio before your scan is uploaded to Gradescope, you will not receive credit for the quiz. Access Part B in Canvas. Write your work for the written problem in your own handwriting on a piece of paper, scan it and convert to pdf. The Canvas quiz will remain open for a maximum of 20 minutes. After you exit the quiz, you will have five minutes to upload your scan to  Gradescope. If over 5 minutes passes after your quiz ends in Proctorio before your scan is uploaded to Gradescope, you will not receive credit for the quiz. Calculator for Proctorio: There will be a scientific calculator available inside Proctorio. You can also use your own hand-held calculator. Do not try to access an online calculator like Desmos or one on your computer, Proctorio will kick you out. Do not navigate away from the quiz page or open another browser page. Do not use hot keys. In short, just take the quiz, close Proctorio, then upload your work to Canvas. You must be visible via your web cam during the entire time of the quiz to get credit for the quiz. I drop your lowest quiz score for the term. If Proctorio kicks you out, this will be the quiz you drop. If you have trouble during the quiz, email me immediately and attach any written work. If you are ejected from the quiz, immediately email me your written work. If you go into the quiz and scroll through the questions and get ejected without submitting answers, you will not be allowed to re-enter and this will be the quiz you drop. I suggest if you have an unstable internet or any other issues that could make Proctorio a problem, please come to the Zoom session to take the quiz. If you are having any technical difficulty in either modality, please let me know immediately. If you need to drop the quiz for any reason including illness, injury, technical issues, military service or any other reason, please let me know before the quiz. Please feel free to ask me anything you are not sure about. Thanks,Kathy
+
+Posted on:
+
+Jul 17, 2026, 7:40 PM
+
+KH
+Quiz 1 July 4-6
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi Everyone, Please be sure to take Quiz 1, covering material from Chapter 4.4-4.6 and Chapter 8. Please be sure to submit all of the homework for these chapters before taking the quiz.  You need to take both Part A and Part B of the quiz. You may take the quiz once, either in Proctorio or in a Zoom session, not both.  The Proctorio version opens 5pm Saturday July 4 and closes 5pm Monday July 6 All times refer to Pacific Daylight Time. You can alternatively take the quiz during a Zoom session Monday July 6  at 11am or 6pm.  If you opt to take the Proctorio version of the quiz, please submit the Proctorio Practice quiz before taking the quiz. You may choose to take the quiz in an approved testing center. You need to contact Ecampus Testing Center to make arrangements before taking the quiz. This can take up to two weeks, but can be considerably shorter for testing centers that have already been approved. Please email me the details if you are using an approved testing center. You can access the practice quiz and solutions in the Learning Materials page in the current Module. Note sheet: There is no equation sheet provided for the quiz. You are required to make your own note sheet to use as a resource. You can include equations, diagrams, etc. on your note sheet.  Your note sheet scan must include your photo ID. Be sure to submit your note sheet before starting your quiz. You will not receive credit for the quiz without having submitted a note sheet with photo ID. There will be a deduction of 1 point per day for late submission, not to go below 1/2 point. The due date for the note sheet will be at 5pm Saturday, but your notes will not be marked late if you submit them before you start your quiz. You are required to submit 1/2 to one 8.5"x11" page of notes in your own handwriting, containing material pertinent to this quiz.  All notes must be handwritten, no scanned images, minimized images or AI generated material is allowed on the page. You can include equations, diagrams, general notes, etc in your note sheet: whatever you think will be helpful during the quiz. Place your photo ID on the note sheet and take a picture of it, convert it so a pdf scan and upload to the Gradescope assignment Quiz 1 notes.  You will also be asked to read and acknowledge an integrity statement, stating that you will use your note sheet and no other material for the quiz. You are not allowed to use the textbook, internet, friends, AI, etc. Your note sheet will be worth 5 points, graded for quality and quantity of content. In class via Zoom: The Zoom meeting will be the same one used for regular class. Come to class at the regular time using the regular Zoom meeting information.You are required to be in the Zoom session with your web cam on to receive credit for the quiz. There will be a second Zoom meeting at 6pm. If you do not take the quiz during the regular Zoom class time, you can take another version of the quiz during the alternate Zoom session at 6pm. The 6pm version of the quiz will have the same format and level of difficulty for the questions. See the Zoom info page in the Course Information module for the 6pm Zoom link.  You need to have a working web cam turned on for the duration of the quiz. If you do not have a web cam, you can use a cell phone camera. The noise can be distracting so it is ok to turn your mic down during the quiz. The chat will be set so you can message me if you have any questions. If there are any corrections or clarifications, they will be made in the chat. The quiz will be delivered in Gradescope in two parts, Quiz 1A and Quiz 1B. You need to take both parts. Part A will consist of three multiple choice questions and a short calculation question and will open at 11:00 am and close at 11:20 am with an extra 5 minutes for uploading your written work to Gradescope. There will be a 5 minute break, and Part B will be a longer written-out problem that will open at 11:30 am and close at 11:50 am with an extra 5 minutes for submission of your pdf to Gradescope. All work for written questions must be hand-written by you. The timing of the Quiz 1A_6pm and Quiz 1B_6pm parts for the 6pm version of the quiz will be of the same form and duration. Calculator for Zoom session: If you take the quiz in the Zoom session, you can use whatever calculator you feel comfortable with. Asynchronously using Proctorio: Please make sure that your computer is set up correctly for Proctorio. You are required to take the Proctorio Practice Quiz before attempting to take a quiz via Proctorio. Read the Proctorio setup and troubleshooting page first. If you are asked for an access code, you are not set up correctly. Please see the Proctorio troubleshooting page in the Course information module if you have any issues. You need stable internet and have a working web cam that functions throughout the quiz.  The asynchronous quiz will include randomly chosen questions from a bank of questions with the same difficulty as the Zoom modality versions. There will be three multiple choice questions and a short written question in Part A, and a longer written problem in Part B. You need to take both parts. Quiz1A_asy and Quiz1B_asy will open at 5 pm 7/4 and close at 5 pm 7/6. Your written work will be uploaded to Quiz1A_asy_work and Quiz1B_asy_work in Gradescope. Late submissions are not accepted. Access Part A in Canvas. Write your work for the written problem in your own handwriting on a piece of paper, scan it and convert to pdf. The Canvas quiz will remain open for a maximum of 20 minutes. After you exit the quiz, you will have five minutes to upload your scan to  Gradescope. If over 5 minutes passes after your quiz ends in Proctorio before your scan is uploaded to Gradescope, you will not receive credit for the quiz. Access Part B in Canvas. Write your work for the written problem in your own handwriting on a piece of paper, scan it and convert to pdf. The Canvas quiz will remain open for a maximum of 20 minutes. After you exit the quiz, you will have five minutes to upload your scan to  Gradescope. If over 5 minutes passes after your quiz ends in Proctorio before your scan is uploaded to Gradescope, you will not receive credit for the quiz. Calculator for Proctorio: There will be a scientific calculator available inside Proctorio. You can also use your own hand-held calculator. Do not try to access an online calculator like Desmos or one on your computer, Proctorio will kick you out. Do not navigate away from the quiz page or open another browser page. Do not use hot keys. In short, just take the quiz, close Proctorio, then upload your work to Canvas. You must be visible via your web cam during the entire time of the quiz to get credit for the quiz. I drop your lowest quiz score for the term. If Proctorio kicks you out, this will be the quiz you drop. If you have trouble during the quiz, email me immediately and attach any written work. If you are ejected from the quiz, immediately email me your written work. If you go into the quiz and scroll through the questions and get ejected without submitting answers, you will not be allowed to re-enter and this will be the quiz you drop. I suggest if you have an unstable internet or any other issues that could make Proctorio a problem, please come to the Zoom session to take the quiz. If you are having any technical difficulty in either modality, please let me know immediately. If you need to drop the quiz for any reason including illness, injury, technical issues, military service or any other reason, please let me know before the quiz. Please feel free to ask me anything you are not sure about. Thanks,Kathy
+
+Posted on:
+
+Jul 3, 2026, 7:01 PM
+
+KH
+M2-1pre upload
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi Everyone, M21-pre is due tomorrow 7/2 at 10am and involves uploading work to Gradescope. Please allow yourself a few minutes to upload your work. This is to make sure everyone has had practice uploading work to Gradscope before it is required during Quiz 1. Thanks,Kathy
+
+Posted on:
+
+Jul 1, 2026, 7:52 PM
+
+KH
+7/1 Lecture canceled
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi Everyone, I am sorry for the late notice, but I need to cancel class today. There will be no participation assignment for today. Tomorrow's pre-lecture assignment will be due as usual tomorrow at 10:am PDT. I apologize for any inconvenience.Kathy
+
+Posted on:
+
+Jul 1, 2026, 10:50 AM
+
+RL
+Please email your Lab TA to confirm your meeting time
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi all, Just a quick reminder that choosing a TA meeting time is not the final step. Once your group has identified a meeting time that works for everyone, please email that TA to confirm that the time is available before assuming the meeting is scheduled. TA meeting times are first come, first served, so another group may have already requested the same time. Your meeting is not confirmed until you receive a reply from the TA. TA meetings and lab group reports will start next week. During your first meeting with your TA, you will discuss the lab course structure and the Lab 2 activity.   Best, Roshell (lamugr@oregonstate.edu) PH 212 Lead Lab TA
+
+Posted on:
+
+Jun 26, 2026, 12:12 PM
+
+KH
+First day lecture and participation
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Hi Everyone, The video of today's lecture is now posted in Module 1 Learning Materials.  If you were present in the Zoom lecture and answered the question using Poll Everywhere, your participation credit is posted in the Canvas grade book as M1-0. You do not need to do the asynchronous assignment M1-0asy. If you were not present, your Canvas grade book will show a zero for M1-0. You should do the corresponding asynchronous participation assignment M1-0asy. You can find a link to this assignment in the Required Activities page in Module 1. The best way to do it is to watch the video and work along with it. M1-0asy must be graded by hand. When your submission is graded, the zero for M1-0 will be deleted. If you got credit for M1-0 and you also do M1-0asy, your points for M1-0 will be deleted. You can get credit for one or the other, not both. Please feel free to email me with any questions. Thanks,Kathy
+
+Posted on:
+
+Jun 22, 2026, 2:13 PM
+
+U
+Welcome!
+1 Section
+GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+Welcome to PH 212. Please begin by reading the material in the Course Information module. Our first Zoom lecture will be at 11 am on Monday June 22. You can find the Zoom link in the Course Information module. Please don't worry if you cannot attend, the lecture video will be posted a couple of hours later. See you soon!Kathy
+
+Posted on:
+
+## Links
+- Quiz 2 July 18 - 20 -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11611707
+- Quiz 1 July 4-6 -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11605879
+- M2-1pre upload -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11605102
+- 7/1 Lecture canceled -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11604493
+- Please email your Lab TA to confirm your meeting time -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11601297
+- First day lecture and participation -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11597788
+- Welcome! -> https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563801
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- Mark All as Read
+- External Feeds
+
+## Hidden Text
+- Announcements
+- Announcement Filter
+- Search discussions by title
+- Announcements List
+- KH
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- KH
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- KH
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- KH
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- RL
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- KH
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)
+- U
+- GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)

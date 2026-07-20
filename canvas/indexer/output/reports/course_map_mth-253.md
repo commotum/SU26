@@ -1,18 +1,18 @@
 # MTH-253 Course Map
 
-Generated 2026-07-08 from the completed Canvas crawl archive.
+Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ## Summary
 
 - Modules: 7
-- Module items: 65
-- Tasks: 51
+- Module items: 67
+- Tasks: 50
 - Surface-only Assignments/Grades rows: 0
-- Retry URLs queued: 3
-- Parsed downloads: 27
-- Downloads needing action: 53
+- Retry URLs queued: 0
+- Parsed downloads: 26
+- Downloads needing action: 48
 - Rule-improvement buckets: 1
-- Manual-review rows: 51
+- Manual-review rows: 48
 
 ## Modules
 
@@ -27,7 +27,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **REF** [General Q&A Discussion](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558499?module_item_id=26885524) - module_item_reference_only
 - **REF** [Start Here - Accessibility Statements & Privacy Policies](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-accessibility-statements-and-privacy-policies?module_item_id=26885525) - module_item_reference_only
 - **SETUP** [Start Here - Sources Cited](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-sources-cited?module_item_id=26885526) - module_item_has_task
-- **BLOCKED** [Practice Quiz (take it before attempting Quiz 1!)](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050) (5 pts) - module_item_blocked review=blocked_or_broken
+- **TASK** [Practice Quiz (take it before attempting Quiz 1!)](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050) (5 pts) - module_item_has_task
 - **REF** [Start Here - Conclusion](https://canvas.oregonstate.edu/courses/2053263/pages/start-here-conclusion?module_item_id=26885527) - module_item_reference_only
 
 ### 2. Unit 1 - Week 1
@@ -47,17 +47,19 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 
 - **PREP** [Unit 2 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-overview?module_item_id=26885542) - module_item_has_task
 - **PREP** [Unit 2 - Learning Materials](https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-learning-materials?module_item_id=26885543) - module_item_has_task
-- **PREP** [Unit 2 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491?module_item_id=26885544) - module_item_has_task
+- **REF** [Unit 2 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558491?module_item_id=26885544) - module_item_reference_only
 - **REF** 4 - module_item_reference_only
 - **TASK** [Week 2 Web Homework: Sequences](https://canvas.oregonstate.edu/courses/2053263/assignments/10584372?module_item_id=26977767) due Jul 6 by 11:59pm (100 pts) - module_item_has_task
 - **TASK** [Unit 2 - Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553180?module_item_id=26885550) due Jul 9 by 11:59pm (100 pts) - module_item_has_task
 - **TASK** [Week 3 Web Homework: Introduction to Series](https://canvas.oregonstate.edu/courses/2053263/assignments/10584373?module_item_id=26977769) due Jul 12 by 11:59pm (100 pts) - module_item_has_task
 - **TASK** [Unit 2 Quiz](https://canvas.oregonstate.edu/courses/2053263/quizzes/3159592?module_item_id=26885552) (100 pts) - module_item_has_task
 - **REF** 9 - module_item_reference_only
+- **REF** [Unit 2 - Conclusion](https://canvas.oregonstate.edu/courses/2053263/pages/unit-2-conclusion?module_item_id=26885554) - module_item_reference_only
 
 ### 4. Unit 3 - Weeks 4, 5, and 6
 
 - **PREP** [Unit 3 - Overview](https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-overview?module_item_id=26885555) - module_item_has_task
+- **PREP** [Unit 3 - Learning Materials](https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556) - module_item_has_task
 - **REF** [Unit 3 - Q&A Discussion Board (Optional)](https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558492?module_item_id=26885557) - module_item_reference_only
 - **REF** 4 - module_item_reference_only
 - **TASK** [Week 4 Web Homework: The Divergence and Integral Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584431?module_item_id=26977967) due Jul 19 by 11:59pm (100 pts) - module_item_has_task
@@ -104,36 +106,30 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 
 ## Review Queues
 
-### Retry
-
-- [module_item_blocked](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971?module_item_id=26982050) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944) - high
-
 ### Downloads Needing Action
 
 - [Practice-Quiz.pdf](https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558743/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558950/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558844/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558915/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558827/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558808/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558770/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558809/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558919/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558743/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558950/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Introduction to Sequences](https://canvas.oregonstate.edu/courses/2053263/files/118558743/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Recursive Sequences](https://canvas.oregonstate.edu/courses/2053263/files/118558950/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Convergence or Divergence of a Sequence](https://canvas.oregonstate.edu/courses/2053263/files/118558844/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Geometric Sequences](https://canvas.oregonstate.edu/courses/2053263/files/118558915/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Introduction to Series](https://canvas.oregonstate.edu/courses/2053263/files/118558827/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Partial Sums](https://canvas.oregonstate.edu/courses/2053263/files/118558808/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Geometric Series](https://canvas.oregonstate.edu/courses/2053263/files/118558770/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Repeating Decimals and Geometric Series](https://canvas.oregonstate.edu/courses/2053263/files/118558809/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Telescoping Series](https://canvas.oregonstate.edu/courses/2053263/files/118558919/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Introduction to Sequences](https://canvas.oregonstate.edu/courses/2053263/files/118558743/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Recursive Sequences](https://canvas.oregonstate.edu/courses/2053263/files/118558950/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558872/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558751/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053263/files/118558872/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Practice-Quiz.pdf](https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Practice-Quiz.pdf](https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Practice-Quiz.pdf](https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Practice-Quiz.pdf](https://canvas.oregonstate.edu/users/6660414/files/119294133/download?verifier=gGJq5JBGLXpWU66mkaU77iU27kEJcXVFbCpDi73N&download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Sequences.pdf](https://canvas.oregonstate.edu/courses/2053263/files/118558743/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ... 33 more downloads
+- [Divergence Test](https://canvas.oregonstate.edu/courses/2053263/files/118558959/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [p-Series and The Integral Test](https://canvas.oregonstate.edu/courses/2053263/files/118558964/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [The Comparison Test](https://canvas.oregonstate.edu/courses/2053263/files/118558968/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [The Limit Comparison Test](https://canvas.oregonstate.edu/courses/2053263/files/118558929/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [The Alternating Series Test](https://canvas.oregonstate.edu/courses/2053263/files/118558911/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Absolute and Conditional Convergence](https://canvas.oregonstate.edu/courses/2053263/files/118558970/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [The Ratio Test](https://canvas.oregonstate.edu/courses/2053263/files/118558816/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 28 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 8 examples
+- graded_task_missing_due / missing_due_text: 9 examples

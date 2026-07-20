@@ -1,0 +1,14 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Use the substitution method to evaluate the integral.
+          - paragraph: "$$\\int_{0 }^{1}{x^{6}\\sin{\\left(11x^{7}+17\\right)}\\,dx}$$"
+          - paragraph: Leave answer in the exact form. Do not round.
+        - group "Math Equation":
+          - generic: "\\\\(\\displaystyle \\int_{0 }^{1}{x^{6}\\sin{\\left(11x^{7}+17\\right)}\\,dx}= \\\\)"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

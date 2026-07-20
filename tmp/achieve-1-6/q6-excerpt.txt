@@ -1,0 +1,24 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - generic: Evaluate the indefinite integral.
+        - group "Math Equation":
+          - generic: ∫
+          - generic: (
+          - generic: "9"
+          - generic: −
+          - generic: "9"
+          - generic: 𝑥
+          - generic: "2"
+          - generic: 𝑥
+          - generic: )
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of open paren the fraction with numerator 9 minus 9 x squared and denominator x close paren d x equals, math"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

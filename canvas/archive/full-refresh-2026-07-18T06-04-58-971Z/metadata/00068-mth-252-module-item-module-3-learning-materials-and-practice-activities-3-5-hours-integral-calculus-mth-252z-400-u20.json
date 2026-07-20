@@ -1,0 +1,1056 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Intro"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Riemann Sum Calculator (RSC)"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Videos"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Practice Activities"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Interactive Visualization (Optional)"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 15,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 16,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 17,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 18,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 19,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 20,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 21,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 22,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 23,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 24,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 25,
+      "text": "Previous Next"
+    },
+    {
+      "index": 26,
+      "text": "Previous"
+    },
+    {
+      "index": 27,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857",
+      "title": "",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 26,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 27,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 4.10Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 28,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Calculus, Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 29,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/csRwFtJKo1Y",
+      "index": 30,
+      "raw_href": "https://youtu.be/csRwFtJKo1Y",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation Function IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jyRdHbHeUuU",
+      "index": 31,
+      "raw_href": "https://youtu.be/jyRdHbHeUuU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The Fundamental Theorem of Calculus (FTC): Differentiating IntegralsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/2pW3z5v_wOw",
+      "index": 32,
+      "raw_href": "https://youtu.be/2pW3z5v_wOw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Differentiating integrals with variable in both bounds (using Chain Rule)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/yjJ1JIvX7t4",
+      "index": 33,
+      "raw_href": "https://youtu.be/yjJ1JIvX7t4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Area Accumulation Graphs/InterpretationLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://ximera.osu.edu/mooculus/calculus1/master/firstFundamentalTheoremOfCalculus/digInFirstFundamentalTheoremOfCalculus",
+      "index": 34,
+      "raw_href": "https://ximera.osu.edu/mooculus/calculus1/master/firstFundamentalTheoremOfCalculus/digInFirstFundamentalTheoremOfCalculus",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/HnZTll3OmIc",
+      "index": 35,
+      "raw_href": "https://youtu.be/HnZTll3OmIc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The definite integral: The Fundamental Theorem of Calculus (FTC)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/rCWOdfQ3cwQ",
+      "index": 36,
+      "raw_href": "https://youtu.be/rCWOdfQ3cwQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite integral examples: polynomials, roots, and trigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/itmNYsvNiHs",
+      "index": 37,
+      "raw_href": "https://youtu.be/itmNYsvNiHs",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite integrals with basic trigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ep52C-MUzDY",
+      "index": 38,
+      "raw_href": "https://youtu.be/ep52C-MUzDY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Differentiating integrals by first evaluating (using Chain Rule)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/2ikYbP6DpzE",
+      "index": 39,
+      "raw_href": "https://youtu.be/2ikYbP6DpzE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Average valueLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Z3b5oSM26vE",
+      "index": 40,
+      "raw_href": "https://youtu.be/Z3b5oSM26vE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Mean Value Theorem (finding c values so f(c) = average)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 41,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 4.10 of OpenStax Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/y7S3HZpzURc",
+      "index": 42,
+      "raw_href": "https://youtu.be/y7S3HZpzURc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Basic antiderivatives: RulesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/JUNjXhlHcpc",
+      "index": 43,
+      "raw_href": "https://youtu.be/JUNjXhlHcpc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Basic antiderivative exampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/As_wLyAiw4w",
+      "index": 44,
+      "raw_href": "https://youtu.be/As_wLyAiw4w",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Undoing the power rule with polynomialLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ED9BEbJ_FX8",
+      "index": 45,
+      "raw_href": "https://youtu.be/ED9BEbJ_FX8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Undoing the power rule with negative exponentsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/bvlIWYMDqNk",
+      "index": 46,
+      "raw_href": "https://youtu.be/bvlIWYMDqNk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/EM6GjQwnIfo",
+      "index": 47,
+      "raw_href": "https://youtu.be/EM6GjQwnIfo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem exampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/P7aOP20z-K4",
+      "index": 48,
+      "raw_href": "https://youtu.be/P7aOP20z-K4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem example 3 (position/velocity)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 49,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ShKahxjq",
+      "index": 50,
+      "raw_href": "https://www.geogebra.org/m/ShKahxjq",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation Function (antiderivative) illustrationLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982565",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982565",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 0,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 1,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 4.10Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 2,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Calculus, Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 3,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/csRwFtJKo1Y",
+      "index": 4,
+      "raw_href": "https://youtu.be/csRwFtJKo1Y",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation Function IntroLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/jyRdHbHeUuU",
+      "index": 5,
+      "raw_href": "https://youtu.be/jyRdHbHeUuU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The Fundamental Theorem of Calculus (FTC): Differentiating IntegralsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/2pW3z5v_wOw",
+      "index": 6,
+      "raw_href": "https://youtu.be/2pW3z5v_wOw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Differentiating integrals with variable in both bounds (using Chain Rule)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/yjJ1JIvX7t4",
+      "index": 7,
+      "raw_href": "https://youtu.be/yjJ1JIvX7t4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Area Accumulation Graphs/InterpretationLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://ximera.osu.edu/mooculus/calculus1/master/firstFundamentalTheoremOfCalculus/digInFirstFundamentalTheoremOfCalculus",
+      "index": 8,
+      "raw_href": "https://ximera.osu.edu/mooculus/calculus1/master/firstFundamentalTheoremOfCalculus/digInFirstFundamentalTheoremOfCalculus",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation FunctionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/HnZTll3OmIc",
+      "index": 9,
+      "raw_href": "https://youtu.be/HnZTll3OmIc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The definite integral: The Fundamental Theorem of Calculus (FTC)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/rCWOdfQ3cwQ",
+      "index": 10,
+      "raw_href": "https://youtu.be/rCWOdfQ3cwQ",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite integral examples: polynomials, roots, and trigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/itmNYsvNiHs",
+      "index": 11,
+      "raw_href": "https://youtu.be/itmNYsvNiHs",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Definite integrals with basic trigonometryLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ep52C-MUzDY",
+      "index": 12,
+      "raw_href": "https://youtu.be/ep52C-MUzDY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Differentiating integrals by first evaluating (using Chain Rule)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/2ikYbP6DpzE",
+      "index": 13,
+      "raw_href": "https://youtu.be/2ikYbP6DpzE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Average valueLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/Z3b5oSM26vE",
+      "index": 14,
+      "raw_href": "https://youtu.be/Z3b5oSM26vE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Mean Value Theorem (finding c values so f(c) = average)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "index": 15,
+      "raw_href": "https://openstax.org/books/calculus-volume-1/pages/4-10-antiderivatives",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 4.10 of OpenStax Volume 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/y7S3HZpzURc",
+      "index": 16,
+      "raw_href": "https://youtu.be/y7S3HZpzURc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Basic antiderivatives: RulesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/JUNjXhlHcpc",
+      "index": 17,
+      "raw_href": "https://youtu.be/JUNjXhlHcpc",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Basic antiderivative exampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/As_wLyAiw4w",
+      "index": 18,
+      "raw_href": "https://youtu.be/As_wLyAiw4w",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Undoing the power rule with polynomialLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/ED9BEbJ_FX8",
+      "index": 19,
+      "raw_href": "https://youtu.be/ED9BEbJ_FX8",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Undoing the power rule with negative exponentsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/bvlIWYMDqNk",
+      "index": 20,
+      "raw_href": "https://youtu.be/bvlIWYMDqNk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem example 1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/EM6GjQwnIfo",
+      "index": 21,
+      "raw_href": "https://youtu.be/EM6GjQwnIfo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem exampleLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/P7aOP20z-K4",
+      "index": 22,
+      "raw_href": "https://youtu.be/P7aOP20z-K4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Initial Value Problem example 3 (position/velocity)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 23,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ShKahxjq",
+      "index": 24,
+      "raw_href": "https://www.geogebra.org/m/ShKahxjq",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Accumulation Function (antiderivative) illustrationLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982563",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982565",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982565",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982564",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00068-mth-252-module-item-module-3-learning-materials-and-practice-activities-3-5-hours-integral-calculus-mth-252z-400-u20",
+  "captured_at": "2026-07-18T06:09:50.659Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-3-learning-materials-and-practice-activities-3-5-hours-2",
+  "html_sha256": "d471779b873f39a4ff034b66a1e2db404c2a4a45412093a10f5b50724c873dcd",
+  "text_sha256": "7eb9f20fc089503255fcc292071922cb88a272d14375e1e5962c528a7101c1ff",
+  "requires_external_handler": false
+}

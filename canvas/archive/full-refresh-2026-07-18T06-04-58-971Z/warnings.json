@@ -1,0 +1,13 @@
+[
+  {
+    "page_id": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+    "warning": "screenshot_failed",
+    "detail": "Error: {\"code\":-32000,\"message\":\"Unable to capture screenshot\"}"
+  },
+  {
+    "page_id": "",
+    "warning": "capture_failed",
+    "detail": "Error: Browser Use cannot open https://canvas.oregonstate.edu/courses/2053526/assignments/10557032 in tab 1798181517. Browser reported: net::ERR_ABORTED",
+    "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557032"
+  }
+]

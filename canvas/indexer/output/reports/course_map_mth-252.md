@@ -1,24 +1,26 @@
 # MTH-252 Course Map
 
-Generated 2026-07-08 from the completed Canvas crawl archive.
+Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ## Summary
 
 - Modules: 37
-- Module items: 275
-- Tasks: 268
+- Module items: 278
+- Tasks: 271
 - Surface-only Assignments/Grades rows: 0
 - Retry URLs queued: 0
 - Parsed downloads: 57
-- Downloads needing action: 29
+- Downloads needing action: 34
 - Rule-improvement buckets: 1
-- Manual-review rows: 114
+- Manual-review rows: 354
 
 ## Modules
 
 ### 1. Keys/Solutions
 
 - **REF** [WHW1-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223581?module_item_id=26982502) - module_item_reference_only
+- **REF** [WHW2-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223582?module_item_id=26982503) - module_item_reference_only
+- **REF** [WHW3-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223584?module_item_id=26982504) - module_item_reference_only
 
 ### 2. Start Here
 
@@ -37,14 +39,15 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **REF** [Start Here — Accessibility Statements & Privacy Policies](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-accessibility-statements-and-privacy-policies?module_item_id=26982532) - module_item_reference_only
 - **SETUP** [Start Here — Sources Cited](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-sources-cited?module_item_id=26982533) - module_item_has_task
 - **REF** [Start Here — Conclusion](https://canvas.oregonstate.edu/courses/2080857/pages/start-here-conclusion?module_item_id=26982534) - module_item_reference_only
-- **SETUP** [Q&A Discussion](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539) - module_item_has_task
+- **REF** [Q&A Discussion](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593476?module_item_id=26982539) - module_item_reference_only
 
 ### 3. Tutoring Support and Course Resources
 
 - **REF** [Website: MSLC --> Peer tutoring](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535) - module_item_reference_only
 - **REF** [MSLC Summer Tutoring Hours.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223484?module_item_id=26982536) - module_item_reference_only
 - **SETUP** [How-To Videos](https://canvas.oregonstate.edu/courses/2080857/pages/how-to-videos?module_item_id=26982537) - module_item_has_task
-- **SETUP** [CamScanner: Making ONE pdf with multiple pages Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982538) - module_item_has_task
+- **SETUP** [CamScanner: Making ONE pdf with multiple pages Links to an external site.](https://youtu.be/aP78GQc9gNA) - module_item_external_unvisited review=external_surface
+- **PREP** [Textbook: OpenStax Calculus - Volume 1 link Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/27022202) - module_item_has_task
 
 ### 4. MTH 251 Review **Optional**
 
@@ -63,7 +66,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **TASK** [Module 1 — Written Homework (WHW 1) 🕓 2 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586053?module_item_id=26982549) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Intro Reflect 1](https://canvas.oregonstate.edu/courses/2080857/assignments/10586044?module_item_id=26982550) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.1 Approximating Areas](https://canvas.oregonstate.edu/courses/2080857/assignments/10586025?module_item_id=26982551) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475?module_item_id=26982552) (715 pts) - module_item_has_task
+- **TASK** [Module 1 — Discussion Reflection: WHW 1 🕓 0.25 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593475?module_item_id=26982552) - module_item_has_task
 
 ### 6. Module 2: Intro to Definite Integral and Properties
 
@@ -75,7 +78,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **TASK** [Module 2 — Written Homework (WHW 2) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586055?module_item_id=26982558) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Reflection 2](https://canvas.oregonstate.edu/courses/2080857/assignments/10586063?module_item_id=26982559) due Jul 9 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.2 The Definite Integral](https://canvas.oregonstate.edu/courses/2080857/assignments/10586026?module_item_id=26982560) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 2 — Discussion Reflection 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474?module_item_id=26982561) (1315 pts) - module_item_has_task
+- **TASK** [Module 2 — Discussion Reflection 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593474?module_item_id=26982561) - module_item_has_task
 
 ### 7. Mini-Exam 1: Available Tuesday - Thursday of Week 3
 
@@ -88,10 +91,10 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **PREP** [Dr. G's Lecture Notes--> Sects. 1.3, 4.10, 1.4, 1.5, 1.6](https://canvas.oregonstate.edu/courses/2080857/files/119223594?module_item_id=26982565) - module_item_has_task
 - **PREP** [Dr G's Videos --> 1.3, 4.10](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-1-dot-3-4-dot-10?module_item_id=26982566) - module_item_has_task
 - **TASK** [Pre-Class Reading Quiz - 1.3 (RQ-1.3)](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655?module_item_id=26982567) - module_item_has_task
-- **TASK** [Module 3 — Written Homework (WHW 3) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586056?module_item_id=26982568) due Jul 13 by 11:59pm (5 pts) - module_item_has_task
+- **TASK** [Module 3 — Written Homework (WHW 3) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586056?module_item_id=26982568) due Jul 14 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.3 The Fundamental Theorem of Calculus](https://canvas.oregonstate.edu/courses/2080857/assignments/10586027?module_item_id=26982569) due Jul 13 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 4.10 Antiderivatives](https://canvas.oregonstate.edu/courses/2080857/assignments/10586042?module_item_id=26982570) due Jul 13 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473?module_item_id=26982571) due Jul 10 at 11:59pm - module_item_has_task
+- **TASK** [Module 3 — Discussion Reflection: Mini-Exam 1 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593473?module_item_id=26982571) - module_item_has_task
 
 ### 9. Module 4: Introduction to Applications
 
@@ -122,7 +125,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **PREP** [Dr G Lecture Notes - 3.1-3.2.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223595?module_item_id=26982590) - module_item_has_task
 - **TASK** [RQ-3.1](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167660?module_item_id=26982591) - module_item_has_task
 - **TASK** [RQ-3.2](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167667?module_item_id=26982592) - module_item_has_task
-- **TASK** [Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471?module_item_id=26982593) due Jul 24 at 11:59pm - module_item_has_task
+- **TASK** [Module 5 — Discussion Reflection: Mini-Exam 2 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593471?module_item_id=26982593) - module_item_has_task
 - **TASK** [Module 5 — Written Homework (WHW 5) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586058?module_item_id=26982594) due Jul 27 by 11:59pm (1.5 pts) - module_item_has_task
 - **TASK** [Achieve - 3.1 Integration by Parts](https://canvas.oregonstate.edu/courses/2080857/assignments/10586037?module_item_id=26982595) due Jul 27 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 3.2 Trigonometric Integrals](https://canvas.oregonstate.edu/courses/2080857/assignments/10586038?module_item_id=26982596) due Jul 27 by 11:59pm (5 pts) - module_item_has_task
@@ -136,7 +139,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **PREP** [Dr G's Videos --> 3.3 continued, 3.4](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-3-dot-3-continued-3-dot-4?module_item_id=26982601) - module_item_has_task
 - **TASK** [RQ-3.3](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167656?module_item_id=26982602) - module_item_has_task
 - **TASK** [Module 6 — Written Homework (WHW 6) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586059?module_item_id=26982603) due Aug 3 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470?module_item_id=26982604) due Aug 4 at 11:59pm - module_item_has_task
+- **TASK** [Module 6 — Discussion Reflection: WHW 6 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593470?module_item_id=26982604) - module_item_has_task
 - **TASK** [Achieve - 3.3 Trigonometric Substitution](https://canvas.oregonstate.edu/courses/2080857/assignments/10586039?module_item_id=26982605) due Aug 3 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 3.4 Partial Fractions](https://canvas.oregonstate.edu/courses/2080857/assignments/10586040?module_item_id=26982606) due Aug 3 by 11:59pm (5 pts) - module_item_has_task
 
@@ -156,7 +159,7 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **TASK** [Achieve - 2.1 Areas between Curves](https://canvas.oregonstate.edu/courses/2080857/assignments/10586031?module_item_id=26982615) due Aug 10 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 2.2 Volumes by Slicing and Disc/Washer Method](https://canvas.oregonstate.edu/courses/2080857/assignments/10586032?module_item_id=26982616) due Aug 10 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Module 7 — Written Homework (WHW 7) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586060?module_item_id=26982617) due Aug 10 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469?module_item_id=26982618) due Aug 7 at 11:59pm - module_item_has_task
+- **TASK** [Module 7 — Discussion Reflection: Mini-Exam 3 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593469?module_item_id=26982618) - module_item_has_task
 
 ### 15. Module 8: Application of Integration - Graphical and Real-World
 
@@ -211,102 +214,102 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 
 ### 20. Intro to Calculus
 
-- **PREP** [What is Calculus? Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982657) - module_item_has_task
+- **ACTION** [What is Calculus? Links to an external site.](https://youtu.be/tXnYk5zLPTI) - module_item_external_unvisited review=external_surface
 
 ### 21. 1.1 Approximating Area Under the Curve
 
-- **PREP** [Upper, Lower, Left, and Right Sums Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982658) - module_item_has_task
-- **PREP** [Area under curve: Rectangles Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982659) - module_item_has_task
-- **PREP** [Application: Area under curve: Distance Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982660) - module_item_has_task
-- **PREP** [Area under curve, more rectangles Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982661) - module_item_has_task
-- **PREP** [Application: Area under the graph, table Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982662) - module_item_has_task
-- **PREP** [Area under curve: Left Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982663) - module_item_has_task
-- **PREP** [Area under curve: Right Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982664) - module_item_has_task
-- **PREP** [Midpoint rule 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982665) - module_item_has_task
-- **PREP** [Midpoint rule 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982666) - module_item_has_task
-- **PREP** [Midpoint rule with table Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982667) - module_item_has_task
+- **ACTION** [Upper, Lower, Left, and Right Sums Links to an external site.](https://youtu.be/bVYrCrG0ggo) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve: Rectangles Links to an external site.](https://youtu.be/eHbHQ2wqZvc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Application: Area under curve: Distance Links to an external site.](https://youtu.be/DZZd1qo1n2A) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve, more rectangles Links to an external site.](https://youtu.be/B8WYjWiw5YM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Application: Area under the graph, table Links to an external site.](https://youtu.be/_lNM3EZhByw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve: Left Sum Links to an external site.](https://youtu.be/v9WTXqKgg7I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under curve: Right Sum Links to an external site.](https://youtu.be/BvwyTXeuLS0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule 1 Links to an external site.](https://youtu.be/GIiRh4V9GvI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule 2 Links to an external site.](https://youtu.be/LmVPqLOPsqc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Midpoint rule with table Links to an external site.](https://youtu.be/5FYkXyyTnUE) - module_item_external_unvisited review=external_surface
 
 ### 22. 1.2 Definite Integrals
 
-- **PREP** [Riemann sums: Right Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982668) - module_item_has_task
-- **PREP** [Intro: Definite Integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982669) - module_item_has_task
-- **PREP** [Definite integral: Using geometry Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982670) - module_item_has_task
-- **PREP** [Definite integral: Setting up the integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982671) - module_item_has_task
-- **PREP** [Convert Riemann sum to integrals Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982672) - module_item_has_task
-- **PREP** [Definite integral: Properties continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982673) - module_item_has_task
-- **PREP** [Definite integrals: Properties Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982674) - module_item_has_task
-- **PREP** [Definite integral: Intro and application Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982675) - module_item_has_task
-- **PREP** [Definite integral: Function plus constant Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982676) - module_item_has_task
-- **PREP** [Definite integral: Constant*function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982677) - module_item_has_task
-- **PREP** [Definite integral: Trig Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982678) - module_item_has_task
+- **ACTION** [Riemann sums: Right Sum Links to an external site.](https://youtu.be/PjiB_-cVly0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro: Definite Integral Links to an external site.](https://youtu.be/VDOBMZRWxmw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Using geometry Links to an external site.](https://youtu.be/jTjrLTEQEws) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Setting up the integral Links to an external site.](https://youtu.be/6pQUsnRKxSg) - module_item_external_unvisited review=external_surface
+- **ACTION** [Convert Riemann sum to integrals Links to an external site.](https://youtu.be/FZKRsD9FqU4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Properties continued Links to an external site.](https://youtu.be/UgUKjUAkwN8) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integrals: Properties Links to an external site.](https://youtu.be/ycOZVVVXHvM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Intro and application Links to an external site.](https://youtu.be/HnZTll3OmIc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Function plus constant Links to an external site.](https://youtu.be/kmnvYAS409s) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Constant*function Links to an external site.](https://youtu.be/csjUDj6HMpc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Definite integral: Trig Links to an external site.](https://youtu.be/itmNYsvNiHs) - module_item_external_unvisited review=external_surface
 
 ### 23. 1.3 Fundamental Theorem of Calculus I & II / Antiderivatives
 
-- **PREP** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982679) - module_item_has_task
-- **PREP** [Area Accumulation Graph Analysis (OpenStax Specific) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982680) - module_item_has_task
-- **PREP** [Fundamental Theorem of Calc (FToC): Definite integrals Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982681) - module_item_has_task
-- **PREP** [FToC: Setup and solve Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982682) - module_item_has_task
-- **PREP** [FToC: Example Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982683) - module_item_has_task
-- **PREP** [FToC: Polynomial example Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982684) - module_item_has_task
-- **PREP** [FToC: Trig example Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982685) - module_item_has_task
-- **PREP** [FToC: Example using area Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982686) - module_item_has_task
-- **PREP** [The antiderivative 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982687) - module_item_has_task
-- **PREP** [The antiderivative 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982688) - module_item_has_task
-- **PREP** [The antiderivative (trig) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982689) - module_item_has_task
-- **PREP** [Find antiderivative 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982690) - module_item_has_task
-- **PREP** [Find antiderivative 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982691) - module_item_has_task
+- **ACTION** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://youtu.be/jyRdHbHeUuU) - module_item_external_unvisited review=external_surface
+- **PREP** [Area Accumulation Graph Analysis (OpenStax Specific) Links to an external site.](https://youtu.be/yjJ1JIvX7t4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Fundamental Theorem of Calc (FToC): Definite integrals Links to an external site.](https://youtu.be/ZTqEj1NyGPw) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Setup and solve Links to an external site.](https://youtu.be/YE9jpfxEFYk) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Example Links to an external site.](https://youtu.be/gJtkTRjqM6I) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Polynomial example Links to an external site.](https://youtu.be/X5ke8bUiiQM) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Trig example Links to an external site.](https://youtu.be/GwOhAkU-A0M) - module_item_external_unvisited review=external_surface
+- **ACTION** [FToC: Example using area Links to an external site.](https://youtu.be/zdWBJTOfdiM) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative 1 Links to an external site.](https://youtu.be/US8p_qO4Or8) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative 2 Links to an external site.](https://youtu.be/0s4_ojV_HNY) - module_item_external_unvisited review=external_surface
+- **ACTION** [The antiderivative (trig) Links to an external site.](https://youtu.be/7TPVm_DwsYE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Find antiderivative 2 Links to an external site.](https://youtu.be/-_FJ1V5_Fcc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Find antiderivative 3 Links to an external site.](https://youtu.be/KM61G41NKGY) - module_item_external_unvisited review=external_surface
 
 ### 24. 1.3 - Continued: Working with Integrals
 
-- **PREP** [Average value of a function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982692) - module_item_has_task
-- **PREP** [Average Value: Find C Value(s) (Alta Specific) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982693) - module_item_has_task
-- **PREP** [Average value of f continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982694) - module_item_has_task
-- **PREP** [Average temperature Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982695) - module_item_has_task
-- **PREP** [Application: Average value of investment Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982696) - module_item_has_task
+- **ACTION** [Average value of a function Links to an external site.](https://youtu.be/2ikYbP6DpzE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average Value: Find C Value(s) (Alta Specific) Links to an external site.](https://youtu.be/20XiiJFlgd0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average value of f continued Links to an external site.](https://youtu.be/3BxBjhsoF6o) - module_item_external_unvisited review=external_surface
+- **ACTION** [Average temperature Links to an external site.](https://youtu.be/ba7HOTlDBec) - module_item_external_unvisited review=external_surface
+- **ACTION** [Application: Average value of investment Links to an external site.](https://youtu.be/80fxxec6ihM) - module_item_external_unvisited review=external_surface
 
 ### 25. 1.4 Integration Formulas and Net Change
 
-- **PREP** [Intro: Net change theorem Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982697) - module_item_has_task
-- **PREP** [Net change in population Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982698) - module_item_has_task
-- **PREP** [Net Displacement at Time t (Alta Specific) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982699) - module_item_has_task
-- **PREP** [Area under the curve: Interpretation, velocity Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982700) - module_item_has_task
-- **PREP** [Velocity example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982701) - module_item_has_task
-- **PREP** [Future value Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982702) - module_item_has_task
-- **PREP** [Integration: Odd/Even functions Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982703) - module_item_has_task
-- **PREP** [Integration: Odd/Even function continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982704) - module_item_has_task
+- **ACTION** [Intro: Net change theorem Links to an external site.](https://youtu.be/EivFp4mscX4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Net change in population Links to an external site.](https://youtu.be/jX2MPRxtTwE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Net Displacement at Time t (Alta Specific) Links to an external site.](https://youtu.be/HLYafwRnYyk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area under the curve: Interpretation, velocity Links to an external site.](https://youtu.be/Z_OHgubPJKA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Velocity example 1 Links to an external site.](https://youtu.be/VS2CEu6qbUg) - module_item_external_unvisited review=external_surface
+- **ACTION** [Future value Links to an external site.](https://youtu.be/rlyoHQn8eSY) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration: Odd/Even functions Links to an external site.](https://youtu.be/gxcZ80pWOx0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration: Odd/Even function continued Links to an external site.](https://youtu.be/MKM_E81rFII) - module_item_external_unvisited review=external_surface
 
 ### 26. 1.5 Substitution (u-sub)
 
-- **PREP** [Intro. Substitution Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982705) - module_item_has_task
-- **PREP** [Intro. Substitution continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982706) - module_item_has_task
-- **PREP** [Substitution with definite integrals Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982707) - module_item_has_task
-- **PREP** [Substitution example: Rational function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982708) - module_item_has_task
-- **PREP** [Substitution example: Exponential Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982709) - module_item_has_task
-- **PREP** [Substitution example: Trig Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982710) - module_item_has_task
-- **PREP** [Substitution: Inverse trig example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982711) - module_item_has_task
-- **PREP** [Substitution: Inverse trig example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982712) - module_item_has_task
-- **PREP** [Substitution example: Logarithms Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982713) - module_item_has_task
-- **PREP** [Substitution example: Rational function with logs Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982714) - module_item_has_task
-- **PREP** [Substitution example: Composed exponential with trig Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982715) - module_item_has_task
-- **PREP** [Substitution with indefinite integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982716) - module_item_has_task
+- **ACTION** [Intro. Substitution Links to an external site.](https://youtu.be/568hUU4beuk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Substitution continued Links to an external site.](https://youtu.be/3MbdmYeYB_I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution with definite integrals Links to an external site.](https://youtu.be/emRDaSYCLMs) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Rational function Links to an external site.](https://youtu.be/hauyUjzRTos) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Exponential Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Trig Links to an external site.](https://youtu.be/YvrmGNyHs90) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution: Inverse trig example 1 Links to an external site.](https://youtu.be/J6MvP8SYVfo) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution: Inverse trig example 2 Links to an external site.](https://youtu.be/ypoOeSJjp4k) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Logarithms Links to an external site.](https://youtu.be/FJHHQdQEecE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Rational function with logs Links to an external site.](https://youtu.be/VY5r1-9apdc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution example: Composed exponential with trig Links to an external site.](https://youtu.be/zherIhRjLtM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Substitution with indefinite integral Links to an external site.](https://youtu.be/GQC0YcyEzto) - module_item_external_unvisited review=external_surface
 
 ### 27. 1.6 Exponentials and Logarithms
 
-- **PREP** [Example problems: Exponentials Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982717) - module_item_has_task
-- **PREP** [Integrating exponentials: example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982718) - module_item_has_task
-- **PREP** [Integrating exponentials: Example 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982719) - module_item_has_task
-- **PREP** [Integrating Natural Log (Alta Specific) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982720) - module_item_has_task
+- **ACTION** [Example problems: Exponentials Links to an external site.](https://youtu.be/D9dqdbCgJQM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating exponentials: example 2 Links to an external site.](https://youtu.be/DffQa5SyMSE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating exponentials: Example 3 Links to an external site.](https://youtu.be/BNSonfQqHA4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integrating Natural Log (Alta Specific) Links to an external site.](https://youtu.be/ZL3rzP04cGQ) - module_item_external_unvisited review=external_surface
 
 ### 28. 3.1 Integration by Parts
 
-- **PREP** [Intro. Integration by Parts Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982721) - module_item_has_task
-- **PREP** [Intro. Integration by Parts: Definite integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982722) - module_item_has_task
-- **PREP** [Intro. indefinite integral continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982723) - module_item_has_task
-- **PREP** [Intro. Integration by Parts example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982724) - module_item_has_task
-- **PREP** [Indefinite integral: Example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982725) - module_item_has_task
-- **PREP** [Indefinite integral: Example 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982726) - module_item_has_task
-- **PREP** [Indefinite integral: Example 4, exponential Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982727) - module_item_has_task
-- **PREP** [Indefinite integral: log Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982728) - module_item_has_task
+- **ACTION** [Intro. Integration by Parts Links to an external site.](https://youtu.be/xmFK_mG120k) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Integration by Parts: Definite integral Links to an external site.](https://youtu.be/aA15lSLSxgE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. indefinite integral continued Links to an external site.](https://youtu.be/tP34NbvFbW4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Integration by Parts example 1 Links to an external site.](https://youtu.be/815s-YB9X44) - module_item_external_unvisited review=external_surface
+- **ACTION** [Indefinite integral: Example 2 Links to an external site.](https://youtu.be/sW7tMxXTM0A) - module_item_external_unvisited review=external_surface
+- **ACTION** [Indefinite integral: Example 3 Links to an external site.](https://youtu.be/7YWWtQqcXBc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Indefinite integral: Example 4, exponential Links to an external site.](https://youtu.be/7YWWtQqcXBc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Indefinite integral: log Links to an external site.](https://youtu.be/uieKq2dCWRY) - module_item_external_unvisited review=external_surface
 - **PREP** [Indefinite integral: Trig times linear Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982729) - module_item_has_task
 - **PREP** [Indefinite integral: Exponential, IBP twice](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982730) - module_item_has_task
 - **PREP** [Indefinite integral: Exponential and trig, IBP twice and solve Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982731) - module_item_has_task
@@ -317,117 +320,117 @@ Generated 2026-07-08 from the completed Canvas crawl archive.
 - **PREP** [Trig Integrals: Example 2 with ODD power Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982733) - module_item_has_task
 - **PREP** [Trig Integrals: Example 3 with ODD power Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982734) - module_item_has_task
 - **PREP** [Trig integral involving secant Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982735) - module_item_has_task
-- **PREP** [Trig Integrals: ODD power of tangent Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982736) - module_item_has_task
-- **PREP** [Trig Integrals: Power reducing example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982737) - module_item_has_task
-- **PREP** [Trig Integrals: All EVEN exponents Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982738) - module_item_has_task
+- **ACTION** [Trig Integrals: ODD power of tangent Links to an external site.](https://youtu.be/RJ2rD54H_cA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig Integrals: Power reducing example 1 Links to an external site.](https://youtu.be/heHZz041JSI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig Integrals: All EVEN exponents Links to an external site.](https://youtu.be/rpbr2nH7lNY) - module_item_external_unvisited review=external_surface
 
 ### 30. 3.3 Trigonometric Substitution
 
-- **PREP** [Intro. Trig substitution 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982739) - module_item_has_task
-- **PREP** [Intro. Trigonometric Substitution continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982740) - module_item_has_task
-- **PREP** [Intro. Trig substitution 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982741) - module_item_has_task
-- **PREP** [Trig substitution example 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982742) - module_item_has_task
-- **PREP** [Trig substitution example 4 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982743) - module_item_has_task
-- **PREP** [Trig substitution example 5 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982744) - module_item_has_task
-- **PREP** [Trig substitution with secant Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982745) - module_item_has_task
-- **PREP** [Trig substitution with definite integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982746) - module_item_has_task
+- **ACTION** [Intro. Trig substitution 1 Links to an external site.](https://youtu.be/yS7Mgsvwdkw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Trigonometric Substitution continued Links to an external site.](https://youtu.be/cyi-qyG1Yds) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Trig substitution 2 Links to an external site.](https://youtu.be/kSW4sEg_VdQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig substitution example 3 Links to an external site.](https://youtu.be/UHRmp07p9IA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig substitution example 4 Links to an external site.](https://youtu.be/a-f63vZVuBQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig substitution example 5 Links to an external site.](https://youtu.be/jZa4FM6l6pM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig substitution with secant Links to an external site.](https://youtu.be/snUBWVMPWfQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Trig substitution with definite integral Links to an external site.](https://youtu.be/TMV5avDezeA) - module_item_external_unvisited review=external_surface
 
 ### 31. 3.4 Partial Fraction Decomposition (PFD)
 
-- **PREP** [Integration using long division Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982747) - module_item_has_task
-- **PREP** [Intro. Partial fraction decomposition (PFD) Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982748) - module_item_has_task
-- **PREP** [PFD example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982749) - module_item_has_task
-- **PREP** [PFD degree 2/3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982750) - module_item_has_task
-- **PREP** [Intro. Integration with PFD Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982751) - module_item_has_task
-- **PREP** [Integration with PFD Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982752) - module_item_has_task
-- **PREP** [Integration with long division Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982753) - module_item_has_task
+- **ACTION** [Integration using long division Links to an external site.](https://youtu.be/JIIbmjyrIf8) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Partial fraction decomposition (PFD) Links to an external site.](https://youtu.be/c2oLHtPA03U) - module_item_external_unvisited review=external_surface
+- **ACTION** [PFD example 2 Links to an external site.](https://youtu.be/SQ4l8yDlBVE) - module_item_external_unvisited review=external_surface
+- **ACTION** [PFD degree 2/3 Links to an external site.](https://youtu.be/04RSkBwVzK0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Intro. Integration with PFD Links to an external site.](https://youtu.be/AHNSE0ri3i0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration with PFD Links to an external site.](https://youtu.be/PjsDXfQ8QwQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Integration with long division Links to an external site.](https://youtu.be/JIIbmjyrIf8) - module_item_external_unvisited review=external_surface
 
 ### 32. 2.1Areas Between Curves
 
-- **PREP** [Intro. Area between curves Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982754) - module_item_has_task
-- **PREP** [Area between curves 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982755) - module_item_has_task
-- **PREP** [Area between curves 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982756) - module_item_has_task
-- **PREP** [Area between curves 4 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982757) - module_item_has_task
-- **PREP** [Area between curves , respect to y Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982758) - module_item_has_task
+- **ACTION** [Intro. Area between curves Links to an external site.](https://youtu.be/de-0e0nYf5I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area between curves 2 Links to an external site.](https://youtu.be/E_1aDcOoDtE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area between curves 3 Links to an external site.](https://youtu.be/n2JqTztMrvQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area between curves 4 Links to an external site.](https://youtu.be/BH-V6Gx2n8E) - module_item_external_unvisited review=external_surface
+- **ACTION** [Area between curves , respect to y Links to an external site.](https://youtu.be/fGvSy6U209Y) - module_item_external_unvisited review=external_surface
 
 ### 33. 2.2 Volume by Slicing
 
-- **PREP** [Intro. volume by slicing Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982759) - module_item_has_task
-- **PREP** [Volume by slicing 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982760) - module_item_has_task
-- **PREP** [Disk method 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982761) - module_item_has_task
-- **PREP** [Disk method 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982762) - module_item_has_task
-- **PREP** [Disk method 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982763) - module_item_has_task
-- **PREP** [Disc method around y=1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982764) - module_item_has_task
-- **PREP** [Washer method 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982765) - module_item_has_task
-- **PREP** [Washer method 2, around y=3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982766) - module_item_has_task
-- **PREP** [Washer method 3, around x=5 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982767) - module_item_has_task
+- **ACTION** [Intro. volume by slicing Links to an external site.](https://youtu.be/Q8c8Gs1OUgk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Volume by slicing 2 Links to an external site.](https://youtu.be/BQ5sg21w-lA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Disk method 1 Links to an external site.](https://youtu.be/1CbZlM09zF8) - module_item_external_unvisited review=external_surface
+- **ACTION** [Disk method 2 Links to an external site.](https://youtu.be/oYe4gkKQDE8) - module_item_external_unvisited review=external_surface
+- **ACTION** [Disk method 3 Links to an external site.](https://youtu.be/Ba_q-eu8n34) - module_item_external_unvisited review=external_surface
+- **ACTION** [Disc method around y=1 Links to an external site.](https://youtu.be/yTElv1k33rk) - module_item_external_unvisited review=external_surface
+- **ACTION** [Washer method 1 Links to an external site.](https://youtu.be/rbqWHbxmVUI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Washer method 2, around y=3 Links to an external site.](https://youtu.be/6zaqRVD90mY) - module_item_external_unvisited review=external_surface
+- **ACTION** [Washer method 3, around x=5 Links to an external site.](https://youtu.be/2yd_Ae-7wls) - module_item_external_unvisited review=external_surface
 
 ### 34. 2.3 Volumes of Revolution: Shell Method
 
-- **PREP** [Intro. shell method Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982768) - module_item_has_task
-- **PREP** [Shell method 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982769) - module_item_has_task
-- **PREP** [Shell method 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982770) - module_item_has_task
-- **PREP** [Shell method 4 around y-axis Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982771) - module_item_has_task
-- **PREP** [Shell method around x=4 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982772) - module_item_has_task
+- **ACTION** [Intro. shell method Links to an external site.](https://youtu.be/pCMkHkprN0I) - module_item_external_unvisited review=external_surface
+- **ACTION** [Shell method 2 Links to an external site.](https://youtu.be/3B2YQbEzshg) - module_item_external_unvisited review=external_surface
+- **ACTION** [Shell method 3 Links to an external site.](https://youtu.be/DHCWM-Pg_Yw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Shell method 4 around y-axis Links to an external site.](https://youtu.be/aW_3JoRHsPU) - module_item_external_unvisited review=external_surface
+- **ACTION** [Shell method around x=4 Links to an external site.](https://youtu.be/fAKmfe_5QWw) - module_item_external_unvisited review=external_surface
 
 ### 35. 2.4 Arc Length
 
-- **PREP** [Arc length 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982773) - module_item_has_task
-- **PREP** [Arc length 1 continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982774) - module_item_has_task
-- **PREP** [Arc length 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982775) - module_item_has_task
-- **PREP** [Arc length 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982776) - module_item_has_task
-- **PREP** [Arc length 4 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982777) - module_item_has_task
+- **ACTION** [Arc length 1 Links to an external site.](https://youtu.be/seoFxrNL85c) - module_item_external_unvisited review=external_surface
+- **ACTION** [Arc length 1 continued Links to an external site.](https://youtu.be/NbnTw0opE_0) - module_item_external_unvisited review=external_surface
+- **ACTION** [Arc length 2 Links to an external site.](https://youtu.be/QttlclJGxJQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Arc length 3 Links to an external site.](https://youtu.be/cw76RZ_fsZI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Arc length 4 Links to an external site.](https://youtu.be/0j227VZN0X8) - module_item_external_unvisited review=external_surface
 
 ### 36. 2.5 Physical Applications
 
-- **PREP** [Work: Spring stretch 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982778) - module_item_has_task
-- **PREP** [Work: Spring stretch 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982779) - module_item_has_task
-- **PREP** [Work: lifting leaking bucket Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982780) - module_item_has_task
-- **PREP** [Work: Lifting bucket with cable mass Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982781) - module_item_has_task
-- **PREP** [Work: Vertical pumping Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982782) - module_item_has_task
-- **PREP** [Work: Vertical pumping, isosceles triangle Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982783) - module_item_has_task
-- **PREP** [Work: Vertical pumping, quadratic cross sections Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982784) - module_item_has_task
-- **PREP** [Hydrostatic force: Horizontal plate Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982785) - module_item_has_task
-- **PREP** [Hydrostatic force: Vertical isosceles triangle Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982786) - module_item_has_task
-- **PREP** [Hydrostatic force: Semicircle window Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982787) - module_item_has_task
+- **ACTION** [Work: Spring stretch 1 Links to an external site.](https://youtu.be/3_-7IJO6EVc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: Spring stretch 2 Links to an external site.](https://youtu.be/Fd65ZxqpktE) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: lifting leaking bucket Links to an external site.](https://youtu.be/YMaR5KJj2zQ) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: Lifting bucket with cable mass Links to an external site.](https://youtu.be/pKZzfYIgq1Q) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: Vertical pumping Links to an external site.](https://youtu.be/T7sma-7qQFA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: Vertical pumping, isosceles triangle Links to an external site.](https://youtu.be/1x-xMf4TFNM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Work: Vertical pumping, quadratic cross sections Links to an external site.](https://youtu.be/RPXnZl3przM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Hydrostatic force: Horizontal plate Links to an external site.](https://youtu.be/zSyh3IzQMdc) - module_item_external_unvisited review=external_surface
+- **ACTION** [Hydrostatic force: Vertical isosceles triangle Links to an external site.](https://youtu.be/7exmlrEbNXI) - module_item_external_unvisited review=external_surface
+- **ACTION** [Hydrostatic force: Semicircle window Links to an external site.](https://youtu.be/Ntk9RpCCSeM) - module_item_external_unvisited review=external_surface
 
 ### 37. 3.7 Improper Integrals
 
-- **PREP** [Intro. Improper integrals Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982788) - module_item_has_task
-- **PREP** [Improper integrals 2, exponential integrand Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982789) - module_item_has_task
-- **PREP** [Improper integral 3, exponential integrand Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982790) - module_item_has_task
-- **PREP** [Improper integral 4, rational integrand Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982791) - module_item_has_task
-- **PREP** [Improper integral 5, rational integrand Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982792) - module_item_has_task
-- **PREP** [Improper integral: +infinity to -infinity Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982793) - module_item_has_task
-- **PREP** [Improper integral: Discontinuous integrand 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982794) - module_item_has_task
-- **PREP** [Improper integral: Discontinuous integrand 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982795) - module_item_has_task
+- **ACTION** [Intro. Improper integrals Links to an external site.](https://youtu.be/F19y9IiH-cM) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integrals 2, exponential integrand Links to an external site.](https://youtu.be/5Tz992fOYAA) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral 3, exponential integrand Links to an external site.](https://youtu.be/9O9Rd7JyKLo) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral 4, rational integrand Links to an external site.](https://youtu.be/CvziF8rGSnw) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral 5, rational integrand Links to an external site.](https://youtu.be/m2qnjmZQqa4) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral: +infinity to -infinity Links to an external site.](https://youtu.be/qWMJpYajOww) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral: Discontinuous integrand 1 Links to an external site.](https://youtu.be/KWQgBZStE6M) - module_item_external_unvisited review=external_surface
+- **ACTION** [Improper integral: Discontinuous integrand 2 Links to an external site.](https://youtu.be/gN7I8LhKalQ) - module_item_external_unvisited review=external_surface
 
 ## Review Queues
 
 ### Downloads Needing Action
 
+- [U2-SG-Partial-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223585/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223459/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW5-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223503/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [WHW1-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW2-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223582/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW3-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223584/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-400 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [MTH 252Z-400 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [MTH 252Z-401 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-401 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [ME1-U26-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Unit-1-Student-Study-Guide.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ... 9 more downloads
+- [Unit-1-Student-Study-Guide-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW3-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW3-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW4-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW4-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223525/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW4-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 14 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 19 examples
+- graded_task_missing_due / missing_due_text: 23 examples

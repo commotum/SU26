@@ -1,0 +1,29 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Find the indefinite integral by using substitution or expanding the integrand.
+          - paragraph:
+            - text: (Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for a constant of integration. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - generic: ∫
+          - generic: (
+          - generic: "1"
+          - generic: "2"
+          - generic: 𝑥
+          - generic: "2"
+          - generic: +
+          - generic: "9"
+          - generic: )
+          - generic: "2"
+          - generic: 𝑥
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral of open paren 12 x squared plus 9 close paren squared times x d x equals, math"
+          - textbox
+      

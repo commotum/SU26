@@ -1,0 +1,54 @@
+- generic "Question content":
+        - paragraph: © Macmillan Learning
+        - group "Ungraded Text":
+          - paragraph: Use the substitution method to evaluate the definite integral.
+          - paragraph:
+            - generic: ∫
+            - generic: "1"
+            - generic: "0"
+            - generic: "2"
+            - generic: "2"
+            - generic: 𝑥
+            - generic: "4"
+            - generic: "4"
+            - generic: (
+            - generic: "2"
+            - generic: 𝑥
+            - generic: "4"
+            - generic: "5"
+            - generic: −
+            - generic: "5"
+            - generic: )
+            - generic: "4"
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral from 0 to 1 of the fraction with numerator 22 x to the 44th power and denominator open paren 2 x to the 45th power minus 5 close paren to the fourth power d x, math"
+          - paragraph: Express your answer in exact form. Do not round.
+        - group "Math Equation":
+          - generic: ∫
+          - generic: "1"
+          - generic: "0"
+          - generic: "2"
+          - generic: "2"
+          - generic: 𝑥
+          - generic: "4"
+          - generic: "4"
+          - generic: (
+          - generic: "2"
+          - generic: 𝑥
+          - generic: "4"
+          - generic: "5"
+          - generic: −
+          - generic: "5"
+          - generic: )
+          - generic: "4"
+          - generic: 𝑑
+          - generic: 𝑥
+          - generic: =
+          - img "the integral from 0 to 1 of the fraction with numerator 22 x to the 44th power and denominator open paren 2 x to the 45th power minus 5 close paren to the fourth power d x equals, math"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

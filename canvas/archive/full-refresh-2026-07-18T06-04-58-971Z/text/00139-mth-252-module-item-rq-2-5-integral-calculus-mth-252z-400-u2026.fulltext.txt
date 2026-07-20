@@ -1,0 +1,94 @@
+
+            
+
+
+
+
+
+
+  
+
+
+    
+      RQ-2.5 
+    
+
+
+    
+        
+    
+    
+        
+
+
+
+  
+    Due
+    
+        
+          Aug 24 at 11:59pm
+        
+    
+  
+
+  
+    Points
+    10
+  
+
+  
+    Questions
+    4
+  
+  
+  
+    Available
+    
+        Aug 18 at 12am - Aug 26 at 11:59pm
+    
+  
+
+  
+    Time Limit
+    
+        None
+    
+  
+
+    
+      Allowed Attempts
+      
+          2
+      
+    
+
+
+
+
+    
+
+
+        
+          This quiz is locked until Aug 18 at 12am.
+        
+
+    
+
+  
+
+  
+  
+
+
+
+  
+//<![CDATA[
+(window.prefetched_xhrs = (window.prefetched_xhrs || {}))["/api/v1/courses/2080857/lti_apps/launch_definitions?placements%5B%5D=assignment_view"] = fetch("/api/v1/courses/2080857/lti_apps/launch_definitions?placements%5B%5D=assignment_view", {"credentials":"same-origin","headers":{"Accept":"application/json+canvas-string-ids, application/json","X-Requested-With":"XMLHttpRequest"}})
+//]]>
+
+
+  
+
+
+
+          

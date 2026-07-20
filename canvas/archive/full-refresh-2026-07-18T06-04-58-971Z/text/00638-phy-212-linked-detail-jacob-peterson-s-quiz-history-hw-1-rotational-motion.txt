@@ -1,0 +1,209 @@
+Hw 1 - Rotational Motion Results for Jacob Peterson
+Score for this attempt: 17 out of 18
+Submitted Jul 5 at 10:52pm
+This attempt took 4,762 minutes.
+ 
+Correct answer
+Question 1
+1 / 1 pts
+
+A wheel spins with an angular speed of 120 revolutions per minute.
+
+What is its angular speed in radians per second?
+
+  
+  
+  
+  
+ 
+Correct answer
+Question 2
+2 / 2 pts
+
+An object travels along a circular trajectory of radius .
+
+At one instant, the particle’s speed is  and increasing at a constant rate .
+
+Assuming the object speeds up at this same rate, how much time will it take to complete one revolution?
+
+Hint: Your answer  must all be positive!
+
+  
+  
+  
+  
+  
+ 
+Correct answer
+Question 3
+1 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+What SI units is  measured in?
+
+  
+  
+  
+  
+  
+  
+ 
+Wrong answer
+Question 4
+0 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+Let  denote the  component of the object's angular velocity. If , what is ?
+
+  
+  
+  
+  
+  
+  
+ 
+Correct answer
+Question 5
+1 / 1 pts
+
+The -component of the angular acceleration of an object moving along a circular trajectory has , where  and  are constants of the appropriate dimension.
+
+Let  and  denote the  components of the object's angular velocity and position, respectively.
+
+If  and , what is ?
+
+  
+  
+  
+  
+  
+ 
+Correct answer
+Question 6
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  its velocity,  its angular speed, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Correct answer
+Question 7
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Correct answer
+Question 8
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Correct answer
+Question 9
+1 / 1 pts
+
+Consider an object undergoing uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Correct answer
+Question 10
+1 / 1 pts
+
+Now consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Correct answer
+Question 11
+1 / 1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  is perpendicular to .
+
+  True 
+  False 
+ 
+Correct answer
+Question 12
+1 / 1 pts
+
+Consider an object undergoing non-uniform circular motion.
+
+Let  be the position of the object relative to the circle's center,  the velocity of the object,  the angular speed of the object, and  its acceleration.
+
+True or false:  has magnitude .
+
+  True 
+  False 
+ 
+Correct answer
+Question 13
+1 / 1 pts
+
+An object is moving counterclockwise along the circular trajectory depicted in the diagrams below.
+
+If the object is speeding up, which arrow represents its acceleration?
+
+  A 
+  B 
+  C 
+  D 
+  E 
+ 
+Correct answer
+Question 14
+2 / 2 pts
+
+The plot below shows the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular velocity over that same interval.
+
+  
+  
+  
+  
+ 
+Correct answer
+Question 15
+2 / 2 pts
+
+The plot below shows the plot of the -component of the angular position of an object over a 5 second time interval. Select the option which shows the -component of the object's corresponding angular acceleration over that same interval.
+
+  
+  
+  
+  
+Quiz Score: 17 out of 18

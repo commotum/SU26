@@ -1,0 +1,583 @@
+
+            
+
+
+
+
+  
+      M1-5pre Results for Jacob Peterson
+
+  
+
+
+
+  
+    
+    
+
+    
+    
+
+
+
+    Score for this quiz:
+  0 out of 3
+  
+    
+
+  Submitted Jul 6 at 2:04am
+
+
+  This attempt took 2 minutes.
+
+
+  
+
+   
+  Correct answer
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 1
+      
+        
+            3
+           / 3 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      multiple_choice_question
+      
+         
+       
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">A particle is moving around a circle, with an arrow depicting the magnitude and direction of the net force acting on the particle. Which diagram represents a particle speeding up in the counterclockwise direction?</span></p>
+<p><img src="/courses/2053526/files/118705654/preview" alt="eight circles with points on the rim at about 4 o'clock, each with an arrow attached to the point. The directions of the arrows are approximately: A toward the center of the circle, B away from the center, C 110 deg, D 145 deg, E tangential to the circle at 60 deg, F tangent to the circle at -60 deg, G 20 deg, H -20 deg"></p>
+      
+      
+          A particle is moving around a circle, with an arrow depicting the magnitude and direction of the net force acting on the particle. Which diagram represents a particle speeding up in the counterclockwise direction?
+
+      
+      
+              
+                
+  
+
+    4243
+
+  
+       
+    
+      A
+      
+    
+  
+  
+    
+  
+  
+    A
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    4243
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    4230
+
+  
+       
+    
+      B
+      
+    
+  
+  
+    
+  
+  
+    B
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    4230
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    8720
+
+  
+       
+    
+      C
+      
+    
+  
+  
+    
+  
+  
+    C
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    8720
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    100
+    
+      
+      
+    
+
+  
+
+
+  
+
+  
+
+    534
+
+  
+       
+    
+      D
+      
+    
+  
+  
+    
+  
+  
+    D
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    534
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    4157
+
+  
+       
+    
+      E
+      
+    
+  
+  
+    
+  
+  
+    E
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    4157
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    6775
+
+  
+       
+    
+      F
+      
+    
+  
+  
+    
+  
+  
+    F
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    6775
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    197
+
+  
+       
+    
+      G
+      
+    
+  
+  
+    
+  
+  
+    G
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    197
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    8434
+
+  
+       
+    
+      H
+      
+    
+  
+  
+    
+  
+  
+    H
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026168
+    8434
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+  
+
+
+
+    Quiz Score:
+  0 out of 3
+    
+        This quiz score has been manually adjusted by -3.0 points.
+    
+
+ 
+
+
+
+
+  current
+  6660414
+
+
+          

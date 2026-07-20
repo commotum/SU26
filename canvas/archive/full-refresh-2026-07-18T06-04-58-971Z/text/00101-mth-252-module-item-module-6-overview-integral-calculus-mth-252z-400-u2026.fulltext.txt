@@ -1,0 +1,52 @@
+
+            
+
+  
+
+
+
+    Module 6  — Overview
+    
+
+  
+    
+
+Introduction
+We continue our study of new integration techniques that will allow us the evaluate integrals involving combinations of elementary functions.  This week we turn our attention to trigonometric substitution and separately partial fraction decomposition.  Trigonometric substitution borrows ideas from u-substitution and allows us to use Pythagorean identities of trigonometry to “simplify” integrals, which then we can evaluate.  Partial fraction decomposition is a tool of algebra that allows us to rewrite a fraction of polynomials as a sum of “simpler” fractions of polynomials. In this simpler form we will be able to evaluate integrals, to achieve our goal.
+Module Learning Outcomes
+After successful completion of this module, you will be able to: 
+
+Evaluate integrals using trigonometric substitution techniques.
+Use reference triangles while employing trigonometric substation techniques.
+Express rational functions using partial fraction decomposition, with both linear factors and irreducible quadratics.
+Combine techniques of integration to evaluate (definite and indefinite) integrals.
+
+This module aligns with the following course learning outcomes: 3, 4.
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following (in brackets are the Module Learning Outcomes corresponding to each activity):
+
+Review the Learning Materials and complete the Practice Activities (MLOs 1-4)
+Complete the Alta Assignments (MLOs 1-4)
+Submit the Written Homework (MLOs 1-4)
+Contribute to the Discussion Reflection (MLOs 1-4)
+
+    
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

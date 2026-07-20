@@ -1,0 +1,27 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the integral.
+          - paragraph:
+            - generic: ∫
+            - generic: 𝑥
+            - generic: √
+            - generic: "8"
+            - generic: −
+            - generic: 𝑥
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral of x the square root of 8 minus x d x, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - text: as much as possible.)
+        - group "Math Equation":
+          - generic: "\\\\( \\displaystyle{\\int{ x\\sqrt{8-x} \\,dx} = } \\\\)"
+          - textbox
+    - paragraph
+    - paragraph
+- alert: Integration Hub
+- button "Open Resource Center"
+- document

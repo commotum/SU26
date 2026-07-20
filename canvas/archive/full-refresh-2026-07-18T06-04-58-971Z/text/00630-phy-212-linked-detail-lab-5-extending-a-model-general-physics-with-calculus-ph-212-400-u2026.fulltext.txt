@@ -1,0 +1,401 @@
+
+            
+
+  
+
+
+
+    Lab 5 Extending a Model
+  
+    PH212 – General Physics with Calculus
+Experimental goal: Determine whether the model for the period of a pendulum, which you tested last week, applies to large-amplitude oscillations.
+Models are not usually valid for all possible situations. In order to use a model to make predictions about real life, it’s important to know what its limitations are.
+
+
+
+
+As you work through the lab:
+Q#: Bold, numbered items reference things that need to be included in your lab report questions to answer, data, plots, or drawings■ Items with a square bullet are action items you’ll need to do to progress through the lab.➤ Items with an arrow are hints, tips, or things to keep in mind when completing tasks.
+Boxed information is about either the expectations for your lab reports or key concepts for the course.
+
+
+
+
+.Learning ObjectivesLearning goal: Explore and understand how data collection methods and the range over which measurements are collected impact the conclusions you can make.
+This lab activity is designed to help students practice the following skills:
+
+
+
+Design an experiment to test a hypothesis.
+Use available equipment to collect data in a systematic way.
+Fit simple functions to a data set.
+Write a clear and complete Procedure that allows others to replicate the experiment.
+Write a scientific Discussion that interprets data in the context of a physical model. 
+
+
+
+Related Documents
+
+Excel Skills Document
+
+Equipment
+
+
+
+A computer with Excel installed
+Stopwatch
+Ruler or metric tape measure
+Protractor or picture of a protractor printed on a page
+Damage-free picture hanging hook (Command® strip)
+Small mass with negligible air resistance (e.g., a key ring, 12 oz soda can, or a lead fishing weight (at least 4 oz))
+String (dental floss works well)
+Scissors
+Refer to Lab materials page on canvas for future lab supplies needed
+
+
+
+We advise against using the web version of Excel in this course. It doesn’t have all the functionality you’ll need.
+ 
+Introduction: A Risky Jump
+You and your lab team have been hired to consult on a precision acrobatics show. There are many dangerous stunts in the show, requiring careful planning for safe performances. Right now, your team will evaluate an act involving a large swing with a person on it. Specifically, you must decide how the amount of time to complete a full back-and-forth motion (the period) depends on the angular displacement (amplitude) of the swing. Since we don’t have the space to set up a real swing in lab today, we will instead use a pendulum for a smaller-scale test.
+ 
+Part 1: The Model
+In the previous lab, we found that a good fit for the period of a simple pendulum is proportional to the square root of the pendulum’s length. This model does not include any amplitude (angle) dependence.
+The goal of today’s activity is to evaluate whether the period of a pendulum is truly independent of the angle of amplitude of the swing. The model that we’re testing is:
+      Eq. (1)
+We have tested this for a small amplitude and found it to be a valid model. We would now like to see if there really is no dependence on amplitude by testing over a wide range of angles. 
+
+
+
+
+What is a Model?
+An equation and its assumptions are a model—a representation of physical behavior that may be expected to apply to a real system under certain conditions as stated. A model should both explain and predict physical behavior. Experiments are designed to check our understanding by testing a prediction made using the model, or hypothesis, of the situation.
+
+Start by using a hypothesis, or model, to make a prediction about the expected behavior of a specific system. (In this activity the hypothesis is provided.)
+Design an experiment to check this prediction. The experiment should be designed such that the data (and subsequent analysis) can either agree or disagree with prediction.
+
+If your results agree with your prediction, then we say that the experiment supports the hypothesis or model. If not, we say that the experiment refutes the hypothesis. All models have limitations in their applicability; experiments are the means by which we explore those limits.
+
+
+
+
+.
+In this lab the models and predictions have been provided to you. To test the model of Eq. (1), you will need to determine a method for precisely measuring the period of a pendulum at several different amplitudes.
+ 
+Part 2: Plan the Experiment
+In the last lab, you identified possible improvements that your group could make to the procedure for measuring the period. Today you will use an improved version of your procedure to carefully measure the period over a wide range of amplitudes.
+Q1: Describe your experimental set-up. Include a clearly labeled diagram that you can use to define the variables involved. Make sure you represent the important aspects of the experiment, including angles. For your group report, include one answer that represents the experimental set-up of all of your group members.
+ 
+Q2: Read the box below about assumptions.  
+
+
+
+
+
+
+
+
+
+ Identify at least two important assumptions required to state that your apparatus in this experiment models the real-world problem described in the introduction.
+ What are the justifications for making these assumptions?
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+Assumptions
+A hypothesis typically includes assumptions about the situation being modeled. This could be ignoring a force or assuming it’s constant, or making some other simplification. For example:
+
+In free fall, we assume air resistance is negligible (so small that its effects can be ignored).
+Hooke’s law assumes the elasticity of a spring is constant – the spring constant.
+Calculations of Earth’s gravity may assume a perfectly spherical planet.
+
+These assumptions may or may not be justified. For example:
+
+A billiard ball on Earth falls for at least short distances with an acceleration of g, the same as in a vacuum, as if there were no air. Assuming air resistance is negligible is valid when considering its motion.
+A sheet of paper falls much more slowly. The assumption that air resistance is negligible is not valid – predictions made from a model that ignores air resistance will not match what is observed.
+
+Identifying, justifying, and checking assumptions is an important part of an experiment.
+
+
+
+
+.
+As stated above, the goal of today’s experiment is to test whether the model  is still valid for motion with a large amplitude.
+
+You’ll need to measure the period at a range of different amplitudes (up to at least 60°. Larger amplitudes are better).
+
+ 
+Uncertainty in the period: 
+At each amplitude:
+
+You should make one measurement of the period over one or more swings. This will give you one measurement of the period with an associated measurement uncertainty.
+You should repeat the measurement at that angle multiple times to see how consistent your result is. You can then find your statistical uncertainty from the standard deviation of your individual measurements or by taking half the spread of the data.
+
+Your total uncertainty for the period at that angle will be a combination of the measurement and statistical uncertainties. This is described further in the section on Analyzing the Data
+ 
+Q3: Describe your experimental procedure, incorporating the information above.
+
+
+
+
+
+
+
+
+
+ List the steps in sufficient detail that someone familiar with the equipment could reproduce your experiment. Be sure to explain how you will determine the period from your timing measurements, and clearly identify any changes you have made to your procedure since the previous lab.
+ State the pendulum length your group will use and list the starting angles at which each member of your group will measure the period. (Refer to your Lab 3 Q2 response from last week)
+
+
+
+
+We recommend that each group member measure the period at least three different starting angles (between approximately 15° and 60°), with larger amplitudes preferred.
+
+
+
+
+
+ 
+ 
+The role of “error” bars 
+Recall from the previous lab (see the appendix of this handout to review the key information) that we can never know the “true value” of a measurand (measured quantity). Error bars, more properly but virtually never called uncertainty bars, represent the uncertainty in a data point and are crucial to fully represent what we know about a measurand.
+The error bars in the graph represent a range of possible values for the measurand. For two points to be confirmed as different, their error bars shouldn’t overlap – in other words, if the error bars for two measurements overlap, you cannot rule out the possibility that they are the same. To confirm that a data point deviates from your expectations, the full range of its error bars should be outside your expectation.
+ 
+Q4: Plan your analysis. Describe how you will use your data to check if there is a relationship between starting amplitude and period. Remember, we are predicting that there is no relationship between period and angle. What can you look for in your data that might suggest there really is a relationship? Don’t forget to think about uncertainty in your measurements in your planned analysis.
+ 
+Part 3: Collect Data
+Perform your experiment and record your data. This should include the value and uncertainty of each measurement at each angle. It may also include an average and statistical uncertainty over all the runs at each angle.
+Q5: Include a copy of your data table(s), including column labels with units. Report the uncertainty in each measurement using the 𝑨 ± ∆𝑨 format (an explanation of how to find uncertainty is explained in the Uncertainty in the period section).
+ 
+Part 4: Analyze the Data
+Now, plot the data that you collected.
+Q6: Perform the analysis that you planned previously.
+
+
+
+
+
+
+
+
+
+
+
+ Calculate the total uncertainty at each angle  by adding the measurement and statistical uncertainties in quadrature: 
+ Include any graphs you make, with all the required elements. Add the total uncertainty to your plot as error bars. (See the appendix at the end of this handout for a reminder of what you should include in a graph.)
+
+
+
+
+
+
+
+
+
+
+
+ 
+Part 5: Reflect and Conclude
+This activity is meant to show how an experiment tests a hypothesis or model by checking a prediction. You should now have a graph you can use to evaluate the model. 
+Discuss the questions below with your group and provide a single answer you all agree on. Making a recommendation is the ultimate goal of your experiment!
+Q7: Based on this experiment, is the period independent of angle?
+
+
+
+
+
+
+
+
+
+
+
+ If it is independent, justify your conclusion using the data from your experiment and discuss the effects of uncertainty on your conclusion.
+ If it is dependent on angle, what does the relationship seem to be? Try different curve fits to determine which relationship seems to be the best. Be sure to discuss the effects of uncertainty on your conclusion.
+
+
+
+
+
+
+
+
+
+
+
+ 
+Q8: How did the range over which you collected your measurements and the precision of your data collection methods impact the conclusions you were able to draw? Reflect on any limitations you encountered and how different approaches might have altered your results.
+ 
+Q9: In the act, the performer plans to swing at a maximum amplitude of 60º. Based on your results, would you recommend they use the model given by Eq. (1) or should they use a different one to ensure their safety? Justify your recommendation.
+ 
+Part 6: Capstone Component – Procedure & Discussion
+In scientific writing, the Procedure and Discussion sections work together to show not only what you did, but also what your results mean. The Procedure describes how you designed and carried out your experiment so that someone else could repeat it. The Discussion interprets your results in the context of the physical model you were testing.
+In this activity, you will write both a Procedure and a Discussion section based on your group’s investigation of whether the small-angle pendulum model remains valid for larger-amplitude oscillations. In your Procedure, you will clearly explain how you measured the pendulum’s period at different starting angles and how your setup allowed you to test the model’s assumptions. In your Discussion, you will use your data to evaluate whether the period truly remains independent of angle, considering uncertainty, trends in your graphs, and limitations of your method.
+ 
+Q10: Write a Procedure and Discussion section for this lab experiment. Refer below for guidance on what to include in the Procedure. 
+ 
+IV. Procedure Structure:
+
+
+
+Overview of Experimental Design (1–3 sentences) What system were you studying? What were the main physical quantities you were trying to measure or compare? What model or prediction were you testing?  
+
+➤  You studied the motion of a simple pendulum and measured the period of oscillation for different starting angles. What model are you testing to see if it remains valid and what does it predict about the period versus the amplitude? 
+
+
+
+List of Materials (bulleted list or short paragraph) What materials did you use? Be specific.  
+
+➤  You can generalize the masses you used in your pendulums as a “pendulum bob”
+
+
+
+Experimental Setup (2–3 sentences or a labeled diagram) How did you arrange your equipment? What was the general setup for each trial?  
+
+➤  How was the pendulum suspended? How did you measure its length? How did you set the starting angle for each trial?
+➤  Include a labeled diagram of your experimental setup (Q1 response) 
+
+
+Data Collection Strategy (2–3 sentences) How many data points did you collect? How did you ensure reliable and reproducible measurements? 
+
+➤  What range of angles did you test? How many trials did you take at each angle? Did you time one swing or multiple swings per trial, and why?
+
+
+Safety or Error Considerations (optional, 1–2 sentences) Were there any precautions you took to improve safety or reduce error?          ➤  How did you reduce reaction-time error? How did you ensure the pendulum moved in a single plane and didn’t twist? 
+Step-by-Step Procedure (bullet points or paragraph form) Describe the process you followed to collect data. 
+
+➤  Include things like: how you measured and fixed the pendulum length, how you set each starting angle, how you released the pendulum, how you timed the motion, how many oscillations you timed and how you calculated the period, why you chose your specific angle spacing or number of trials.
+
+
+
+
+
+V. Discussion Structure:
+
+
+
+Overview of the Experiment (1–2 sentences) What physical system where you studying? What was the goal of the experiment? 
+
+➤  What model for the pendulum period were you testing?
+➤  What variable was intentionally changed, and what was held constant?
+
+
+
+Key Quantitative Results (2–4 sentences) What quantities did you measure and what was the range of your tests? What calculated values did you obtain? 
+
+➤  What pendulum length did you use?
+➤  What range of starting angles did you test?
+➤  How did the measured period vary across this range?
+➤  Were any differences comparable to or larger than the total uncertainty?
+
+
+
+Visual Representation of Results (1–2 sentences) What graphs, charts, or tables best show your results? 
+
+➤  What quantities were plotted on each axis?
+➤  How did the inclusion of uncertainty (error bars) affect your interpretation?
+➤  Did the data visually support or challenge the prediction of angle independence?
+
+
+Trends and Patterns Observed (1–2 sentences) What general behavior did the data show? Did the trend match the prediction from your model? 
+
+➤  Does the period appear independent of angle within uncertainty?
+➤  At what amplitudes, if any, do deviations from the model become noticeable?
+➤  Are these deviations large enough to be considered significant?
+
+
+Limitations and Model Extension (2–3 sentences) What limits your ability to draw a strong conclusion, and how might the experiment be improved? 
+
+➤  How did measurement uncertainty affect your ability to detect angle dependence?
+➤  How did the range of amplitudes tested influence your conclusions?
+➤  What changes to the procedure could better test the limits of the small-angle approximation?
+
+
+
+
+
+ 
+Part 7: Lab Group Check-In Survey
+This short survey helps your TA monitor group dynamics and support you during the labs. Please answer honestly about how your group is working together. Your responses will remain anonymous unless you choose to include your name. The survey is worth 5 points toward your lab grade and is graded only on completion, not on the content of your answers. Use this as a chance to raise any concerns to your TA (for example, if group members are not contributing to the lab report) or if you would like your TA to address anything during your lab meetings. Please complete this survey by the same deadline as your lab report submission.
+
+Lab Group Check-In Survey (Lab 5)
+
+ 
+Part 8: Submit Your Group’s Lab Report
+Make sure everyone’s name is on your group’s lab report. If you submit through Gradescope, remember to add everyone in your group to the assignment. This is done at the end of the submission process.
+
+How to add group members to your submission in Gradescope is outlined here
+
+ 
+Appendix – Reference Information
+This section contains key information from previous labs:
+
+Required Plot Elements
+What is Uncertainty?
+Sources of Uncertainty
+Linearization
+
+ 
+Required Plot Elements
+
+Do not connect the data points with lines.
+Make sure you create Scatter Plots and not Line Plots.
+Evaluate if the plot makes sense. Are the axes correct? Do you have the right number of data points?
+Include a descriptive title and labels on each axis, always including physical units.
+Add a legend, unless you only have one set of data and the title describes it.
+Display the equation and R2 value for any trendline you include.
+
+ 
+What is Uncertainty?
+Uncertainty is the acknowledgement that we cannot measure things exactly, and so any conclusion based on measurements will always include a range of possible answers. When making a measurement, there is no single “true value” of the measurand (measured quantity) that we can determine. Instead, we can define an interval that defines the range of values that we think are probable for the measurand. The narrower the interval, the more precisely we can approximate the measurand.
+When including uncertainty in a value, we report it as A ± ΔA. We believe the value is A, but we’re unable to rule out the possibility that it’s higher or lower by an amount ΔA. (Sometimes it’s written +Δ1 / -Δ2 if the higher and lower ranges are different.) For example, a time might be reported as 2.45 s ± 0.03 s.
+ 
+Sources of Uncertainty:
+The uncertainty in a measurement can be due to a combination of several factors. A crucial aspect of experimentation is to identify all such sources of uncertainty and to numerically estimate their effect on your measurement result.
+Common sources of uncertainty include:
+
+the effects of environmental conditions on the measurement
+your judgement in reading analogue instruments
+the sensitivity of your instruments (e.g. the digital scale)
+the rating or stated calibration of the instrument
+approximations and assumptions that you make while doing the experiment
+variations in repeated readings made under apparently identical conditions
+
+ 
+Linearization
+In the context of data analysis, “linear” refers to a directly proportional relationship between the dependent and independent variables in an equation.
+
+Mathematically, if two variables 𝑥 and 𝑦 have a linear relationship, we can express this as 𝑦 = 𝑚𝑥 + 𝑏 where m and b are constants.
+More simply, we can write this as 𝑦 ∝ 𝑥 where ∝ means “is proportional to”.
+When graphed, data with a linear relationship falls on a straight line.
+
+Linearization comes in handy when your data or hypothesis is not linear. 
+ 
+When you fit data with a linear trendline, you are essentially checking whether the two variables are proportional to each other. To check a nonlinear hypothesis, can we instead check if one variable is proportional to a function of the other variable.
+In practice, linearization is done by calculating a new column of data, that gives the values of a function of the input variable. Typically, the input variable is the independent variable, and the function is chosen so that the resulting quantity is proportional to the dependent variable.
+ 
+Why Linearize?
+
+Linear data is typically easier to understand and analyze.
+There are analysis methods we can apply to linear data that don’t work as well (or at all) with nonlinear data.
+It is relatively easy to fit a line to data - there are just two important values to determine: the slope and intercept of the data.
+
+ 
+ 
+
+
+
+
+
+
+          

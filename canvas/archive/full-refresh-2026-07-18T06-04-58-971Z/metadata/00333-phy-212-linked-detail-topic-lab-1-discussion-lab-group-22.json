@@ -1,0 +1,302 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 0,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22 Lab 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 15,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 16,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973",
+      "index": 17,
+      "raw_href": "/groups/733396/discussion_topics/11579973",
+      "rel": "",
+      "target": "",
+      "text": "Lab 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 18,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/announcements",
+      "index": 19,
+      "raw_href": "/groups/733396/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/wiki",
+      "index": 20,
+      "raw_href": "/groups/733396/wiki",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/users",
+      "index": 21,
+      "raw_href": "/groups/733396/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 22,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/files",
+      "index": 23,
+      "raw_href": "/groups/733396/files",
+      "rel": "",
+      "target": "",
+      "text": "Files",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/collaborations",
+      "index": 24,
+      "raw_href": "/groups/733396/collaborations",
+      "rel": "",
+      "target": "",
+      "text": "Collaborations",
+      "title": ""
+    }
+  ],
+  "main_links": [],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563804",
+  "resolved_url": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579973",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Topic: Lab 1 Discussion - Lab Group 22",
+  "page_id": "00333-phy-212-linked-detail-topic-lab-1-discussion-lab-group-22",
+  "captured_at": "2026-07-18T06:26:08.298Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00023-phy-212-discussions-discussions-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Lab 1 DiscussionLab 1 Discussion Available until Aug 15, 11:59 PM Due Jun 25, 11:59 PM Last post at Jul 4, 2:12 PM",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11579973",
+  "html_sha256": "703f2ea79ee7bcc3e0d4c8fc5627247b50a31df3108599ecb2d6e3385a3cce77",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "requires_external_handler": false
+}

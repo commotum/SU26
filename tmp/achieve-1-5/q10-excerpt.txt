@@ -1,0 +1,53 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the integral.
+          - paragraph:
+            - generic: ∫
+            - generic: "5"
+            - generic: c
+            - generic: o
+            - generic: s
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: s
+            - generic: i
+            - generic: "n"
+            - generic: "2"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral of 5 cosine x over sine squared x d x, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - paragraph:
+            - generic: ∫
+            - generic: "5"
+            - generic: c
+            - generic: o
+            - generic: s
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: s
+            - generic: i
+            - generic: "n"
+            - generic: "2"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral of 5 cosine x over sine squared x d x equals, math"
+          - textbox
+      

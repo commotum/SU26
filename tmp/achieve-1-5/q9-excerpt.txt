@@ -1,0 +1,55 @@
+- generic "Question content":
+        - group "Ungraded Text":
+          - paragraph: Evaluate the integral.
+          - paragraph:
+            - generic: ∫
+            - generic: "2"
+            - generic: s
+            - generic: e
+            - generic: c
+            - generic: "2"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑒
+            - generic: t
+            - generic: a
+            - generic: "n"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - img "the integral of 2 secant squared x e raised to the tangent x power d x, math"
+          - paragraph:
+            - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+            - generic: 𝐶
+            - img "C, math"
+            - text: for the arbitrary constant. Absorb into
+            - generic: 𝐶
+            - img "C, math"
+            - text: as much as possible.)
+        - group "Math Equation":
+          - paragraph:
+            - generic: ∫
+            - generic: "2"
+            - generic: s
+            - generic: e
+            - generic: c
+            - generic: "2"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑒
+            - generic: t
+            - generic: a
+            - generic: "n"
+            - generic: (
+            - generic: 𝑥
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝑥
+            - generic: =
+            - img "the integral of 2 secant squared x e raised to the tangent x power d x equals, math"
+          - textbox
+      

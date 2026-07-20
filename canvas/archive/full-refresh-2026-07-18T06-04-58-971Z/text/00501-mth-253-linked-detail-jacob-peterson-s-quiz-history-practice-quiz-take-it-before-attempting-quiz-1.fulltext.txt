@@ -1,0 +1,420 @@
+
+            
+
+
+
+
+  
+      Practice Quiz (take it before attempting Quiz 1!) Results for Jacob Peterson
+
+  
+
+
+
+  
+    
+    
+
+    
+    
+
+
+
+    Score for this attempt:
+  5 out of 20
+  *
+    
+  
+    *
+      Some questions not yet graded
+  
+
+  Submitted Jun 26 at 7:26pm
+
+
+  This attempt took 1 minute.
+
+
+  
+
+   
+  Correct answer
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 1
+      
+        
+            5
+           / 5 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      multiple_choice_question
+      
+         
+      111017010
+    
+    
+      
+        
+        <p>What is the limit \(\lim\limits_{n\to\infty}\frac{1}{n}\)?</p>
+      
+      
+          What is the limit \(\lim\limits_{n\to\infty}\frac{1}{n}\)?
+      
+      
+              
+                
+  
+
+    618
+
+  
+       
+    
+      0
+      
+    
+  
+  
+    
+  
+  
+    0
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59149565
+    618
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    100
+    
+      Good job!
+      Good job!
+    
+
+  
+
+
+  
+
+  
+
+    4838
+
+  
+       
+    
+      \(\infty\)
+      
+    
+  
+  
+    
+  
+  
+    \(\infty\)
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59149565
+    4838
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    6636
+
+  
+       
+    
+      limit does not exist
+      
+    
+  
+  
+    
+  
+  
+    limit does not exist
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59149565
+    6636
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+  
+
+    1708
+
+  
+       
+    
+      \(n\)
+      
+    
+  
+  
+    
+  
+  
+    \(n\)
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59149565
+    1708
+    
+  
+    
+      0 (with margin: 0)
+    
+    
+      
+        0
+       (with precision: 10)
+    
+    
+      Between 0 and 0
+    
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    0
+
+  
+
+
+  
+
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 2
+      
+        
+            Not yet graded
+           / 15 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      essay_question
+      
+         
+      111017380
+    
+    
+      
+        
+        <p>Explain what do you think we mean when we say that the series&nbsp; \(\sum\limits_{n=1}^{\infty}a_n\) is divergent.</p>
+<p>&nbsp;</p>
+<p><strong>Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit.&nbsp;</strong></p>
+      
+      
+          Explain what do you think we mean when we say that the series  \(\sum\limits_{n=1}^{\infty}a_n\) is divergent.
+ 
+Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit. 
+      
+      
+            
+                Your Answer:
+                A divergent series is an infinite sum that does not reach one final answer. Since we keep adding terms forever, the total does not settle down.Practice-Quiz.pdfDownload Practice-Quiz.pdf
+            
+              
+                
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+  
+
+
+
+    Quiz Score:
+  5 out of 20
+    
+      *
+        Some questions not yet graded
+    
+
+ 
+
+
+
+
+  current
+  6660414
+
+
+          
