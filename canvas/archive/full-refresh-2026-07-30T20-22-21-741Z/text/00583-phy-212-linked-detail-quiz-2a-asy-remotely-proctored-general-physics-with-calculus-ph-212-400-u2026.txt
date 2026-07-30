@@ -1,0 +1,76 @@
+Quiz 2A_asy (Remotely Proctored)
+Due Jul 20 at 4:55pm Points 35 Questions 4 Available Jul 18 at 5pm - Aug 14 at 4:55pm Time Limit 30 Minutes
+Instructions
+
+Instructions
+
+This quiz is timed, you need to complete it within 20 minutes of starting.
+
+Keep track of your answers and show your work on paper in your own handwriting.
+
+Upload a pdf of your work to Quiz 2A_asy_work in Gradescope within 5 minutes of exiting Proctorio. If your work is uploaded more than 5 minutes after finishing the Proctorio quiz, you will not receive credit.
+
+ Correct answers are hidden.
+Score for this quiz: 5 out of 35
+Submitted Jul 20 at 4:17pm
+This attempt took 28 minutes.
+ 
+Question 1
+0 / 5 pts
+
+A string passing over a massive pulley connects solid iron blocks as shown, causing the system to accelerate. Assume no friction or air resistance. Rank the forces in the system.
+
+  m1g = T1 = m2g = T2
+  T2 > m2g > T1 > m1g
+  T2 = T1 > m2g > m1g
+  m2g > m1g > T1 = T2
+  m2g > T2 > T1 > m1g
+  m2g > T2 = T1 > m1g
+  m2g > T2 > m1g > T1
+  m2g > m1g > T2 > T1
+ 
+Question 2
+5 / 5 pts
+Two solid cylinders have the same mass, but the radius of cylinder B is twice that of cylinder A. They start from rest at the same height on a ramp and roll to the bottom without slipping. Assume the rolling friction is negligible and that they each have constant density. Which cylinder is moving faster at its center of mass at the bottom of the ramp?
+  cylinder A is moving faster
+  cylinder B is moving faster
+  They have the same speed
+ 
+Question 3
+0 / 5 pts
+
+In System I, a single planet with speed VI orbits a star. System II has 2 planets orbiting at the same radius as shown with the same masses for the planets and star as the first system. What can be said about the gravitational potential energy in the two systems?
+
+  
+
+UI < UII
+
+  
+
+UI = UII
+
+  
+
+UI > UII
+
+ 
+Question 4
+0 / 20 pts
+
+Point masses are stuck to a uniform pole of mass mp as shown in this top-down view. The system is rotating in the plane of the page about its center of mass at angular speed ω. 
+
+Show all work and solve in terms of given variables as shown in the diagram.
+
+A. Find the center of mass of the system measured from the left end of the pole.
+
+B. What is the tangential speed of m2?
+
+Place your initials in the textbox to indicate you have read the question.
+
+Upload your scan pdf to Quiz2A_asy_work in Gradescope.
+
+Your Answer:
+
+JP
+
+Quiz Score: 5 out of 35

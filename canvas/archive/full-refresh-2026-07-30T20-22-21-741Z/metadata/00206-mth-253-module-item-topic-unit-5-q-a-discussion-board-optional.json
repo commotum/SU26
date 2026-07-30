@@ -1,0 +1,413 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Unit 5 - Q&A Discussion Board (Optional)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 16,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494",
+      "index": 17,
+      "raw_href": "/courses/2053263/discussion_topics/11558494",
+      "rel": "",
+      "target": "",
+      "text": "Unit 5 - Q&A Discussion Board (Optional)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 18,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 21,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 22,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 23,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 24,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 25,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 29,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    }
+  ],
+  "main_links": [],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885587",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics/11558494?module_item_id=26885587",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Topic: Unit 5 - Q&A Discussion Board (Optional)",
+  "page_id": "00206-mth-253-module-item-topic-unit-5-q-a-discussion-board-optional",
+  "captured_at": "2026-07-30T20:32:21.091Z",
+  "source_kind": "module_item",
+  "discovered_from": "00010-mth-253-modules-course-modules-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "Unit 5 - Q&A Discussion Board (Optional)",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11558494",
+  "html_sha256": "6b05a0a7f855bd370f340b57922d0f18f9b089673e9709d87d5a87f3df85537e",
+  "text_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "requires_external_handler": false
+}

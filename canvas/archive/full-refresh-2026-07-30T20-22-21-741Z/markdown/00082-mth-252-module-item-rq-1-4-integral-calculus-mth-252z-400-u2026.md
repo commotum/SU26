@@ -1,0 +1,54 @@
+# RQ-1.4 : INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+
+- Course: MTH-252
+- Source surface: module_item
+- Requested URL: https://canvas.oregonstate.edu/courses/2080857/modules/items/26982577
+- Resolved URL: https://canvas.oregonstate.edu/courses/2080857/quizzes/3167664?module_item_id=26982577
+- Captured: 2026-07-30T20:26:07.090Z
+- Canvas object: quiz 3167664
+- Redirected: yes
+
+## Headings
+- H1: RQ-1.4
+- H2: Instructions
+- H2: Purpose
+- H2: Instructions
+- H4: Quiz results are protected for this quiz and can be viewed a single time immediately after submission.
+
+## Visible Text
+RQ-1.4
+Due Jul 20 at 11:59pm Points 10 Questions 4 Available after Jul 7 at 12am Time Limit None Allowed Attempts 2
+Instructions
+Purpose
+
+The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation.  
+
+
+Instructions
+
+Complete this quiz after reading through the corresponding section of the OpenStax textbook.
+
+Reading: https://openstax.org/books/calculus-volume-2/pages/1-4-integration-formulas-and-the-net-change-theorem
+Links to an external site.
+
+ 
+
+Take the Quiz Again
+Quiz results are protected for this quiz and can be viewed a single time immediately after submission.
+ Correct answers are hidden.
+Score for this attempt: 10 out of 10
+
+## Links
+- https://openstax.org/books/calculus-volume-2/pages/1-4-integration-formulas-and-the-net-change-theoremLinks to an external site. -> https://openstax.org/books/calculus-volume-2/pages/1-4-integration-formulas-and-the-net-change-theorem
+- Take the Quiz Again -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167664/take?user_id=6660414
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Purpose The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation. Instructions Complete this quiz after reading through the corresponding section of the OpenStax textbook. Reading: https://openstax.org/books/calculus-volume-2/pages/1-4-integration-formulas-and-the-net-change-theoremLinks to an external site.
+- Links to an external site.
+- Warning

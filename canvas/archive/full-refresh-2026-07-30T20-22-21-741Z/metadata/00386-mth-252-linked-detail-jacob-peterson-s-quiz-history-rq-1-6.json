@@ -1,0 +1,739 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/submissions/31785811",
+      "index": 0,
+      "method": "post",
+      "text": "Score for this attempt: 10 out of 10 Submitted Jul 21 at 1:53am This attempt took 2 minutes. Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040467 According to the examples with solutions in the reading, when integrating logarithms and exponentials, I should consider using u-substitution along the way to possibly simplify my process.&nbsp; According to the examples with solutions in the reading, when integrating logarithms and exponentials, I should consider using u-substitution along the way to possibly simplify my process. 6449 True True exact_answer none 59201287 6449 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1038 False False exact_answer none 59201287 1038 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 Correct answer Move To..."
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H2",
+      "text": "RQ-1.6 Results for Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040467 According to the examples with solutions in the reading, when integrating logarithms and exponentials, I should consider using u-substitution along the way to possibly simplify my process.&nbsp; According to the examples with solutions in the reading, when integrating logarithms and exponentials, I should consider using u-substitution along the way to possibly simplify my process. 6449 True True exact_answer none 59201287 6449 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1038 False False exact_answer none 59201287 1038 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 1,
+      "text": "Move To..."
+    },
+    {
+      "index": 2,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 3,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 4,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 5,
+      "text": "Correct!"
+    },
+    {
+      "index": 6,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040465 <p>According to the rules given in the reading,&nbsp;</p> <p style=\"text-align: center;\"><img class=\"equation_image\" title=\"\\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(x\\right)+C\" src=\"/equation_images/%255Cint%2520x%255E%257B-1%257Ddx%255C%253A%253D%255C%253A%255Cint%255Cfrac%257B1%257D%257Bx%257Ddx%253D%255Cln%255Cleft(x%255Cright)%252BC?scale=1\" alt=\"LaTeX: \\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(x\\right)+C\" data-equation-content=\"\\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(x\\right)+C\" data-ignore-a11y-check=\"\"></p> According to the rules given in the reading, ∫x−1dx=∫1xdx=ln(x)+C\\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(x\\right)+C 2937 True True exact_answer none 59201285 2937 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8078 False False exact_answer none 59201285 8078 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Yes, we need to include the absolute values inside the ln: ∫x−1dx=∫1xdx=ln(|x|)+C\\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(\\left|x\\right|\\right)+C Yes, we need to include the absolute values inside the ln: ∫x−1dx=∫1xdx=ln(|x|)+C\\int x^{-1}dx\\:=\\:\\int\\frac{1}{x}dx=\\ln\\left(\\left|x\\right|\\right)+C"
+    },
+    {
+      "index": 7,
+      "text": "Move To..."
+    },
+    {
+      "index": 8,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 9,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 10,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 11,
+      "text": "Correct!"
+    },
+    {
+      "index": 12,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040468 <p>Applying 1.1/1.2 reading to the current topic, the (finite) Riemann sum right-endpoint approximation, with n=100 rectangles, that approximates the given integral is</p> <p style=\"text-align: center;\"><img class=\"equation_image\" title=\"\\int_1^3\\ln\\left(x^2+1\\right)dx\\:\\approx\\sum_{i=1}^{100}\\ln\\left(x_i^2+1\\right)\\:\\left(\\frac{1}{50}\\right)\" src=\"/equation_images/%255Cint_1%255E3%255Cln%255Cleft(x%255E2%252B1%255Cright)dx%255C%253A%255Capprox%255Csum_%257Bi%253D1%257D%255E%257B100%257D%255Cln%255Cleft(x_i%255E2%252B1%255Cright)%255C%253A%255Cleft(%255Cfrac%257B1%257D%257B50%257D%255Cright)\" alt=\"LaTeX: \\int_1^3\\ln\\left(x^2+1\\right)dx\\:\\approx\\sum_{i=1}^{100}\\ln\\left(x_i^2+1\\right)\\:\\left(\\frac{1}{50}\\right)\" data-equation-content=\"\\int_1^3\\ln\\left(x^2+1\\right)dx\\:\\approx\\sum_{i=1}^{100}\\ln\\left(x_i^2+1\\right)\\:\\left(\\frac{1}{50}\\right)\">.</p> Applying 1.1/1.2 reading to the current topic, the (finite) Riemann sum right-endpoint approximation, with n=100 rectangles, that approximates the given integral is ∫31ln(x2+1)dx≈∑100i=1ln(x2i+1)(150)\\int_1^3\\ln\\left(x^2+1\\right)dx\\:\\approx\\sum_{i=1}^{100}\\ln\\left(x_i^2+1\\right)\\:\\left(\\frac{1}{50}\\right). 7994 True True exact_answer none 59201288 7994 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 4381 False False exact_answer none 59201288 4381 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 13,
+      "text": "Move To..."
+    },
+    {
+      "index": 14,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 15,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 16,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 17,
+      "text": "Correct!"
+    },
+    {
+      "index": 18,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040466 <p>According to the rules given in the reading,&nbsp;</p> <p style=\"text-align: center;\"><img class=\"equation_image\" title=\"\\int\\ln\\left(x\\right)dx\\:=x\\cdot\\ln\\left(x\\right)+x=x\\left(\\ln\\left(x\\right)+1\\right)\" src=\"/equation_images/%255Cint%255Cln%255Cleft(x%255Cright)dx%255C%253A%253Dx%255Ccdot%255Cln%255Cleft(x%255Cright)%252Bx%253Dx%255Cleft(%255Cln%255Cleft(x%255Cright)%252B1%255Cright)?scale=1\" alt=\"LaTeX: \\int\\ln\\left(x\\right)dx\\:=x\\cdot\\ln\\left(x\\right)+x=x\\left(\\ln\\left(x\\right)+1\\right)\" data-equation-content=\"\\int\\ln\\left(x\\right)dx\\:=x\\cdot\\ln\\left(x\\right)+x=x\\left(\\ln\\left(x\\right)+1\\right)\" data-ignore-a11y-check=\"\"></p> According to the rules given in the reading, ∫ln(x)dx=x⋅ln(x)+x=x(ln(x)+1)\\int\\ln\\left(x\\right)dx\\:=x\\cdot\\ln\\left(x\\right)+x=x\\left(\\ln\\left(x\\right)+1\\right) 8112 True True exact_answer none 59201286 8112 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5551 False False exact_answer none 59201286 5551 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Nice work! A sign is incorrect and a \"+ C\" is missing. The actual value is ∫ln(x)dx=x⋅ln(x)−x+C=x(ln(x)−1)+C\\int\\ln\\left(x\\right)dx\\:=x\\cdot\\ln\\left(x\\right)-x+C=x\\left(\\ln\\left(x\\right)-1\\right)+C"
+    },
+    {
+      "index": 19,
+      "text": "Move To..."
+    },
+    {
+      "index": 20,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 21,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 22,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 23,
+      "text": "Correct!"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2080857/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654",
+      "index": 17,
+      "raw_href": "/courses/2080857/quizzes/3167654",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.6",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades19",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 27,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201287",
+      "index": 29,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201287",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201285",
+      "index": 32,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201285",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201288",
+      "index": 35,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201288",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201286",
+      "index": 38,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201286",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1",
+      "index": 39,
+      "raw_href": "?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1: 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654",
+      "index": 40,
+      "raw_href": "/courses/2080857/quizzes/3167654",
+      "rel": "",
+      "target": "",
+      "text": "Back to Quiz",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 0,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201287",
+      "index": 2,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201287",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201285",
+      "index": 5,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201285",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 6,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201288",
+      "index": 8,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201288",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201286",
+      "index": 11,
+      "raw_href": "/courses/2080857/quizzes/3167654/questions/59201286",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades19"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/history?version=1",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Jacob Peterson's Quiz History: RQ-1.6",
+  "page_id": "00386-mth-252-linked-detail-jacob-peterson-s-quiz-history-rq-1-6",
+  "captured_at": "2026-07-30T20:40:11.808Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00084-mth-252-module-item-rq-1-6-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Attempt 1",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3167654",
+  "html_sha256": "1c9f9d64b9617ef8a9bfc7d5a84e5e46abfe608db5f205da084742d0b2c43fe1",
+  "text_sha256": "34daa7b82667c8377f02bcc0d119ae58754db3d24ebf5c1cf6f182e7758f9d13",
+  "requires_external_handler": false
+}

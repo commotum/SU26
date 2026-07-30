@@ -1,0 +1,768 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)"
+    },
+    {
+      "index": 1,
+      "level": "H1",
+      "text": "Front Page"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Welcome to MTH 252! --> For BOTH Sections 400 and 401"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Course Learning Outcomes"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Jump to a Module"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2080857/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e12a0a10-ceae-4999-8498-ea9f01fa6d57",
+      "title": "Canvas-Overview-Ecampus.mp4",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 2,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 16,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 17,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 18,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 19,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 23,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades21",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "Start Here",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Deadlines",
+      "title": "Deadlines"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541021",
+      "index": 27,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541021",
+      "rel": "",
+      "target": "",
+      "text": "Module 1",
+      "title": "Module 1"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541022",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541022",
+      "rel": "",
+      "target": "",
+      "text": "Module 2",
+      "title": "Module 2"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541024",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541024",
+      "rel": "",
+      "target": "",
+      "text": "Module 3",
+      "title": "Module 3"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541025",
+      "index": 30,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541025",
+      "rel": "",
+      "target": "",
+      "text": "Module 4",
+      "title": "Module 4"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541027",
+      "index": 31,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541027",
+      "rel": "",
+      "target": "",
+      "text": "Module 5",
+      "title": "Module 5"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541028",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541028",
+      "rel": "",
+      "target": "",
+      "text": "Module 6",
+      "title": "Module 6"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541030",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541030",
+      "rel": "",
+      "target": "",
+      "text": "Module 7",
+      "title": "Module 7"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541031",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541031",
+      "rel": "",
+      "target": "",
+      "text": "Module 8",
+      "title": "Module 8"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541033",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541033",
+      "rel": "",
+      "target": "",
+      "text": "Module 9",
+      "title": "Module 9"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541034",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541034",
+      "rel": "",
+      "target": "",
+      "text": "Module 10",
+      "title": "Module 10"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541035",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541035",
+      "rel": "",
+      "target": "",
+      "text": "Finals Module",
+      "title": "Finals Module"
+    },
+    {
+      "download": "",
+      "href": "https://storyset.com/education",
+      "index": 38,
+      "raw_href": "https://storyset.com/education",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Education illustrations by StorysetLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857?view=feed",
+      "index": 39,
+      "raw_href": "/courses/2080857?view=feed",
+      "rel": "",
+      "target": "",
+      "text": "View Course Stream",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar?include_contexts=course_2080857",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/calendar?include_contexts=course_2080857",
+      "rel": "",
+      "target": "",
+      "text": "View Course Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857?view=notifications",
+      "index": 41,
+      "raw_href": "/courses/2080857?view=notifications",
+      "rel": "",
+      "target": "",
+      "text": "View Course Notifications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586010/submissions/6660414",
+      "index": 42,
+      "raw_href": "/courses/2080857/assignments/10586010/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.4 INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586006/submissions/6660414",
+      "index": 43,
+      "raw_href": "/courses/2080857/assignments/10586006/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1) INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586002/submissions/6660414",
+      "index": 44,
+      "raw_href": "/courses/2080857/assignments/10586002/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.3 (RQ-1.3) INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586008/submissions/6660414",
+      "index": 45,
+      "raw_href": "/courses/2080857/assignments/10586008/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.5 INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586001/submissions/6660414",
+      "index": 46,
+      "raw_href": "/courses/2080857/assignments/10586001/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.6 INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/10586007/submissions/6660414",
+      "index": 47,
+      "raw_href": "/courses/2080857/assignments/10586007/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "RQ-3.1 INTEGRAL CALCULUS (MTH_252Z_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "3 more …",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541018",
+      "rel": "",
+      "target": "",
+      "text": "Start Here",
+      "title": "Start Here"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Deadlines",
+      "title": "Deadlines"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541021",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541021",
+      "rel": "",
+      "target": "",
+      "text": "Module 1",
+      "title": "Module 1"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541022",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541022",
+      "rel": "",
+      "target": "",
+      "text": "Module 2",
+      "title": "Module 2"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541024",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541024",
+      "rel": "",
+      "target": "",
+      "text": "Module 3",
+      "title": "Module 3"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541025",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541025",
+      "rel": "",
+      "target": "",
+      "text": "Module 4",
+      "title": "Module 4"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541027",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541027",
+      "rel": "",
+      "target": "",
+      "text": "Module 5",
+      "title": "Module 5"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541028",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541028",
+      "rel": "",
+      "target": "",
+      "text": "Module 6",
+      "title": "Module 6"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541030",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541030",
+      "rel": "",
+      "target": "",
+      "text": "Module 7",
+      "title": "Module 7"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541031",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541031",
+      "rel": "",
+      "target": "",
+      "text": "Module 8",
+      "title": "Module 8"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541033",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541033",
+      "rel": "",
+      "target": "",
+      "text": "Module 9",
+      "title": "Module 9"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541034",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541034",
+      "rel": "",
+      "target": "",
+      "text": "Module 10",
+      "title": "Module 10"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541035",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/3541035",
+      "rel": "",
+      "target": "",
+      "text": "Finals Module",
+      "title": "Finals Module"
+    },
+    {
+      "download": "",
+      "href": "https://storyset.com/education",
+      "index": 13,
+      "raw_href": "https://storyset.com/education",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Education illustrations by StorysetLinks to an external site.",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades21"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857",
+  "source_surface": "home",
+  "tables": [],
+  "title": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00001-mth-252-home-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-07-30T20:22:25.266Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "home",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "course_page",
+  "canvas_object_id": "",
+  "html_sha256": "e98ecaf363530122ecd235f02949969c55118aeef540bca0db8ede85719912a4",
+  "text_sha256": "cfcd385351fa98ba82d3b7d317097775dde0c5286d429812b17f17bce28a9590",
+  "requires_external_handler": false
+}

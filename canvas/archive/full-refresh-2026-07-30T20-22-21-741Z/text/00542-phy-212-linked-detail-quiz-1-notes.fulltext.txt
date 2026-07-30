@@ -1,0 +1,572 @@
+
+            
+
+
+  
+
+
+
+
+
+  
+    
+      
+        Quiz 1 Notes
+      
+    
+
+    
+    
+      
+
+      
+        
+
+      
+    
+  
+    
+
+  
+    Due
+    
+          
+              Jul 4 by 5pm
+          
+  
+    
+      Points
+      5
+    
+    
+      Submitting
+      an external tool
+    
+  
+  
+    Available
+    
+        Jun 28 at 5pm - Aug 14 at 11am
+    
+  
+
+  
+
+
+
+  
+    Notes are required for each quiz. If you do not have a half page to a full page of notes with your photo ID in the uploaded pdf, you will not get credit for the quiz. 
+Please use a 8.5"x11" sheet of paper to create your note sheet. The notes need to be in your own handwriting and contain material current to the quiz.
+Place your photo ID on the note sheet and take a picture of it. Convert your photo to a scan and produce a pdf to upload to Gradescope. If you are not sure how to do this, see the page on Gradescope in the Course information module.
+Please follow the Gradescope link for this assignment to submit your notes and acknowledge the integrity statement for this quiz.
+There is a deduction of 1 point per day for late submission, not to go below 1/2 point.
+  
+
+
+
+
+
+  
+      
+      
+      
+      
+      
+      
+      
+      
+      
+  
+      
+          This tool needs to be loaded in a new browser window
+          
+              
+                  Load Quiz 1 Notes in a new window
+              
+          
+      
+      
+          This tool was successfully loaded in a new browser window. Reload the page to access the tool again.
+      
+  
+  
+
+
+
+
+
+
+  
+
+
+
+  
+    
+      
+      
+      
+    
+    
+
+  
+    
+      
+        Description
+          
+        
+        
+          Please include a description
+        
+      
+      
+        Long Description
+          
+        
+      
+      
+        Cancel
+        Update Criterion
+      
+    
+  
+  
+    
+    
+  
+
+
+  
+  
+    
+      Additional Comments:
+    
+    
+    
+      Cancel
+      Update Comments
+    
+  
+  
+    Additional Comments:
+    
+    
+  
+
+
+  
+    
+  
+  
+    
+      
+        Rating Score
+        Rating max score
+        
+        to >
+          
+        pts
+      
+      
+        Rating Title
+        
+        
+          Please include a rating title
+        
+      
+      
+        Rating Description
+        
+      
+      
+        Cancel
+        Update Rating
+      
+    
+  
+
+
+  
+  
+  
+    
+      
+        Rubric
+      
+    
+    
+      
+        
+          Title:
+          
+        
+        
+           Find Rubric
+        
+        
+          
+            Please include a title
+          
+        
+      
+
+      
+        
+          Find a Rubric
+        
+      
+
+      
+        Title
+      
+      
+        You've already rated students with this rubric. Any major changes could affect their assessment results.
+      
+
+      
+        
+        
+          
+        
+           
+           
+           
+           
+           
+           
+             
+          
+           
+           
+             
+        
+      
+      
+        Can't change a rubric once you've started using it.
+           
+      
+    
+
+    
+      
+        
+          Title
+        
+      
+      
+        
+          Criteria
+          Ratings
+          
+            Pts
+          
+        
+      
+      
+        
+
+  
+    
+      
+        
+          
+          This criterion is linked to a Learning Outcome
+        
+        
+          Description of criterion
+          
+          
+            
+              
+            
+          
+            threshold:
+            5 pts
+          
+        
+        
+          
+            
+              
+              
+                Range
+              
+            
+          
+        
+      
+
+      
+          Edit criterion description
+          Delete criterion row
+      
+    
+  
+  
+      
+          
+            
+              
+                
+                  
+                    5
+                    to >0 pts
+                  
+                  Full Marks
+                  
+                
+                blank
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+                
+                  
+                
+            
+          
+          
+            
+              
+                
+                  
+                    0
+                    to >0 pts
+                  
+                  No Marks
+                  
+                
+                blank_2
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+            
+          
+      
+      
+        This area will be used by the assessor to leave comments related to this criterion.
+      
+  
+  
+    
+      
+           pts
+      
+    
+    
+      
+        
+            /
+        
+        5 pts
+      
+    
+    
+       -- 
+    
+    
+        
+          
+        
+        
+    
+  
+
+
+      
+  
+    
+      
+        
+          
+          This criterion is linked to a Learning Outcome
+        
+        
+          Description of criterion
+          
+          
+            
+              
+            
+          
+            threshold:
+            5 pts
+          
+        
+        
+          
+            
+              
+              
+                Range
+              
+            
+          
+        
+      
+
+      
+          Edit criterion description
+          Delete criterion row
+      
+    
+  
+  
+      
+          
+            
+              
+                
+                  
+                    5
+                    to >0 pts
+                  
+                  Full Marks
+                  
+                
+                blank
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+                
+                  
+                
+            
+          
+          
+            
+              
+                
+                  
+                    0
+                    to >0 pts
+                  
+                  No Marks
+                  
+                
+                blank_2
+                  
+                    
+                      
+                    
+                    
+                      
+                    
+                  
+              
+            
+          
+      
+      
+        This area will be used by the assessor to leave comments related to this criterion.
+      
+  
+  
+    
+      
+           pts
+      
+    
+    
+      
+        
+            /
+        
+        5 pts
+      
+    
+    
+       -- 
+    
+    
+        
+          
+        
+        
+    
+  
+
+    
+
+    
+      
+        
+      
+      
+        Total Points:
+          5 out of 5
+        
+      
+    
+  
+  
+    
+      
+        
+          
+          I'll write free-form comments when assessing students
+        
+      
+        
+          
+            
+            Remove points from rubric
+          
+        
+        
+          
+            
+            Don't post Outcomes results to Learning Mastery Gradebook
+          
+        
+        
+          
+            
+            Use this rubric for assignment grading
+          
+        
+      
+        
+          
+          Hide score total for assessment results
+        
+      
+      
+        
+          Cancel
+          Create Rubric
+        
+      
+    
+  
+
+
+  
+
+  
+
+
+
+
+
+
+
+
+
+          

@@ -1,0 +1,71 @@
+RQ-1.5 
+Due Jul 20 at 11:59pm Points 10 Questions 4 Available after Jul 8 at 12am Time Limit None Allowed Attempts 2
+Instructions
+Purpose
+
+The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation.  
+
+
+Instructions
+
+Complete this quiz after reading through the corresponding section of the OpenStax textbook.
+
+Reading: https://openstax.org/books/calculus-volume-2/pages/1-5-substitution
+Links to an external site.
+
+ 
+
+Take the Quiz Again
+Attempt History
+	Attempt	Time	Score
+LATEST	Attempt 1	
+Time:
+2 minutes	
+Score:
+10 out of 10
+Score for this attempt: 10 out of 10
+Submitted Jul 21 at 1:51am
+This attempt took 2 minutes.
+ 
+Correct answer
+Question 1
+2.5 / 2.5 pts
+According to the problem-solving strategies given in the reading, AFTER we Substitute u = g(x) and du = g'(x)dx in the integral. , we should now be able to evaluate the integral with respect to u. 
+Answer 1:
+Substitute u = g(x) and du = g'(x)dx in the integral. 
+ 
+Correct answer
+Question 2
+2.5 / 2.5 pts
+According to the problem-solving process for integration by substitution, we do NOT need a step to check/verify our substitution because the algorithm process always works. 
+  True 
+  False 
+
+Nice work.  Like the scientific method, solving strategies can benefit from some type of reflection/verification process.
+
+ 
+Correct answer
+Question 3
+2.5 / 2.5 pts
+When applying integration by substitution for definite integrals, ∫
+b
+a
+f(g(x))g′(x)dx=∫
+g(b)
+g(a)
+f(u)du, it is required to convert back to the variable x for the final answer. 
+  True 
+  False 
+
+Nice work! Yes, the conversion is NOT required.  By converting the x-bounds to u-bounds, you do no need to convert back with definite integrals. Note: With indefinite integrals, we DO need to convert back. 
+
+ 
+Correct answer
+Question 4
+2.5 / 2.5 pts
+By scanning the examples given in the reading, the choice of u=g(x) for the substitution appears to often be the "inner" type of function.
+Answer 1:
+"inner" type of 
+Quiz Score: 10 out of 10
+Previous
+Next

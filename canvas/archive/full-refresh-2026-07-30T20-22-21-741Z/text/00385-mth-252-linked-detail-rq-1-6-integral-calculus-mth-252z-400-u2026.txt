@@ -1,0 +1,92 @@
+RQ-1.6 
+Due Jul 20 at 11:59pm Points 10 Questions 4 Available after Jul 8 at 12am Time Limit None Allowed Attempts 2
+Instructions
+Purpose
+
+The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation.  
+
+
+Instructions
+
+Complete this quiz after reading through the corresponding section of the OpenStax textbook.
+
+Reading: https://openstax.org/books/calculus-volume-2/pages/1-6-integrals-involving-exponential-and-logarithmic-functions
+Links to an external site.
+
+ 
+
+Take the Quiz Again
+Score for this attempt: 10 out of 10
+Submitted Jul 21 at 1:53am
+This attempt took 2 minutes.
+ 
+Question 1
+2.5 / 2.5 pts
+According to the examples with solutions in the reading, when integrating logarithms and exponentials, I should consider using u-substitution along the way to possibly simplify my process. 
+  True 
+  False 
+ 
+Question 2
+2.5 / 2.5 pts
+
+According to the rules given in the reading, 
+
+∫x−1dx=∫
+1
+
+
+x
+dx=ln(x)+C
+
+  True 
+  False 
+
+Yes, we need to include the absolute values inside the ln:
+
+∫x−1dx=∫
+1
+
+
+x
+dx=ln(|x|)+C
+
+ 
+Question 3
+2.5 / 2.5 pts
+
+Applying 1.1/1.2 reading to the current topic, the (finite) Riemann sum right-endpoint approximation, with n=100 rectangles, that approximates the given integral is
+
+∫
+3
+1
+ln(x2+1)dx≈∑
+100
+i=1
+ln(x
+2
+i
++1)(
+1
+
+
+50
+).
+
+  True 
+  False 
+ 
+Question 4
+2.5 / 2.5 pts
+
+According to the rules given in the reading, 
+
+∫ln(x)dx=x⋅ln(x)+x=x(ln(x)+1)
+
+  True 
+  False 
+
+Nice work! A sign is incorrect and a "+ C" is missing. The actual value is 
+
+∫ln(x)dx=x⋅ln(x)−x+C=x(ln(x)−1)+C
+
+Quiz Score: 10 out of 10

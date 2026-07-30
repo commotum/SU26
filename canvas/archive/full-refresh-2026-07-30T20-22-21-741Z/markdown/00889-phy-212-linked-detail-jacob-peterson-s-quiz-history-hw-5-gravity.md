@@ -1,0 +1,438 @@
+# Jacob Peterson's Quiz History: Hw 5 - Gravity
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1
+- Captured: 2026-07-30T21:02:12.328Z
+- Canvas object: quiz 3160499
+- Redirected: no
+
+## Headings
+- H2: Hw 5 - Gravity Results for Jacob Peterson
+
+## Visible Text
+Hw 5 - Gravity Results for Jacob Peterson
+Score for this attempt: 12 out of 12
+Submitted Jul 17 at 9:38pm
+This attempt took 8 minutes.
+ 
+Correct answer
+Question 1
+2 / 2 pts
+Which of the following are true statements?
+  Near Earth's surface, the approximate magnitude of free-fall acceleration g is GME/R
+2
+E
+, where ME and RE are the mass and radius of the Earth.
+  The negative sign in U=−Gm1m2/r reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other.
+  The escape speed of a body is the minimum speed with which an object must be launched from its surface to ensure it never falls back. 
+  
+
+The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse.
+
+The semi-major axis is half this distance.
+
+  Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit.
+ 
+Correct answer
+Question 2
+2 / 2 pts
+
+For the system of three masses depicted below, what should x be so that there is no net gravitational force on m?
+
+  (3+
+√
+6
+)d
+  (3−
+√
+6
+)d
+  (2+
+√
+3
+)d
+  (2−
+√
+3
+)d
+ 
+Correct answer
+Question 3
+2 / 2 pts
+
+At a particular instant of time, three asteroids are observed to be in the arrangement shown below.
+
+At this instant, what is the magnitude of the net force on m2?
+
+  
+√
+(
+Gm1m2
+
+
+d
+2
+2
+)2+(
+Gm2m3
+
+
+(d
+2
+2
++d
+2
+3
+)2
+)2
+  
+√
+(
+Gm1m2
+
+
+d
+2
+2
++
+Gm2m3d2
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
++
+Gm2m3d3
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
+)2
+  
+√
+(
+Gm1m2
+
+
+d
+2
+2
+−
+Gm2m3d2
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
+)2+(
+Gm2m3d3
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
+)2
+  
+√
+(
+Gm1m2
+
+
+d
+2
+2
++
+Gm2m3d2
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
+)2+(
+Gm2m3d3
+
+
+(d
+2
+2
++d
+2
+3
+)3/2
+)2
+ 
+Correct answer
+Question 4
+1 / 1 pts
+
+NASA discovers an exoplanet three times the mass of the Earth and twice the radius.
+
+What is the magnitude of gravitational acceleration at the planet's surface?
+
+  2g/3 
+  3g/4 
+  4g/3 
+  3g/2 
+ 
+Correct answer
+Question 5
+1 / 1 pts
+
+A satellite in a circular orbit of radius r has period T.
+
+If the satellite is moved to a new circular orbit of radius 2r, what's its new period?
+
+  2T
+  2
+√
+2
+T
+  4T
+ 
+Correct answer
+Question 6
+1 / 1 pts
+
+A satellite in a circular orbit of radius r has kinetic energy K.
+
+If the satellite is moved to a new circular orbit of radius 2r, what's its new kinetic energy?
+
+  K/2
+  K/4
+  2K
+  4K
+ 
+Correct answer
+Question 7
+2 / 2 pts
+
+A satellite is in an elliptical orbit (depicted below) about the Earth.
+
+The distance of closest approach is r1 and furthest approach r2.
+
+The corresponding unit vectors of the velocity of the satellite at each point is indicated.
+
+Is the satellite moving faster at the closest or furthest approach and by what factor?
+
+  The satellite is moving faster at the point of closest approach by a factor of r2/r1
+  The satellite is moving faster at the point of furthest approach by a factor of r2/r1
+  The satellite is moving faster at the point of closest approach by a factor of (r2/r1)2
+  The satellite is moving faster at the point of furthest approach by a factor of (r2/r1)2
+  The satellite must have the same speed at each point in order to keep consistent with Kepler's second law
+ 
+Correct answer
+Question 8
+1 / 1 pts
+
+At a particular instant of time, three asteroids are observed to be in the arrangement shown below.
+
+At this instant, how much gravitational potential energy is stored in the system consisting of the three asteroids?
+
+  −G(
+m1m2
+
+
+d
+2
+2
++
+m1m3
+
+
+d
+2
+3
++
+m2m3
+
+
+d
+2
+2
++d
+2
+3
+)
+  G(
+m1m2
+
+
+d
+2
+2
++
+m1m3
+
+
+d
+2
+3
++
+m2m3
+
+
+√
+d
+2
+2
++d
+2
+3
+)
+  −G(
+m1m2
+
+
+d2
++
+m1m3
+
+
+d3
++
+m2m3
+
+
+√
+d
+2
+2
++d
+2
+3
+)
+  G(
+m1m2
+
+
+d
+2
+2
++
+m1m3
+
+
+d
+2
+3
++
+m2m3
+
+
+√
+d
+2
+2
++d
+2
+3
+)
+Quiz Score: 12 out of 12
+
+## Links
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026270 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026270
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026271 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026271
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026272 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026272
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026273 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026273
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026274 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026274
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026275 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026275
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026276 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026276
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026277 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160499/questions/59026277
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2 / 2 pts Edit this Question Delete this Question 0 multiple_answers_question Which of the following are true statements? Which of the following are true statements? 8926 Near Earth's surface, the approximate magnitude of free-fall acceleration g is G M E / R E 2 , where M E and R E are the mass and radius of the Earth. Near Earth's surface, the approximate magnitude of free-fall acceleration gg is GME/R2EGM_E/R_E^2, where MEM_E and RER_E are the mass and radius of the Earth. Near Earth's surface, the approximate magnitude of free-fall acceleration g is G M E / R E 2 , where M E and R E are the mass and radius of the Earth. Near Earth's surface, the approximate magnitude of free-fall acceleration gg is GME/R2EGM_E/R_E^2, where MEM_E and RER_E are the mass and radius of the Earth. Your Answer: (You left this blank) It was really: exact_answer none 59026270 8926 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 7713 The negative sign in U = − G m 1 m 2 / r reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other. The negative sign in U=−Gm1m2/rU = -Gm_1m_2/r reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other. The negative sign in U = − G m 1 m 2 / r reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other. The negative sign in U=−Gm1m2/rU = -Gm_1m_2/r reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other. Your Answer: (You left this blank) It was really: exact_answer none 59026270 7713 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 5294 The escape speed of a body is the minimum speed with which an object must be launched from its surface to ensure it never falls back. The escape speed of a body is the minimum speed with which an object must be launched from its surface to ensure it never falls back. Your Answer: (You left this blank) It was really: exact_answer none 59026270 5294 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 7553 The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse. The semi-major axis is half this distance. The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse. The semi-major axis is half this distance. The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse. The semi-major axis is half this distance. The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse. The semi-major axis is half this distance. Your Answer: (You left this blank) It was really: exact_answer none 59026270 7553 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1727 Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit. Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit. Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit. Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit. exact_answer none 59026270 1727 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct!
+- Correct!
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>For the system of three masses depicted below, what should <img class="equation_image" title="x" src="/equation_images/x?scale=1" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check=""> be so that there is no net gravitational force on <img class="equation_image" title="m" src="/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check="">?</p> <p><img id="110491854" src="/courses/2053526/files/118705777/preview" alt="3body_equlibrium_212.png" width="550" height="536"></p> For the system of three masses depicted below, what should xx be so that there is no net gravitational force on mm? 1763 ( 3 + 6 ) d (3+√6)d\left(3+\sqrt{6}\right)d ( 3 + 6 ) d (3+√6)d\left(3+\sqrt{6}\right)d exact_answer none 59026271 1763 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 2019 ( 3 − 6 ) d (3−√6)d\left(3-\sqrt{6}\right)d ( 3 − 6 ) d (3−√6)d\left(3-\sqrt{6}\right)d exact_answer none 59026271 2019 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 2300 ( 2 + 3 ) d (2+√3)d\left(2+\sqrt{3}\right)d ( 2 + 3 ) d (2+√3)d\left(2+\sqrt{3}\right)d exact_answer none 59026271 2300 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9078 ( 2 − 3 ) d (2−√3)d\left(2-\sqrt{3}\right)d ( 2 − 3 ) d (2−√3)d\left(2-\sqrt{3}\right)d exact_answer none 59026271 9078 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>At a particular instant of time, three asteroids are observed to be in the arrangement shown below.</p> <p>At this instant, what is the magnitude of the net force on <img class="equation_image" title="m_2" src="/equation_images/m_2?scale=1" alt="LaTeX: m_2" data-equation-content="m_2" data-ignore-a11y-check="">?</p> <p><img src="/courses/2053526/files/118706188/preview" alt="3 asteroids"></p> At a particular instant of time, three asteroids are observed to be in the arrangement shown below. At this instant, what is the magnitude of the net force on m2m_2? 1353 ( G m 1 m 2 d 2 2 ) 2 + ( G m 2 m 3 ( d 2 2 + d 3 2 ) 2 ) 2 √(Gm1m2d22)2+(Gm2m3(d22+d23)2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} \right)^2 + \left(\frac{Gm_2m_3}{\left(d_2^2+d_3^2\right)^{2}}\right)^2} ( G m 1 m 2 d 2 2 ) 2 + ( G m 2 m 3 ( d 2 2 + d 3 2 ) 2 ) 2 √(Gm1m2d22)2+(Gm2m3(d22+d23)2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} \right)^2 + \left(\frac{Gm_2m_3}{\left(d_2^2+d_3^2\right)^{2}}\right)^2} exact_answer none 59026272 1353 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6984 <img class="equation_image" title="\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" src="/equation_images/%255Csqrt%257B%255Cleft(%2520%255Cfrac%257BGm_1m_2%257D%257Bd_2%255E2%257D%2520%252B%2520%255Cfrac%257BGm_2m_3d_2%257D%257B%255Cleft(d_2%255E2%252Bd_3%255E2%255Cright)%255E%257B3%252F2%257D%257D%2520%250A%2520%252B%2520%255Cfrac%257BGm_2m_3d_3%257D%257B%255Cleft(d_2%255E2%252Bd_3%255E2%255Cright)%255E%257B3%252F2%257D%257D%255Cright)%255E2%257D?scale=1" alt="LaTeX: \sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" data-equation-content="\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" data-ignore-a11y-check="" loading="lazy"> ( G m 1 m 2 d 2 2 + G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 + G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22+Gm2m3d2(d22+d23)3/2+Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} <img class="equation_image" title="\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" src="/equation_images/%255Csqrt%257B%255Cleft(%2520%255Cfrac%257BGm_1m_2%257D%257Bd_2%255E2%257D%2520%252B%2520%255Cfrac%257BGm_2m_3d_2%257D%257B%255Cleft(d_2%255E2%252Bd_3%255E2%255Cright)%255E%257B3%252F2%257D%257D%2520%250A%2520%252B%2520%255Cfrac%257BGm_2m_3d_3%257D%257B%255Cleft(d_2%255E2%252Bd_3%255E2%255Cright)%255E%257B3%252F2%257D%257D%255Cright)%255E2%257D?scale=1" alt="LaTeX: \sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" data-equation-content="\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2}" data-ignore-a11y-check="" loading="lazy"> ( G m 1 m 2 d 2 2 + G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 + G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22+Gm2m3d2(d22+d23)3/2+Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} + \frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} exact_answer none 59026272 6984 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9928 ( G m 1 m 2 d 2 2 − G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 + ( G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22−Gm2m3d2(d22+d23)3/2)2+(Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} - \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} \right)^2 + \left(\frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} ( G m 1 m 2 d 2 2 − G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 + ( G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22−Gm2m3d2(d22+d23)3/2)2+(Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} - \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} \right)^2 + \left(\frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} exact_answer none 59026272 9928 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 653 ( G m 1 m 2 d 2 2 + G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 + ( G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22+Gm2m3d2(d22+d23)3/2)2+(Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} \right)^2 + \left(\frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} ( G m 1 m 2 d 2 2 + G m 2 m 3 d 2 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 + ( G m 2 m 3 d 3 ( d 2 2 + d 3 2 ) 3 / 2 ) 2 √(Gm1m2d22+Gm2m3d2(d22+d23)3/2)2+(Gm2m3d3(d22+d23)3/2)2\sqrt{\left( \frac{Gm_1m_2}{d_2^2} + \frac{Gm_2m_3d_2}{\left(d_2^2+d_3^2\right)^{3/2}} \right)^2 + \left(\frac{Gm_2m_3d_3}{\left(d_2^2+d_3^2\right)^{3/2}}\right)^2} exact_answer none 59026272 653 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>NASA discovers an exoplanet three times the mass of the Earth and twice the radius.</p> <p>What is the magnitude of gravitational acceleration at the planet's surface?</p> NASA discovers an exoplanet three times the mass of the Earth and twice the radius. What is the magnitude of gravitational acceleration at the planet's surface? 7559 2g/3 2g/3 exact_answer none 59026273 7559 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7902 3g/4 3g/4 exact_answer none 59026273 7902 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 52 4g/3 4g/3 exact_answer none 59026273 52 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8263 3g/2 3g/2 exact_answer none 59026273 8263 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A satellite in a circular orbit of radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> has period <img class="equation_image" title="T" src="/equation_images/T?scale=1" alt="LaTeX: T" data-equation-content="T" data-ignore-a11y-check="">.</p> <p>If the satellite is moved to a new circular orbit of radius <img class="equation_image" title="2r" src="/equation_images/2r?scale=1" alt="LaTeX: 2r" data-equation-content="2r" data-ignore-a11y-check="">, what's its new period?</p> A satellite in a circular orbit of radius rr has period TT. If the satellite is moved to a new circular orbit of radius 2r2r, what's its new period? 5299 No answer text provided. 2T2T No answer text provided. 2T2T exact_answer none 59026274 5299 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1914 No answer text provided. 2√2T2\sqrt{2}T No answer text provided. 2√2T2\sqrt{2}T exact_answer none 59026274 1914 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 6958 No answer text provided. 4T4T No answer text provided. 4T4T exact_answer none 59026274 6958 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A satellite in a circular orbit of radius <img class="equation_image" title="r" src="/equation_images/r?scale=1" alt="LaTeX: r" data-equation-content="r" data-ignore-a11y-check=""> has kinetic energy <img class="equation_image" title="K" src="/equation_images/K?scale=1" alt="LaTeX: K" data-equation-content="K" data-ignore-a11y-check="">.</p> <p>If the satellite is moved to a new circular orbit of radius <img class="equation_image" title="2r" src="/equation_images/2r?scale=1" alt="LaTeX: 2r" data-equation-content="2r" data-ignore-a11y-check="">, what's its new kinetic energy?</p> A satellite in a circular orbit of radius rr has kinetic energy KK. If the satellite is moved to a new circular orbit of radius 2r2r, what's its new kinetic energy? 5125 No answer text provided. K/2K/2 No answer text provided. K/2K/2 exact_answer none 59026275 5125 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 2944 No answer text provided. K/4K/4 No answer text provided. K/4K/4 exact_answer none 59026275 2944 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4617 No answer text provided. 2K2K No answer text provided. 2K2K exact_answer none 59026275 4617 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 530 No answer text provided. 4K4K No answer text provided. 4K4K exact_answer none 59026275 530 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A satellite is in an elliptical orbit (depicted below) about the Earth.</p> <p>The distance of closest approach is <img class="equation_image" title="r_1" src="/equation_images/r_1?scale=1" alt="LaTeX: r_1" data-equation-content="r_1" data-ignore-a11y-check=""> and furthest approach <img class="equation_image" title="r_2" src="/equation_images/r_2?scale=1" alt="LaTeX: r_2" data-equation-content="r_2" data-ignore-a11y-check="">.</p> <p>The corresponding unit vectors of the velocity of the satellite at each point is indicated.</p> <p>Is the satellite moving faster at the closest or furthest approach and by what factor?</p> <p><img id="110472085" src="/courses/2053526/files/118705648/preview" alt="ellipse_gravity_212.png" width="750" height="384"></p> A satellite is in an elliptical orbit (depicted below) about the Earth. The distance of closest approach is r1r_1 and furthest approach r2r_2. The corresponding unit vectors of the velocity of the satellite at each point is indicated. Is the satellite moving faster at the closest or furthest approach and by what factor? 4396 The satellite is moving faster at the point of closest approach by a factor of r 2 / r 1 The satellite is moving faster at the point of closest approach by a factor of r2/r1r_2/r_1 The satellite is moving faster at the point of closest approach by a factor of r 2 / r 1 The satellite is moving faster at the point of closest approach by a factor of r2/r1r_2/r_1 exact_answer none 59026276 4396 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 7135 The satellite is moving faster at the point of furthest approach by a factor of r 2 / r 1 The satellite is moving faster at the point of furthest approach by a factor of r2/r1r_2/r_1 The satellite is moving faster at the point of furthest approach by a factor of r 2 / r 1 The satellite is moving faster at the point of furthest approach by a factor of r2/r1r_2/r_1 exact_answer none 59026276 7135 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7749 The satellite is moving faster at the point of closest approach by a factor of ( r 2 / r 1 ) 2 The satellite is moving faster at the point of closest approach by a factor of (r2/r1)2\left(r_2/r_1\right)^2 The satellite is moving faster at the point of closest approach by a factor of ( r 2 / r 1 ) 2 The satellite is moving faster at the point of closest approach by a factor of (r2/r1)2\left(r_2/r_1\right)^2 exact_answer none 59026276 7749 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5823 The satellite is moving faster at the point of furthest approach by a factor of ( r 2 / r 1 ) 2 The satellite is moving faster at the point of furthest approach by a factor of (r2/r1)2\left(r_2/r_1\right)^2 The satellite is moving faster at the point of furthest approach by a factor of ( r 2 / r 1 ) 2 The satellite is moving faster at the point of furthest approach by a factor of (r2/r1)2\left(r_2/r_1\right)^2 exact_answer none 59026276 5823 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 35 The satellite must have the same speed at each point in order to keep consistent with Kepler's second law The satellite must have the same speed at each point in order to keep consistent with Kepler's second law The satellite must have the same speed at each point in order to keep consistent with Kepler's second law The satellite must have the same speed at each point in order to keep consistent with Kepler's second law exact_answer none 59026276 35 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 8 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>At a particular instant of time, three asteroids are observed to be in the arrangement shown below.</p> <p>At this instant, how much gravitational potential energy is stored in the system consisting of the three asteroids?</p> <p><img src="/courses/2053526/files/118706187/preview" alt="3 asteroids" width="348" height="253"></p> At a particular instant of time, three asteroids are observed to be in the arrangement shown below. At this instant, how much gravitational potential energy is stored in the system consisting of the three asteroids? 1802 − G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) −G(m1m2d22+m1m3d23+m2m3d22+d23)-G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{d_2^2+d_3^2} \right) − G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) −G(m1m2d22+m1m3d23+m2m3d22+d23)-G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{d_2^2+d_3^2} \right) exact_answer none 59026277 1802 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9989 G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) G(m1m2d22+m1m3d23+m2m3√d22+d23)G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) G(m1m2d22+m1m3d23+m2m3√d22+d23)G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) exact_answer none 59026277 9989 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1761 − G ( m 1 m 2 d 2 + m 1 m 3 d 3 + m 2 m 3 d 2 2 + d 3 2 ) −G(m1m2d2+m1m3d3+m2m3√d22+d23)-G\left(\frac{m_1m_2}{d_2} + \frac{m_1m_3}{d_3} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) − G ( m 1 m 2 d 2 + m 1 m 3 d 3 + m 2 m 3 d 2 2 + d 3 2 ) −G(m1m2d2+m1m3d3+m2m3√d22+d23)-G\left(\frac{m_1m_2}{d_2} + \frac{m_1m_3}{d_3} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) exact_answer none 59026277 1761 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 8893 G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) G(m1m2d22+m1m3d23+m2m3√d22+d23)G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) G ( m 1 m 2 d 2 2 + m 1 m 3 d 3 2 + m 2 m 3 d 2 2 + d 3 2 ) G(m1m2d22+m1m3d23+m2m3√d22+d23)G\left(\frac{m_1m_2}{d_2^2} + \frac{m_1m_3}{d_3^2} + \frac{m_2m_3}{\sqrt{d_2^2+d_3^2}} \right) exact_answer none 59026277 8893 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!

@@ -1,0 +1,622 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/submissions/31686594",
+      "index": 0,
+      "method": "post",
+      "text": "Score for this attempt: 5 out of 20 * * Some questions not yet graded Submitted Jun 26 at 7:05pm This attempt took 15 minutes. Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question 111017010 <p>What is the limit \\(\\lim\\limits_{n\\to\\infty}\\frac{1}{n}\\)?</p> What is the limit limn→∞1n\\lim\\limits_{n\\to\\infty}\\frac{1}{n}? 618 0 0 exact_answer none 59149565 618 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Good job! Good job! 4838 ∞\\infty ∞\\infty exact_answer none 59149565 4838 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6636 limit does not exist limit does not exist exact_answer none 59149565 6636 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1708 nn nn exact_answer none 59149565 1708 0 (with margin: 0) 0 (with "
+    }
+  ],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H2",
+      "text": "Practice Quiz (take it before attempting Quiz 1!) Results for Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 5 / 5 pts Edit this Question Delete this Question 0 multiple_choice_question 111017010 <p>What is the limit \\(\\lim\\limits_{n\\to\\infty}\\frac{1}{n}\\)?</p> What is the limit limn→∞1n\\lim\\limits_{n\\to\\infty}\\frac{1}{n}? 618 0 0 exact_answer none 59149565 618 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Good job! Good job! 4838 ∞\\infty ∞\\infty exact_answer none 59149565 4838 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6636 limit does not exist limit does not exist exact_answer none 59149565 6636 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1708 nn nn exact_answer none 59149565 1708 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 1,
+      "text": "Move To..."
+    },
+    {
+      "index": 2,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 3,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 4,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 5,
+      "text": "Correct!"
+    },
+    {
+      "index": 6,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 Not yet graded / 15 pts Edit this Question Delete this Question 0 essay_question 111017380 <p>Explain what do you think we mean when we say that the series&nbsp; \\(\\sum\\limits_{n=1}^{\\infty}a_n\\) is divergent.</p> <p>&nbsp;</p> <p><strong>Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit.&nbsp;</strong></p> Explain what do you think we mean when we say that the series ∞∑n=1an\\sum\\limits_{n=1}^{\\infty}a_n is divergent. Upload a pdf image of your written solution to the question by clicking on the Insert tab below. An answer with no supporting work will be awarded no credit. Your Answer: A divergent series is an infinite sum that does not reach one final answer. Since we keep adding terms forever, the total does not settle down, and in many cases it just keeps growing."
+    },
+    {
+      "index": 7,
+      "text": "Move To..."
+    },
+    {
+      "index": 8,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 9,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 10,
+      "text": "Delete this Question"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971",
+      "index": 17,
+      "raw_href": "/courses/2053263/quizzes/3166971",
+      "rel": "",
+      "target": "",
+      "text": "Practice Quiz (take it before attempting Quiz 1!)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 18,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 21,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 22,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 23,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 24,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 25,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 29,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565",
+      "index": 32,
+      "raw_href": "/courses/2053263/quizzes/3166971/questions/59149565",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944",
+      "index": 35,
+      "raw_href": "/courses/2053263/quizzes/3166971/questions/59149944",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1",
+      "index": 36,
+      "raw_href": "?version=1",
+      "rel": "",
+      "target": "",
+      "text": "This score is pending review, and may change Attempt 1: 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=2",
+      "index": 37,
+      "raw_href": "?version=2",
+      "rel": "",
+      "target": "",
+      "text": "This score is pending review, and may change Attempt 2: 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971",
+      "index": 38,
+      "raw_href": "/courses/2053263/quizzes/3166971",
+      "rel": "",
+      "target": "",
+      "text": "Back to Quiz",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 0,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149565",
+      "index": 2,
+      "raw_href": "/courses/2053263/quizzes/3166971/questions/59149565",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/questions/59149944",
+      "index": 5,
+      "raw_href": "/courses/2053263/quizzes/3166971/questions/59149944",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/quizzes/3166971/history?version=1",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Jacob Peterson's Quiz History: Practice Quiz (take it before attempting Quiz 1!)",
+  "page_id": "00469-mth-253-linked-detail-jacob-peterson-s-quiz-history-practice-quiz-take-it-before-attempting-quiz-1",
+  "captured_at": "2026-07-30T20:43:30.614Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00170-mth-253-module-item-practice-quiz-take-it-before-attempting-quiz-1-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "Attempt 1",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3166971",
+  "html_sha256": "3b01d39566218518e247a3a688de433392d32707551b464a28467cdc1de77e49",
+  "text_sha256": "3e5a33d705df306386a7c4018b2c06d14de35c89cc1f5bf250ee09dbf7d7d58c",
+  "requires_external_handler": false
+}

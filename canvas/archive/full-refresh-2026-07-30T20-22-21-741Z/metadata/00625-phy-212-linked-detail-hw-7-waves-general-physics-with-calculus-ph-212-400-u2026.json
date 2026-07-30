@@ -1,0 +1,1363 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Hw 7 - Waves"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H3",
+      "text": "Attempt History"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Note that although Canvas calls this a \"quiz,\" it is actually a homework assignment. Here are some things to keep in mind: 1. You are encouraged to work with others. 2. You can exit the assignment without submitting and return later to complete it. 3. You have up to four attempts to complete this assignment. Your highest score will be kept. 4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late. 5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time. 6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; ."
+    },
+    {
+      "index": 1,
+      "text": "Time:"
+    },
+    {
+      "index": 2,
+      "text": "Score:"
+    },
+    {
+      "index": 3,
+      "text": "Warning"
+    },
+    {
+      "index": 4,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question If you vibrate a taut string twice as fast, the speed of the waves If you vibrate a taut string twice as fast, the speed of the waves 3892 doubles and the wavelength is unchanged doubles and the wavelength is unchanged exact_answer none 59026174 3892 margin of error +/- 4220 doubles and the wavelength is doubled doubles and the wavelength is doubled exact_answer none 59026174 4220 margin of error +/- 5009 doubles while the wavelength is halved doubles while the wavelength is halved exact_answer none 59026174 5009 margin of error +/- 3383 is unchanged while the wavelength is doubled is unchanged while the wavelength is doubled exact_answer none 59026174 3383 margin of error +/- 6192 is unchanged while the wavelength is halved is unchanged while the wavelength is halved exact_answer none 59026174 6192 margin of error +/- 1123 is unchanged and the wavelength is unchanged is unchanged and the wavelength is unchanged exact_answer none 59026174 1123 margin of error +/-"
+    },
+    {
+      "index": 5,
+      "text": "Move To..."
+    },
+    {
+      "index": 6,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 7,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 8,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 9,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A heavy block of mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> is hung from a uniform light string of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"l\" src=\"/equation_images/l?scale=1\" alt=\"LaTeX: l\" data-equation-content=\"l\" data-ignore-a11y-check=\"\">&nbsp;whose opposite end is attached to the ceiling.</p> <p>If the string is plucked, what will be the speed of the wave(s) generated in the string?</p> A heavy block of mass is hung from a uniform light string of mass and length whose opposite end is attached to the ceiling. If the string is plucked, what will be the speed of the wave(s) generated in the string? 5399 No answer text provided. No answer text provided. exact_answer none 59026175 5399 margin of error +/- 9563 No answer text provided. No answer text provided. exact_answer none 59026175 9563 margin of error +/- 6552 No answer text provided. No answer text provided. exact_answer none 59026175 6552 margin of error +/- 3045 No answer text provided. No answer text provided. exact_answer none 59026175 3045 margin of error +/-"
+    },
+    {
+      "index": 10,
+      "text": "Move To..."
+    },
+    {
+      "index": 11,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 12,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 13,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 14,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 110816438 <p>Green light of frequency <img class=\"equation_image\" title=\"f_g\" src=\"/equation_images/f_g?scale=1\" alt=\"LaTeX: f_g\" data-equation-content=\"f_g\" data-ignore-a11y-check=\"\"> and red light of frequency <img class=\"equation_image\" title=\"f_r\" src=\"/equation_images/f_r?scale=1\" alt=\"LaTeX: f_r\" data-equation-content=\"f_r\" data-ignore-a11y-check=\"\"> traverse a distance of <img class=\"equation_image\" title=\"d\" src=\"/equation_images/d?scale=1\" alt=\"LaTeX: d\" data-equation-content=\"d\" data-ignore-a11y-check=\"\"> within a piece of glass having refractive index <img class=\"equation_image\" title=\"n\" src=\"/equation_images/n?scale=1\" alt=\"LaTeX: n\" data-equation-content=\"n\" data-ignore-a11y-check=\"\">.</p> <p>What is the difference in the number of wavelengths traversed by each respective color?</p> <p>Consider the speed of light in vacuum <img class=\"equation_image\" title=\"c\" src=\"/equation_images/c?scale=1\" alt=\"LaTeX: c\" data-equation-content=\"c\" data-ignore-a11y-check=\"\"> to be a given quantity.</p> Green light of frequency and red light of frequency traverse a distance of within a piece of glass having refractive index . What is the difference in the number of wavelengths traversed by each respective color? Consider the speed of light in vacuum to be a given quantity. 9619 0 0 exact_answer none 59026176 9619 margin of error +/- 6036 No answer text provided. No answer text provided. exact_answer none 59026176 6036 margin of error +/- 1742 No answer text provided. No answer text provided. exact_answer none 59026176 1742 margin of error +/- 123 No answer text provided. No answer text provided. exact_answer none 59026176 123 margin of error +/- 159 No answer text provided. No answer text provided. exact_answer none 59026176 159 margin of error +/-"
+    },
+    {
+      "index": 15,
+      "text": "Move To..."
+    },
+    {
+      "index": 16,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 17,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 18,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 19,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Let <img class=\"equation_image\" title=\"c\" src=\"/equation_images/c?scale=1\" alt=\"LaTeX: c\" data-equation-content=\"c\" data-ignore-a11y-check=\"\"> denote the speed of sound.</p> <p>A hawk at the Grand Canyon produces a pure tone of frequency <img class=\"equation_image\" title=\"f_0\" src=\"/equation_images/f_0?scale=1\" alt=\"LaTeX: f_0\" data-equation-content=\"f_0\" data-ignore-a11y-check=\"\">&nbsp;while flying at constant speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> directly towards a climber on the canyon wall. Some of the sound echoes off the canyon wall and back to the hawk.</p> <p>What is the frequency of the hawk's screech according to the mountain climber?</p> Let denote the speed of sound. A hawk at the Grand Canyon produces a pure tone of frequency while flying at constant speed directly towards a climber on the canyon wall. Some of the sound echoes off the canyon wall and back to the hawk. What is the frequency of the hawk's screech according to the mountain climber? 2946 c + v c f 0 c + v c f 0 exact_answer none 59026177 2946 margin of error +/- 1359 c − v c f 0 c − v c f 0 exact_answer none 59026177 1359 margin of error +/- 50 c c + v f 0 c c + v f 0 exact_answer none 59026177 50 margin of error +/- 813 c c − v f 0 c c − v f 0 exact_answer none 59026177 813 margin of error +/-"
+    },
+    {
+      "index": 20,
+      "text": "Move To..."
+    },
+    {
+      "index": 21,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 22,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 23,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 24,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Let <img class=\"equation_image\" title=\"c\" src=\"/equation_images/c?scale=1\" alt=\"LaTeX: c\" data-equation-content=\"c\" data-ignore-a11y-check=\"\"> denote the speed of sound.</p> <p>A hawk at the Grand Canyon produces a pure tone of frequency <img class=\"equation_image\" title=\"f_0\" src=\"/equation_images/f_0?scale=1\" alt=\"LaTeX: f_0\" data-equation-content=\"f_0\" data-ignore-a11y-check=\"\">&nbsp;while flying at constant speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> directly towards a climber on the canyon wall. The sound waves echo off the canyon wall and back to the hawk.</p> <p>Let your answer to the previous question be <img class=\"equation_image\" title=\"f_1\" src=\"/equation_images/f_1?scale=1\" alt=\"LaTeX: f_1\" data-equation-content=\"f_1\" data-ignore-a11y-check=\"\">. According to the hawk, what is the frequency of the hawk's echo off the canyon wall?</p> Let denote the speed of sound. A hawk at the Grand Canyon produces a pure tone of frequency while flying at constant speed directly towards a climber on the canyon wall. The sound waves echo off the canyon wall and back to the hawk. Let your answer to the previous question be . According to the hawk, what is the frequency of the hawk's echo off the canyon wall? 7333 No answer text provided. No answer text provided. exact_answer none 59026178 7333 margin of error +/- 221 No answer text provided. No answer text provided. exact_answer none 59026178 221 margin of error +/- 4243 No answer text provided. No answer text provided. exact_answer none 59026178 4243 margin of error +/- 9408 No answer text provided. No answer text provided. exact_answer none 59026178 9408 margin of error +/-"
+    },
+    {
+      "index": 25,
+      "text": "Move To..."
+    },
+    {
+      "index": 26,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 27,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 28,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 29,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p>You perceive a sound intensity level <img class=\"equation_image\" title=\"\\beta\" src=\"/equation_images/%255Cbeta?scale=1\" alt=\"LaTeX: \\beta\" data-equation-content=\"\\beta\" data-ignore-a11y-check=\"\"> when a person shouts from a distance <img class=\"equation_image\" title=\"d\" src=\"/equation_images/d?scale=1\" alt=\"LaTeX: d\" data-equation-content=\"d\" data-ignore-a11y-check=\"\">.</p> <p>If the person were instead to shout just as loud into a cylindrical tube of length <img class=\"equation_image\" title=\"d\" src=\"/equation_images/d?scale=1\" alt=\"LaTeX: d\" data-equation-content=\"d\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\">, what would the sound intensity level of their shout be at the opposite end of the tube?</p> <p>Assume the sound propagates along the tube without transferring energy through the walls of the tube.</p> <p>Hint: Remember that <img class=\"equation_image\" title=\"\\log_{10}{\\left(x^a\\right)} = a\\log_{10}x\" src=\"/equation_images/%255Clog_%257B10%257D%257B%255Cleft(x%255Ea%255Cright)%257D%2520%253D%2520a%255Clog_%257B10%257Dx?scale=1\" alt=\"LaTeX: \\log_{10}{\\left(x^a\\right)} = a\\log_{10}x\" data-equation-content=\"\\log_{10}{\\left(x^a\\right)} = a\\log_{10}x\" data-ignore-a11y-check=\"\">.</p> You perceive a sound intensity level when a person shouts from a distance . If the person were instead to shout just as loud into a cylindrical tube of length and radius , what would the sound intensity level of their shout be at the opposite end of the tube? Assume the sound propagates along the tube without transferring energy through the walls of the tube. Hint: Remember that . 7675 No answer text provided. No answer text provided. exact_answer none 59026179 7675 margin of error +/- 324 No answer text provided. No answer text provided. exact_answer none 59026179 324 margin of error +/- 3838 No answer text provided. No answer text provided. exact_answer none 59026179 3838 margin of error +/- 3982 No answer text provided. No answer text provided. exact_answer none 59026179 3982 margin of error +/-"
+    },
+    {
+      "index": 30,
+      "text": "Move To..."
+    },
+    {
+      "index": 31,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 32,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 33,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 34,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A transverse wave travels along a long, taut string.</p> <p>The transverse component of the displacement of the string from its resting configuration satisfies <img class=\"equation_image\" title=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" src=\"/equation_images/y%255Cleft(x%252Ct%255Cright)%2520%253D%2520%255Cleft(0.1%255Ctext%257B%2520m%257D%255Cright)%255C%252C%255Csin%257B%255Cleft%255B%255Cleft(2.5%255Ctext%257B%2520rad%252Fm%257D%255Cright)x-%255Cleft(5%255Ctext%257B%2520rad%252Fs%257D%255Cright)t%255Cright%255D%257D?scale=1\" alt=\"LaTeX: y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-equation-content=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"x\" src=\"/equation_images/x?scale=1\" alt=\"LaTeX: x\" data-equation-content=\"x\" data-ignore-a11y-check=\"\"> is the position along the string when at rest and <img class=\"equation_image\" title=\"t\" src=\"/equation_images/t?scale=1\" alt=\"LaTeX: t\" data-equation-content=\"t\" data-ignore-a11y-check=\"\"> is the time relative to some reference time <img class=\"equation_image\" title=\"t=0\" src=\"/equation_images/t%253D0?scale=1\" alt=\"LaTeX: t=0\" data-equation-content=\"t=0\" data-ignore-a11y-check=\"\">.</p> <p>Is the wave traveling towards increasing, or decreasing <img class=\"equation_image\" title=\"x\" src=\"/equation_images/x?scale=1\" alt=\"LaTeX: x\" data-equation-content=\"x\" data-ignore-a11y-check=\"\">?</p> A transverse wave travels along a long, taut string. The transverse component of the displacement of the string from its resting configuration satisfies , where is the position along the string when at rest and is the time relative to some reference time . Is the wave traveling towards increasing, or decreasing ? 420 Increasing Increasing exact_answer none 59026180 420 margin of error +/- 2740 Decreasing Decreasing exact_answer none 59026180 2740 margin of error +/-"
+    },
+    {
+      "index": 35,
+      "text": "Move To..."
+    },
+    {
+      "index": 36,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 37,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 38,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 39,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 8 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A transverse wave travels along a long, taut string.</p> <p>The transverse component of the displacement of the string from its resting configuration satisfies <img class=\"equation_image\" title=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" src=\"/equation_images/y%255Cleft(x%252Ct%255Cright)%2520%253D%2520%255Cleft(0.1%255Ctext%257B%2520m%257D%255Cright)%255C%252C%255Csin%257B%255Cleft%255B%255Cleft(2.5%255Ctext%257B%2520rad%252Fm%257D%255Cright)x-%255Cleft(5%255Ctext%257B%2520rad%252Fs%257D%255Cright)t%255Cright%255D%257D?scale=1\" alt=\"LaTeX: y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-equation-content=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"x\" src=\"/equation_images/x?scale=1\" alt=\"LaTeX: x\" data-equation-content=\"x\" data-ignore-a11y-check=\"\"> is the position along the string when at rest and <img class=\"equation_image\" title=\"t\" src=\"/equation_images/t?scale=1\" alt=\"LaTeX: t\" data-equation-content=\"t\" data-ignore-a11y-check=\"\"> is the time relative to some reference time <img class=\"equation_image\" title=\"t=0\" src=\"/equation_images/t%253D0?scale=1\" alt=\"LaTeX: t=0\" data-equation-content=\"t=0\" data-ignore-a11y-check=\"\">.</p> <p>How much time does it take the wave to traverse a distance of one wavelength?</p> A transverse wave travels along a long, taut string. The transverse component of the displacement of the string from its resting configuration satisfies , where is the position along the string when at rest and is the time relative to some reference time . How much time does it take the wave to traverse a distance of one wavelength? 3841 No answer text provided. No answer text provided. exact_answer none 59026181 3841 margin of error +/- 9129 No answer text provided. No answer text provided. exact_answer none 59026181 9129 margin of error +/- 1405 No answer text provided. No answer text provided. exact_answer none 59026181 1405 margin of error +/- 3104 No answer text provided. No answer text provided. exact_answer none 59026181 3104 margin of error +/-"
+    },
+    {
+      "index": 40,
+      "text": "Move To..."
+    },
+    {
+      "index": 41,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 42,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 43,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 44,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 9 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A transverse wave travels along a long, taut string.</p> <p>The transverse component of the displacement of the string from its resting configuration satisfies <img class=\"equation_image\" title=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" src=\"/equation_images/y%255Cleft(x%252Ct%255Cright)%2520%253D%2520%255Cleft(0.1%255Ctext%257B%2520m%257D%255Cright)%255C%252C%255Csin%257B%255Cleft%255B%255Cleft(2.5%255Ctext%257B%2520rad%252Fm%257D%255Cright)x-%255Cleft(5%255Ctext%257B%2520rad%252Fs%257D%255Cright)t%255Cright%255D%257D?scale=1\" alt=\"LaTeX: y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-equation-content=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"x\" src=\"/equation_images/x?scale=1\" alt=\"LaTeX: x\" data-equation-content=\"x\" data-ignore-a11y-check=\"\"> is the position along the string when at rest and <img class=\"equation_image\" title=\"t\" src=\"/equation_images/t?scale=1\" alt=\"LaTeX: t\" data-equation-content=\"t\" data-ignore-a11y-check=\"\"> is the time relative to some reference time <img class=\"equation_image\" title=\"t=0\" src=\"/equation_images/t%253D0?scale=1\" alt=\"LaTeX: t=0\" data-equation-content=\"t=0\" data-ignore-a11y-check=\"\">.</p> <p>What is the maximum speed of an element of the string due to this wave?</p> A transverse wave travels along a long, taut string. The transverse component of the displacement of the string from its resting configuration satisfies , where is the position along the string when at rest and is the time relative to some reference time . What is the maximum speed of an element of the string due to this wave? 582 No answer text provided. No answer text provided. exact_answer none 59026182 582 margin of error +/- 1333 No answer text provided. No answer text provided. exact_answer none 59026182 1333 margin of error +/- 6112 No answer text provided. No answer text provided. exact_answer none 59026182 6112 margin of error +/- 325 No answer text provided. No answer text provided. exact_answer none 59026182 325 margin of error +/-"
+    },
+    {
+      "index": 45,
+      "text": "Move To..."
+    },
+    {
+      "index": 46,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 47,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 48,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 49,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 10 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A transverse wave travels along a long, taut string.</p> <p>The transverse component of the displacement of the string from its resting configuration satisfies <img class=\"equation_image\" title=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" src=\"/equation_images/y%255Cleft(x%252Ct%255Cright)%2520%253D%2520%255Cleft(0.1%255Ctext%257B%2520m%257D%255Cright)%255C%252C%255Csin%257B%255Cleft%255B%255Cleft(2.5%255Ctext%257B%2520rad%252Fm%257D%255Cright)x-%255Cleft(5%255Ctext%257B%2520rad%252Fs%257D%255Cright)t%255Cright%255D%257D?scale=1\" alt=\"LaTeX: y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-equation-content=\"y\\left(x,t\\right) = \\left(0.1\\text{ m}\\right)\\,\\sin{\\left[\\left(2.5\\text{ rad/m}\\right)x-\\left(5\\text{ rad/s}\\right)t\\right]}\" data-ignore-a11y-check=\"\">, where <img class=\"equation_image\" title=\"x\" src=\"/equation_images/x?scale=1\" alt=\"LaTeX: x\" data-equation-content=\"x\" data-ignore-a11y-check=\"\"> is the position along the string when at rest and <img class=\"equation_image\" title=\"t\" src=\"/equation_images/t?scale=1\" alt=\"LaTeX: t\" data-equation-content=\"t\" data-ignore-a11y-check=\"\"> is the time relative to some reference time <img class=\"equation_image\" title=\"t=0\" src=\"/equation_images/t%253D0?scale=1\" alt=\"LaTeX: t=0\" data-equation-content=\"t=0\" data-ignore-a11y-check=\"\">.</p> <p>What is the speed of the wave?</p> A transverse wave travels along a long, taut string. The transverse component of the displacement of the string from its resting configuration satisfies , where is the position along the string when at rest and is the time relative to some reference time . What is the speed of the wave? 6567 No answer text provided. No answer text provided. exact_answer none 59026183 6567 margin of error +/- 3971 No answer text provided. No answer text provided. exact_answer none 59026183 3971 margin of error +/- 2795 No answer text provided. No answer text provided. exact_answer none 59026183 2795 margin of error +/- 7199 No answer text provided. No answer text provided. exact_answer none 59026183 7199 margin of error +/-"
+    },
+    {
+      "index": 50,
+      "text": "Move To..."
+    },
+    {
+      "index": 51,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 52,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 53,
+      "text": "Delete this Question"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Hw 7 - Waves",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160478",
+      "rel": "",
+      "target": "",
+      "text": "Hw 7 - Waves",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "index": 34,
+      "raw_href": "/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/history?version=1",
+      "index": 35,
+      "raw_href": "/courses/2053526/quizzes/3160478/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026174",
+      "index": 38,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026174",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026175",
+      "index": 41,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026175",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026176",
+      "index": 44,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026176",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026177",
+      "index": 47,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026177",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026178",
+      "index": 50,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026178",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026179",
+      "index": 53,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026179",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 55,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026180",
+      "index": 56,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026180",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026181",
+      "index": 59,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026181",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026182",
+      "index": 62,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026182",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 64,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026183",
+      "index": 65,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026183",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "index": 66,
+      "raw_href": "/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "index": 0,
+      "raw_href": "/courses/2053526/quizzes/3160478/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/history?version=1",
+      "index": 1,
+      "raw_href": "/courses/2053526/quizzes/3160478/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 2,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026174",
+      "index": 4,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026174",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 6,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026175",
+      "index": 7,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026175",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026176",
+      "index": 10,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026176",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026177",
+      "index": 13,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026177",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 15,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026178",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026178",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 18,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026179",
+      "index": 19,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026179",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 20,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 21,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026180",
+      "index": 22,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026180",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 23,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 24,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026181",
+      "index": 25,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026181",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 26,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 27,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026182",
+      "index": 28,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026182",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478/questions/59026183",
+      "index": 31,
+      "raw_href": "/courses/2053526/quizzes/3160478/questions/59026183",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556973",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160478",
+  "source_surface": "linked_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Attempt Time Score LATEST Attempt 1 Time: 37 minutes Score: 14 out of 14"
+    }
+  ],
+  "title": "Hw 7 - Waves: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00625-phy-212-linked-detail-hw-7-waves-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:51:16.060Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00310-phy-212-module-item-module-5-waves-required-activities-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Hw 7",
+  "depth": 2,
+  "redirected": true,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160478",
+  "html_sha256": "bfc6eba9125a57a50edc22ca276c0f352c30e7c9d75a4e9e598e189924ceaa8e",
+  "text_sha256": "f7f9e5762faddaef2a109ac95e14fb5a3b2f2c69c29840d66816f8d280db8174",
+  "requires_external_handler": false
+}

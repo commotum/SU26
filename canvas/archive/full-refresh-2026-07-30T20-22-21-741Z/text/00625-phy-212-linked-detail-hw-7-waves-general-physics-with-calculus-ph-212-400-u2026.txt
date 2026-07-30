@@ -1,0 +1,166 @@
+Hw 7 - Waves
+Due Jul 28 at 11:59pm Points 14 Questions 10 Available Jul 23 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 5
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; .
+
+Take the Quiz Again
+Attempt History
+	Attempt	Time	Score
+LATEST	Attempt 1	
+Time:
+37 minutes	
+Score:
+14 out of 14
+ Correct answers will be available on Aug 4 at 12am.
+Score for this attempt: 14 out of 14
+Submitted Jul 30 at 1:28pm
+This attempt took 37 minutes.
+ 
+Question 1
+1 / 1 pts
+If you vibrate a taut string twice as fast, the speed of the waves
+  doubles and the wavelength is unchanged 
+  doubles and the wavelength is doubled 
+  doubles while the wavelength is halved 
+  is unchanged while the wavelength is doubled 
+  is unchanged while the wavelength is halved 
+  is unchanged and the wavelength is unchanged 
+ 
+Question 2
+2 / 2 pts
+
+A heavy block of mass  is hung from a uniform light string of mass  and length  whose opposite end is attached to the ceiling.
+
+If the string is plucked, what will be the speed of the wave(s) generated in the string?
+
+  
+  
+  
+  
+ 
+Question 3
+2 / 2 pts
+
+Green light of frequency  and red light of frequency  traverse a distance of  within a piece of glass having refractive index .
+
+What is the difference in the number of wavelengths traversed by each respective color?
+
+Consider the speed of light in vacuum  to be a given quantity.
+
+  0 
+  
+  
+  
+  
+ 
+Question 4
+1 / 1 pts
+
+Let  denote the speed of sound.
+
+A hawk at the Grand Canyon produces a pure tone of frequency  while flying at constant speed  directly towards a climber on the canyon wall. Some of the sound echoes off the canyon wall and back to the hawk.
+
+What is the frequency of the hawk's screech according to the mountain climber?
+
+  
+  
+  
+  
+ 
+Question 5
+1 / 1 pts
+
+Let  denote the speed of sound.
+
+A hawk at the Grand Canyon produces a pure tone of frequency  while flying at constant speed  directly towards a climber on the canyon wall. The sound waves echo off the canyon wall and back to the hawk.
+
+Let your answer to the previous question be . According to the hawk, what is the frequency of the hawk's echo off the canyon wall?
+
+  
+  
+  
+  
+ 
+Question 6
+3 / 3 pts
+
+You perceive a sound intensity level  when a person shouts from a distance .
+
+If the person were instead to shout just as loud into a cylindrical tube of length  and radius , what would the sound intensity level of their shout be at the opposite end of the tube?
+
+Assume the sound propagates along the tube without transferring energy through the walls of the tube.
+
+Hint: Remember that .
+
+  
+  
+  
+  
+ 
+Question 7
+1 / 1 pts
+
+A transverse wave travels along a long, taut string.
+
+The transverse component of the displacement of the string from its resting configuration satisfies , where  is the position along the string when at rest and  is the time relative to some reference time .
+
+Is the wave traveling towards increasing, or decreasing ?
+
+  Increasing 
+  Decreasing 
+ 
+Question 8
+1 / 1 pts
+
+A transverse wave travels along a long, taut string.
+
+The transverse component of the displacement of the string from its resting configuration satisfies , where  is the position along the string when at rest and  is the time relative to some reference time .
+
+How much time does it take the wave to traverse a distance of one wavelength?
+
+  
+  
+  
+  
+ 
+Question 9
+1 / 1 pts
+
+A transverse wave travels along a long, taut string.
+
+The transverse component of the displacement of the string from its resting configuration satisfies , where  is the position along the string when at rest and  is the time relative to some reference time .
+
+What is the maximum speed of an element of the string due to this wave?
+
+  
+  
+  
+  
+ 
+Question 10
+1 / 1 pts
+
+A transverse wave travels along a long, taut string.
+
+The transverse component of the displacement of the string from its resting configuration satisfies , where  is the position along the string when at rest and  is the time relative to some reference time .
+
+What is the speed of the wave?
+
+  
+  
+  
+  
+Quiz Score: 14 out of 14

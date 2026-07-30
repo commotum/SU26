@@ -1,0 +1,194 @@
+# Quiz: M5-2asy
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414
+- Captured: 2026-07-30T21:01:44.474Z
+- Canvas object: quiz 3160525
+- Redirected: no
+
+## Headings
+- H3: Loading...
+- H1: M5-2asy
+- H2: Quiz Instructions
+- H2: Purpose
+- H2: Instructions
+
+## Visible Text
+M5-2asy
+Started: Jul 29 at 8:54am
+Quiz Instructions
+Purpose
+
+The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. 
+
+If you got full credit for the Zoom lecture participation assignment for today, you do not need to do this asynchronous equivalent. You can get credit for one or the other, not both.
+
+Instructions
+
+A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution.
+
+Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for all questions, you will not get credit for the activity. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. For help with producing a scan, please see the Scanning Resources document.
+
+There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material.  You are required to complete this question to get credit for the day's assignment.
+
+You may use multiple attempts on this assignment to improve your score.
+
+If you need assistance, please reach out for help from the Wormhole, office hours or email.
+
+ 
+Flag question: Question 1
+Question 1
+1 pts
+
+A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass mw. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave.
+
+Consider the case where M = 0.82 kg, mw = 0.018 kg, L = 1.4 m.
+
+Enter your answer in m/s.
+
+
+
+
+ 
+Flag question: Question 2
+Question 2
+1 pts
+
+A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass mw. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave.
+
+Consider the case where M = 0.75 kg, mw = 0.015 kg, A = 0.85 cm, λ = 0.65 cm, L = 1.2 m.
+
+Enter your answer in m/s.
+
+
+
+
+ 
+Flag question: Question 3
+Question 3
+1 pts
+
+A sound source is located along the x-axis. Two listeners at x = -7.0 m and x =+3.0 m detect the same wavefront simultaneously.
+
+A third listener somewhere along the positive y-axis also detects the wavefront simultaneously with the first two. What is her y-coordinate?
+
+Enter your answer in meters along the y-axis.
+
+ 
+Flag question: Question 4
+Question 4
+1 pts
+
+This illustration shows a snapshot in time of a wave traveling through media with different indices of refraction. Which index of refraction is the largest? Explain.
+
+
+Group of answer choices
+A
+B
+C
+ 
+Flag question: Question 5
+Question 5
+1 pts
+Orange light with a wavelength of 650 nm is propagating through air. The light ray strikes a glass slide 1.2 mm thick, perpendicular to its surface, and propagates through the glass (index of refraction = 1.5). How many wavelengths of light are inside the glass slide?
+ 
+Flag question: Question 6
+Question 6
+0 pts
+Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You will not receive credit for this activity if you skip this question.
+ 
+Flag question: Question 7
+Question 7
+0 pts
+
+You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.
+
+For help with scanning, please see Scanning Resources.
+
+Not saved Submit Quiz
+
+## Links
+- Scanning Resources -> https://canvas.oregonstate.edu/courses/2048438/pages/scanning-resources
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/submissions/backup?user_id=6660414 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/submissions/backup?user_id=6660414
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026393 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026393
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59228964 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59228964
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026395 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026395
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026396 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026396
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026397 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026397
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026398 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026398
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/take?user_id=6660414#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026399 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160525/questions/59026399
+- Scanning Resources -> https://canvas.oregonstate.edu/courses/2048438/pages/scanning-resources
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+- (blank)
+- Ok, fine
+- Submit Quiz
+
+## Hidden Text
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 1 Question 1 1 pts Edit this Question Delete this Question 0 numerical_question 111190593 <p><span style="font-size: 14pt;">A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass m<sub>w</sub>. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave.</span></p> <p><span style="font-size: 14pt;">Consider the case where M = 0.82 kg, m<sub>w</sub> = 0.018 kg, L = 1.4 m.</span></p> <p><span style="font-size: 14pt;">Enter your answer in m/s.</span></p> <p><span style="font-size: 18px;"><img src="/courses/2053526/files/118705819/preview" alt="mass on a string over a pulley"><br></span></p> A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass mw. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave. Consider the case where M = 0.82 kg, mw = 0.018 kg, L = 1.4 m. Enter your answer in m/s.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 1
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 2 Question 2 1 pts Edit this Question Delete this Question 0 numerical_question 111190594 <p><span style="font-size: 14pt;">A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass m<sub>w</sub>. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave.</span></p> <p><span style="font-size: 14pt;">Consider the case where M = 0.75 kg, m<sub>w</sub>&nbsp;= 0.015 kg, A = 0.85 cm, λ = 0.65 cm, L = 1.2 m.</span></p> <p><span style="font-size: 14pt;">Enter your answer in m/s.</span></p> <p><span style="font-size: 18px;"><img src="/courses/2053526/files/118705819/preview" alt="mass on a string over a pulley"><br></span></p> A block of mass M hangs from a wire over a massive pulley as shown. The segment of string between the wall and the pulley, of length L, has mass mw. The wire is plucked such that a wave with amplitude A and wavelength λ propagates along the wire. Find the maximum speed of a particle in the wire. Disregard any reflections of the wave. Consider the case where M = 0.75 kg, mw = 0.015 kg, A = 0.85 cm, λ = 0.65 cm, L = 1.2 m. Enter your answer in m/s.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 2
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 3 Question 3 1 pts Edit this Question Delete this Question 0 numerical_question 110816036 <p><span style="font-size: 14pt;">A sound source is located along the x-axis. Two listeners at x = -7.0 m and x =+3.0 m detect the same wavefront simultaneously.</span></p> <p><span style="font-size: 14pt;">A third listener somewhere along the positive y-axis also detects the wavefront simultaneously with the first two. What is her y-coordinate?</span></p> <p><span style="font-size: 14pt;">Enter your answer in meters along the y-axis.</span></p> A sound source is located along the x-axis. Two listeners at x = -7.0 m and x =+3.0 m detect the same wavefront simultaneously. A third listener somewhere along the positive y-axis also detects the wavefront simultaneously with the first two. What is her y-coordinate? Enter your answer in meters along the y-axis.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 3
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 4 Question 4 1 pts Edit this Question Delete this Question 0 multiple_choice_question 110816033 <p><span><span style="font-size: 14pt;">This illustration shows a snapshot in time of a wave traveling through media with different indices of refraction. Which index of refraction is the largest? Explain.</span><br></span></p> <p><span><img src="/courses/2048438/files/113247768/preview" alt="A wave traveling through three media, the first shows 4 peaks, the middle shows 3 peaks, and the last shows 5 peaks"></span></p> This illustration shows a snapshot in time of a wave traveling through media with different indices of refraction. Which index of refraction is the largest? Explain. Group of answer choices A B C
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 4
+- Edit this Question
+- Delete this Question
+- Group of answer choices
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 5 Question 5 1 pts Edit this Question Delete this Question 0 numerical_question <span style="font-size: 14pt;">Orange light with a wavelength of 650 nm is propagating through air. The light ray strikes a glass slide 1.2 mm thick, perpendicular to its surface, and propagates through the glass (index of refraction = 1.5). How many wavelengths of light are inside the glass slide?</span> Orange light with a wavelength of 650 nm is propagating through air. The light ray strikes a glass slide 1.2 mm thick, perpendicular to its surface, and propagates through the glass (index of refraction = 1.5). How many wavelengths of light are inside the glass slide?
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 5
+- Edit this Question
+- Delete this Question
+- Numerical answer
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 6 Question 6 0 pts Edit this Question Delete this Question 0 essay_question <span style="font-size: 14pt;">Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You will not receive credit for this activity if you skip this question.</span> Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You will not receive credit for this activity if you skip this question.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 6
+- Edit this Question
+- Delete this Question
+- Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Flag question: Question 7 Question 7 0 pts Edit this Question Delete this Question 0 essay_question 110816038 <p><span style="font-size: 14pt;">You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.</span></p> <p><span style="font-size: 14pt;">For help with scanning, please see&nbsp;<a title="Scanning Resources" href="/courses/2048438/pages/scanning-resources">Scanning Resources</a>.</span></p> You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question. For help with scanning, please see Scanning Resources.
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Flag question: Question 7
+- Edit this Question
+- Delete this Question

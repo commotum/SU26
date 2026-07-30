@@ -1,0 +1,36 @@
+{
+  "run_id": "full-refresh-2026-07-30T20-22-21-741Z",
+  "run_root": "/Users/jake/Developer/SU26/canvas/archive/full-refresh-2026-07-30T20-22-21-741Z",
+  "status": "complete",
+  "stop_reason": "",
+  "pages_captured": 924,
+  "pages_this_invocation": 29,
+  "manifest_rows": 925,
+  "links": 35480,
+  "iframes": 2128,
+  "downloads": 266,
+  "warnings": 2,
+  "queued_remaining": 0,
+  "max_pages": 1200,
+  "max_pages_per_invocation": 1200,
+  "screenshot_mode": "surfaces",
+  "pages_by_course": {
+    "MTH-252": 320,
+    "MTH-253": 151,
+    "PHY-212": 453
+  },
+  "pages_by_object_type": {
+    "course_page": 10,
+    "modules": 3,
+    "grades": 3,
+    "assignment": 159,
+    "discussions": 3,
+    "quizzes": 1,
+    "assignments": 1,
+    "file": 110,
+    "page": 167,
+    "module_item": 47,
+    "discussion": 52,
+    "quiz": 368
+  }
+}

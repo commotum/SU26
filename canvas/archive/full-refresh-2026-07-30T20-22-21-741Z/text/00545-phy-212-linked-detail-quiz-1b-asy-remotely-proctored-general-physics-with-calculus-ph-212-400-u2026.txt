@@ -1,0 +1,31 @@
+Quiz 1B_asy (Remotely Proctored)
+Due Jul 6 at 4:55pm Points 40 Questions 1 Available Jul 4 at 5pm - Aug 14 at 4:55pm Time Limit 30 Minutes
+Instructions
+
+Instructions
+
+This quiz is timed, you need to complete it within 20 minutes of starting.
+
+Keep track of your answers and show your work on paper in your own handwriting.
+
+Upload a pdf of your work to Quiz 1B_asy_work in Gradescope within 5 minutes of exiting Proctorio. If your work is uploaded more than 5 minutes after finishing the Proctorio quiz, you will not receive credit.
+
+ Correct answers are hidden.
+Score for this quiz: 32 out of 40
+Submitted Jul 6 at 4:51pm
+This attempt took 10 minutes.
+ 
+Question 1
+32 / 40 pts
+
+A 7.27 kg greyhound holds onto a rope that is wound around a spool with radius 2.2 m.
+
+At t = 0.0 s, the greyhound starts from rest at the spool and moves straight away from it, unwinding the rope.
+
+Solve completely symbolically in terms of given variables before inserting numerical values.
+
+Enter "1" in the textbox to indicate you have read the question.
+
+Upload your scan pdf to Quiz1B_asy_work in Gradescope.
+
+Quiz Score: 32 out of 40

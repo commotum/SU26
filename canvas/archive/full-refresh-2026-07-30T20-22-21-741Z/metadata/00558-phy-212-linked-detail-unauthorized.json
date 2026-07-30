@@ -1,0 +1,188 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Access Denied"
+    }
+  ],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452#content",
+      "index": 0,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 1,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 3,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 4,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 5,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 6,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 7,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 9,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    }
+  ],
+  "main_links": [],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160536/questions/59026452",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Unauthorized",
+  "page_id": "00558-phy-212-linked-detail-unauthorized",
+  "captured_at": "2026-07-30T20:47:59.657Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00287-phy-212-module-item-lab-partner-values-survey-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160536",
+  "html_sha256": "9b8db22b273ac651782aa20f60156196e46fbbac4b1cb2a2f2ddba4891ca0209",
+  "text_sha256": "2b62e20d47d477eacda81c2beef0dbb06e7f4e1a1021b68e5f70be2917f36f5b",
+  "requires_external_handler": false
+}

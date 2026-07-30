@@ -1,0 +1,1008 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1)"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "Attempt History"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Purpose The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation. Instructions Complete this quiz after reading through the corresponding section of the OpenStax textbook. Reading: Section 1.1Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Time:"
+    },
+    {
+      "index": 3,
+      "text": "Score:"
+    },
+    {
+      "index": 4,
+      "text": "Time:"
+    },
+    {
+      "index": 5,
+      "text": "Score:"
+    },
+    {
+      "index": 6,
+      "text": "Time:"
+    },
+    {
+      "index": 7,
+      "text": "Score:"
+    },
+    {
+      "index": 8,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2 / 2 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040514 From the reading, the notation&nbsp;<img class=\"equation_image\" title=\"x_i^{ }\" src=\"/equation_images/x_i%255E%257B%2520%257D\" alt=\"LaTeX: x_i^{ }\" data-equation-content=\"x_i^{ }\"> represents [ Select ] [\"any\", \"the leftmost\", \"rightmost\", \"the middle\"] point in the <img class=\"equation_image\" title=\"i^{\\text{th}}\" src=\"/equation_images/i%255E%257B%255Ctext%257Bth%257D%257D\" alt=\"LaTeX: i^{\\text{th}}\" data-equation-content=\"i^{\\text{th}}\"> interval of a partition. From the reading, the notation represents rightmost point in the interval of a partition. Answer 1: 9292 any any exact_answer A 59173354 9292 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6611 the leftmost the leftmost exact_answer A 59173354 6611 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6466 rightmost rightmost exact_answer A 59173354 6466 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 8908 the middle the middle exact_answer A 59173354 8908 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 9,
+      "text": "Move To..."
+    },
+    {
+      "index": 10,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 11,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 12,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 13,
+      "text": "Correct!"
+    },
+    {
+      "index": 14,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 111040509 In section 1.1 reading, which geometric shape used for the approximation methods discussed? In section 1.1 reading, which geometric shape used for the approximation methods discussed? 7551 Circles Circles exact_answer none 59173359 7551 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 2093 Rectangles Rectangles exact_answer none 59173359 2093 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 6084 Triangles Triangles exact_answer none 59173359 6084 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9261 Elipses Elipses exact_answer none 59173359 9261 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 15,
+      "text": "Move To..."
+    },
+    {
+      "index": 16,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 17,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 18,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 19,
+      "text": "Correct!"
+    },
+    {
+      "index": 20,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 111040510 According to the illustration in section 1.1, which best describes the geometric interpretation of &nbsp;<img class=\"equation_image\" title=\"\\:\\Delta x\\:\" src=\"/equation_images/%255C%253A%255CDelta%2520x%255C%253A\" alt=\"LaTeX: \\:\\Delta x\\:\" data-equation-content=\"\\:\\Delta x\\:\">? According to the illustration in section 1.1, which best describes the geometric interpretation of ? 3469 The gap. The gap. exact_answer none 59173352 3469 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3984 Distance between bounds x = a and x = b. Distance between bounds x = a and x = b. exact_answer none 59173352 3984 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3658 Width of a rectangle. Width of a rectangle. exact_answer none 59173352 3658 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 3184 Height of a rectangle. Height of a rectangle. exact_answer none 59173352 3184 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 21,
+      "text": "Move To..."
+    },
+    {
+      "index": 22,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 23,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 24,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 25,
+      "text": "Correct!"
+    },
+    {
+      "index": 26,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 2 / 2 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040511 The product &nbsp;<img class=\"equation_image\" title=\"\\:f\\left(x_i\\right)\\cdot\\Delta x\\:\" src=\"/equation_images/%255C%253Af%255Cleft(x_i%255Cright)%255Ccdot%255CDelta%2520x%255C%253A\" alt=\"LaTeX: \\:f\\left(x_i\\right)\\cdot\\Delta x\\:\" data-equation-content=\"\\:f\\left(x_i\\right)\\cdot\\Delta x\\:\">&nbsp;geometrically represents the [ Select ] [\"\", \"height\", \"position\", \"area\"] of a sample rectangle using the [ Select ] [\"left-endpoint approximation\", \"midpoint approximation\", \"right-endpoint approximation\"] .&nbsp; The product geometrically represents the [ Select ] [\"\", \"height\", \"position\", \"area\"] of a sample rectangle using the [ Select ] [\"left-endpoint approximation\", \"midpoint approximation\", \"right-endpoint approximation\"] . Answer 1: 4905 exact_answer A 59173360 4905 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7979 height height exact_answer A 59173360 7979 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3717 position position exact_answer A 59173360 3717 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6599 area area exact_answer A 59173360 6599 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Answer 2: 7684 left-endpoint approximation left-endpoint approximation exact_answer B 59173360 7684 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 243 midpoint approximation midpoint approximation exact_answer B 59173360 243 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6936 right-endpoint approximation right-endpoint approximation exact_answer B 59173360 6936 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 27,
+      "text": "Move To..."
+    },
+    {
+      "index": 28,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 29,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 30,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 31,
+      "text": "[ Select ] [\"\", \"height\", \"position\", \"area\"]"
+    },
+    {
+      "index": 32,
+      "text": "[ Select ] [\"left-endpoint approximation\", \"midpoint approximation\", \"right-endpoint approximation\"]"
+    },
+    {
+      "index": 33,
+      "text": "Correct!"
+    },
+    {
+      "index": 34,
+      "text": "Correct!"
+    },
+    {
+      "index": 35,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 111040513 Which best describes the notation &nbsp;<img class=\"equation_image\" title=\"L_5\" src=\"/equation_images/L_5\" alt=\"LaTeX: L_5\" data-equation-content=\"L_5\">&nbsp;? Which best describes the notation ? 78 Left-endpoint approximation with 5 rectangles. Left-endpoint approximation with 5 rectangles. exact_answer none 59173361 78 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 334 Left-endpoint approximation over an interval 5 units long. Left-endpoint approximation over an interval 5 units long. exact_answer none 59173361 334 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7527 Long approximation with 5 calculations. Long approximation with 5 calculations. exact_answer none 59173361 7527 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3094 Least approximation over 5. Least approximation over 5. exact_answer none 59173361 3094 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 36,
+      "text": "Move To..."
+    },
+    {
+      "index": 37,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 38,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 39,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 40,
+      "text": "Correct!"
+    },
+    {
+      "index": 41,
+      "text": "Previous Next"
+    },
+    {
+      "index": 42,
+      "text": "Previous"
+    },
+    {
+      "index": 43,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Pre-Class Reading Quiz - 1.1 (RQ-1.1)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2080857/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659",
+      "index": 17,
+      "raw_href": "/courses/2080857/quizzes/3167659",
+      "rel": "",
+      "target": "",
+      "text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades21",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/1-1-approximating-areas",
+      "index": 27,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/1-1-approximating-areas",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 1.1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=2",
+      "index": 28,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=2",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=2",
+      "index": 29,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=2",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1",
+      "index": 30,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173354",
+      "index": 33,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173354",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173359",
+      "index": 36,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173359",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173352",
+      "index": 39,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173352",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173360",
+      "index": 42,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173360",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173361",
+      "index": 45,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173361",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982547",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982547",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982549",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982549",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history",
+      "index": 48,
+      "raw_href": "/courses/2080857/quizzes/3167659/history",
+      "rel": "",
+      "target": "",
+      "text": "View Previous Attempts",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/1-1-approximating-areas",
+      "index": 0,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/1-1-approximating-areas",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Section 1.1Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=2",
+      "index": 1,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=2",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=2",
+      "index": 2,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=2",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 2",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1",
+      "index": 3,
+      "raw_href": "/courses/2080857/quizzes/3167659/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173354",
+      "index": 6,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173354",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173359",
+      "index": 9,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173359",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173352",
+      "index": 12,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173352",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173360",
+      "index": 15,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173360",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173361",
+      "index": 18,
+      "raw_href": "/courses/2080857/quizzes/3167659/questions/59173361",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982547",
+      "index": 19,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982547",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982549",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982549",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades21"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982548",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548",
+  "source_surface": "module_item",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Attempt Time Score KEPT Attempt 2 Time: less than 1 minute Score: 10 out of 10 LATEST Attempt 2 Time: less than 1 minute Score: 10 out of 10 Attempt 1 Time: 3 minutes Score: 8 out of 10"
+    }
+  ],
+  "title": "Pre-Class Reading Quiz - 1.1 (RQ-1.1): INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00053-mth-252-module-item-pre-class-reading-quiz-1-1-rq-1-1-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-07-30T20:24:47.839Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Pre-Class Reading Quiz - 1.1 (RQ-1.1)",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3167659",
+  "html_sha256": "6be4d3c29261f7d8627804b247300cf5f47ad3b4faed83ad837ba7c913e8066f",
+  "text_sha256": "60db69d1e800db61511cb8cec11528ed9a8aca4e9b4b679de16ea7abdab981ce",
+  "requires_external_handler": false
+}

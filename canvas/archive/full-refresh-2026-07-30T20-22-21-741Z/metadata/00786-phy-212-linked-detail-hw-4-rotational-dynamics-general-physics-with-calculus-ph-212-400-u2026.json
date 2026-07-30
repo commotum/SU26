@@ -1,0 +1,1577 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Hw 4 - Rotational Dynamics"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Note that although Canvas calls this a \"quiz,\" it is actually a homework assignment. Here are some things to keep in mind: 1. You are encouraged to work with others. 2. You can exit the assignment without submitting and return later to complete it. 3. You have up to four attempts to complete this assignment. Your highest score will be kept. 4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late. 5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time. 6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; ."
+    },
+    {
+      "index": 2,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Two uniform solid cylinders, one having mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">, the other mass <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\">, are simultaneously released from rest at the top of a ramp of height <img class=\"equation_image\" title=\"h\" src=\"/equation_images/h?scale=1\" alt=\"LaTeX: h\" data-equation-content=\"h\" data-ignore-a11y-check=\"\"> inclined at angle <img class=\"equation_image\" title=\"\\theta\" src=\"/equation_images/%255Ctheta?scale=1\" alt=\"LaTeX: \\theta\" data-equation-content=\"\\theta\" data-ignore-a11y-check=\"\">. Each cylinder rolls to the bottom without slipping against the ramp's surface.</p> <p>Which one reaches the bottom first?</p> Two uniform solid cylinders, one having mass radius , the other mass and radius , are simultaneously released from rest at the top of a ramp of height inclined at angle . Each cylinder rolls to the bottom without slipping against the ramp's surface. Which one reaches the bottom first? 1522 the M and R one the M and R one exact_answer none 59026185 1522 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5951 the 4M and R/2 one the 4M and R/2 one exact_answer none 59026185 5951 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8961 they both reach the bottom at the same time they both reach the bottom at the same time exact_answer none 59026185 8961 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 3,
+      "text": "Move To..."
+    },
+    {
+      "index": 4,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 5,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 6,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 7,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Two uniform solid cylinders, one having mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">, the other mass <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\">, are simultaneously released from rest at the top of a ramp of height <img class=\"equation_image\" title=\"h\" src=\"/equation_images/h?scale=1\" alt=\"LaTeX: h\" data-equation-content=\"h\" data-ignore-a11y-check=\"\"> inclined at angle <img class=\"equation_image\" title=\"\\theta\" src=\"/equation_images/%255Ctheta?scale=1\" alt=\"LaTeX: \\theta\" data-equation-content=\"\\theta\" data-ignore-a11y-check=\"\">. Each cylinder rolls to the bottom without slipping against the ramp's surface.</p> <p>How much time does it take for the mass <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\"> cylinder to reach the bottom?</p> Two uniform solid cylinders, one having mass radius , the other mass and radius , are simultaneously released from rest at the top of a ramp of height inclined at angle . Each cylinder rolls to the bottom without slipping against the ramp's surface. How much time does it take for the mass and radius cylinder to reach the bottom? 5716 No answer text provided. No answer text provided. exact_answer none 59026186 5716 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1717 No answer text provided. No answer text provided. exact_answer none 59026186 1717 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5223 No answer text provided. No answer text provided. exact_answer none 59026186 5223 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 2736 No answer text provided. No answer text provided. exact_answer none 59026186 2736 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 8,
+      "text": "Move To..."
+    },
+    {
+      "index": 9,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 10,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 11,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 12,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Two uniform solid cylinders, one having mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">, the other mass <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\">, are simultaneously released from rest at the top of a ramp of height <img class=\"equation_image\" title=\"h\" src=\"/equation_images/h?scale=1\" alt=\"LaTeX: h\" data-equation-content=\"h\" data-ignore-a11y-check=\"\"> inclined at angle <img class=\"equation_image\" title=\"\\theta\" src=\"/equation_images/%255Ctheta?scale=1\" alt=\"LaTeX: \\theta\" data-equation-content=\"\\theta\" data-ignore-a11y-check=\"\">. Each cylinder rolls to the bottom without slipping against the ramp's surface.</p> <p>With what speed does the <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\"> cylinder reach the bottom?</p> Two uniform solid cylinders, one having mass radius , the other mass and radius , are simultaneously released from rest at the top of a ramp of height inclined at angle . Each cylinder rolls to the bottom without slipping against the ramp's surface. With what speed does the and cylinder reach the bottom? 1614 No answer text provided. No answer text provided. exact_answer none 59026187 1614 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6732 No answer text provided. No answer text provided. exact_answer none 59026187 6732 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 99 No answer text provided. No answer text provided. exact_answer none 59026187 99 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 8067 No answer text provided. No answer text provided. exact_answer none 59026187 8067 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 13,
+      "text": "Move To..."
+    },
+    {
+      "index": 14,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 15,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 16,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 17,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>Two uniform solid cylinders, one having mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">, the other mass <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\">, are simultaneously released from rest at the top of a ramp of height <img class=\"equation_image\" title=\"h\" src=\"/equation_images/h?scale=1\" alt=\"LaTeX: h\" data-equation-content=\"h\" data-ignore-a11y-check=\"\"> inclined at angle <img class=\"equation_image\" title=\"\\theta\" src=\"/equation_images/%255Ctheta?scale=1\" alt=\"LaTeX: \\theta\" data-equation-content=\"\\theta\" data-ignore-a11y-check=\"\">. Each cylinder rolls to the bottom without slipping against the ramp's surface.</p> <p>What is the total kinetic energy of the <img class=\"equation_image\" title=\"4M\" src=\"/equation_images/4M?scale=1\" alt=\"LaTeX: 4M\" data-equation-content=\"4M\" data-ignore-a11y-check=\"\"> and <img class=\"equation_image\" title=\"R/2\" src=\"/equation_images/R%252F2?scale=1\" alt=\"LaTeX: R/2\" data-equation-content=\"R/2\" data-ignore-a11y-check=\"\"> cylinder at the instant it reaches the bottom?</p> Two uniform solid cylinders, one having mass radius , the other mass and radius , are simultaneously released from rest at the top of a ramp of height inclined at angle . Each cylinder rolls to the bottom without slipping against the ramp's surface. What is the total kinetic energy of the and cylinder at the instant it reaches the bottom? 9232 No answer text provided. No answer text provided. exact_answer none 59026188 9232 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1529 No answer text provided. No answer text provided. exact_answer none 59026188 1529 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5722 No answer text provided. No answer text provided. exact_answer none 59026188 5722 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 2526 No answer text provided. No answer text provided. exact_answer none 59026188 2526 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 18,
+      "text": "Move To..."
+    },
+    {
+      "index": 19,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 20,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 21,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 22,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A yo-yo has mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\">, inner axle radius <img class=\"equation_image\" title=\"R/4\" src=\"/equation_images/R%252F4?scale=1\" alt=\"LaTeX: R/4\" data-equation-content=\"R/4\" data-ignore-a11y-check=\"\">, and outer radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">. A massless string wrapped around the yo-yo's axle is pulled to the right by a force of magnitude <img class=\"equation_image\" title=\"T\" src=\"/equation_images/T?scale=1\" alt=\"LaTeX: T\" data-equation-content=\"T\" data-ignore-a11y-check=\"\"> (shown below).</p> <p>Assuming the string does not slip against the axle, there is negligible rolling friction, and that the yo-yo rolls without slipping, find the magnitude of the acceleration of its center of mass. Treat it as a uniform cylinder of mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">.</p> <p>Hint: Draw an <strong>extended</strong> free-body diagram for the yo-yo and then apply both<span>&nbsp;the translational and rotational forms of Newton's second law. Connect the resulting equations using the rolling without slipping constraint.</span></p> <p><img id=\"109541993\" src=\"/courses/2053526/files/118705965/preview\" alt=\"yoyo.jpg\" width=\"500\" height=\"200\"></p> A yo-yo has mass , inner axle radius , and outer radius . A massless string wrapped around the yo-yo's axle is pulled to the right by a force of magnitude (shown below). Assuming the string does not slip against the axle, there is negligible rolling friction, and that the yo-yo rolls without slipping, find the magnitude of the acceleration of its center of mass. Treat it as a uniform cylinder of mass and radius . Hint: Draw an extended free-body diagram for the yo-yo and then apply both the translational and rotational forms of Newton's second law. Connect the resulting equations using the rolling without slipping constraint. 1162 No answer text provided. No answer text provided. exact_answer none 59026189 1162 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 1941 No answer text provided. No answer text provided. exact_answer none 59026189 1941 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8709 No answer text provided. No answer text provided. exact_answer none 59026189 8709 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5037 No answer text provided. No answer text provided. exact_answer none 59026189 5037 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 23,
+      "text": "Move To..."
+    },
+    {
+      "index": 24,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 25,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 26,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 27,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 6 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>As shown in the figure below, a uniform sphere of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\">&nbsp;and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> is placed with its center of mass directly above the end of a thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\">&nbsp;and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\">.</p> <p>What should the distance <img class=\"equation_image\" title=\"d\" src=\"/equation_images/d?scale=1\" alt=\"LaTeX: d\" data-equation-content=\"d\" data-ignore-a11y-check=\"\"> be so that the system is in static equilibrium?</p> <p><img id=\"109637772\" src=\"/courses/2053526/files/118705772/preview\" alt=\"fulcrum.png\" width=\"400\" height=\"198\"></p> As shown in the figure below, a uniform sphere of mass and radius is placed with its center of mass directly above the end of a thin, uniform rod of mass and length . What should the distance be so that the system is in static equilibrium? 4140 No answer text provided. No answer text provided. exact_answer none 59026190 4140 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7981 No answer text provided. No answer text provided. exact_answer none 59026190 7981 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 2070 No answer text provided. No answer text provided. exact_answer none 59026190 2070 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 28,
+      "text": "Move To..."
+    },
+    {
+      "index": 29,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 30,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 31,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 32,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 7 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>Which of the following is a true statement?</p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. Which of the following is a true statement? 7182 After the collision, the ball + rod system will not rotate After the collision, the ball + rod system will not rotate exact_answer none 59026191 7182 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5078 After the collision, the ball + rod system will rotate about an axis passing through the rod's center of mass After the collision, the ball + rod system will rotate about an axis passing through the rod's center of mass exact_answer none 59026191 5078 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7451 After the collision, the ball + rod system will rotate about an axis passing through the ball + rod system's center of mass After the collision, the ball + rod system will rotate about an axis passing through the ball + rod system's center of mass exact_answer none 59026191 7451 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 33,
+      "text": "Move To..."
+    },
+    {
+      "index": 34,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 35,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 36,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 37,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 8 2 / 2 pts Edit this Question Delete this Question 0 multiple_answers_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>Which of the following quantities below are the same before and after the collision (i.e. conserved)?</p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. Which of the following quantities below are the same before and after the collision (i.e. conserved)? 6088 Center of mass momentum of the ball Center of mass momentum of the ball exact_answer none 59026192 6088 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3036 Center of mass momentum of the rod + ball system Center of mass momentum of the rod + ball system Your Answer: (You left this blank) It was really: exact_answer none 59026192 3036 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 3927 Angular momentum of the rod about its center of mass Angular momentum of the rod about its center of mass exact_answer none 59026192 3927 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3947 Angular momentum of the rod + ball system about the center of mass of the rod + ball system Angular momentum of the rod + ball system about the center of mass of the rod + ball system Your Answer: (You left this blank) It was really: exact_answer none 59026192 3947 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 4948 Angular momentum of the rod + ball system about the center of mass of the rod Angular momentum of the rod + ball system about the center of mass of the rod exact_answer none 59026192 4948 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9606 Total kinetic energy of the rod + ball system Total kinetic energy of the rod + ball system exact_answer none 59026192 9606 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 38,
+      "text": "Move To..."
+    },
+    {
+      "index": 39,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 40,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 41,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 42,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 9 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a uniform ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>What is the moment of inertia of the ball + rod system about an axis perpendicular to the rod's long axis and passing through its center?</p> <p>Hint: Do not treat the ball as a point mass. Recall that the moment of inertia of a uniform sphere (mass <img class=\"equation_image\" title=\"M\" src=\"/equation_images/M?scale=1\" alt=\"LaTeX: M\" data-equation-content=\"M\" data-ignore-a11y-check=\"\">, radius <img class=\"equation_image\" title=\"R\" src=\"/equation_images/R?scale=1\" alt=\"LaTeX: R\" data-equation-content=\"R\" data-ignore-a11y-check=\"\">)&nbsp;about its center of mass is <img class=\"equation_image\" title=\"\\frac{2}{5}MR^2\" src=\"/equation_images/%255Cfrac%257B2%257D%257B5%257DMR%255E2?scale=1\" alt=\"LaTeX: \\frac{2}{5}MR^2\" data-equation-content=\"\\frac{2}{5}MR^2\" data-ignore-a11y-check=\"\">.</p> <p>&nbsp;</p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a uniform ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. What is the moment of inertia of the ball + rod system about an axis perpendicular to the rod's long axis and passing through its center? Hint: Do not treat the ball as a point mass. Recall that the moment of inertia of a uniform sphere (mass , radius ) about its center of mass is . 3648 No answer text provided. No answer text provided. exact_answer none 59026193 3648 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 6654 No answer text provided. No answer text provided. exact_answer none 59026193 6654 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 43,
+      "text": "Move To..."
+    },
+    {
+      "index": 44,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 45,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 46,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 47,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 10 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>How far from the center of the rod is the center of mass of the combined ball + rod system/object? (Neglect the third \"z\" dimension of their centers of mass; you can just assume they are aligned at the same z-value. In other words, just work within the 2-dimensional, \"xy\" plane of the figure below.)</p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. How far from the center of the rod is the center of mass of the combined ball + rod system/object? (Neglect the third \"z\" dimension of their centers of mass; you can just assume they are aligned at the same z-value. In other words, just work within the 2-dimensional, \"xy\" plane of the figure below.) 7949 No answer text provided. No answer text provided. exact_answer none 59026194 7949 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 3017 No answer text provided. No answer text provided. exact_answer none 59026194 3017 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 48,
+      "text": "Move To..."
+    },
+    {
+      "index": 49,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 50,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 51,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 52,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 11 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a uniform ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>What is the moment of inertia of the ball + rod system about the axis for which the ball + rod system rotates after the collision?</p> <p>Hint: Use the parallel-axis theorem and your answers to the previous two questions.</p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a uniform ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. What is the moment of inertia of the ball + rod system about the axis for which the ball + rod system rotates after the collision? Hint: Use the parallel-axis theorem and your answers to the previous two questions. 7418 No answer text provided. No answer text provided. exact_answer none 59026195 7418 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 3995 No answer text provided. No answer text provided. exact_answer none 59026195 3995 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 53,
+      "text": "Move To..."
+    },
+    {
+      "index": 54,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 55,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 56,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 57,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 12 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a uniform ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>Given the figure below, assume a traditional right-handed xyz coordinate system (+x to the right, +y upwards, and +z out of the screen) with the origin placed at the center of mass of the ball + rod system.</p> <p>After the collision, what is the angular momentum of the ball + rod system about<span> this origin?</span></p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a uniform ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. Given the figure below, assume a traditional right-handed xyz coordinate system (+x to the right, +y upwards, and +z out of the screen) with the origin placed at the center of mass of the ball + rod system. After the collision, what is the angular momentum of the ball + rod system about this origin? 9125 No answer text provided. No answer text provided. exact_answer none 59026196 9125 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4084 No answer text provided. No answer text provided. exact_answer none 59026196 4084 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 58,
+      "text": "Move To..."
+    },
+    {
+      "index": 59,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 60,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 61,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 62,
+      "text": "Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 13 1 / 1 pts Edit this Question Delete this Question 0 multiple_choice_question <p>A thin, uniform rod of mass <img class=\"equation_image\" title=\"m\" src=\"/equation_images/m?scale=1\" alt=\"LaTeX: m\" data-equation-content=\"m\" data-ignore-a11y-check=\"\"> and length <img class=\"equation_image\" title=\"L\" src=\"/equation_images/L?scale=1\" alt=\"LaTeX: L\" data-equation-content=\"L\" data-ignore-a11y-check=\"\"> sits at rest in outer space when a uniform ball (not spinning) of mass <img class=\"equation_image\" title=\"m/2\" src=\"/equation_images/m%252F2?scale=1\" alt=\"LaTeX: m/2\" data-equation-content=\"m/2\" data-ignore-a11y-check=\"\"> and radius <img class=\"equation_image\" title=\"r\" src=\"/equation_images/r?scale=1\" alt=\"LaTeX: r\" data-equation-content=\"r\" data-ignore-a11y-check=\"\"> strikes one end of the rod with speed <img class=\"equation_image\" title=\"v\" src=\"/equation_images/v?scale=1\" alt=\"LaTeX: v\" data-equation-content=\"v\" data-ignore-a11y-check=\"\"> and sticks to it.</p> <p>Let the magnitude of your answer to the previous question be <img class=\"equation_image\" title=\"L_0\" src=\"/equation_images/L_0?scale=1\" alt=\"LaTeX: L_0\" data-equation-content=\"L_0\" data-ignore-a11y-check=\"\"> and your answer to the question before that be <img class=\"equation_image\" title=\"I_0\" src=\"/equation_images/I_0?scale=1\" alt=\"LaTeX: I_0\" data-equation-content=\"I_0\" data-ignore-a11y-check=\"\">.</p> <p>What is the angular speed of the <span>ball + rod </span>system<span> about the system's rotation axis after the collision?</span></p> <p><img id=\"109547670\" src=\"/courses/2053526/files/118705981/preview\" alt=\"collision.jpg\" width=\"550\" height=\"191\"></p> A thin, uniform rod of mass and length sits at rest in outer space when a uniform ball (not spinning) of mass and radius strikes one end of the rod with speed and sticks to it. Let the magnitude of your answer to the previous question be and your answer to the question before that be . What is the angular speed of the ball + rod system about the system's rotation axis after the collision? 4705 No answer text provided. No answer text provided. exact_answer none 59026197 4705 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7439 No answer text provided. No answer text provided. exact_answer none 59026197 7439 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100"
+    },
+    {
+      "index": 63,
+      "text": "Move To..."
+    },
+    {
+      "index": 64,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 65,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 66,
+      "text": "Delete this Question"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Hw 4 - Rotational Dynamics",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160480",
+      "rel": "",
+      "target": "",
+      "text": "Hw 4 - Rotational Dynamics",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "index": 34,
+      "raw_href": "/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026185",
+      "index": 37,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026185",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026186",
+      "index": 40,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026186",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026187",
+      "index": 43,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026187",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026188",
+      "index": 46,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026188",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 47,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026189",
+      "index": 49,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026189",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026190",
+      "index": 52,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026190",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026191",
+      "index": 55,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026191",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 57,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026192",
+      "index": 58,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026192",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026193",
+      "index": 61,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026193",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 62,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026194",
+      "index": 64,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026194",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026195",
+      "index": 67,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026195",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026196",
+      "index": 70,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026196",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 72,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026197",
+      "index": 73,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026197",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/history",
+      "index": 74,
+      "raw_href": "/courses/2053526/quizzes/3160480/history",
+      "rel": "",
+      "target": "",
+      "text": "View Previous Attempts",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "index": 75,
+      "raw_href": "/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "index": 0,
+      "raw_href": "/courses/2053526/quizzes/3160480/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 1,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 2,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026185",
+      "index": 3,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026185",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026186",
+      "index": 6,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026186",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026187",
+      "index": 9,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026187",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026188",
+      "index": 12,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026188",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026189",
+      "index": 15,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026189",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 17,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026190",
+      "index": 18,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026190",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 20,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026191",
+      "index": 21,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026191",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 22,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 23,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026192",
+      "index": 24,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026192",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 25,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 26,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026193",
+      "index": 27,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026193",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026194",
+      "index": 30,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026194",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026195",
+      "index": 33,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026195",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026196",
+      "index": 36,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026196",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/questions/59026197",
+      "index": 39,
+      "raw_href": "/courses/2053526/quizzes/3160480/questions/59026197",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160480/take?user_id=6660414",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Hw 4 - Rotational Dynamics: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00786-phy-212-linked-detail-hw-4-rotational-dynamics-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:57:56.027Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00570-phy-212-linked-detail-hw-4-rotational-dynamics-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Take the Quiz Again",
+  "depth": 3,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160480",
+  "html_sha256": "25f9050ebb855e2b7ea42422c2244beac19046425feda119bf1b43f8aaa72d5d",
+  "text_sha256": "66940642f7a9aca8649305ae9066c172f17277d5b38266ce065fadf4ff604aca",
+  "requires_external_handler": false
+}

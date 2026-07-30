@@ -1,0 +1,1074 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Unit 3 - Learning Materials"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Lectures"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Videos"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Download Divergence Test"
+    },
+    {
+      "index": 6,
+      "text": "Download p-Series and The Integral Test"
+    },
+    {
+      "index": 7,
+      "text": "Download The Comparison Test"
+    },
+    {
+      "index": 8,
+      "text": "Download The Limit Comparison Test"
+    },
+    {
+      "index": 9,
+      "text": "Download The Alternating Series Test"
+    },
+    {
+      "index": 10,
+      "text": "Download Absolute and Conditional Convergence"
+    },
+    {
+      "index": 11,
+      "text": "Download The Ratio Test"
+    },
+    {
+      "index": 12,
+      "text": "Download The Root Test"
+    },
+    {
+      "index": 13,
+      "text": "Download What Test to Use"
+    },
+    {
+      "index": 14,
+      "text": "Previous Next"
+    },
+    {
+      "index": 15,
+      "text": "Previous"
+    },
+    {
+      "index": 16,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "304",
+      "index": 1,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_ffr0059h&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_6rt62eid",
+      "title": "MTH 253 - The Divergence Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 2,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_zpowxyo1&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_4qfebk5h",
+      "title": "MTH 253 - P-Series",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 3,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_ebkqfvka&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_hge5v3ko",
+      "title": "MTH 253 - The Integral Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 4,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_k4yl9ktl&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_39kb88wd",
+      "title": "MTH 253 - The Comparison Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 5,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_7mbdp2ym&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_mi6zy72g",
+      "title": "MTH 253 - The Limit Comparison Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 6,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_30iexlwe&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_tqp425ip",
+      "title": "MTH 253 - The Alternating Series Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 7,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_q12je1l3&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_qlcsiasg",
+      "title": "MTH 253 - Absolute and Conditional Convergence",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 8,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_eynvzloe&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_4tprk6ea",
+      "title": "MTH 253 - The Ratio Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 9,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_a8n3x135&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_g3xr3u90",
+      "title": "MTH 253 - The Root Test",
+      "width": "480"
+    },
+    {
+      "height": "304",
+      "index": 10,
+      "name": "",
+      "src": "https://cdnapisec.kaltura.com/p/391241/sp/39124100/embedIframeJs/uiconf_id/22119142/partner_id/391241?iframeembed=true&playerId=kaltura_player&entry_id=1_lqp6sdhl&flashvars[localizationCode]=en&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[hotspots.plugin]=1&flashvars[Kaltura.addCrossoriginToIframe]=true&&wid=1_r5rxc8kz",
+      "title": "MTH 253 - Which Test to Use",
+      "width": "480"
+    },
+    {
+      "height": "",
+      "index": 11,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Unit 3 - Learning Materials",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/pages",
+      "index": 16,
+      "raw_href": "/courses/2053263/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 17,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 19,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 20,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 21,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 24,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 25,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests",
+      "index": 29,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-4-comparison-tests",
+      "index": 30,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-4-comparison-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.4Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-5-alternating-series",
+      "index": 31,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-5-alternating-series",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.5Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-6-ratio-and-root-tests",
+      "index": 32,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-6-ratio-and-root-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.6Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2",
+      "index": 33,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959?wrap=1",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Divergence Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959/download?download_frd=1",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download Divergence Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964?wrap=1",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "p-Series and The Integral Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964/download?download_frd=1",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download p-Series and The Integral Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968?wrap=1",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Comparison Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968/download?download_frd=1",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Comparison Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929?wrap=1",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Limit Comparison Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929/download?download_frd=1",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Limit Comparison Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911?wrap=1",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Alternating Series Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911/download?download_frd=1",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Alternating Series Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970?wrap=1",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Absolute and Conditional Convergence",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970/download?download_frd=1",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download Absolute and Conditional Convergence",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816?wrap=1",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Ratio Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816/download?download_frd=1",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Ratio Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799?wrap=1",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Root Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799/download?download_frd=1",
+      "index": 49,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Root Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955?wrap=1",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "What Test to Use",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955/download?download_frd=1",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download What Test to Use",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885555",
+      "index": 52,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885555",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885557",
+      "index": 53,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885557",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests",
+      "index": 0,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-3-the-divergence-and-integral-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.3Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-4-comparison-tests",
+      "index": 1,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-4-comparison-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.4Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-5-alternating-series",
+      "index": 2,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-5-alternating-series",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.5Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/5-6-ratio-and-root-tests",
+      "index": 3,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/5-6-ratio-and-root-tests",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "5.6Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2",
+      "index": 4,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Volume 2Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959?wrap=1",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Divergence Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959/download?download_frd=1",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558959/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download Divergence Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964?wrap=1",
+      "index": 7,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "p-Series and The Integral Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964/download?download_frd=1",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558964/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download p-Series and The Integral Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968?wrap=1",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Comparison Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968/download?download_frd=1",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558968/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Comparison Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929?wrap=1",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Limit Comparison Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929/download?download_frd=1",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558929/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Limit Comparison Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911?wrap=1",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Alternating Series Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911/download?download_frd=1",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558911/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Alternating Series Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970?wrap=1",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Absolute and Conditional Convergence",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970/download?download_frd=1",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558970/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download Absolute and Conditional Convergence",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816?wrap=1",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Ratio Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816/download?download_frd=1",
+      "index": 18,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558816/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Ratio Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799?wrap=1",
+      "index": 19,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "The Root Test",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799/download?download_frd=1",
+      "index": 20,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558799/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download The Root Test",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955?wrap=1",
+      "index": 21,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "What Test to Use",
+      "title": "Link"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955/download?download_frd=1",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/files/118558955/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download What Test to Use",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885555",
+      "index": 23,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885555",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885557",
+      "index": 24,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885557",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/modules/items/26885556",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/pages/unit-3-learning-materials?module_item_id=26885556",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Unit 3 - Learning Materials: SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+  "page_id": "00189-mth-253-module-item-unit-3-learning-materials-sequences-and-series-mth-253z-400-u2026",
+  "captured_at": "2026-07-30T20:31:32.104Z",
+  "source_kind": "module_item",
+  "discovered_from": "00010-mth-253-modules-course-modules-sequences-and-series-mth-253z-400-u2026",
+  "discovered_text": "Unit 3 - Learning Materials",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "unit-3-learning-materials",
+  "html_sha256": "11ec4aeafcc5189a4bb508f30badbe6b2665783d54331aa41cd91f204c52f950",
+  "text_sha256": "bae671e90893d0deaaf648095b0a080a8d19a462bfc7029e6cd387798487162c",
+  "requires_external_handler": true
+}

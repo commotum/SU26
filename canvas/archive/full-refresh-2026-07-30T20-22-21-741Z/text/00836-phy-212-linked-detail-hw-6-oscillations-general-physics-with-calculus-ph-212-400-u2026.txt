@@ -1,0 +1,472 @@
+Hw 6 - Oscillations 
+Due Jul 23 at 11:59pm Points 16 Questions 14 Available Jul 16 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 4
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. Late submissions are accepted with a one-point deduction per day after the due date, up to one week late.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. 
+→
+F
+) although be careful because sometimes Canvas may format this to boldface font; F! The magnitude of the corresponding vector is given in italics; F.
+
+Take the Quiz Again
+Score for this attempt: 16 out of 16
+Submitted Jul 23 at 11:24pm
+This attempt took 9 minutes.
+ 
+Question 1
+1 / 1 pts
+
+The period of a block-spring system undergoing simple harmonic motion is T.
+
+If the amplitude of the oscillations in the system were doubled, what would be the new period?
+
+  T/4
+  T/2
+  T
+  The amplitude cannot be doubled. 
+ 
+Question 2
+1 / 1 pts
+
+The maximum kinetic energy of a block in a block-spring system undergoing simple harmonic motion is Kmax.
+
+If the amplitude of the oscillations in the system were doubled, what would be the new maximum kinetic energy?
+
+  2Kmax
+  4Kmax
+  Kmax
+  The amplitude of the oscillations cannot be doubled. 
+ 
+Question 3
+1 / 1 pts
+
+The plot below shows the x-component of the position of a block undergoing simple harmonic motion.
+
+According to this plot, which of the following is x(t) for t measured in seconds?
+
+  (1.5 m)cos(
+2π
+
+
+5 s
+t−
+π
+
+
+4
+)
+  (1.5 m)cos(
+2π
+
+
+5 s
+t+
+π
+
+
+4
+)
+  (1.5 m)cos(
+4π
+
+
+5 s
+t−
+π
+
+
+4
+)
+  (1.5 m)cos(
+4π
+
+
+5 s
+t+
+π
+
+
+4
+)
+ 
+Question 4
+1 / 1 pts
+
+The plot below shows the x-component of the position of a block undergoing simple harmonic motion.
+
+Suppose the block has mass 2 kg. What's its maximum kinetic energy?
+
+  
+3π2
+
+
+25
+ J
+  
+4π2
+
+
+25
+ J
+  
+9π2
+
+
+25
+ J
+  
+18π2
+
+
+25
+ J
+ 
+Question 5
+1 / 1 pts
+
+The plot below shows the x-component of the position of a block undergoing simple harmonic motion.
+
+Let a2,a5,a8 denote the magnitudes of the accelerations of the block at t=2 s,5 s,8 s respectively.
+
+Which of the following is the correct ranking of these magnitudes from least to greatest?
+
+  a2<a5<a8
+  a2<a8<a5
+  a5<a2<a8
+  a5<a8<a2
+  a8<a2<a5
+  a8<a5<a2
+ 
+Question 6
+1 / 1 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+Before the clay lands, what is period of the block's motion?
+
+  2π
+√
+M
+
+
+k
+  
+1
+
+
+2π
+√
+M
+
+
+k
+  
+1
+
+
+2π
+√
+k
+
+
+M
+  2π
+√
+k
+
+
+M
+ 
+Question 7
+1 / 1 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+What is the speed of the block at the instant before the clay lands?
+
+  
+√
+k
+
+
+M
+A
+  
+√
+2k
+
+
+M
+A
+  
+√
+3k
+
+
+4M
+A
+  
+√
+2k
+
+
+5M
+A
+ 
+Question 8
+1 / 1 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+Let your answer to the previous question equal v0.
+
+What is the speed of the block at the instant after the clay lands?
+
+  
+m
+
+
+m+M
+v0
+  
+M
+
+
+m+M
+v0
+  
+m
+
+
+M
+v0
+  
+M
+
+
+m
+v0
+ 
+Question 9
+1 / 1 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+Let your answer to the previous question equal vf.
+
+Assuming the initial kinetic energy of the clay is negligible (i.e. assume it's dropped from just above the surface of the block), what is the difference in mechanical energy of the spring + block + clay system immediately before and immediately after the collision?
+
+  
+1
+
+
+2
+(m+M)v
+2
+f
+−
+1
+
+
+2
+Mv
+2
+0
+−
+1
+
+
+2
+k(A/2)2
+  
+1
+
+
+2
+(m+M)v
+2
+f
+−
+1
+
+
+2
+Mv
+2
+0
+  
+1
+
+
+2
+M(v
+2
+f
+−v
+2
+0
+)
+  −
+1
+
+
+2
+(m+M)v
+2
+f
+−
+1
+
+
+2
+Mv
+2
+0
+−
+1
+
+
+2
+k(A/2)2
+ 
+Question 10
+2 / 2 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+Let your answer to the previous question for the energy lost equal ΔE.
+
+Assuming the initial kinetic energy of the goo is negligible (i.e. assume it's dropped from just above the surface of the block), what is the new oscillation amplitude of the spring + block + clay system?
+
+  A
+  A/2
+  
+√
+A2+
+2ΔE
+
+
+k
+  
+√
+A2−
+ΔE
+
+
+k
+ 
+Question 11
+1 / 1 pts
+
+A block of mass M attached to an ideal spring of spring constant k oscillates with amplitude A over a frictionless horizontal surface.
+
+A ball of clay lands on the block while it's at x=A/2 (assume a conventional x-axis pointing to the right with x=0 at equilibrium) and sticks to the block's surface.
+
+What is the new period of the block's oscillations after the clay lands and sticks to it?
+
+  2π
+√
+M+m
+
+
+k
+  2π
+√
+M
+
+
+m
+k
+
+
+M+m
+  2π
+√
+m
+
+
+M
+k
+
+
+M+m
+  2π
+√
+k
+
+
+M+m
+ 
+Question 12
+1 / 1 pts
+
+In Portland at the Oregon Convention Center is one of the longest pendulums in the world (in terms of both cable length and oscillation period).
+
+It has a cable of length L=27 m (about 8 stories tall) and a spherical bob of mass m=100 kg and radius r=1.5 m attached to the end of the cable of mass M=400 kg.
+
+If the pendulum is modeled as a simple pendulum (i.e. that the cable has negligible mass and the bob is considered a point mass), what is the pendulum's period? Use g=9.81 m/s2.
+
+  about 9-10 seconds 
+  about 10-11 seconds 
+  about 11-12 seconds 
+  about 12-13 seconds 
+ 
+Question 13
+1 / 1 pts
+
+In Portland at the Oregon Convention Center is one of the longest pendulums in the world (in terms of both cable length and oscillation period).
+
+It has a cable of length L=27 m (about as tall as a building with 8 floors) and a spherical bob of mass m=100 kg and radius r=1.5 m attached to the end of the cable of mass M=400 kg.
+
+For this problem you can again model the pendulum as a simple pendulum but now experiencing a linear drag force.
+
+After 1,000 periods, it is found that the amplitude of the pendulum's motion has reached half of its initial value.
+
+What is the decay constant of the pendulum?
+
+Hint: The decay constant is the τ such that the time-dependent amplitude of the pendulum's motion is A(t)=A0e−t/2τ. See here
+Links to an external site.
+.
+
+  about 5,500 seconds 
+  about 7,500 seconds 
+  about 11,000 seconds 
+  about 15,000 seconds 
+ 
+Question 14
+2 / 2 pts
+
+In Portland at the Oregon Convention Center is one of the longest pendulums in the world (in terms of both cable length and oscillation period).
+
+It has a cable of length L=27 m (about as tall as a building with 8 floors) and a spherical bob of mass m=100 kg and radius r=1.5 m attached to the end of the cable of mass M=400 kg.
+
+A more accurate model of the pendulum would be as a uniform sphere (the bob) attached to the end of a thin uniform rod (the cable).
+
+Under this model, what is the period of the pendulum?
+
+  about 9-10 seconds 
+  about 10-11 seconds 
+  about 11-12 seconds 
+  about 12-13 seconds 
+Quiz Score: 16 out of 16

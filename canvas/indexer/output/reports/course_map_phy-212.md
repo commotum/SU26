@@ -1,18 +1,18 @@
 # PHY-212 Course Map
 
-Generated 2026-07-17 from the completed Canvas crawl archive.
+Generated 2026-07-30 from the completed Canvas crawl archive.
 
 ## Summary
 
 - Modules: 8
 - Module items: 61
-- Tasks: 150
-- Surface-only Assignments/Grades rows: 30
-- Retry URLs queued: 18
-- Parsed downloads: 21
-- Downloads needing action: 44
+- Tasks: 145
+- Surface-only Assignments/Grades rows: 31
+- Retry URLs queued: 2
+- Parsed downloads: 30
+- Downloads needing action: 55
 - Rule-improvement buckets: 1
-- Manual-review rows: 138
+- Manual-review rows: 155
 
 ## Modules
 
@@ -97,7 +97,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **PREP** [Module 5 | Waves | Learning Materials](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-waves-%7C-learning-materials?module_item_id=26896984) - module_item_has_task
 - **PREP** [Module 5 | Waves | Required Activities](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-waves-%7C-required-activities?module_item_id=26896985) - module_item_has_task
 - **SETUP** [Lab 5 Instructions](https://canvas.oregonstate.edu/courses/2053526/pages/lab-5-instructions-2?module_item_id=26896986) - module_item_has_task
-- **TASK** [Lab Group Check-In Survey (Lab 5)](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160466?module_item_id=26896987) - module_item_has_task
+- **TASK** [Lab Group Check-In Survey (Lab 5)](https://canvas.oregonstate.edu/courses/2053526/quizzes/3160466?module_item_id=26896987) (5 pts) - module_item_has_task
 - **SETUP** [Capstone Lab Week 1](https://canvas.oregonstate.edu/courses/2053526/pages/capstone-lab-week-1?module_item_id=26896988) - module_item_has_task
 - **REF** [Module 5 | Waves | Conclusion](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-waves-%7C-conclusion?module_item_id=26896989) - module_item_reference_only
 
@@ -124,6 +124,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **GRADES** [Quiz 2A_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557107/submissions/6660414) due Jul 20 by 6:25pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [Quiz 2B_6pm](https://canvas.oregonstate.edu/courses/2053526/assignments/10557110/submissions/6660414) due Jul 20 by 6:55pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [Lab 5 Group report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061/submissions/6660414) due Jul 25 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
+- **GRADES** [Quiz 2x](https://canvas.oregonstate.edu/courses/2053526/assignments/10557112/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [Quiz 3 Notes](https://canvas.oregonstate.edu/courses/2053526/assignments/10557113/submissions/6660414) (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047/submissions/6660414) due Aug 1 by 11:59pm (5 pts) - grades_surface_task_not_in_modules
 - **GRADES** [Quiz 3A](https://canvas.oregonstate.edu/courses/2053526/assignments/10557114/submissions/6660414) due Aug 3 by 11:25am (5 pts) - grades_surface_task_not_in_modules
@@ -138,22 +139,6 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ### Retry
 
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556942) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556957) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556962) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556976) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556979) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556980) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556981) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556985) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556988) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10556992) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557002) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557004) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557018) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557022) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557031) - high
-- [unauthorized](https://canvas.oregonstate.edu/courses/2053526/assignments/10557112) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-wave-optics-%7C-learning-materials) - high
 - [unauthorized](https://canvas.oregonstate.edu/courses/2053526/pages/module-5-%7C-wave-optics-%7C-required-activities) - high
 
@@ -161,26 +146,26 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 
 - [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119369072/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Quiz 1 practice](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Quiz 1 practice solutions](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Download](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Basic-Excel-Workflows.pptx](https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_DATA_time-distance.txt](https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/119457479/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [syllabus_U2026.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119369072/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [quiz1_practice.pdf](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [quiz1_practice_soln.pdf](https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [M1-2.pdf](https://canvas.oregonstate.edu/files/119356772/download) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [M1-3.pdf](https://canvas.oregonstate.edu/files/119358414/download) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [M1-5.pdf](https://canvas.oregonstate.edu/files/119358458/download) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [Lab Structure and TA Meetings.pdf](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ["About Lab Structure and TA Meetings" presentation](https://canvas.oregonstate.edu/courses/2053526/files/119307451/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ... 24 more downloads
+- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [PH211_Basic-Excel-Workflows.pptx](https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [PH211_Excel-Skills-Ref.xlsx](https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 35 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 67 examples
+- graded_task_missing_due / missing_due_text: 77 examples

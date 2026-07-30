@@ -1,0 +1,547 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "M4-2asy"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Instructions"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Purpose The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. If you got full credit for the Zoom lecture participation assignment for today, you do not need to do this asynchronous equivalent. You can get credit for one or the other, not both. Instructions A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution. Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for all questions, you will not get credit for the activity. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. For help with producing a scan, please see the Scanning Resources document. There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material. You are required to complete this question to get credit for the day's assignment. You may use multiple attempts on this assignment to improve your score. If you need assistance, please reach out for help from the Wormhole, office hours or email."
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) M4-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2053526/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486",
+      "index": 17,
+      "raw_href": "/courses/2053526/quizzes/3160486",
+      "rel": "",
+      "target": "",
+      "text": "M4-2asy",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 18,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 20,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 21,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 22,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 24,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 25,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades55",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 26,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 28,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 33,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414",
+      "index": 35,
+      "raw_href": "/courses/2053526/quizzes/3160486/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414",
+      "index": 1,
+      "raw_href": "/courses/2053526/quizzes/3160486/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades55"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes/3160486/take?user_id=6660414",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "M4-2asy: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00856-phy-212-linked-detail-m4-2asy-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T21:00:50.918Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00622-phy-212-linked-detail-m4-2asy-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Take the Quiz",
+  "depth": 3,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3160486",
+  "html_sha256": "3a6d7c286ba4304694db4c3848049ac940a99e2395f32bb0b4eb64fa52c8a352",
+  "text_sha256": "b29eaec6717956d88c678b919b2851a3326dc483019caccf6b4cf9885333fc39",
+  "requires_external_handler": false
+}

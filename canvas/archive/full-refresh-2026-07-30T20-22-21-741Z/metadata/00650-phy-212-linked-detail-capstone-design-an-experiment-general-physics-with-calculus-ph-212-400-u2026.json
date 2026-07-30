@@ -1,0 +1,764 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Capstone - Design an Experiment"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "PH212 – General Physics with Calculus"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Table of Contents"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Phenomena to Investigate"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Damped oscillations model and equation"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Rubric"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Week 1"
+    },
+    {
+      "index": 7,
+      "level": "H3",
+      "text": "STOP HERE"
+    },
+    {
+      "index": 8,
+      "level": "H3",
+      "text": "This concludes the lab activities for the first week."
+    },
+    {
+      "index": 9,
+      "level": "H3",
+      "text": "Submit your lab report for this week."
+    },
+    {
+      "index": 10,
+      "level": "H3",
+      "text": "Submit Your Group’s Lab Report"
+    },
+    {
+      "index": 11,
+      "level": "H3",
+      "text": "Week 2"
+    },
+    {
+      "index": 12,
+      "level": "H3",
+      "text": "Submit Your Group’s Lab Report"
+    },
+    {
+      "index": 13,
+      "level": "H3",
+      "text": "Appendix – Reference Information"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Capstone - Design an Experiment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2",
+      "rel": "",
+      "target": "",
+      "text": "Excel Skills Document",
+      "title": "Excel Skills Handout"
+    },
+    {
+      "download": "",
+      "href": "https://graphicalanalysis.app/",
+      "index": 34,
+      "raw_href": "https://graphicalanalysis.app/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Vernier graphical analysis Pro versionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://graphicalanalysis.app/",
+      "index": 35,
+      "raw_href": "https://graphicalanalysis.app/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Vernier graphical analysis Pro versionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Torsion pendulum",
+      "title": "Torsion Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Simple pendulum",
+      "title": "Simple Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Torsion Pendulum Instructions",
+      "title": "Torsion Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Simple Pendulum Instructions",
+      "title": "Simple Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "index": 40,
+      "raw_href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add group members to your submission in Gradescope is outlined here",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "index": 41,
+      "raw_href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add group members to your submission in Gradescope is outlined here",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.html",
+      "index": 42,
+      "raw_href": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.html",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.htmlLinks to an external site.",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2",
+      "rel": "",
+      "target": "",
+      "text": "Excel Skills Document",
+      "title": "Excel Skills Handout"
+    },
+    {
+      "download": "",
+      "href": "https://graphicalanalysis.app/",
+      "index": 1,
+      "raw_href": "https://graphicalanalysis.app/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Vernier graphical analysis Pro versionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://graphicalanalysis.app/",
+      "index": 2,
+      "raw_href": "https://graphicalanalysis.app/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Vernier graphical analysis Pro versionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Torsion pendulum",
+      "title": "Torsion Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Simple pendulum",
+      "title": "Simple Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/torsion-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Torsion Pendulum Instructions",
+      "title": "Torsion Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/simple-pendulum-instructions",
+      "rel": "",
+      "target": "",
+      "text": "Simple Pendulum Instructions",
+      "title": "Simple Pendulum Instructions"
+    },
+    {
+      "download": "",
+      "href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "index": 7,
+      "raw_href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add group members to your submission in Gradescope is outlined here",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "index": 8,
+      "raw_href": "https://help.gradescope.com/article/m5qz2xsnjy-student-add-group-members",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "How to add group members to your submission in Gradescope is outlined here",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.html",
+      "index": 9,
+      "raw_href": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.html",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://hyperphysics.phy-astr.gsu.edu/hbase/oscda.htmlLinks to an external site.",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+  "source_surface": "linked_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Investigation Options: Investigate how changing the following variables affects the damping and oscillation frequency: Pros and Cons to each pendulum Torsion pendulum damping Mass and Surface area Data analysis is straightforward using Vernier Graphical Analysis. The angular displacement is measured directly, so no video tracking is required. Due to the slow motion of the torsion pendulum, each trial takes approximately 3-4 minutes to collect enough oscillations for analysis. Simple pendulum damping Mass and Amplitude () The experimental setup is familiar from previous labs and can be repeated with minimal setup. The angular position must first be extracted from a video using Vernier Video Analysis before it can be analyzed in Graphical Analysis. Video analysis can be time consuming, so groups are encouraged to divide the workload by having multiple members analyze different videos and compare their results."
+    },
+    {
+      "caption": "",
+      "index": 1,
+      "text": "Remember, an experiment always: Starts with a hypothesis, a model describing the behavior of a system Uses the model to make a measurable prediction about what will happen in a specific situation Creates the situation experimentally such that the prediction can be measured Compares the results of the experiment to the predicted behavior Makes a statement on the validity of the hypothesis which is supported if the results match the prediction. If the results do not match the prediction, the results should be used to suggest possible modifications or changes to the hypothesis."
+    },
+    {
+      "caption": "",
+      "index": 2,
+      "text": "Task 1 2 3 4 Introduction and Motivation Hypothesis is missing or extremely vague. Does not explain what relationship is being tested. States topic and purpose but unclear hypothesis/prediction; missing background context. Provides context, clear purpose, and hypothesis, but may lack depth or precision. Thorough and well-written: explains scientific background, identifies purpose, states clear hypothesis/prediction, and motivates why this extension is meaningful. Methods and Experimental Design Minimal or incorrect description; major details missing; setup not reproducible. Procedure described but vague, incomplete, or missing justification of chosen extension. Clear description of apparatus, measurements, and procedure; extension explained but with minor gaps. Comprehensive and well-organized description of experiment; details make replication possible; explains how design extends a previous lab and why choices were made. Data Analysis and Results Raw data presented with little or no analysis; missing units/labels; graphs incomplete. Some results calculated but unclear or inconsistent; graphs/tables included but poorly labeled or interpreted. Data presented clearly with graphs/tables; key quantities calculated with reasonable accuracy; minor issues with clarity or completeness. Results well organized and accurate; includes relevant graphs/tables with proper labels and units; key quantities clearly presented; trends identified and explained. Uncertainty and Error Analysis Mentions error vaguely; no quantitative treatment. Some uncertainties reported, but incomplete or not propagated. Discussion of limitations minimal. Includes numerical uncertainties for key results, with partial propagation and some discussion of error sources. Careful uncertainty analysis, including propagation; connects errors/limitations to results; thoughtful discussion of reliability and validity. Discussion and Conclusion Conclusion is vague; does not address hypothesis or results. States conclusion but with little reference to data or model; limited discussion of meaning. Connects results to hypothesis/model, with some explanation of trends and sources of discrepancy. Thorough, logical discussion that synthesizes results, compares with theory/expectations, addresses whether hypothesis was supported, explains discrepancies, and reflects on improvements/future work."
+    }
+  ],
+  "title": "Capstone - Design an Experiment: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00650-phy-212-linked-detail-capstone-design-an-experiment-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:52:26.117Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00313-phy-212-module-item-capstone-lab-week-1-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Capstone Lab - Handout",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "page",
+  "canvas_object_id": "capstone-design-an-experiment",
+  "html_sha256": "6e201dcce836f329e76b037218f7b7db23662b11c4425fedba7809493c8ece40",
+  "text_sha256": "d9990667ee95e32f923ac4b0cba6d10b8504f9f2f946963e0968b2cd457d277b",
+  "requires_external_handler": false
+}

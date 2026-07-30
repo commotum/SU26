@@ -1,18 +1,18 @@
 # MTH-252 Course Map
 
-Generated 2026-07-17 from the completed Canvas crawl archive.
+Generated 2026-07-30 from the completed Canvas crawl archive.
 
 ## Summary
 
 - Modules: 37
-- Module items: 278
-- Tasks: 271
+- Module items: 280
+- Tasks: 269
 - Surface-only Assignments/Grades rows: 0
-- Retry URLs queued: 0
-- Parsed downloads: 57
-- Downloads needing action: 34
+- Retry URLs queued: 22
+- Parsed downloads: 59
+- Downloads needing action: 49
 - Rule-improvement buckets: 1
-- Manual-review rows: 354
+- Manual-review rows: 290
 
 ## Modules
 
@@ -21,6 +21,8 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **REF** [WHW1-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223581?module_item_id=26982502) - module_item_reference_only
 - **REF** [WHW2-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223582?module_item_id=26982503) - module_item_reference_only
 - **REF** [WHW3-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223584?module_item_id=26982504) - module_item_reference_only
+- **REF** [WHW4-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223460?module_item_id=26982505) - module_item_reference_only
+- **REF** [WHW5-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223569?module_item_id=26982506) - module_item_reference_only
 
 ### 2. Start Here
 
@@ -46,7 +48,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **REF** [Website: MSLC --> Peer tutoring](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982535) - module_item_reference_only
 - **REF** [MSLC Summer Tutoring Hours.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223484?module_item_id=26982536) - module_item_reference_only
 - **SETUP** [How-To Videos](https://canvas.oregonstate.edu/courses/2080857/pages/how-to-videos?module_item_id=26982537) - module_item_has_task
-- **SETUP** [CamScanner: Making ONE pdf with multiple pages Links to an external site.](https://youtu.be/aP78GQc9gNA) - module_item_external_unvisited review=external_surface
+- **SETUP** [CamScanner: Making ONE pdf with multiple pages Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982538) - module_item_has_task
 - **PREP** [Textbook: OpenStax Calculus - Volume 1 link Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/27022202) - module_item_has_task
 
 ### 4. MTH 251 Review **Optional**
@@ -62,7 +64,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **PREP** [Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours](https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545) - module_item_has_task
 - **PREP** [Dr. G's Lecture Notes--> Sect. 1.1 and 1.2](https://canvas.oregonstate.edu/courses/2080857/files/119223553?module_item_id=26982546) - module_item_has_task
 - **PREP** [Dr. G's Videos --> 1.1](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-1-dot-1?module_item_id=26982547) - module_item_has_task
-- **TASK** [Pre-Class Reading Quiz - 1.1 (RQ-1.1)](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548) - module_item_has_task
+- **BLOCKED** [Pre-Class Reading Quiz - 1.1 (RQ-1.1)](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548) (2 pts) - module_item_blocked review=blocked_or_broken
 - **TASK** [Module 1 — Written Homework (WHW 1) 🕓 2 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586053?module_item_id=26982549) due Jul 6 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Intro Reflect 1](https://canvas.oregonstate.edu/courses/2080857/assignments/10586044?module_item_id=26982550) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.1 Approximating Areas](https://canvas.oregonstate.edu/courses/2080857/assignments/10586025?module_item_id=26982551) due Jun 29 by 11:59pm (5 pts) - module_item_has_task
@@ -90,7 +92,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **PREP** [Module 3 — Learning Materials and Practice Activities 🕓 3 - 5 hours](https://canvas.oregonstate.edu/courses/2080857/pages/module-3-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982564) - module_item_has_task
 - **PREP** [Dr. G's Lecture Notes--> Sects. 1.3, 4.10, 1.4, 1.5, 1.6](https://canvas.oregonstate.edu/courses/2080857/files/119223594?module_item_id=26982565) - module_item_has_task
 - **PREP** [Dr G's Videos --> 1.3, 4.10](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-1-dot-3-4-dot-10?module_item_id=26982566) - module_item_has_task
-- **TASK** [Pre-Class Reading Quiz - 1.3 (RQ-1.3)](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655?module_item_id=26982567) - module_item_has_task
+- **BLOCKED** [Pre-Class Reading Quiz - 1.3 (RQ-1.3)](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655?module_item_id=26982567) (2.5 pts) - module_item_blocked review=blocked_or_broken
 - **TASK** [Module 3 — Written Homework (WHW 3) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586056?module_item_id=26982568) due Jul 14 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.3 The Fundamental Theorem of Calculus](https://canvas.oregonstate.edu/courses/2080857/assignments/10586027?module_item_id=26982569) due Jul 13 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 4.10 Antiderivatives](https://canvas.oregonstate.edu/courses/2080857/assignments/10586042?module_item_id=26982570) due Jul 13 by 11:59pm (5 pts) - module_item_has_task
@@ -104,17 +106,17 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **PREP** [Dr G's Videos --> Sect 1.3, 1.4](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-sect-1-dot-3-1-dot-4?module_item_id=26982575) - module_item_has_task
 - **PREP** [Dr G's Videos --> Sect 1.4, 1.5, 1.6](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-sect-1-dot-4-1-dot-5-1-dot-6?module_item_id=26982576) - module_item_has_task
 - **TASK** [RQ-1.4](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167664?module_item_id=26982577) - module_item_has_task
-- **TASK** [RQ-1.5](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578) - module_item_has_task
-- **TASK** [RQ-1.6](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654?module_item_id=26982579) - module_item_has_task
+- **BLOCKED** [RQ-1.5](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578) (2.5 pts) - module_item_blocked review=blocked_or_broken
+- **BLOCKED** [RQ-1.6](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654?module_item_id=26982579) (2.5 pts) - module_item_blocked review=blocked_or_broken
 - **TASK** [Module 4 — Written Homework (WHW 4) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586057?module_item_id=26982580) due Jul 20 by 11:59pm (1.5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.4 Integration Formulas and the Net Change Theorem](https://canvas.oregonstate.edu/courses/2080857/assignments/10586028?module_item_id=26982581) due Jul 20 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.5 Substitution](https://canvas.oregonstate.edu/courses/2080857/assignments/10586029?module_item_id=26982582) due Jul 20 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 1.6 Integrals Involving Exponential and Logarithmic Functions](https://canvas.oregonstate.edu/courses/2080857/assignments/10586030?module_item_id=26982583) due Jul 20 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472?module_item_id=26982584) due Jul 21 at 11:59pm - module_item_has_task
+- **TASK** [Module 4 — Discussion Reflection: WHW 4 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472?module_item_id=26982584) - module_item_has_task
 
 ### 10. Mini-Exam 2: Available Tuesday - Thursday of Week 5
 
-- **TASK** [Mini-Exam 2 --> No Calculators on this Exam](https://canvas.oregonstate.edu/courses/2080857/assignments/10586048?module_item_id=26982585) due Jul 23 by 11:59pm (5 pts) - module_item_has_task
+- **TASK** [Mini-Exam 2 --> No Calculators --> NO Gradescope App for this!](https://canvas.oregonstate.edu/courses/2080857/assignments/10586048?module_item_id=26982585) due Jul 23 by 11:59pm (5 pts) - module_item_has_task
 
 ### 11. Module 5: Techniques to Solve Integrals
 
@@ -145,7 +147,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ### 13. Mini-Exam 3: Available Tuesday - Thursday of Week 7
 
-- **TASK** [Mini-Exam 3 --> Tuesday to Thursday](https://canvas.oregonstate.edu/courses/2080857/assignments/10586050?module_item_id=26982607) due Aug 6 by 11:59pm (5 pts) - module_item_has_task
+- **TASK** [Mini-Exam 3 --> Tuesday to Thursday --> No Gradscope APP](https://canvas.oregonstate.edu/courses/2080857/assignments/10586050?module_item_id=26982607) due Aug 6 by 11:59pm (5 pts) - module_item_has_task
 
 ### 14. Module 7: Applications of Integration - Graphical
 
@@ -171,7 +173,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **TASK** [RQ-2.3](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167665?module_item_id=26982624) - module_item_has_task
 - **TASK** [RQ-2.4](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167663?module_item_id=26982625) - module_item_has_task
 - **TASK** [Module 8 — Written Homework (WHW 8) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586061?module_item_id=26982626) due Aug 17 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468?module_item_id=26982627) due Aug 18 at 11:59pm - module_item_has_task
+- **TASK** [Module 8 — Discussion Reflection: WHW 8 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593468?module_item_id=26982627) - module_item_has_task
 - **TASK** [Achieve - 2.3 Volumes of Revolution: Cylindrical Shells](https://canvas.oregonstate.edu/courses/2080857/assignments/10586033?module_item_id=26982628) due Aug 17 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Acheive - 2.4 Arc Length of a Curve (NO Surface Area)](https://canvas.oregonstate.edu/courses/2080857/assignments/10586024?module_item_id=26982629) due Aug 17 by 11:59pm (5 pts) - module_item_has_task
 
@@ -187,7 +189,7 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 - **PREP** [Dr. G's Videos --> 2.5](https://canvas.oregonstate.edu/courses/2080857/pages/dr-gs-videos-%3E-2-dot-5?module_item_id=26982634) - module_item_has_task
 - **TASK** [RQ-2.5](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167668?module_item_id=26982635) - module_item_has_task
 - **TASK** [Module 9 — Written Homework (WHW 9) 🕓 3 hours](https://canvas.oregonstate.edu/courses/2080857/assignments/10586062?module_item_id=26982636) due Aug 24 by 11:59pm (5 pts) - module_item_has_task
-- **TASK** [Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467?module_item_id=26982637) due Aug 25 at 11:59pm - module_item_has_task
+- **TASK** [Module 9 — Discussion Reflection: Final and Exam Prep 🕓 0.5 hour](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593467?module_item_id=26982637) - module_item_has_task
 - **TASK** [Achieve - 2.5 - 1 Physical Applications](https://canvas.oregonstate.edu/courses/2080857/assignments/10586034?module_item_id=26982638) due Aug 24 by 11:59pm (5 pts) - module_item_has_task
 - **TASK** [Achieve - 2.5 - 2 Physical Applications](https://canvas.oregonstate.edu/courses/2080857/assignments/10586036?module_item_id=26982639) due Aug 24 by 11:59pm (5 pts) - module_item_has_task
 
@@ -214,38 +216,38 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ### 20. Intro to Calculus
 
-- **ACTION** [What is Calculus? Links to an external site.](https://youtu.be/tXnYk5zLPTI) - module_item_external_unvisited review=external_surface
+- **PREP** [What is Calculus? Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982657) - module_item_has_task
 
 ### 21. 1.1 Approximating Area Under the Curve
 
-- **ACTION** [Upper, Lower, Left, and Right Sums Links to an external site.](https://youtu.be/bVYrCrG0ggo) - module_item_external_unvisited review=external_surface
-- **ACTION** [Area under curve: Rectangles Links to an external site.](https://youtu.be/eHbHQ2wqZvc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Application: Area under curve: Distance Links to an external site.](https://youtu.be/DZZd1qo1n2A) - module_item_external_unvisited review=external_surface
-- **ACTION** [Area under curve, more rectangles Links to an external site.](https://youtu.be/B8WYjWiw5YM) - module_item_external_unvisited review=external_surface
-- **ACTION** [Application: Area under the graph, table Links to an external site.](https://youtu.be/_lNM3EZhByw) - module_item_external_unvisited review=external_surface
-- **ACTION** [Area under curve: Left Sum Links to an external site.](https://youtu.be/v9WTXqKgg7I) - module_item_external_unvisited review=external_surface
-- **ACTION** [Area under curve: Right Sum Links to an external site.](https://youtu.be/BvwyTXeuLS0) - module_item_external_unvisited review=external_surface
-- **ACTION** [Midpoint rule 1 Links to an external site.](https://youtu.be/GIiRh4V9GvI) - module_item_external_unvisited review=external_surface
-- **ACTION** [Midpoint rule 2 Links to an external site.](https://youtu.be/LmVPqLOPsqc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Midpoint rule with table Links to an external site.](https://youtu.be/5FYkXyyTnUE) - module_item_external_unvisited review=external_surface
+- **PREP** [Upper, Lower, Left, and Right Sums Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982658) - module_item_has_task
+- **PREP** [Area under curve: Rectangles Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982659) - module_item_has_task
+- **PREP** [Application: Area under curve: Distance Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982660) - module_item_has_task
+- **PREP** [Area under curve, more rectangles Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982661) - module_item_has_task
+- **PREP** [Application: Area under the graph, table Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982662) - module_item_has_task
+- **PREP** [Area under curve: Left Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982663) - module_item_has_task
+- **PREP** [Area under curve: Right Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982664) - module_item_has_task
+- **PREP** [Midpoint rule 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982665) - module_item_has_task
+- **PREP** [Midpoint rule 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982666) - module_item_has_task
+- **PREP** [Midpoint rule with table Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982667) - module_item_has_task
 
 ### 22. 1.2 Definite Integrals
 
-- **ACTION** [Riemann sums: Right Sum Links to an external site.](https://youtu.be/PjiB_-cVly0) - module_item_external_unvisited review=external_surface
-- **ACTION** [Intro: Definite Integral Links to an external site.](https://youtu.be/VDOBMZRWxmw) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Using geometry Links to an external site.](https://youtu.be/jTjrLTEQEws) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Setting up the integral Links to an external site.](https://youtu.be/6pQUsnRKxSg) - module_item_external_unvisited review=external_surface
-- **ACTION** [Convert Riemann sum to integrals Links to an external site.](https://youtu.be/FZKRsD9FqU4) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Properties continued Links to an external site.](https://youtu.be/UgUKjUAkwN8) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integrals: Properties Links to an external site.](https://youtu.be/ycOZVVVXHvM) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Intro and application Links to an external site.](https://youtu.be/HnZTll3OmIc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Function plus constant Links to an external site.](https://youtu.be/kmnvYAS409s) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Constant*function Links to an external site.](https://youtu.be/csjUDj6HMpc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Definite integral: Trig Links to an external site.](https://youtu.be/itmNYsvNiHs) - module_item_external_unvisited review=external_surface
+- **PREP** [Riemann sums: Right Sum Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982668) - module_item_has_task
+- **PREP** [Intro: Definite Integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982669) - module_item_has_task
+- **PREP** [Definite integral: Using geometry Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982670) - module_item_has_task
+- **PREP** [Definite integral: Setting up the integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982671) - module_item_has_task
+- **PREP** [Convert Riemann sum to integrals Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982672) - module_item_has_task
+- **PREP** [Definite integral: Properties continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982673) - module_item_has_task
+- **PREP** [Definite integrals: Properties Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982674) - module_item_has_task
+- **PREP** [Definite integral: Intro and application Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982675) - module_item_has_task
+- **PREP** [Definite integral: Function plus constant Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982676) - module_item_has_task
+- **PREP** [Definite integral: Constant*function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982677) - module_item_has_task
+- **PREP** [Definite integral: Trig Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982678) - module_item_has_task
 
 ### 23. 1.3 Fundamental Theorem of Calculus I & II / Antiderivatives
 
-- **ACTION** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://youtu.be/jyRdHbHeUuU) - module_item_external_unvisited review=external_surface
+- **PREP** [Fundamental Theorem of Calc (FToC): Area function Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982679) - module_item_has_task
 - **PREP** [Area Accumulation Graph Analysis (OpenStax Specific) Links to an external site.](https://youtu.be/yjJ1JIvX7t4) - module_item_external_unvisited review=external_surface
 - **ACTION** [Fundamental Theorem of Calc (FToC): Definite integrals Links to an external site.](https://youtu.be/ZTqEj1NyGPw) - module_item_external_unvisited review=external_surface
 - **ACTION** [FToC: Setup and solve Links to an external site.](https://youtu.be/YE9jpfxEFYk) - module_item_external_unvisited review=external_surface
@@ -303,13 +305,13 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 ### 28. 3.1 Integration by Parts
 
 - **ACTION** [Intro. Integration by Parts Links to an external site.](https://youtu.be/xmFK_mG120k) - module_item_external_unvisited review=external_surface
-- **ACTION** [Intro. Integration by Parts: Definite integral Links to an external site.](https://youtu.be/aA15lSLSxgE) - module_item_external_unvisited review=external_surface
-- **ACTION** [Intro. indefinite integral continued Links to an external site.](https://youtu.be/tP34NbvFbW4) - module_item_external_unvisited review=external_surface
-- **ACTION** [Intro. Integration by Parts example 1 Links to an external site.](https://youtu.be/815s-YB9X44) - module_item_external_unvisited review=external_surface
-- **ACTION** [Indefinite integral: Example 2 Links to an external site.](https://youtu.be/sW7tMxXTM0A) - module_item_external_unvisited review=external_surface
-- **ACTION** [Indefinite integral: Example 3 Links to an external site.](https://youtu.be/7YWWtQqcXBc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Indefinite integral: Example 4, exponential Links to an external site.](https://youtu.be/7YWWtQqcXBc) - module_item_external_unvisited review=external_surface
-- **ACTION** [Indefinite integral: log Links to an external site.](https://youtu.be/uieKq2dCWRY) - module_item_external_unvisited review=external_surface
+- **PREP** [Intro. Integration by Parts: Definite integral Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982722) - module_item_has_task
+- **PREP** [Intro. indefinite integral continued Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982723) - module_item_has_task
+- **PREP** [Intro. Integration by Parts example 1 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982724) - module_item_has_task
+- **PREP** [Indefinite integral: Example 2 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982725) - module_item_has_task
+- **PREP** [Indefinite integral: Example 3 Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982726) - module_item_has_task
+- **PREP** [Indefinite integral: Example 4, exponential Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982727) - module_item_has_task
+- **PREP** [Indefinite integral: log Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982728) - module_item_has_task
 - **PREP** [Indefinite integral: Trig times linear Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982729) - module_item_has_task
 - **PREP** [Indefinite integral: Exponential, IBP twice](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982730) - module_item_has_task
 - **PREP** [Indefinite integral: Exponential and trig, IBP twice and solve Links to an external site.](https://canvas.oregonstate.edu/courses/2080857/modules/items/26982731) - module_item_has_task
@@ -407,30 +409,54 @@ Generated 2026-07-17 from the completed Canvas crawl archive.
 
 ## Review Queues
 
+### Retry
+
+- [module_item_blocked](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654?module_item_id=26982579) - high
+- [module_item_blocked](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655?module_item_id=26982567) - high
+- [module_item_blocked](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659?module_item_id=26982548) - high
+- [module_item_blocked](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578) - high
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201285) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201286) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201287) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167654/questions/59201288) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655/questions/59192527) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655/questions/59192528) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655/questions/59192529) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167655/questions/59192530) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173352) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173354) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173359) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173360) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173361) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59174680) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201281) - medium
+- [page_not_found](https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201282) - medium
+- ... 2 more retry URLs
+
 ### Downloads Needing Action
 
-- [U2-SG-Partial-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223585/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW5-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223503/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119484227/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223496/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223503/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223488/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223599/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119223600/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht1.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187575/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [IVP-Wksht2.pdf](https://canvas.oregonstate.edu/courses/1918585/files/99187581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [WHW1-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223581/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [WHW2-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223582/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [WHW3-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223584/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW4-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223460/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- [WHW5-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223569/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-400 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-400 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353385/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-401 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [MTH 252Z-401 Syllabus U26 Gilliam-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119353386/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
 - [ME1-U26-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Unit-1-Student-Study-Guide.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223514/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [Unit-1-Student-Study-Guide-Key.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223497/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW3-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW3-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223574/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW4-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW4-Template.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223525/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- [WHW4-Template-1.pdf](https://canvas.oregonstate.edu/courses/2080857/files/119223566/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
-- ... 14 more downloads
+- [Download](https://canvas.oregonstate.edu/courses/2080857/files/119363995/download?download_frd=1) - queued_not_executed; Download binary, parse text/tables, attach parsed evidence, then re-run indexer.
+- ... 29 more downloads
 
 ### Rule Improvements
 
-- graded_task_missing_due / missing_due_text: 23 examples
+- graded_task_missing_due / missing_due_text: 21 examples

@@ -1,0 +1,60 @@
+Pre-Class Reading Quiz - 1.1 (RQ-1.1) Results for Jacob Peterson
+Score for this attempt: 10 out of 10
+Submitted Jul 19 at 8:33pm
+This attempt took less than 1 minute.
+ 
+Correct answer
+Question 1
+2 / 2 pts
+From the reading, the notation x
+i
+ represents rightmost point in the ith interval of a partition.
+Answer 1:
+rightmost 
+ 
+Correct answer
+Question 2
+2 / 2 pts
+In section 1.1 reading, which geometric shape used for the approximation methods discussed?
+  Circles 
+  Rectangles 
+  Triangles 
+  Elipses 
+ 
+Correct answer
+Question 3
+2 / 2 pts
+According to the illustration in section 1.1, which best describes the geometric interpretation of  Δx?
+  The gap. 
+  Distance between bounds x = a and x = b. 
+  Width of a rectangle. 
+  Height of a rectangle. 
+ 
+Correct answer
+Question 4
+2 / 2 pts
+The product  f(xi)⋅Δx geometrically represents the 
+[ Select ]
+height
+position
+area
+ of a sample rectangle using the 
+[ Select ]
+left-endpoint approximation
+midpoint approximation
+right-endpoint approximation
+ . 
+Answer 1:
+area 
+Answer 2:
+right-endpoint approximation 
+ 
+Correct answer
+Question 5
+2 / 2 pts
+Which best describes the notation  L5 ?
+  Left-endpoint approximation with 5 rectangles. 
+  Left-endpoint approximation over an interval 5 units long. 
+  Long approximation with 5 calculations. 
+  Least approximation over 5. 
+Quiz Score: 10 out of 10

@@ -1,0 +1,926 @@
+Grades for Jacob Peterson
+ Print Grades
+Course
+Arrange By
+Apply
+Apply filters. Note: clicking this button will cause the page to reload.
+You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.
+Name	Due	Submitted	Status	Score		
+Details
+	
+Submission Progress Status
+
+M1-1pre
+pre-lecture
+	Jun 24 by 10am	Jun 24 at 9:31am		
+Click to test a different score
+3 / 3
+		  	
+M1-0asy
+Participation
+	Jun 24 by 2pm	Jun 24 at 9:42am		
+Click to test a different score
+1 / 1
+		  	
+M1-2pre
+pre-lecture
+	Jun 25 by 10am	Jun 25 at 9:41am		
+Click to test a different score
+3 / 3
+		  	
+M1-00asy
+Participation
+	Jun 25 by 2pm	Jun 25 at 1pm		
+Click to test a different score
+2 / 2
+		  	
+Lab 1 Discussion
+lab
+	Jun 25 by 11:59pm	Jun 25 at 11:58pm		
+Click to test a different score
+6 / 10
+		  	
+M1-1asy
+Participation
+	Jun 26 by 2pm	Jun 26 at 1:52pm		
+Click to test a different score
+3 / 3
+		  	
+M1-2asy
+Participation
+	Jun 27 by 2pm	Jul 5 at 10:09pm		
+Click to test a different score
+2.5 / 5
+ 
+		   1
+ 
+	
+Lab 1 Report
+lab
+	Jun 27 by 11:59pm			
+Click to test a different score
+10 / 20
+ 
+		   1	
+Lab Partner Values Survey
+lab
+	Jun 27 by 11:59pm	Jun 25 at 11:38pm		
+Click to test a different score
+5 / 5
+ 
+		  	
+Hw 1 - Rotational Motion
+Homework
+	Jun 28 by 11:59pm	Jul 5 at 10:58pm		
+Click to test a different score
+18 / 18
+		   1	
+M1-3pre
+pre-lecture
+	Jun 29 by 10am	Jul 6 at 1:42am		
+Click to test a different score
+0 / 3
+		  	
+Proctorio practice quiz (Remotely Proctored)
+Participation
+	Jun 29 by 11:59pm			
+Click to test a different score
+- / 5
+		  	
+M1-4pre
+pre-lecture
+	Jun 30 by 10am	Jul 6 at 1:44am		
+Click to test a different score
+0 / 3
+		  	
+M1-5pre
+pre-lecture
+	Jul 1 by 10am	Jul 6 at 2:04am		
+Click to test a different score
+0 / 3
+		  	
+M1-3asy
+Participation
+	Jul 1 by 2pm	Jul 6 at 3:01am		
+Click to test a different score
+2.5 / 5
+ 
+		   1
+ 
+	
+Lab 2 Discussion
+lab
+	Jul 1 by 11:59pm	Jul 2 at 2:46pm		
+Click to test a different score
+9 / 10
+ 
+		 
+ 
+ 	
+M2-1pre
+pre-lecture
+	Jul 2 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M1-4asy
+Participation
+	Jul 2 by 2pm	Jul 6 at 4:10am		
+Click to test a different score
+3 / 6
+		   1
+ 
+	
+Hw 2 - Rotational Dynamics
+Homework
+	Jul 3 by 11:59pm	Jul 5 at 11:25pm		
+Click to test a different score
+20 / 20
+		  	
+M1-5asy
+Participation
+	Jul 4 by 2pm	Jul 6 at 5:03am		
+Click to test a different score
+4 / 5
+		   1
+ 
+	
+Quiz 1 Notes
+Quiz notes
+	Jul 4 by 5pm			
+Click to test a different score
+5 / 5
+ 
+		  	
+Lab 2 Group Report
+lab
+	Jul 4 by 11:59pm			
+Click to test a different score
+19 / 20
+ 
+		  	
+Lab Collaboration Contract
+lab
+	Jul 4 by 11:59pm	Jul 2 at 12:27pm		
+Click to test a different score
+5 / 5
+ 
+		  	
+Quiz 1A
+Quiz A
+	Jul 6 by 11:25am			
+Click to test a different score
+- / 35
+		  	
+Quiz 1B
+Quiz B
+	Jul 6 by 11:55am			
+Click to test a different score
+- / 40
+		  	
+Quiz 1A_asy (Remotely Proctored)
+Quiz A
+	Jul 6 by 4:55pm	Jul 6 at 4:32pm		
+Click to test a different score
+25 / 35
+		  	
+Quiz 1B_asy (Remotely Proctored)
+Quiz B
+	Jul 6 by 4:55pm	Jul 6 at 4:51pm		
+Click to test a different score
+32 / 40
+		  	
+Quiz 1A_asy_work
+Quiz_asy work
+	Jul 6 by 5pm			
+Click to test a different score
+10 / 20
+ 
+		  	
+Quiz 1B_asy_work
+Quiz_asy work
+	Jul 6 by 5pm			
+Click to test a different score
+32 / 40
+ 
+		  	
+Quiz 1A_6pm
+Quiz A
+	Jul 6 by 6:25pm			
+Click to test a different score
+- / 35
+		  	
+Quiz 1B_6pm
+Quiz B
+	Jul 6 by 6:55pm			
+Click to test a different score
+- / 40
+		  	
+M2-2pre
+pre-lecture
+	Jul 7 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-3pre
+pre-lecture
+	Jul 8 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+Lab 3 Discussion
+lab
+	Jul 8 by 11:59pm	Jul 10 at 1:10pm		
+Click to test a different score
+8 / 10
+ 
+		 
+ 
+ 	
+M2-4pre
+pre-lecture
+	Jul 9 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-1asy
+Participation
+	Jul 9 by 2pm			
+Click to test a different score
+- / 5
+		  	
+M2-2asy
+Participation
+	Jul 10 by 2pm			
+Click to test a different score
+- / 3
+		  	
+M2-3asy
+Participation
+	Jul 11 by 2pm			
+Click to test a different score
+- / 5
+		  	
+Lab 3 Group report
+lab
+	Jul 11 by 11:59pm			
+Click to test a different score
+18 / 20
+ 
+		  	
+Lab Group Check-In Survey (Lab 3)
+lab
+	Jul 11 by 11:59pm	Jul 11 at 10:50pm		
+Click to test a different score
+5 / 5
+ 
+		  	
+Hw 3 - Center of Mass & Moment of Inertia
+Homework
+	Jul 12 by 11:59pm	Jul 17 at 9:23pm		
+Click to test a different score
+12 / 12
+		  	
+M2-5pre
+pre-lecture
+	Jul 13 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-6pre
+pre-lecture
+	Jul 14 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M3-1pre
+pre-lecture
+	Jul 15 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-4asy
+Participation
+	Jul 15 by 2pm			
+Click to test a different score
+- / 3
+		  	
+Hw 4 - Rotational Dynamics
+Homework
+	Jul 15 by 11:59pm	Jul 17 at 9:29pm		
+Click to test a different score
+23 / 23
+		  	
+Lab 4 Discussion
+lab
+	Jul 15 by 11:59pm	Jul 16 at 11:57pm		
+Click to test a different score
+9 / 10
+ 
+		 
+ 
+ 	
+M3-2pre
+pre-lecture
+	Jul 16 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-5asy
+Participation
+	Jul 16 by 2pm			
+Click to test a different score
+- / 4
+		  	
+M3-1asy
+Participation
+	Jul 17 by 2pm			
+Click to test a different score
+- / 3
+		  	
+Quiz 1x
+Quiz A
+	Jul 17 by 6pm			
+Click to test a different score
+6.5 / 0
+ 
+		  	
+Hw 5 - Gravity
+Homework
+	Jul 17 by 11:59pm	Jul 17 at 9:38pm		
+Click to test a different score
+12 / 12
+		  	
+M3-2asy
+Participation
+	Jul 18 by 2pm			
+Click to test a different score
+- / 5
+		  	
+Quiz 2 Notes
+Quiz notes
+	Jul 18 by 5pm			
+Click to test a different score
+5 / 5
+ 
+		  	
+Lab 4 Group Report
+lab
+	Jul 18 by 11:59pm			
+Click to test a different score
+16 / 20
+ 
+		  	
+Quiz 2A
+Quiz A
+	Jul 20 by 11:25am			
+Click to test a different score
+- / 35
+		  	
+Quiz 2B
+Quiz B
+	Jul 20 by 11:55am			
+Click to test a different score
+- / 40
+		  	
+Quiz 2A_asy (Remotely Proctored)
+Quiz A
+	Jul 20 by 4:55pm	Jul 20 at 4:17pm		
+Click to test a different score
+5 / 35
+ 
+		   1	
+Quiz 2B_asy (Remotely Proctored)
+Quiz B
+	Jul 20 by 4:55pm	Jul 20 at 4:42pm		
+Click to test a different score
+22.5 / 40
+		  	
+Quiz 2A_asy_work
+Quiz_asy work
+	Jul 20 by 5pm			
+Click to test a different score
+15 / 20
+ 
+		  	
+Quiz 2B_asy_work
+Quiz_asy work
+	Jul 20 by 5pm			
+Click to test a different score
+22.5 / 40
+ 
+		  	
+Quiz 2A_6pm
+Quiz A
+	Jul 20 by 6:25pm			
+Click to test a different score
+- / 35
+		  	
+Quiz 2B_6pm
+Quiz B
+	Jul 20 by 6:55pm			
+Click to test a different score
+- / 40
+		  	
+M4-1pre
+pre-lecture
+	Jul 21 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M4-2pre
+pre-lecture
+	Jul 22 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+Lab 5 Discussion
+lab
+	Jul 22 by 11:59pm	Jul 23 at 12am		
+Click to test a different score
+10 / 10
+ 
+		 
+ 
+ 	
+M5-1pre
+pre-lecture
+	Jul 23 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M4-1asy
+Participation
+	Jul 23 by 2pm			
+Click to test a different score
+- / 8
+		  	
+Hw 6 - Oscillations
+Homework
+	Jul 23 by 11:59pm	Jul 23 at 11:24pm		
+Click to test a different score
+16 / 16
+ 
+		  	
+M4-2asy
+Participation
+	Jul 24 by 2pm			
+Click to test a different score
+- / 5
+		  	
+M5-1asy
+Participation
+	Jul 25 by 2pm			
+Click to test a different score
+- / 6
+		  	
+Lab 5 Group report
+lab
+	Jul 25 by 11:59pm			
+Click to test a different score
+Instructor has not posted this grade
+- / 20
+		  	
+Lab Group Check-In Survey (Lab 5)
+lab
+	Jul 25 by 11:59pm			
+Click to test a different score
+- / 5
+		  	
+M5-2pre
+pre-lecture
+	Jul 27 by 10am			
+Click to test a different score
+0 / 3
+ 
+		  	
+M5-3pre
+pre-lecture
+	Jul 28 by 10am			
+Click to test a different score
+- / 3
+		  	
+Hw 7 - Waves
+Homework
+	Jul 28 by 11:59pm			
+Click to test a different score
+- / 14
+		  	
+M5-4pre
+pre-lecture
+	Jul 29 by 10am	Jul 29 at 8:53am		
+Click to test a different score
+3 / 3
+ 
+		  	
+M5-2asy
+Participation
+	Jul 29 by 2pm			
+Click to test a different score
+- / 5
+		  	
+Capstone Lab Week 1 Discussion
+lab
+	Jul 29 by 11:59pm			
+Click to test a different score
+- / 10
+		  	
+M5-3asy
+Participation
+	Jul 30 by 2pm			
+Click to test a different score
+- / 6
+		  	
+M5-4asy
+Participation
+	Jul 31 by 2pm			
+Click to test a different score
+- / 4
+		  	
+Quiz 2x
+Quiz B
+	Jul 31 by 6pm			
+Click to test a different score
+- / 0
+		  	
+Hw 8 - Superposition
+Homework
+	Jul 31 by 11:59pm			
+Click to test a different score
+- / 6
+		  	
+M5-5asy
+Participation
+	Aug 1 by 2pm			
+Click to test a different score
+- / 4
+		  	
+Quiz 3 Notes
+Quiz notes
+	Aug 1 by 5pm			
+Click to test a different score
+- / 5
+		  	
+Capstone Lab Week 1 Group Report
+lab
+	Aug 1 by 11:59pm			
+Click to test a different score
+- / 20
+		  	
+Quiz 3A
+Quiz A
+	Aug 3 by 11:25am			
+Click to test a different score
+- / 35
+		  	
+Quiz 3B
+Quiz B
+	Aug 3 by 11:55am			
+Click to test a different score
+- / 40
+		  	
+Quiz 3A_asy (Remotely Proctored)
+Quiz A
+	Aug 3 by 4:55pm			
+Click to test a different score
+- / 35
+		  	
+Quiz 3B_asy (Remotely Proctored)
+Quiz B
+	Aug 3 by 4:55pm			
+Click to test a different score
+- / 40
+		  	
+Quiz 3A_asy_work
+Quiz_asy work
+	Aug 3 by 5pm			
+Click to test a different score
+- / 20
+		  	
+Quiz 3B_asy_work
+Quiz_asy work
+	Aug 3 by 5pm			
+Click to test a different score
+- / 40
+		  	
+Quiz 3A_6pm
+Quiz A
+	Aug 3 by 6:25pm			
+Click to test a different score
+- / 35
+		  	
+Quiz 3B_6pm
+Quiz B
+	Aug 3 by 6:55pm			
+Click to test a different score
+- / 40
+		  	
+Lab 6 Discussion
+lab
+	Aug 5 by 11:59pm			
+Click to test a different score
+- / 10
+		  	
+M5-5pre
+pre-lecture
+	Aug 6 by 10am			
+Click to test a different score
+- / 3
+		  	
+Lab 6 Group Report
+lab
+	Aug 8 by 11:59pm			
+Click to test a different score
+- / 20
+		  	
+Hw 9 - Wave Optics
+Homework
+	Aug 9 by 11:59pm			
+Click to test a different score
+- / 13
+		  	
+Final Notes
+Quiz notes
+	Aug 12 by 5pm			
+Click to test a different score
+- / 5
+		  	
+Capstone Lab Week 2 Discussion
+lab
+	Aug 12 by 11:59pm			
+Click to test a different score
+- / 10
+		  	
+Hw 10 - Ray Optics
+Homework
+	Aug 12 by 11:59pm			
+Click to test a different score
+- / 19
+		  	
+Final A_asy (Remotely Proctored)
+Final
+	Aug 14 by 4:55pm			
+Click to test a different score
+- / 35
+		  	
+Final B_asy (Remotely Proctored)
+Final
+	Aug 14 by 4:55pm			
+Click to test a different score
+- / 40
+		  	
+Final A_asy_work
+Quiz_asy work
+	Aug 14 by 5pm			
+Click to test a different score
+- / 20
+		  	
+Final B_asy_work
+Quiz_asy work
+	Aug 14 by 5pm			
+Click to test a different score
+- / 40
+		  	
+Final C_asy (Remotely Proctored)
+Final
+	Aug 14 by 5pm			
+Click to test a different score
+- / 40
+		  	
+Capstone Lab Week 2 Group Report
+lab
+	Aug 15 by 11:59pm			
+Click to test a different score
+- / 20
+		  	
+PH 212e Lab Survey
+lab
+	Aug 15 by 11:59pm			
+Click to test a different score
+- / 5
+		  	
+Quiz 4A
+Quiz A
+	Aug 24 by 12:25pm			
+Click to test a different score
+- / 38
+		  	
+Quiz 4B
+Quiz B
+	Aug 24 by 12:55pm			
+Click to test a different score
+- / 40
+		  	
+Quiz 4A_asy (Remotely Proctored)
+Quiz A
+	Aug 24 by 4:55pm			
+Click to test a different score
+- / 35
+		  	
+Quiz 4B_asy (Remotely Proctored)
+Quiz B
+	Aug 24 by 4:55pm			
+Click to test a different score
+- / 40
+		  	
+Quiz 4A_6pm
+Quiz A
+	Aug 24 by 6:25pm			
+Click to test a different score
+- / 38
+		  	
+Quiz 4B_6pm
+Quiz B
+	Aug 24 by 6:55pm			
+Click to test a different score
+- / 40
+		  	
+
+Expand or Collapse
+ Course Introductions
+lab
+		Jun 25 at 11:52pm		
+Click to test a different score
+20 / 20
+		  	
+M1-0
+Participation
+		Jun 22 at 12:44pm		
+Click to test a different score
+- / 1
+		  	
+M1-00
+Participation
+		Jun 23 at 12:12pm		
+Click to test a different score
+- / 2
+		  	
+M1-1
+Participation
+		Jun 24 at 1:02pm		
+Click to test a different score
+- / 3
+		  	
+M1-2
+Participation
+		Jun 25 at 12:22pm		
+Click to test a different score
+- / 5
+		  	
+M1-3
+Participation
+		Jun 29 at 12:24pm		
+Click to test a different score
+- / 5
+		  	
+M1-4
+Participation
+		Jun 30 at 12:16pm		
+Click to test a different score
+- / 6
+		  	
+M1-5
+Participation
+		Jul 2 at 12:56pm		
+Click to test a different score
+- / 5
+		  	
+M2-1
+Participation
+		Jul 7 at 12:51pm		
+Click to test a different score
+0 / 5
+ 
+		  	
+M2-2
+Participation
+		Jul 8 at 12:15pm		
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-3
+Participation
+		Jul 9 at 12:05pm		
+Click to test a different score
+0 / 5
+ 
+		  	
+M2-4
+Participation
+		Jul 13 at 12:23pm		
+Click to test a different score
+0 / 3
+ 
+		  	
+M2-5
+Participation
+		Jul 14 at 12:41pm		
+Click to test a different score
+0 / 4
+ 
+		  	
+M3-1
+Participation
+		Jul 15 at 12:15pm		
+Click to test a different score
+0 / 3
+ 
+		  	
+M3-2
+Participation
+		Jul 16 at 12:46pm		
+Click to test a different score
+0 / 5
+ 
+		  	
+M4-1
+Participation
+		Jul 21 at 12:58pm		
+Click to test a different score
+0 / 8
+ 
+		  	
+M4-2
+Participation
+		Jul 22 at 1:14pm		
+Click to test a different score
+0 / 5
+ 
+		  	
+M5-1
+Participation
+		Jul 23 at 12:21pm		
+Click to test a different score
+0 / 6
+ 
+		  	
+M5-2
+Participation
+		Jul 27 at 12:42pm		
+Click to test a different score
+0 / 5
+ 
+		  	
+M5-3
+Participation
+		Jul 28 at 12:17pm		
+Click to test a different score
+0 / 6
+ 
+		  	
+M5-4
+Participation
+		Jul 29 at 12:53pm		
+Click to test a different score
+0 / 4
+ 
+		  	
+M5-5
+Participation
+		Jul 30 at 12:23pm		
+Click to test a different score
+0 / 4
+ 
+		  	
+Participation				
+19.35%
+		18.00 / 93.00	
+pre-lecture				
+16.67%
+		9.00 / 54.00	
+Homework				
+100%
+		101.00 / 101.00	
+lab				
+84.85%
+		140.00 / 165.00	
+Quiz notes				
+100%
+		10.00 / 10.00	
+Quiz A				
+52.14%
+		36.50 / 70.00	
+Quiz B				
+68.13%
+		54.50 / 80.00	
+Quiz_asy work				
+66.25%
+		79.50 / 120.00	
+Final				
+N/A
+		0.00 / 0.00	
+Total				
+68.26%
+			

@@ -1,0 +1,1397 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Continue to YouTube content",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Excel Skills Handout"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "PH211 - General Physics with Calculus"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "A. On This Page:"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "I. Acquiring and getting help with Excel"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "II. Working with data"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "III. Plotting and fitting data"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "IV. Appendix - Numerical analysis skills"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Download PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "index": 3,
+      "text": "Actions"
+    },
+    {
+      "index": 4,
+      "text": "Download PH211_DATA_time-distance.txt"
+    },
+    {
+      "index": 5,
+      "text": "Download PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "index": 6,
+      "text": "Actions"
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Download PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "index": 10,
+      "text": "Download PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "index": 11,
+      "text": "Actions"
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 14,
+      "text": "Previous Next"
+    },
+    {
+      "index": 15,
+      "text": "Previous"
+    },
+    {
+      "index": 16,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "315",
+      "index": 1,
+      "name": "",
+      "src": "https://www.youtube.com/embed/t-BzfxEctUk?si=OPPvWuG5jwXychbO",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "315",
+      "index": 2,
+      "name": "",
+      "src": "https://www.youtube.com/embed/2scGkRsF3Tw?si=mg39_cO9I5GoCin1",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "315",
+      "index": 3,
+      "name": "",
+      "src": "https://www.youtube.com/embed/YKpPD4XKN0s?si=bSlFccUuycit_dOF",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "315",
+      "index": 4,
+      "name": "",
+      "src": "https://www.youtube.com/embed/OBCiSYMwjGE?si=TrO9ryKH_ThfQ1Iw",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "315",
+      "index": 5,
+      "name": "",
+      "src": "https://www.youtube.com/embed/boRigDR4qM8?si=2Zxqn4YYGhwaAXq8",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "315",
+      "index": 6,
+      "name": "",
+      "src": "https://www.youtube.com/embed/QXMrgxTSg2U?si=EybeaglUZfmR6QbB",
+      "title": "YouTube video player",
+      "width": "560"
+    },
+    {
+      "height": "",
+      "index": 7,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Excel Skills Handout",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "index": 33,
+      "raw_href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "index": 34,
+      "raw_href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "this guide to understand the differenceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://technology.oregonstate.edu/services/microsoft-365",
+      "index": 35,
+      "raw_href": "https://technology.oregonstate.edu/services/microsoft-365",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "https://technology.oregonstate.edu/services/microsoft-365",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://onid.oregonstate.edu/",
+      "index": 36,
+      "raw_href": "https://onid.oregonstate.edu/",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "https://onid.oregonstate.edu/",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 37,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Basic-Excel-Workflows.pptx",
+      "title": "PH211_Basic-Excel-Workflows.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032?wrap=1",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_DATA_time-distance.txt",
+      "title": "PH211_DATA_time-distance.txt"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1",
+      "index": 45,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_DATA_time-distance.txt",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "index": 48,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Data-Analysis.pptx",
+      "title": "PH211_Excel-Data-Analysis.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "index": 50,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1",
+      "index": 51,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 52,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=oRKxmXwLvUU",
+      "index": 53,
+      "raw_href": "https://www.youtube.com/watch?v=oRKxmXwLvUU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+      "index": 54,
+      "raw_href": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 55,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 56,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 57,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 58,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "index": 59,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Derivitives-Integrals.pptx",
+      "title": "PH211_Excel-Derivitives-Integrals.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "index": 61,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1",
+      "index": 62,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
+      "index": 64,
+      "raw_href": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=__Uw1SXPW7s&list=PLSQl0a2vh4HCF6n9DhNVgQsYpCyNiwI41",
+      "index": 65,
+      "raw_href": "https://www.youtube.com/watch?v=__Uw1SXPW7s&list=PLSQl0a2vh4HCF6n9DhNVgQsYpCyNiwI41",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896975",
+      "index": 66,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896975",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26897001",
+      "index": 67,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26897001",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "index": 0,
+      "raw_href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "index": 1,
+      "raw_href": "https://helpdeskgeek.com/differences-between-microsoft-excel-online-and-excel-for-desktop/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "this guide to understand the differenceLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://technology.oregonstate.edu/services/microsoft-365",
+      "index": 2,
+      "raw_href": "https://technology.oregonstate.edu/services/microsoft-365",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "https://technology.oregonstate.edu/services/microsoft-365",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://onid.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://onid.oregonstate.edu/",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "https://onid.oregonstate.edu/",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 4,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Basic-Excel-Workflows.pptx",
+      "title": "PH211_Basic-Excel-Workflows.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1",
+      "index": 9,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706028/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032?wrap=1",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_DATA_time-distance.txt",
+      "title": "PH211_DATA_time-distance.txt"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1",
+      "index": 12,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706032/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_DATA_time-distance.txt",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Data-Analysis.pptx",
+      "title": "PH211_Excel-Data-Analysis.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "index": 17,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1",
+      "index": 18,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706035/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=oRKxmXwLvUU",
+      "index": 20,
+      "raw_href": "https://www.youtube.com/watch?v=oRKxmXwLvUU",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+      "index": 21,
+      "raw_href": "https://www.youtube.com/watch?v=IL3UCuXrUzE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 22,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 23,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "index": 24,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Skills-Ref.xlsx",
+      "title": "PH211_Excel-Skills-Ref.xlsx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706030/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download PH211_Excel-Skills-Ref.xlsx",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "PH211_Excel-Derivitives-Integrals.pptx",
+      "title": "PH211_Excel-Derivitives-Integrals.pptx"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 27,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "index": 28,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1",
+      "index": 29,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118706027/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
+      "index": 31,
+      "raw_href": "https://www.youtube.com/watch?v=N2PpRnFqnqY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.youtube.com/watch?v=__Uw1SXPW7s&list=PLSQl0a2vh4HCF6n9DhNVgQsYpCyNiwI41",
+      "index": 32,
+      "raw_href": "https://www.youtube.com/watch?v=__Uw1SXPW7s&list=PLSQl0a2vh4HCF6n9DhNVgQsYpCyNiwI41",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "click for more helpLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896975",
+      "index": 33,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896975",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26897001",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26897001",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896976",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/excel-skills-handout-2?module_item_id=26896976",
+  "source_surface": "module_item",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Microsoft Windows - Installation Apple Map - Installation This video may display YouTube ads. Continue to YouTube content This video may display YouTube ads. Continue to YouTube content Video Contents (Timestamps): Concept Times Introduction to Windows install. 00:00 - 00:18 Configure your system region settings. 00:19 - 1:28 Loading Oregon State, Office 365. 01:29 - 01:51 What if you forgot your ONID or DUO? 01:51 - 02:30 Navigating CoPilot and downloading Apps. 02:31 - 03:29 Launching Excel. 03:30 - 04:13 Opening a blank workbook. 04:14 - 04:25 Auto save your workbook to the cloud. 04:26 - 05:02 Sharing your Excel doc with your group. 05:03 - 05:40 Web vs Desktop version. 05:41 - 07:20 Navigating files for desktop. 07:21 - 08:45 Conclusion. 08:46 - 08:56 Video Contents (Timestamps): Concept Times Introduction to Mac install. 00:00 - 00:23 Configure your system region settings. 00:24 - 01:34 Loading Oregon State, Office 365. 01:35 - 01:51 What if you forgot your ONID or DUO? 01:52 - 02:43 Navigating CoPilot and downloading Apps. 02:44 - 03:25 Installing app on mac / update system. 03:26 - 04:17 Teams in the background and sign-in. 04:18 - 04:54 Launching Excel. 04:55 - 05:33 Opening a blank workbook. 05:34 - 05:40 Auto save your workbook to the cloud. 05:41 - 06:30 Sharing your Excel doc with your group. 06:31 - 07:11 Web vs Desktop version. 07:12 - 08:21 More preferences. 08:22 - 08:33 Conclusion. 08:24 - 08:38"
+    },
+    {
+      "caption": "",
+      "index": 1,
+      "text": "Concept Times Introduction to Windows install. 00:00 - 00:18 Configure your system region settings. 00:19 - 1:28 Loading Oregon State, Office 365. 01:29 - 01:51 What if you forgot your ONID or DUO? 01:51 - 02:30 Navigating CoPilot and downloading Apps. 02:31 - 03:29 Launching Excel. 03:30 - 04:13 Opening a blank workbook. 04:14 - 04:25 Auto save your workbook to the cloud. 04:26 - 05:02 Sharing your Excel doc with your group. 05:03 - 05:40 Web vs Desktop version. 05:41 - 07:20 Navigating files for desktop. 07:21 - 08:45 Conclusion. 08:46 - 08:56"
+    },
+    {
+      "caption": "",
+      "index": 2,
+      "text": "Concept Times Introduction to Mac install. 00:00 - 00:23 Configure your system region settings. 00:24 - 01:34 Loading Oregon State, Office 365. 01:35 - 01:51 What if you forgot your ONID or DUO? 01:52 - 02:43 Navigating CoPilot and downloading Apps. 02:44 - 03:25 Installing app on mac / update system. 03:26 - 04:17 Teams in the background and sign-in. 04:18 - 04:54 Launching Excel. 04:55 - 05:33 Opening a blank workbook. 05:34 - 05:40 Auto save your workbook to the cloud. 05:41 - 06:30 Sharing your Excel doc with your group. 06:31 - 07:11 Web vs Desktop version. 07:12 - 08:21 More preferences. 08:22 - 08:33 Conclusion. 08:24 - 08:38"
+    },
+    {
+      "caption": "",
+      "index": 3,
+      "text": "Concept Times Introduction (where to find resources). 00:00 - 00:27 How Excel works. 00:28 - 00:54 Workbook formatting. 00:55 - 02:48 Expressions, cell refs, and auto math. 02:49 - 08:37 Functions. 08:38 - 10:54 Advanced func: powers, radians, π, trig. 10:55 - 14:17"
+    },
+    {
+      "caption": "",
+      "index": 4,
+      "text": "Lock auto-fill reference to column B only. Lock auto-fill reference to row 4 only. Lock auto-fill reference to cell B4. $B4 B$4 $B$4"
+    },
+    {
+      "caption": "",
+      "index": 5,
+      "text": "Concept Times Introduction, understanding the workbook. 00:00 - 00:50 Concept for importing CSV data. 00:51 - 01:32 Theory for representing speed = dist / time (click for more help Links to an external site. ). 01:33 - 02:11 Linear relationships y = mx + c (click for more help Links to an external site. ). 02:12 - 02:51 Thinking about average speed vs. derivatives speed. (*see video 5 of 5). 02:52 - 03:28 Importing data on Windows (Part 1) 03:29 - 03:48 Importing data on Mac 03:49 - 04:37 Importing data on Windows (Part 2) 04:38 - 07:10"
+    },
+    {
+      "caption": "",
+      "index": 6,
+      "text": "Concept Times Introduction. 00:00 - 00:09 Calculating average speed (blue tab in workbook demo 🟦) 00:10 - 01:24 (Switched over to green tabs in workbook demo 🟩) *01:25 Make graph scatter-plot and add data. 01:25 - 03:51 Customizing a graph: axis titles and units. 03:52 - 05:00 Adding error-bars to your plots. 05:01 - 07:43 Adding a trend-line. 07:44 - 09:25 Using the =LINEST function in Excel. 09:26 - 12:17 Adding multiple data-series to a scatter-plot. 12:18 - 14:13 Display a graph legend. 14:14 - 15:36"
+    },
+    {
+      "caption": "",
+      "index": 7,
+      "text": "Concept Times Introduction, circling back to derivatives. 00:00 - 00:18 Derivative theory (click for more help Links to an external site. ). 00:19 - 03:19 Calculating derivatives in Excel. 03:20 - 04:50 Plotting the derivative to visualize motion. 04:51 - 06:47 Integration theory (click for more help Links to an external site. ). 06:48 - 09:38 Calculating integrals in Excel. 09:39 - 11:16 Conclusion. 11:17 - 11:48"
+    }
+  ],
+  "title": "Excel Skills Handout: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00298-phy-212-module-item-excel-skills-handout-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:36:28.617Z",
+  "source_kind": "module_item",
+  "discovered_from": "00018-phy-212-modules-course-modules-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Excel Skills Handout",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "excel-skills-handout-2",
+  "html_sha256": "4a188d8327aff615aede6eb1d234f23db21d4fdeb07a155f172dd9ba3b2c470e",
+  "text_sha256": "70e7297a10a184e8e41e3d8d8412877ed4c79e884a65529532e3c99d7ef39df0",
+  "requires_external_handler": true
+}

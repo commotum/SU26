@@ -1,0 +1,760 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Intro"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Readings"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Riemann Sum Calculator (RSC)"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Videos"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Practice Activities"
+    },
+    {
+      "index": 6,
+      "level": "H2",
+      "text": "Interactive Visualization (Optional)"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 5,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 6,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 7,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 12,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 13,
+      "text": "Previous Next"
+    },
+    {
+      "index": 14,
+      "text": "Previous"
+    },
+    {
+      "index": 15,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/pages",
+      "index": 16,
+      "raw_href": "/courses/2080857/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 17,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 18,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 19,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 20,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 21,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 24,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades21",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 25,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 26,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 27,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/B8WYjWiw5YM",
+      "index": 28,
+      "raw_href": "https://youtu.be/B8WYjWiw5YM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Introduction to Approximating Area using RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/v9WTXqKgg7I",
+      "index": 29,
+      "raw_href": "https://youtu.be/v9WTXqKgg7I",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Left Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/I3WCfRR_aIo",
+      "index": 30,
+      "raw_href": "https://youtu.be/I3WCfRR_aIo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Left Sum with Table, 6 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/BvwyTXeuLS0",
+      "index": 31,
+      "raw_href": "https://youtu.be/BvwyTXeuLS0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Right Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/GIiRh4V9GvI",
+      "index": 32,
+      "raw_href": "https://youtu.be/GIiRh4V9GvI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with the Midpoint Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1WzAneXwqIk",
+      "index": 33,
+      "raw_href": "https://youtu.be/1WzAneXwqIk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Right Riemann Sum with 6 RectantglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/5FYkXyyTnUE",
+      "index": 34,
+      "raw_href": "https://youtu.be/5FYkXyyTnUE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Midpoint Riemann Sum with a Table using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1aw_swsdVFY",
+      "index": 35,
+      "raw_href": "https://youtu.be/1aw_swsdVFY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum setup (focus ONLY on the right-endpoint sum)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/VDOBMZRWxmw",
+      "index": 36,
+      "raw_href": "https://youtu.be/VDOBMZRWxmw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The Definite IntegralLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 37,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/RCVce5W4",
+      "index": 38,
+      "raw_href": "https://www.geogebra.org/m/RCVce5W4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "GeoGebra Riemann SumsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982544",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982544",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982546",
+      "index": 40,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982546",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 0,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2:Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/ezspy4zu",
+      "index": 1,
+      "raw_href": "https://www.geogebra.org/m/ezspy4zu",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum Computational Course Tool (GeoGebra)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/B8WYjWiw5YM",
+      "index": 2,
+      "raw_href": "https://youtu.be/B8WYjWiw5YM",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Introduction to Approximating Area using RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/v9WTXqKgg7I",
+      "index": 3,
+      "raw_href": "https://youtu.be/v9WTXqKgg7I",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Left Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/I3WCfRR_aIo",
+      "index": 4,
+      "raw_href": "https://youtu.be/I3WCfRR_aIo",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Left Sum with Table, 6 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/BvwyTXeuLS0",
+      "index": 5,
+      "raw_href": "https://youtu.be/BvwyTXeuLS0",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with a Right Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/GIiRh4V9GvI",
+      "index": 6,
+      "raw_href": "https://youtu.be/GIiRh4V9GvI",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Approximating Area with the Midpoint Sum using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1WzAneXwqIk",
+      "index": 7,
+      "raw_href": "https://youtu.be/1WzAneXwqIk",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Right Riemann Sum with 6 RectantglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/5FYkXyyTnUE",
+      "index": 8,
+      "raw_href": "https://youtu.be/5FYkXyyTnUE",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Midpoint Riemann Sum with a Table using 4 RectanglesLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/1aw_swsdVFY",
+      "index": 9,
+      "raw_href": "https://youtu.be/1aw_swsdVFY",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Riemann Sum setup (focus ONLY on the right-endpoint sum)Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://youtu.be/VDOBMZRWxmw",
+      "index": 10,
+      "raw_href": "https://youtu.be/VDOBMZRWxmw",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "The Definite IntegralLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "index": 11,
+      "raw_href": "https://openstax.org/details/books/calculus-volume-2?Book%20details",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "OpenStax College. (2016). Calculus, Volume 2.Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://www.geogebra.org/m/RCVce5W4",
+      "index": 12,
+      "raw_href": "https://www.geogebra.org/m/RCVce5W4",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "GeoGebra Riemann SumsLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982544",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982544",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982546",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982546",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades21"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982545",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/pages/module-1-learning-materials-and-practice-activities-3-5-hours-2?module_item_id=26982545",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00050-mth-252-module-item-module-1-learning-materials-and-practice-activities-3-5-hours-integral-calculus-mth-252z-400-u20",
+  "captured_at": "2026-07-30T20:24:40.386Z",
+  "source_kind": "module_item",
+  "discovered_from": "00002-mth-252-modules-course-modules-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Module 1 — Learning Materials and Practice Activities 🕓 3 - 5 hours",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-1-learning-materials-and-practice-activities-3-5-hours-2",
+  "html_sha256": "6b36e647e28ec3bc58e12fe38571c5b0f9eed427ccc99d7461ea0c1f84ced4f2",
+  "text_sha256": "ad009c700a564b39e4d15f42ef5490233ca43273146cb301df11c69e76d51b15",
+  "requires_external_handler": false
+}

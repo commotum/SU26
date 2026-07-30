@@ -1,0 +1,594 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "View Split Screen",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "Expand Threads",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "Unsubscribed",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "Manage Discussion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "Reply",
+      "type": "button"
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Discussion Topic: Capstone Lab Week 1 Discussion - Lab Group 22Capstone Lab Week 1 Discussion - Lab Group 22"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Discussion Instructions"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Coordinating With Your Group"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Support Resources"
+    },
+    {
+      "index": 5,
+      "level": "H2",
+      "text": "Grading Criteria"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "View Split ScreenExpand ThreadsFilter bySearch entries or author...Sort byDue Jul 29 11:59pm Available from Jul 26 until Aug 1510 points possibleUnsubscribedManage DiscussionDiscussion Topic: Capstone Lab Week 1 Discussion - Lab Group 22Capstone Lab Week 1 Discussion - Lab Group 22 Purpose This discussion is for your group to coordinate and track progress on your lab report. Use it to share updates, confirm responsibilities, and ensure everyone is contributing on schedule. Your posts should reflect what you’ve completed, what’s in progress, and what still needs to be done before your group report due Saturday. Discussion Instructions In your group’s discussion thread (Due Wednesday), respond to the following: 1) Indicate whether you tested a simple pendulum with Vernier Video Analysis or a torsion pendulum with phyphox, and briefly describe your setup. 2) Include a screenshot or plot of your preliminary data (e.g., position vs time or angular velocity vs time). 3) Describe whether you observed clear oscillations and evidence of damping. 4) Comment on what was straightforward and what was challenging (e.g., tracking motion, identifying peaks, noise, timing issues, setup stability). 5) Based on this initial trial, discuss what you think will be important for obtaining high-quality data in the full experiment (e.g., setup adjustments, run duration, number of oscillations, software settings). Your discussion is meant to initiate the lab exercise and begin the conversation that leads to your group lab report. Link to lab handout page: Capstone Lab Report Instructions Weeks 1-2 Coordinating With Your Group Begin communicating with your lab group to prepare your group lab report, due Saturday. Use this discussion board, Zoom, or another platform to collaborate. Start by if a new member has been added to your group this week, please introduce yourself and bring them up to speed. You can identify your group members by clicking on “People” in the discussion. To contact them, you can: Email them using your Outlook student account by searching their name in the directory, Message them through the Canvas Inbox tool, or Post an announcement within the discussion board. The current Group Leader should: Create a shared Google Doc for writing the group lab report. Create a shared spreadsheet for sharing and recording measurements/calculations. Share both files with all group members and ensure they have editing access. Paste the link to the shared spreadsheet and Google Doc in this discussion thread by Thursday morning. If no spreadsheet has been shared by then, any member is welcome to step in and create one. Communication and collaboration are everyone's responsibility! If you have unresponsive group members who have not contributed to the group report, please email to your Lab TA. Remember, all members are expected to contribute to both planning and writing, and the Group Leader’s role is to facilitate—not do all the work. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets Grading Criteria Your discussion post is worth a maximum of 5 points. Late submissions will lose one point per day, up to a maximum deduction of 50%. Use the rubric to evaluate your own work and ensure your discussion meets the requirements of the discussion questions. How do I view the rubric for my graded discussion?Links to an external site. An additional 5 points can be earned by meeting with your TA and actively participating in the discussion. Come to the meeting prepared with substantial questions and be ready to engage. Turn on your webcam and interact with both your group members and your TA. Reply"
+    },
+    {
+      "index": 1,
+      "text": "Filter by"
+    },
+    {
+      "index": 2,
+      "text": "Search entries or author..."
+    },
+    {
+      "index": 3,
+      "text": "Sort by"
+    },
+    {
+      "index": 4,
+      "text": "UnsubscribedManage DiscussionDiscussion Topic: Capstone Lab Week 1 Discussion - Lab Group 22Capstone Lab Week 1 Discussion - Lab Group 22 Purpose This discussion is for your group to coordinate and track progress on your lab report. Use it to share updates, confirm responsibilities, and ensure everyone is contributing on schedule. Your posts should reflect what you’ve completed, what’s in progress, and what still needs to be done before your group report due Saturday. Discussion Instructions In your group’s discussion thread (Due Wednesday), respond to the following: 1) Indicate whether you tested a simple pendulum with Vernier Video Analysis or a torsion pendulum with phyphox, and briefly describe your setup. 2) Include a screenshot or plot of your preliminary data (e.g., position vs time or angular velocity vs time). 3) Describe whether you observed clear oscillations and evidence of damping. 4) Comment on what was straightforward and what was challenging (e.g., tracking motion, identifying peaks, noise, timing issues, setup stability). 5) Based on this initial trial, discuss what you think will be important for obtaining high-quality data in the full experiment (e.g., setup adjustments, run duration, number of oscillations, software settings). Your discussion is meant to initiate the lab exercise and begin the conversation that leads to your group lab report. Link to lab handout page: Capstone Lab Report Instructions Weeks 1-2 Coordinating With Your Group Begin communicating with your lab group to prepare your group lab report, due Saturday. Use this discussion board, Zoom, or another platform to collaborate. Start by if a new member has been added to your group this week, please introduce yourself and bring them up to speed. You can identify your group members by clicking on “People” in the discussion. To contact them, you can: Email them using your Outlook student account by searching their name in the directory, Message them through the Canvas Inbox tool, or Post an announcement within the discussion board. The current Group Leader should: Create a shared Google Doc for writing the group lab report. Create a shared spreadsheet for sharing and recording measurements/calculations. Share both files with all group members and ensure they have editing access. Paste the link to the shared spreadsheet and Google Doc in this discussion thread by Thursday morning. If no spreadsheet has been shared by then, any member is welcome to step in and create one. Communication and collaboration are everyone's responsibility! If you have unresponsive group members who have not contributed to the group report, please email to your Lab TA. Remember, all members are expected to contribute to both planning and writing, and the Group Leader’s role is to facilitate—not do all the work. Support Resources Scanning Resources How do I attach a file with my discussion reply?Links to an external site. How to add images in Canvas as a studentLinks to an external site. How do I add images from the web in CanvasLinks to an external site. Zoom, Teams Google Docs, Sheets Grading Criteria Your discussion post is worth a maximum of 5 points. Late submissions will lose one point per day, up to a maximum deduction of 50%. Use the rubric to evaluate your own work and ensure your discussion meets the requirements of the discussion questions. How do I view the rubric for my graded discussion?Links to an external site. An additional 5 points can be earned by meeting with your TA and actively participating in the discussion. Come to the meeting prepared with substantial questions and be ready to engage. Turn on your webcam and interact with both your group members and your TA. Reply"
+    },
+    {
+      "index": 5,
+      "text": "Unsubscribed"
+    },
+    {
+      "index": 6,
+      "text": "Manage Discussion"
+    },
+    {
+      "index": 7,
+      "text": "Discussion Topic: Capstone Lab Week 1 Discussion - Lab Group 22"
+    },
+    {
+      "index": 8,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 9,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 10,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 11,
+      "text": "Links to an external site."
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 0,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22 Capstone Lab Week 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 15,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 16,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965",
+      "index": 17,
+      "raw_href": "/groups/733396/discussion_topics/11579965",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Week 1 Discussion - Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 18,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/announcements",
+      "index": 19,
+      "raw_href": "/groups/733396/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/wiki",
+      "index": 20,
+      "raw_href": "/groups/733396/wiki",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/users",
+      "index": 21,
+      "raw_href": "/groups/733396/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/discussion_topics",
+      "index": 22,
+      "raw_href": "/groups/733396/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/files",
+      "index": 23,
+      "raw_href": "/groups/733396/files",
+      "rel": "",
+      "target": "",
+      "text": "Files",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396/collaborations",
+      "index": 24,
+      "raw_href": "/groups/733396/collaborations",
+      "rel": "",
+      "target": "",
+      "text": "Collaborations",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+      "index": 25,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Report Instructions Weeks 1-2",
+      "title": "Capstone Lab Report"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2026496/pages/scanning-resources",
+      "index": 26,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2026496/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 27,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 28,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 29,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 30,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 31,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 32,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "index": 33,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I view the rubric for my graded discussion?Links to an external site.",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/pages/capstone-design-an-experiment",
+      "rel": "",
+      "target": "",
+      "text": "Capstone Lab Report Instructions Weeks 1-2",
+      "title": "Capstone Lab Report"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2026496/pages/scanning-resources",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2026496/pages/scanning-resources",
+      "rel": "",
+      "target": "",
+      "text": "Scanning Resources",
+      "title": "Scanning Resources"
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "index": 2,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-attach-a-file-to-a-discussion-reply-as-a-student/ta-p/375",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I attach a file with my discussion reply?Links to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "index": 3,
+      "raw_href": "https://community.canvaslms.com/t5/Question-Forum/how-do-i-upload-a-picture-to-a-discussions-board/td-p/166257",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How to add images in Canvas as a studentLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "index": 4,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-embed-an-image-in-a-discussion-reply-as-a-student/ta-p/313",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I add images from the web in CanvasLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/zoom",
+      "index": 5,
+      "raw_href": "https://is.oregonstate.edu/zoom",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/teams",
+      "index": 6,
+      "raw_href": "https://is.oregonstate.edu/teams",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Teams",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://is.oregonstate.edu/google",
+      "index": 7,
+      "raw_href": "https://is.oregonstate.edu/google",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Google Docs, Sheets",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "index": 8,
+      "raw_href": "https://community.canvaslms.com/t5/Student-Guide/How-do-I-view-the-rubric-for-my-graded-discussion/ta-p/319",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "How do I view the rubric for my graded discussion?Links to an external site.",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics/11563803",
+  "resolved_url": "https://canvas.oregonstate.edu/groups/733396/discussion_topics/11579965",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Topic: Capstone Lab Week 1 Discussion - Lab Group 22",
+  "page_id": "00649-phy-212-linked-detail-topic-capstone-lab-week-1-discussion-lab-group-22",
+  "captured_at": "2026-07-30T20:52:23.362Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00313-phy-212-module-item-capstone-lab-week-1-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Capstone Lab Week 1 Discussion",
+  "depth": 2,
+  "redirected": true,
+  "canvas_object_type": "discussion",
+  "canvas_object_id": "11579965",
+  "html_sha256": "1245e56725828b5d6c8c9b534af7a18ed4823f97a6ecf49d211bdac354c42cec",
+  "text_sha256": "adc5423113eaac659e22212b57fda5f795d37bc72312ed63496f216953e386dd",
+  "requires_external_handler": false
+}

@@ -1,0 +1,1281 @@
+
+            
+
+
+
+
+
+
+  
+
+
+    
+      M1-4asy
+    
+    
+
+
+
+    
+        
+    
+    
+        
+
+
+
+  
+    Due
+    
+        
+          Jul 2 at 2pm
+        
+    
+  
+
+  
+    Points
+    6
+  
+
+  
+    Questions
+    8
+  
+  
+  
+    Available
+    
+        Jun 30 at 2pm - Aug 14 at 11:59pm
+    
+  
+
+  
+    Time Limit
+    
+        None
+    
+  
+
+    
+      Allowed Attempts
+      
+          Unlimited
+      
+    
+
+
+
+  Instructions
+  
+    Purpose
+The purpose of this activity is for you to practice applying what you are learning. This activity does count for points toward your grade, you will need to show your work, and you are graded on correctness. However, you have multiple attempts to improve your score. 
+If you got full credit for the Zoom lecture participation assignment for today, you do not need to do this asynchronous equivalent. You can get credit for one or the other, not both.
+Instructions
+A good method for working on this assignment is to watch the posted lecture and stop it when people in the Zoom lecture are working out a problem, and work it for yourself. Then continue the lecture video to see the solution worked out. The question in the asynchronous assignment may be exactly the same, or it may have different values, or it may require a slightly different solution.
+Show your work on paper, as you will be required to upload your work at the end of the assignment. If you do not show reasonable work for all questions, you will not get credit for the activity. To get a high-quality scan for uploading to this quiz tool, use a scanning app to scan your handwritten work, and upload your scanned document. For help with producing a scan, please see the Scanning Resources document.
+There is a short 50 word essay question at the end of the assignment asking you to discuss the concepts of the day's material.  You are required to complete this question to get credit for the day's assignment.
+You may use multiple attempts on this assignment to improve your score.
+If you need assistance, please reach out for help from the Wormhole, office hours or email.
+  
+
+    
+
+
+          
+            Take the Quiz Again
+          
+
+    
+
+  
+
+  
+  
+
+    
+  
+
+  
+    
+    Correct answers are hidden.
+  
+
+
+    Score for this attempt:
+  3 out of 6
+  
+    
+
+  Submitted Jul 6 at 4:10am
+
+
+  This attempt took 69 minutes.
+
+
+  
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 1
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      multiple_choice_question
+      
+         
+      110816269
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">A car travels around a level circle at constant speed. The diagram shows the car as seen from above and from the side. Please choose the correct free-body diagram for the car as seen from the side view.</span></p>
+<p><span style="font-size: 14pt;">Be sure to include your explanation in the document you upload showing your work.</span></p>
+<p><span style="font-size: 14pt;"><img src="/courses/2053526/files/118705487/preview" alt="car moving in a circle with free-body diagrams"></span></p>
+      
+      
+          A car travels around a level circle at constant speed. The diagram shows the car as seen from above and from the side. Please choose the correct free-body diagram for the car as seen from the side view.
+Be sure to include your explanation in the document you upload showing your work.
+
+      
+      
+              
+                
+  
+
+    5612
+
+  
+       
+    
+      A
+      
+    
+  
+  
+    
+  
+  
+    A
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026083
+    5612
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    
+      
+      
+    
+
+  
+
+
+  
+
+  
+
+    8949
+
+  
+       
+    
+      B
+      
+    
+  
+  
+    
+  
+  
+    B
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026083
+    8949
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    9222
+
+  
+       
+    
+      C
+      
+    
+  
+  
+    
+  
+  
+    C
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026083
+    9222
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    5277
+
+  
+       
+    
+      D
+      
+    
+  
+  
+    
+  
+  
+    D
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59026083
+    5277
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 2
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      numerical_question
+      
+         
+      111116648
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">A 1800 kg car is going around a level circular curve of radius 49 m at a speed of 16 m/s. What is the coefficient of static friction between the car's tires and road that keeps it from sliding? Assume it is going as fast as it can go without sliding.</span></p>
+<p><span style="font-size: 14pt;"><img src="/courses/2053526/files/118705650/preview" alt="car in circular motion"></span></p>
+<p>&nbsp; &nbsp; &nbsp;&nbsp;</p>
+      
+      
+          A 1800 kg car is going around a level circular curve of radius 49 m at a speed of 16 m/s. What is the coefficient of static friction between the car's tires and road that keeps it from sliding? Assume it is going as fast as it can go without sliding.
+
+      
+      
+      
+            
+                
+                  
+
+  
+  
+    
+    
+  
+
+
+
+                
+            
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 3
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      numerical_question
+      
+         
+      110816607
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">How fast does a 1800 kg car need to go to navigate an icy (no friction) banked curve of radius 48 meters and banking angle 6.2 ° without sliding?</span></p>
+<p><span style="font-size: 14pt;">Enter your answer in m/s.</span></p>
+<p><img src="/courses/2053526/files/118705890/preview" alt="car on a banked curve"></p>
+      
+      
+          How fast does a 1800 kg car need to go to navigate an icy (no friction) banked curve of radius 48 meters and banking angle 6.2 ° without sliding?
+Enter your answer in m/s.
+
+      
+      
+            
+                
+                  
+
+  
+  
+    
+    
+  
+
+
+
+                
+            
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 4
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      multiple_choice_question
+      
+         
+      111116658
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">A car safely navigates an icy banked curve at speed v. Now consider that the ice has melted and there is static friction between the tires and road. What is the direction of the friction force if the car is going faster than v?</span></p>
+<p><img src="/courses/2053526/files/118705890/preview" alt="car on a banked curve"></p>
+      
+      
+          A car safely navigates an icy banked curve at speed v. Now consider that the ice has melted and there is static friction between the tires and road. What is the direction of the friction force if the car is going faster than v?
+
+      
+      
+              
+                
+  
+
+    4607
+
+  
+       
+    
+      in the direction the car is moving around the curve
+      
+    
+  
+  
+    
+  
+  
+    in the direction the car is moving around the curve
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186604
+    4607
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    8471
+
+  
+       
+    
+      in the opposite direction that the car is moving around the curve
+      
+    
+  
+  
+    
+  
+  
+    in the opposite direction that the car is moving around the curve
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186604
+    8471
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    5591
+
+  
+       
+    
+      up the slope of the banked turn
+      
+    
+  
+  
+    
+  
+  
+    up the slope of the banked turn
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186604
+    5591
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    4344
+
+  
+       
+    
+      down the slope of the banked turn
+      
+    
+  
+  
+    
+  
+  
+    down the slope of the banked turn
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186604
+    4344
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    
+      
+      
+    
+
+  
+
+
+  
+
+  
+
+    3131
+
+  
+       
+    
+      none of the above
+      
+    
+  
+  
+    
+  
+  
+    none of the above
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186604
+    3131
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 5
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      numerical_question
+      
+         
+      111116653
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">Consider a car of mass m going around a banked curve of angle&nbsp;θ</span> <span style="font-size: 14pt;">and radius r. What is the maximum speed at which the car can navigate the curve without sliding, where the coefficient of maximum static friction is µ<sub>s</sub>?</span></p>
+<p><span style="font-size: 14pt;">Consider the case where r = 55 m, m = 1400 kg,&nbsp;θ</span> <span style="font-size: 14pt;">= 12° and µ<sub>s</sub> = 0.65. Enter your answer in m/s.</span></p>
+<p><span style="font-size: 14pt;"><img src="/courses/2053526/files/118705791/preview" alt="car on a banked curve"></span></p>
+      
+      
+          Consider a car of mass m going around a banked curve of angle θ and radius r. What is the maximum speed at which the car can navigate the curve without sliding, where the coefficient of maximum static friction is µs?
+Consider the case where r = 55 m, m = 1400 kg, θ = 12° and µs = 0.65. Enter your answer in m/s.
+
+      
+      
+            
+                
+                  
+
+  
+  
+    
+    
+  
+
+
+
+                
+            
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 6
+      
+        
+            1
+           / 1 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      multiple_choice_question
+      
+         
+      111116665
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">A key on a string traces out a horizontal circle as shown. Assume there is no air resistance. Which free-body diagram could accurately depict the key? Explain.</span></p>
+<p><span style="font-size: 14pt;"><img src="/courses/2053526/files/119319910/preview" alt="key swinging around a level circle"></span></p>
+      
+      
+          A key on a string traces out a horizontal circle as shown. Assume there is no air resistance. Which free-body diagram could accurately depict the key? Explain.
+
+      
+      
+              
+                
+  
+
+    719
+
+  
+       
+    
+      A
+      
+    
+  
+  
+    
+  
+  
+    A
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186611
+    719
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    2480
+
+  
+       
+    
+      B
+      
+    
+  
+  
+    
+  
+  
+    B
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186611
+    2480
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+  
+
+    126
+
+  
+       
+    
+      C
+      
+    
+  
+  
+    
+  
+  
+    C
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186611
+    126
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+    
+      
+      
+    
+
+  
+
+
+  
+
+  
+
+    605
+
+  
+       
+    
+      D
+      
+    
+  
+  
+    
+  
+  
+    D
+    
+     
+    
+          
+    
+    
+  
+  
+    exact_answer
+    none
+    59186611
+    605
+    
+  
+  
+    
+    
+      margin of error
+      
+        +/-
+      
+      
+    
+  
+
+  
+
+
+  
+
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 7
+      
+        
+            0
+           / 0 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      essay_question
+      
+         
+       
+    
+    
+      
+        
+        <span style="font-size: 14pt;">Using your own words, enter at least 50 words describing the concepts underlying the topic for today. <span>You need to completely answer this question to get credit for this assignment.</span></span>
+      
+      
+          Using your own words, enter at least 50 words describing the concepts underlying the topic for today. You need to completely answer this question to get credit for this assignment.
+      
+      
+            
+                Your Answer:
+                Today's topic was circular motion and how forces make objects turn. The main idea is that centripetal force is not a new force; it is the net inward force toward the center of the circle. On a flat curve, static friction points inward and keeps the car from sliding. On a banked curve, the normal force can help provide the inward force, and friction may point up or down the slope depending on the speed. The conical pendulum works similarly, with tension providing both vertical support and inward acceleration.
+            
+              
+                
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+   
+  
+    
+
+  
+    
+      Move To...
+      
+        This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+      
+    
+  
+
+
+
+    
+      Question 8
+      
+        
+            0
+           / 0 pts
+        
+    
+    
+      
+        Edit this Question
+          Delete this Question
+      
+    
+      
+      0
+      essay_question
+      
+         
+      110816611
+    
+    
+      
+        
+        <p><span style="font-size: 14pt;">You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.</span></p>
+<p><span style="font-size: 14pt;">For help with scanning, please see&nbsp;<a title="Scanning Resources" href="/courses/2053526/pages/scanning-resources">Scanning Resources</a>.</span></p>
+      
+      
+          You are required to show your work for all problems to get credit for this assignment. You can write it out by hand on paper, scan your work and upload it in this question.
+For help with scanning, please see Scanning Resources.
+      
+      
+            
+                Your Answer:
+                
+            
+              
+                
+              
+      
+      
+      
+    
+      
+    
+  
+
+
+
+  
+
+
+
+    Quiz Score:
+  3 out of 6
+    
+        This quiz score has been manually adjusted by -3.0 points.
+    
+
+ 
+
+
+
+
+
+  
+//<![CDATA[
+(window.prefetched_xhrs = (window.prefetched_xhrs || {}))["/api/v1/courses/2053526/lti_apps/launch_definitions?placements%5B%5D=assignment_view"] = fetch("/api/v1/courses/2053526/lti_apps/launch_definitions?placements%5B%5D=assignment_view", {"credentials":"same-origin","headers":{"Accept":"application/json+canvas-string-ids, application/json","X-Requested-With":"XMLHttpRequest"}})
+//]]>
+
+
+  
+
+
+
+          

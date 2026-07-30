@@ -1,0 +1,70 @@
+Pre-Class Reading Quiz - 1.1 (RQ-1.1) Results for Jacob Peterson
+Score for this attempt: 8 out of 10
+Submitted Jul 19 at 8:32pm
+This attempt took 3 minutes.
+ 
+Correct answer
+Question 1
+2 / 2 pts
+The product  f(xi)⋅Δx geometrically represents the 
+[ Select ]
+area
+height
+position
+ of a sample rectangle using the 
+[ Select ]
+right-endpoint approximation
+midpoint approximation
+left-endpoint approximation
+ . 
+Answer 1:
+area 
+Answer 2:
+right-endpoint approximation 
+ 
+Correct answer
+Question 2
+2 / 2 pts
+From the reading, the notation x
+i
+ represents rightmost point in the ith interval of a partition.
+Answer 1:
+rightmost 
+ 
+Wrong answer
+Question 3
+0 / 2 pts
+According to the illustration in section 1.1, which best describes the geometric interpretation of  Δx?
+  Distance between bounds x = a and x = b. 
+  The gap. 
+  Height of a rectangle. 
+  Width of a rectangle. 
+ 
+Correct answer
+Question 4
+2 / 2 pts
+A partition breaks a/an 
+[ Select ]
+calculus
+area
+interval
+ along the x-axis into 
+[ Select ]
+parts
+rectangles
+subintervals
+ .
+Answer 1:
+interval 
+Answer 2:
+subintervals 
+ 
+Correct answer
+Question 5
+2 / 2 pts
+In section 1.1 reading, which geometric shape used for the approximation methods discussed?
+  Rectangles 
+  Triangles 
+  Elipses 
+  Circles 
+Quiz Score: 8 out of 10

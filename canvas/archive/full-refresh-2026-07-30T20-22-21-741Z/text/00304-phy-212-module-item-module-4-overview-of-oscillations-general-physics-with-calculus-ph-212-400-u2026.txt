@@ -1,0 +1,39 @@
+Module 4 | Overview of Oscillations
+
+ 
+
+Introduction
+
+For this module, we will focus on simple harmonic oscillations.
+
+Weekly Learning Outcomes
+
+After successful completion of this week, you will be able to: 
+
+define simple harmonic motion
+define oscillations
+define properties of oscillations including period, frequency, amplitude and phase
+analyze systems exhibiting simple harmonic oscillations in one dimension
+analyze systems exhibiting simple harmonic oscillations involving circular motion
+solve and analyze kinematic motion problems involving simple harmonic motion
+construct energy diagrams for systems exhibiting simple harmonic motion
+solve and analyze conservation of energy problems involving simple harmonic motion
+differentiate between a simple pendulum and a physical pendulum
+analyze the behavior of a simple pendulum and a physical pendulum
+analyze the behavior of a damped oscillator
+explain the concept of resonance
+explain the concept of driven oscillation
+Task List
+
+In order to achieve these learning outcomes, please make sure to complete the following:
+
+Study the readings and lectures for this unit: Module 4 | Oscillations | Learning Materials
+Complete all required activities: Module 4 | Oscillations | Required Activities
+Complete the online homework
+Complete all pre-lecture and participation assignments
+Complete all lab assignments
+
+ 
+
+Previous
+Next

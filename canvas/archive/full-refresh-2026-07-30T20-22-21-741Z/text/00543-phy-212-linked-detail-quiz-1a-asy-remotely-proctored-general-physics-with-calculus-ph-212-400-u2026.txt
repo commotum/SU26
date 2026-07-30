@@ -1,0 +1,79 @@
+Quiz 1A_asy (Remotely Proctored)
+Due Jul 6 at 4:55pm Points 35 Questions 4 Available Jul 4 at 5pm - Aug 14 at 4:55pm Time Limit 30 Minutes
+Instructions
+
+Instructions
+
+This quiz is timed, you need to complete it within 20 minutes of starting.
+
+Keep track of your answers and show your work on paper in your own handwriting.
+
+Upload a pdf of your work to Quiz 1A_asy_work in Gradescope within 5 minutes of exiting Proctorio. If your work is uploaded more than 5 minutes after finishing the Proctorio quiz, you will not receive credit.
+
+Attempt History
+	Attempt	Time	Score
+LATEST	Attempt 1	
+Time:
+30 minutes	
+Score:
+25 out of 35
+ Correct answers are hidden.
+Score for this quiz: 25 out of 35
+Submitted Jul 6 at 4:32pm
+This attempt took 30 minutes.
+ 
+Question 1
+5 / 5 pts
+If an object travels at a constant speed in a circular path, the acceleration of the object is
+  in the same direction as the velocity of the object. 
+  in the opposite direction of the velocity of the object. 
+  perpendicular to the velocity of the object. 
+ 
+Question 2
+5 / 5 pts
+
+A truck moves at constant speed at the bottom of a circular dip as shown. Which vector could depict the net force? 
+
+  A 
+  B 
+  C 
+  D 
+  E 
+  F 
+  G 
+  H 
+ 
+Question 3
+5 / 5 pts
+
+A circular loop of radius R spins as shown. A glass bead of mass m is free to slide on the loop and remains at an angle θ. Assume there is no friction anywhere in the system.
+
+ Which free-body diagram could accurately depict the bead?
+
+  A 
+  B 
+  C 
+  D 
+ 
+Question 4
+10 / 20 pts
+
+A key has tension T, moving as shown in the diagram.
+
+A. Draw a free-body diagram of the key using the r and t axes. Be sure to label all vectors and axes and keep vector lengths consistent.
+
+B. Find the magnitude of the total acceleration of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.
+
+C. Find the angular speed of the key at that moment. Show all work and make sure your answer is in terms of given variables as given in the diagram and the problem statement.
+
+Place your initials in the text box to indicate you have read the question.
+
+Upload your scan pdf to Quiz1A_asy_work in Gradescope within 5 minutes of exiting this quiz.
+
+ 
+
+Your Answer:
+
+JP
+
+Quiz Score: 25 out of 35

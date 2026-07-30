@@ -1,0 +1,146 @@
+# Jacob Peterson's Quiz History: Pre-Class Reading Quiz - 1.1 (RQ-1.1)
+
+- Course: MTH-252
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1
+- Resolved URL: https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1
+- Captured: 2026-07-30T20:38:17.258Z
+- Canvas object: quiz 3167659
+- Redirected: no
+
+## Headings
+- H2: Pre-Class Reading Quiz - 1.1 (RQ-1.1) Results for Jacob Peterson
+
+## Visible Text
+Pre-Class Reading Quiz - 1.1 (RQ-1.1) Results for Jacob Peterson
+Score for this attempt: 8 out of 10
+Submitted Jul 19 at 8:32pm
+This attempt took 3 minutes.
+ 
+Correct answer
+Question 1
+2 / 2 pts
+The product  f(xi)⋅Δx geometrically represents the 
+[ Select ]
+area
+height
+position
+ of a sample rectangle using the 
+[ Select ]
+right-endpoint approximation
+midpoint approximation
+left-endpoint approximation
+ . 
+Answer 1:
+area 
+Answer 2:
+right-endpoint approximation 
+ 
+Correct answer
+Question 2
+2 / 2 pts
+From the reading, the notation x
+i
+ represents rightmost point in the ith interval of a partition.
+Answer 1:
+rightmost 
+ 
+Wrong answer
+Question 3
+0 / 2 pts
+According to the illustration in section 1.1, which best describes the geometric interpretation of  Δx?
+  Distance between bounds x = a and x = b. 
+  The gap. 
+  Height of a rectangle. 
+  Width of a rectangle. 
+ 
+Correct answer
+Question 4
+2 / 2 pts
+A partition breaks a/an 
+[ Select ]
+calculus
+area
+interval
+ along the x-axis into 
+[ Select ]
+parts
+rectangles
+subintervals
+ .
+Answer 1:
+interval 
+Answer 2:
+subintervals 
+ 
+Correct answer
+Question 5
+2 / 2 pts
+In section 1.1 reading, which geometric shape used for the approximation methods discussed?
+  Rectangles 
+  Triangles 
+  Elipses 
+  Circles 
+Quiz Score: 8 out of 10
+
+## Links
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173360 -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173360
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173354 -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173354
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173352 -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173352
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59174680 -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59174680
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/history?version=1#
+- https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173359 -> https://canvas.oregonstate.edu/courses/2080857/quizzes/3167659/questions/59173359
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2 / 2 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040511 The product &nbsp;<img class="equation_image" title="\:f\left(x_i\right)\cdot\Delta x\:" src="/equation_images/%255C%253Af%255Cleft(x_i%255Cright)%255Ccdot%255CDelta%2520x%255C%253A" alt="LaTeX: \:f\left(x_i\right)\cdot\Delta x\:" data-equation-content="\:f\left(x_i\right)\cdot\Delta x\:">&nbsp;geometrically represents the [ Select ] ["area", "height", "", "position"] of a sample rectangle using the [ Select ] ["right-endpoint approximation", "midpoint approximation", "left-endpoint approximation"] .&nbsp; The product f(xi)⋅Δx\:f\left(x_i\right)\cdot\Delta x\: geometrically represents the [ Select ] ["area", "height", "", "position"] of a sample rectangle using the [ Select ] ["right-endpoint approximation", "midpoint approximation", "left-endpoint approximation"] . Answer 1: 6599 area area exact_answer A 59173360 6599 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 7979 height height exact_answer A 59173360 7979 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4905 exact_answer A 59173360 4905 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3717 position position exact_answer A 59173360 3717 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 Answer 2: 6936 right-endpoint approximation right-endpoint approximation exact_answer B 59173360 6936 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 243 midpoint approximation midpoint approximation exact_answer B 59173360 243 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7684 left-endpoint approximation left-endpoint approximation exact_answer B 59173360 7684 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- [ Select ] ["area", "height", "", "position"]
+- [ Select ] ["right-endpoint approximation", "midpoint approximation", "left-endpoint approximation"]
+- Correct!
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2 / 2 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040514 From the reading, the notation&nbsp;<img class="equation_image" title="x_i^{ }" src="/equation_images/x_i%255E%257B%2520%257D" alt="LaTeX: x_i^{ }" data-equation-content="x_i^{ }"> represents [ Select ] ["the leftmost", "the middle", "any", "rightmost"] point in the <img class="equation_image" title="i^{\text{th}}" src="/equation_images/i%255E%257B%255Ctext%257Bth%257D%257D" alt="LaTeX: i^{\text{th}}" data-equation-content="i^{\text{th}}"> interval of a partition. From the reading, the notation xix_i^{ } represents rightmost point in the ithi^{\text{th}} interval of a partition. Answer 1: 6611 the leftmost the leftmost exact_answer A 59173354 6611 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 8908 the middle the middle exact_answer A 59173354 8908 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9292 any any exact_answer A 59173354 9292 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6466 rightmost rightmost exact_answer A 59173354 6466 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!
+- Wrong answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 0 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 111040510 According to the illustration in section 1.1, which best describes the geometric interpretation of &nbsp;<img class="equation_image" title="\:\Delta x\:" src="/equation_images/%255C%253A%255CDelta%2520x%255C%253A" alt="LaTeX: \:\Delta x\:" data-equation-content="\:\Delta x\:">? According to the illustration in section 1.1, which best describes the geometric interpretation of Δx\:\Delta x\:? 3984 Distance between bounds x = a and x = b. Distance between bounds x = a and x = b. exact_answer none 59173352 3984 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3469 The gap. The gap. exact_answer none 59173352 3469 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3184 Height of a rectangle. Height of a rectangle. exact_answer none 59173352 3184 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 3658 Width of a rectangle. Width of a rectangle. exact_answer none 59173352 3658 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- You Answered
+- Correct Answer
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 2 / 2 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040508 A partition breaks a/an [ Select ] ["calculus", "area", "", "interval"] along the <img class="equation_image" title="x" src="/equation_images/x" alt="LaTeX: x" data-equation-content="x">-axis into [ Select ] ["parts", "rectangles", "subintervals"] . A partition breaks a/an [ Select ] ["calculus", "area", "", "interval"] along the xx-axis into [ Select ] ["parts", "rectangles", "subintervals"] . Answer 1: 1519 calculus calculus exact_answer A 59174680 1519 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6281 area area exact_answer A 59174680 6281 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5043 exact_answer A 59174680 5043 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 2549 interval interval exact_answer A 59174680 2549 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Answer 2: 9121 parts parts exact_answer B 59174680 9121 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 6269 rectangles rectangles exact_answer B 59174680 6269 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 4331 subintervals subintervals exact_answer B 59174680 4331 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- [ Select ] ["calculus", "area", "", "interval"]
+- [ Select ] ["parts", "rectangles", "subintervals"]
+- Correct!
+- Correct!
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 5 2 / 2 pts Edit this Question Delete this Question 0 multiple_choice_question 111040509 In section 1.1 reading, which geometric shape used for the approximation methods discussed? In section 1.1 reading, which geometric shape used for the approximation methods discussed? 2093 Rectangles Rectangles exact_answer none 59173359 2093 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 6084 Triangles Triangles exact_answer none 59173359 6084 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 9261 Elipses Elipses exact_answer none 59173359 9261 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7551 Circles Circles exact_answer none 59173359 7551 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!

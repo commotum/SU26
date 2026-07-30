@@ -1,0 +1,883 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "MTH-252",
+  "course_id": "2080857",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "RQ-1.5"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Purpose"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Instructions"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "Attempt History"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Purpose The short quizzes provide an opportunity to improve mathematical reading and problem-solving skills. These quizzes require NO prior knowledge of the material. Students only need to skim the OpenStax textbook, study graphs/illustrations, and look for key vocabulary and notation. Instructions Complete this quiz after reading through the corresponding section of the OpenStax textbook. Reading: https://openstax.org/books/calculus-volume-2/pages/1-5-substitutionLinks to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Time:"
+    },
+    {
+      "index": 4,
+      "text": "Score:"
+    },
+    {
+      "index": 5,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 2.5 / 2.5 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040541 According to the problem-solving strategies given in the reading, AFTER we [ Select ] [\"Evaluate the integral in terms of u.\", \"Substitute u = g(x) and du = g'(x)dx in the integral.\", \"Look carefully at the integrand and select an expression g(x)...\"] , we should now be able to evaluate the integral with respect to u.&nbsp; According to the problem-solving strategies given in the reading, AFTER we Substitute u = g(x) and du = g'(x)dx in the integral. , we should now be able to evaluate the integral with respect to u. Answer 1: 6306 Evaluate the integral in terms of u. Evaluate the integral in terms of u. exact_answer A 59201281 6306 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 922 Substitute u = g(x) and du = g'(x)dx in the integral. Substitute u = g(x) and du = g'(x)dx in the integral. exact_answer A 59201281 922 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 8957 Look carefully at the integrand and select an expression g(x)... Look carefully at the integrand and select an expression g(x)... exact_answer A 59201281 8957 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 6,
+      "text": "Move To..."
+    },
+    {
+      "index": 7,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 8,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 9,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 10,
+      "text": "Correct!"
+    },
+    {
+      "index": 11,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 2 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040542 According to the problem-solving process for integration by substitution, we do NOT need a step to check/verify our substitution because the algorithm process always works.&nbsp; According to the problem-solving process for integration by substitution, we do NOT need a step to check/verify our substitution because the algorithm process always works. 4707 True True exact_answer none 59201282 4707 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1931 False False exact_answer none 59201282 1931 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Nice work. Like the scientific method, solving strategies can benefit from some type of reflection/verification process."
+    },
+    {
+      "index": 12,
+      "text": "Move To..."
+    },
+    {
+      "index": 13,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 14,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 15,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 16,
+      "text": "Correct!"
+    },
+    {
+      "index": 17,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 3 2.5 / 2.5 pts Edit this Question Delete this Question 0 true_false_question 111040543 When applying integration by substitution for definite integrals, <img class=\"equation_image\" title=\"\\int_a^bf\\left(g\\left(x\\right)\\right)g'\\left(x\\right)dx=\\int_{g\\left(a\\right)}^{g\\left(b\\right)}f\\left(u\\right)du\" src=\"/equation_images/%255Cint_a%255Ebf%255Cleft(g%255Cleft(x%255Cright)%255Cright)g'%255Cleft(x%255Cright)dx%253D%255Cint_%257Bg%255Cleft(a%255Cright)%257D%255E%257Bg%255Cleft(b%255Cright)%257Df%255Cleft(u%255Cright)du\" alt=\"LaTeX: \\int_a^bf\\left(g\\left(x\\right)\\right)g'\\left(x\\right)dx=\\int_{g\\left(a\\right)}^{g\\left(b\\right)}f\\left(u\\right)du\" data-equation-content=\"\\int_a^bf\\left(g\\left(x\\right)\\right)g'\\left(x\\right)dx=\\int_{g\\left(a\\right)}^{g\\left(b\\right)}f\\left(u\\right)du\">, it is required to convert back to the variable <img class=\"equation_image\" title=\"x\\:\" src=\"/equation_images/x%255C%253A\" alt=\"LaTeX: x\\:\" data-equation-content=\"x\\:\">&nbsp;for the final answer.&nbsp; When applying integration by substitution for definite integrals, ∫baf(g(x))g′(x)dx=∫g(b)g(a)f(u)du\\int_a^bf\\left(g\\left(x\\right)\\right)g'\\left(x\\right)dx=\\int_{g\\left(a\\right)}^{g\\left(b\\right)}f\\left(u\\right)du, it is required to convert back to the variable xx\\: for the final answer. 2678 True True exact_answer none 59201283 2678 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7748 False False exact_answer none 59201283 7748 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 Nice work! Yes, the conversion is NOT required. By converting the x-bounds to u-bounds, you do no need to convert back with definite integrals. Note: With indefinite integrals, we DO need to convert back."
+    },
+    {
+      "index": 18,
+      "text": "Move To..."
+    },
+    {
+      "index": 19,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 20,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 21,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 22,
+      "text": "Correct!"
+    },
+    {
+      "index": 23,
+      "text": "Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 4 2.5 / 2.5 pts Edit this Question Delete this Question 0 multiple_dropdowns_question 111040544 By scanning the examples given in the reading, the choice of <img class=\"equation_image\" title=\"u=g\\left(x\\right)\" src=\"/equation_images/u%253Dg%255Cleft(x%255Cright)\" alt=\"LaTeX: u=g\\left(x\\right)\" data-equation-content=\"u=g\\left(x\\right)\">&nbsp;for the substitution appears to often be the [ Select ] [\"\"inner\" type of\", \"integrand\", \"\"outer\" type of\"] function. By scanning the examples given in the reading, the choice of u=g(x)u=g\\left(x\\right) for the substitution appears to often be the \"inner\" type of function. Answer 1: 8650 \"inner\" type of \"inner\" type of exact_answer A 59201284 8650 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100 6296 integrand integrand exact_answer A 59201284 6296 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 5552 \"outer\" type of \"outer\" type of exact_answer A 59201284 5552 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0"
+    },
+    {
+      "index": 24,
+      "text": "Move To..."
+    },
+    {
+      "index": 25,
+      "text": "This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question."
+    },
+    {
+      "index": 26,
+      "text": "Edit this Question"
+    },
+    {
+      "index": 27,
+      "text": "Delete this Question"
+    },
+    {
+      "index": 28,
+      "text": "Correct!"
+    },
+    {
+      "index": 29,
+      "text": "Previous Next"
+    },
+    {
+      "index": 30,
+      "text": "Previous"
+    },
+    {
+      "index": 31,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026) RQ-1.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 15,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes",
+      "index": 16,
+      "raw_href": "/courses/2080857/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662",
+      "index": 17,
+      "raw_href": "/courses/2080857/quizzes/3167662",
+      "rel": "",
+      "target": "",
+      "text": "RQ-1.5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 18,
+      "raw_href": "/courses/2080857",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 19,
+      "raw_href": "/courses/2080857/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 20,
+      "raw_href": "/courses/2080857/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 21,
+      "raw_href": "/courses/2080857/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 22,
+      "raw_href": "/courses/2080857/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 23,
+      "raw_href": "/courses/2080857/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 24,
+      "raw_href": "/courses/2080857/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 25,
+      "raw_href": "/courses/2080857/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades20",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 26,
+      "raw_href": "/courses/2080857/external_tools/279704",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitution",
+      "index": 27,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitution",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitutionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "index": 28,
+      "raw_href": "/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/history?version=1",
+      "index": 29,
+      "raw_href": "/courses/2080857/quizzes/3167662/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201281",
+      "index": 32,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201281",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201282",
+      "index": 35,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201282",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201283",
+      "index": 38,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201283",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201284",
+      "index": 41,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201284",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982577",
+      "index": 42,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982577",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982579",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982579",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "index": 44,
+      "raw_href": "/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitution",
+      "index": 0,
+      "raw_href": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitution",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "https://openstax.org/books/calculus-volume-2/pages/1-5-substitutionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "index": 1,
+      "raw_href": "/courses/2080857/quizzes/3167662/take?user_id=6660414",
+      "rel": "",
+      "target": "",
+      "text": "Take the Quiz Again",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/history?version=1",
+      "index": 2,
+      "raw_href": "/courses/2080857/quizzes/3167662/history?version=1",
+      "rel": "",
+      "target": "",
+      "text": "Attempt 1",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201281",
+      "index": 5,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201281",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 6,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201282",
+      "index": 8,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201282",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201283",
+      "index": 11,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201283",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Edit this Question",
+      "title": "Edit this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Delete this Question",
+      "title": "Delete this Question"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662/questions/59201284",
+      "index": 14,
+      "raw_href": "/courses/2080857/quizzes/3167662/questions/59201284",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982577",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982577",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982579",
+      "index": 16,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2080857/modules/items/26982579",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/modules",
+      "index": 1,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/announcements",
+      "index": 2,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/118915",
+      "index": 3,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/assignments/syllabus",
+      "index": 4,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/270765",
+      "index": 6,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/grades",
+      "index": 7,
+      "label": "Grades20"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2080857/external_tools/279704",
+      "index": 8,
+      "label": "Student Services"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2080857/quizzes/3167662?module_item_id=26982578#",
+  "source_surface": "linked_detail",
+  "tables": [
+    {
+      "caption": "",
+      "index": 0,
+      "text": "Attempt Time Score LATEST Attempt 1 Time: 2 minutes Score: 10 out of 10"
+    }
+  ],
+  "title": "RQ-1.5: INTEGRAL CALCULUS (MTH_252Z_400_U2026)",
+  "page_id": "00380-mth-252-linked-detail-rq-1-5-integral-calculus-mth-252z-400-u2026",
+  "captured_at": "2026-07-30T20:39:58.467Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00083-mth-252-module-item-rq-1-5-integral-calculus-mth-252z-400-u2026",
+  "discovered_text": "Edit this Question",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "quiz",
+  "canvas_object_id": "3167662",
+  "html_sha256": "a5e5ff12584e4ba0430ac3dcc7fc2ccd5bb0c13d66f5acac9722da6ccfe7cac8",
+  "text_sha256": "1e1ee426bca74ead8150f8e5becdfae038a29f3264839175a52ebcf049a8e37d",
+  "requires_external_handler": false
+}

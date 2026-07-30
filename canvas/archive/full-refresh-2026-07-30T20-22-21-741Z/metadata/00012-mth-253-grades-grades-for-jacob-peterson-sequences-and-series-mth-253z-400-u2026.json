@@ -1,0 +1,3998 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": true,
+      "index": 0,
+      "text": "ApplyApply filters. Note: clicking this button will cause the page to reload.",
+      "type": "submit"
+    },
+    {
+      "disabled": false,
+      "index": 1,
+      "text": "view longer description",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 2,
+      "text": "view longer description",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 3,
+      "text": "view longer description",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 4,
+      "text": "view longer description",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 5,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 6,
+      "text": "Update Criterion",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 7,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 8,
+      "text": "Update Comments",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 9,
+      "text": "Cancel",
+      "type": "button"
+    },
+    {
+      "disabled": false,
+      "index": 10,
+      "text": "Update Rating",
+      "type": "button"
+    }
+  ],
+  "course_code": "MTH-253",
+  "course_id": "2053263",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 0,
+      "method": "",
+      "text": "Description Please include a description Long Description Cancel Update Criterion"
+    },
+    {
+      "action": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 1,
+      "method": "",
+      "text": "Rating Score Rating max score to > pts Rating Title Please include a rating title Rating Description Cancel Update Rating"
+    }
+  ],
+  "grade_rows": [
+    {
+      "cells": [
+        "Unit 1 - Written Homework Assignment Written Homework Assignments",
+        "Jun 26 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244677 10553179",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179/submissions/6660414",
+      "index": 0,
+      "text": "Unit 1 - Written Homework Assignment Written Homework Assignments Jun 26 by 11:59pm Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244677 10553179 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 1 - Written Homework Assignment"
+    },
+    {
+      "cells": [
+        "Unit 1 Discussion Board - Submitted in Week 1 (Required) Discussion Boards",
+        "Jun 28 by 11:59pm",
+        "Jun 24 at 4:41pm",
+        "",
+        "Click to test a different score Click to test a different score 40 / 40 40.0 40 40 graded 3244676 10553178",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178/submissions/6660414",
+      "index": 5,
+      "text": "Unit 1 Discussion Board - Submitted in Week 1 (Required) Discussion Boards Jun 28 by 11:59pm Jun 24 at 4:41pm Click to test a different score Click to test a different score 40 / 40 40.0 40 40 graded 3244676 10553178 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 1 Discussion Board - Submitted in Week 1 (Required)"
+    },
+    {
+      "cells": [
+        "Assessment by Radu Dascaliuc Close Rubric Introduction Discussion BoardCriteriaRatingsPtsIntroduction Discussion BoardCriteriaRatingsPtsMain Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 ptsTimelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 ptsResponse Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 ptsWriting & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 ptsTotal Points: 40",
+        "Criteria",
+        "Ratings",
+        "Pts",
+        "Introduction Discussion Board",
+        "Criteria",
+        "Ratings",
+        "Pts",
+        "Main Postview longer description",
+        "20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.",
+        "20 / 20 pts",
+        "Timelinessview longer description",
+        "5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.",
+        "5 / 5 pts",
+        "Response Postview longer description",
+        "10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.",
+        "10 / 10 pts",
+        "Writing & Organizationview longer description",
+        "5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.",
+        "5 / 5 pts",
+        "Total Points: 40"
+      ],
+      "href": "",
+      "index": 9,
+      "text": "Assessment by Radu Dascaliuc Close Rubric Introduction Discussion BoardCriteriaRatingsPtsIntroduction Discussion BoardCriteriaRatingsPtsMain Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 ptsTimelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 ptsResponse Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 ptsWriting & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 ptsTotal Points: 40",
+      "title": "Assessment by Radu Dascaliuc Close Rubric Introduction Discussion BoardCriteriaRatingsPtsIntroduction Discussion BoardCriteriaRatingsPtsMain Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 ptsTimelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 ptsResponse Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 ptsWriting & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 ptsTotal Points: 40"
+    },
+    {
+      "cells": [
+        "Criteria",
+        "Ratings",
+        "Pts"
+      ],
+      "href": "",
+      "index": 10,
+      "text": "CriteriaRatingsPts",
+      "title": "Criteria"
+    },
+    {
+      "cells": [
+        "Introduction Discussion Board"
+      ],
+      "href": "",
+      "index": 11,
+      "text": "Introduction Discussion Board",
+      "title": "Introduction Discussion Board"
+    },
+    {
+      "cells": [
+        "Criteria",
+        "Ratings",
+        "Pts"
+      ],
+      "href": "",
+      "index": 12,
+      "text": "CriteriaRatingsPts",
+      "title": "Criteria"
+    },
+    {
+      "cells": [
+        "Main Postview longer description",
+        "20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.",
+        "20 / 20 pts"
+      ],
+      "href": "",
+      "index": 13,
+      "text": "Main Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 pts",
+      "title": "Main Postview longer description"
+    },
+    {
+      "cells": [
+        "Timelinessview longer description",
+        "5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.",
+        "5 / 5 pts"
+      ],
+      "href": "",
+      "index": 14,
+      "text": "Timelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 pts",
+      "title": "Timelinessview longer description"
+    },
+    {
+      "cells": [
+        "Response Postview longer description",
+        "10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.",
+        "10 / 10 pts"
+      ],
+      "href": "",
+      "index": 15,
+      "text": "Response Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 pts",
+      "title": "Response Postview longer description"
+    },
+    {
+      "cells": [
+        "Writing & Organizationview longer description",
+        "5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.",
+        "5 / 5 pts"
+      ],
+      "href": "",
+      "index": 16,
+      "text": "Writing & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 pts",
+      "title": "Writing & Organizationview longer description"
+    },
+    {
+      "cells": [
+        "Total Points: 40"
+      ],
+      "href": "",
+      "index": 17,
+      "text": "Total Points: 40",
+      "title": "Total Points: 40"
+    },
+    {
+      "cells": [
+        "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals Online Homework Assignments (Achieve)",
+        "Jun 29 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 4 / 100 4.0 4 4 graded 3244675 10584258",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258/submissions/6660414",
+      "index": 18,
+      "text": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals Online Homework Assignments (Achieve) Jun 29 by 11:59pm Click to test a different score Click to test a different score 4 / 100 4.0 4 4 graded 3244675 10584258 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals"
+    },
+    {
+      "cells": [
+        "Unit 1 Quiz Unit Quizzes",
+        "Jun 30 by 10:30pm",
+        "Jun 30 at 11:37pm",
+        "late",
+        "Instructor has not posted this grade / 100 0.0 pending_review 3244678 10553174",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174/submissions/6660414",
+      "index": 23,
+      "text": "Unit 1 Quiz Unit Quizzes Jun 30 by 10:30pm Jun 30 at 11:37pm late Instructor has not posted this grade / 100 0.0 pending_review 3244678 10553174 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 1 Quiz"
+    },
+    {
+      "cells": [
+        "Week 2 Web Homework: Sequences Online Homework Assignments (Achieve)",
+        "Jul 6 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 0 / 100 0.0 0 0 graded 3244675 10584372",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584372/submissions/6660414",
+      "index": 28,
+      "text": "Week 2 Web Homework: Sequences Online Homework Assignments (Achieve) Jul 6 by 11:59pm Click to test a different score Click to test a different score 0 / 100 0.0 0 0 graded 3244675 10584372 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 2 Web Homework: Sequences"
+    },
+    {
+      "cells": [
+        "Unit 2 - Written Homework Assignment Written Homework Assignments",
+        "Jul 9 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553180",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180/submissions/6660414",
+      "index": 33,
+      "text": "Unit 2 - Written Homework Assignment Written Homework Assignments Jul 9 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553180 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 2 - Written Homework Assignment"
+    },
+    {
+      "cells": [
+        "Week 3 Web Homework: Introduction to Series Online Homework Assignments (Achieve)",
+        "Jul 12 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244675 10584373",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373/submissions/6660414",
+      "index": 38,
+      "text": "Week 3 Web Homework: Introduction to Series Online Homework Assignments (Achieve) Jul 12 by 11:59pm Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244675 10584373 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 3 Web Homework: Introduction to Series"
+    },
+    {
+      "cells": [
+        "Unit 2 Quiz Unit Quizzes",
+        "Jul 13 by 10:30pm",
+        "Jul 13 at 11:26pm",
+        "late",
+        "Instructor has not posted this grade / 100 pending_review 3244678 10553173",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173/submissions/6660414",
+      "index": 43,
+      "text": "Unit 2 Quiz Unit Quizzes Jul 13 by 10:30pm Jul 13 at 11:26pm late Instructor has not posted this grade / 100 pending_review 3244678 10553173 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 2 Quiz"
+    },
+    {
+      "cells": [
+        "Week 4 Web Homework: The Divergence and Integral Tests Online Homework Assignments (Achieve)",
+        "Jul 19 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244675 10584431",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584431/submissions/6660414",
+      "index": 48,
+      "text": "Week 4 Web Homework: The Divergence and Integral Tests Online Homework Assignments (Achieve) Jul 19 by 11:59pm Click to test a different score Click to test a different score 100 / 100 100.0 100 100 graded 3244675 10584431 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 4 Web Homework: The Divergence and Integral Tests"
+    },
+    {
+      "cells": [
+        "Week 5 Web Homework: Comparison and Alternate Series Tests Online Homework Assignments (Achieve)",
+        "Jul 26 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 99.91 / 100 99.91 99.91 99.91 graded 3244675 10584434",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584434/submissions/6660414",
+      "index": 53,
+      "text": "Week 5 Web Homework: Comparison and Alternate Series Tests Online Homework Assignments (Achieve) Jul 26 by 11:59pm Click to test a different score Click to test a different score 99.91 / 100 99.91 99.91 99.91 graded 3244675 10584434 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 5 Web Homework: Comparison and Alternate Series Tests"
+    },
+    {
+      "cells": [
+        "Unit 3 Discussion Board - Submitted in Week 6 (Required) Discussion Boards",
+        "Jul 28 by 11:59pm",
+        "Jul 28 at 11:20pm",
+        "",
+        "Click to test a different score Click to test a different score Discussion Submission / 40 submitted 3244676 10553177",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553177/submissions/6660414",
+      "index": 58,
+      "text": "Unit 3 Discussion Board - Submitted in Week 6 (Required) Discussion Boards Jul 28 by 11:59pm Jul 28 at 11:20pm Click to test a different score Click to test a different score Discussion Submission / 40 submitted 3244676 10553177 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 3 Discussion Board - Submitted in Week 6 (Required)"
+    },
+    {
+      "cells": [
+        "Unit 3 - Written Homework Assignment Written Homework Assignments",
+        "Jul 30 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553181",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553181/submissions/6660414",
+      "index": 63,
+      "text": "Unit 3 - Written Homework Assignment Written Homework Assignments Jul 30 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553181 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 3 - Written Homework Assignment"
+    },
+    {
+      "cells": [
+        "Week 6 Web Homework: Ratio and Root Tests Online Homework Assignments (Achieve)",
+        "Aug 2 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score 99.69 / 100 99.69 99.69 99.69 graded 3244675 10584435",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584435/submissions/6660414",
+      "index": 68,
+      "text": "Week 6 Web Homework: Ratio and Root Tests Online Homework Assignments (Achieve) Aug 2 by 11:59pm Click to test a different score Click to test a different score 99.69 / 100 99.69 99.69 99.69 graded 3244675 10584435 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 6 Web Homework: Ratio and Root Tests"
+    },
+    {
+      "cells": [
+        "Unit 3 Quiz Unit Quizzes",
+        "Aug 3 by 10:30pm",
+        "",
+        "",
+        "Instructor has not posted this grade / 100 unsubmitted 3244678 10553170",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553170/submissions/6660414",
+      "index": 73,
+      "text": "Unit 3 Quiz Unit Quizzes Aug 3 by 10:30pm Instructor has not posted this grade / 100 unsubmitted 3244678 10553170 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 3 Quiz"
+    },
+    {
+      "cells": [
+        "Week 7 Web Homework: Power Series and Functions Online Homework Assignments (Achieve)",
+        "Aug 9 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584436",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584436/submissions/6660414",
+      "index": 78,
+      "text": "Week 7 Web Homework: Power Series and Functions Online Homework Assignments (Achieve) Aug 9 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584436 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 7 Web Homework: Power Series and Functions"
+    },
+    {
+      "cells": [
+        "Week 8 Web Homework Taylor and Maclaurin Series Online Homework Assignments (Achieve)",
+        "Aug 16 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584437",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584437/submissions/6660414",
+      "index": 83,
+      "text": "Week 8 Web Homework Taylor and Maclaurin Series Online Homework Assignments (Achieve) Aug 16 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584437 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 8 Web Homework Taylor and Maclaurin Series"
+    },
+    {
+      "cells": [
+        "Unit 4 Discussion Board - Submitted in Week 9 (Required) Discussion Boards",
+        "Aug 18 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 40 unsubmitted 3244676 10553176",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553176/submissions/6660414",
+      "index": 88,
+      "text": "Unit 4 Discussion Board - Submitted in Week 9 (Required) Discussion Boards Aug 18 by 11:59pm Click to test a different score Click to test a different score - / 40 unsubmitted 3244676 10553176 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 4 Discussion Board - Submitted in Week 9 (Required)"
+    },
+    {
+      "cells": [
+        "Unit 4 - Written Homework Assignment Written Homework Assignments",
+        "Aug 20 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553182",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553182/submissions/6660414",
+      "index": 93,
+      "text": "Unit 4 - Written Homework Assignment Written Homework Assignments Aug 20 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553182 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 4 - Written Homework Assignment"
+    },
+    {
+      "cells": [
+        "Week 9 Web Homework: Properties of Power Series Online Homework Assignments (Achieve)",
+        "Aug 23 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584438",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584438/submissions/6660414",
+      "index": 98,
+      "text": "Week 9 Web Homework: Properties of Power Series Online Homework Assignments (Achieve) Aug 23 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584438 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 9 Web Homework: Properties of Power Series"
+    },
+    {
+      "cells": [
+        "Unit 4 Quiz Unit Quizzes",
+        "Aug 24 by 10:30pm",
+        "",
+        "",
+        "Instructor has not posted this grade / 100 unsubmitted 3244678 10553171",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553171/submissions/6660414",
+      "index": 103,
+      "text": "Unit 4 Quiz Unit Quizzes Aug 24 by 10:30pm Instructor has not posted this grade / 100 unsubmitted 3244678 10553171 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 4 Quiz"
+    },
+    {
+      "cells": [
+        "Unit 5 - Written Homework Assignment Written Homework Assignments",
+        "Aug 27 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553183",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553183/submissions/6660414",
+      "index": 108,
+      "text": "Unit 5 - Written Homework Assignment Written Homework Assignments Aug 27 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244677 10553183 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Unit 5 - Written Homework Assignment"
+    },
+    {
+      "cells": [
+        "Week 10 Web Homework: Working with Taylor Series Online Homework Assignments (Achieve)",
+        "Aug 30 by 11:59pm",
+        "",
+        "",
+        "Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584439",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584439/submissions/6660414",
+      "index": 113,
+      "text": "Week 10 Web Homework: Working with Taylor Series Online Homework Assignments (Achieve) Aug 30 by 11:59pm Click to test a different score Click to test a different score - / 100 unsubmitted 3244675 10584439 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Week 10 Web Homework: Working with Taylor Series"
+    },
+    {
+      "cells": [
+        "Final Exam Final Exam",
+        "Sep 1 by 10:30pm",
+        "",
+        "",
+        "Instructor has not posted this grade / 100 unsubmitted 3244679 10553169",
+        "",
+        "Grade Info See scoring details See rubric results 0 comments 0",
+        ""
+      ],
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553169/submissions/6660414",
+      "index": 118,
+      "text": "Final Exam Final Exam Sep 1 by 10:30pm Instructor has not posted this grade / 100 unsubmitted 3244679 10553169 Grade Info See scoring details See rubric results 0 comments 0",
+      "title": "Final Exam"
+    },
+    {
+      "cells": [
+        "Assignments",
+        "",
+        "",
+        "",
+        "N/A none 3244674 group-3244674 0.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 123,
+      "text": "Assignments N/A none 3244674 group-3244674 0.0 0.00 / 0.00",
+      "title": "Assignments"
+    },
+    {
+      "cells": [
+        "Online Homework Assignments (Achieve)",
+        "",
+        "",
+        "",
+        "67.27% none 3244675 group-3244675 20.0",
+        "",
+        "403.60 / 600.00",
+        ""
+      ],
+      "href": "",
+      "index": 128,
+      "text": "Online Homework Assignments (Achieve) 67.27% none 3244675 group-3244675 20.0 403.60 / 600.00",
+      "title": "Online Homework Assignments (Achieve)"
+    },
+    {
+      "cells": [
+        "Discussion Boards",
+        "",
+        "",
+        "",
+        "100% none 3244676 group-3244676 10.0",
+        "",
+        "40.00 / 40.00",
+        ""
+      ],
+      "href": "",
+      "index": 133,
+      "text": "Discussion Boards 100% none 3244676 group-3244676 10.0 40.00 / 40.00",
+      "title": "Discussion Boards"
+    },
+    {
+      "cells": [
+        "Written Homework Assignments",
+        "",
+        "",
+        "",
+        "100% none 3244677 group-3244677 15.0",
+        "",
+        "100.00 / 100.00",
+        ""
+      ],
+      "href": "",
+      "index": 138,
+      "text": "Written Homework Assignments 100% none 3244677 group-3244677 15.0 100.00 / 100.00",
+      "title": "Written Homework Assignments"
+    },
+    {
+      "cells": [
+        "Unit Quizzes",
+        "",
+        "",
+        "",
+        "N/A none 3244678 group-3244678 40.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 143,
+      "text": "Unit Quizzes N/A none 3244678 group-3244678 40.0 0.00 / 0.00",
+      "title": "Unit Quizzes"
+    },
+    {
+      "cells": [
+        "Final Exam",
+        "",
+        "",
+        "",
+        "N/A none 3244679 group-3244679 15.0",
+        "",
+        "0.00 / 0.00",
+        ""
+      ],
+      "href": "",
+      "index": 148,
+      "text": "Final Exam N/A none 3244679 group-3244679 15.0 0.00 / 0.00",
+      "title": "Final Exam"
+    },
+    {
+      "cells": [
+        "Total",
+        "",
+        "",
+        "",
+        "85.45% none final-grade",
+        "",
+        "",
+        ""
+      ],
+      "href": "",
+      "index": 153,
+      "text": "Total 85.45% none final-grade",
+      "title": "Total"
+    }
+  ],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Grades for Jacob Peterson"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 0,
+      "text": "Apply filters. Note: clicking this button will cause the page to reload."
+    },
+    {
+      "index": 1,
+      "text": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded."
+    },
+    {
+      "index": 2,
+      "text": "Details"
+    },
+    {
+      "index": 3,
+      "text": "Submission Progress Status"
+    },
+    {
+      "index": 4,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 6,
+      "text": "Grade Info"
+    },
+    {
+      "index": 7,
+      "text": "See scoring details"
+    },
+    {
+      "index": 8,
+      "text": "See rubric results"
+    },
+    {
+      "index": 9,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 10,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 12,
+      "text": "Grade Info"
+    },
+    {
+      "index": 13,
+      "text": "See scoring details"
+    },
+    {
+      "index": 14,
+      "text": "See rubric results"
+    },
+    {
+      "index": 15,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 16,
+      "text": "Introduction Discussion BoardCriteriaRatingsPtsIntroduction Discussion BoardCriteriaRatingsPtsMain Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 ptsTimelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 ptsResponse Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 ptsWriting & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 ptsTotal Points: 40"
+    },
+    {
+      "index": 17,
+      "text": "Introduction Discussion Board"
+    },
+    {
+      "index": 18,
+      "text": "This rating is selected"
+    },
+    {
+      "index": 19,
+      "text": "This rating is selected"
+    },
+    {
+      "index": 20,
+      "text": "This rating is selected"
+    },
+    {
+      "index": 21,
+      "text": "This rating is selected"
+    },
+    {
+      "index": 22,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 24,
+      "text": "Grade Info"
+    },
+    {
+      "index": 25,
+      "text": "See scoring details"
+    },
+    {
+      "index": 26,
+      "text": "See rubric results"
+    },
+    {
+      "index": 27,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 28,
+      "text": "Grade Info"
+    },
+    {
+      "index": 29,
+      "text": "See scoring details"
+    },
+    {
+      "index": 30,
+      "text": "See rubric results"
+    },
+    {
+      "index": 31,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 32,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 34,
+      "text": "Grade Info"
+    },
+    {
+      "index": 35,
+      "text": "See scoring details"
+    },
+    {
+      "index": 36,
+      "text": "See rubric results"
+    },
+    {
+      "index": 37,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 38,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 39,
+      "text": "Grade Info"
+    },
+    {
+      "index": 40,
+      "text": "See scoring details"
+    },
+    {
+      "index": 41,
+      "text": "See rubric results"
+    },
+    {
+      "index": 42,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 43,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 45,
+      "text": "Grade Info"
+    },
+    {
+      "index": 46,
+      "text": "See scoring details"
+    },
+    {
+      "index": 47,
+      "text": "See rubric results"
+    },
+    {
+      "index": 48,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 49,
+      "text": "Grade Info"
+    },
+    {
+      "index": 50,
+      "text": "See scoring details"
+    },
+    {
+      "index": 51,
+      "text": "See rubric results"
+    },
+    {
+      "index": 52,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 53,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 55,
+      "text": "Grade Info"
+    },
+    {
+      "index": 56,
+      "text": "See scoring details"
+    },
+    {
+      "index": 57,
+      "text": "See rubric results"
+    },
+    {
+      "index": 58,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 59,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 61,
+      "text": "Grade Info"
+    },
+    {
+      "index": 62,
+      "text": "See scoring details"
+    },
+    {
+      "index": 63,
+      "text": "See rubric results"
+    },
+    {
+      "index": 64,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 65,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 66,
+      "text": "Discussion Submission"
+    },
+    {
+      "index": 67,
+      "text": "Grade Info"
+    },
+    {
+      "index": 68,
+      "text": "See scoring details"
+    },
+    {
+      "index": 69,
+      "text": "See rubric results"
+    },
+    {
+      "index": 70,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 71,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 72,
+      "text": "Grade Info"
+    },
+    {
+      "index": 73,
+      "text": "See scoring details"
+    },
+    {
+      "index": 74,
+      "text": "See rubric results"
+    },
+    {
+      "index": 75,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 76,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 78,
+      "text": "Grade Info"
+    },
+    {
+      "index": 79,
+      "text": "See scoring details"
+    },
+    {
+      "index": 80,
+      "text": "See rubric results"
+    },
+    {
+      "index": 81,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 82,
+      "text": "Grade Info"
+    },
+    {
+      "index": 83,
+      "text": "See scoring details"
+    },
+    {
+      "index": 84,
+      "text": "See rubric results"
+    },
+    {
+      "index": 85,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 86,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 87,
+      "text": "Grade Info"
+    },
+    {
+      "index": 88,
+      "text": "See scoring details"
+    },
+    {
+      "index": 89,
+      "text": "See rubric results"
+    },
+    {
+      "index": 90,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 91,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 92,
+      "text": "Grade Info"
+    },
+    {
+      "index": 93,
+      "text": "See scoring details"
+    },
+    {
+      "index": 94,
+      "text": "See rubric results"
+    },
+    {
+      "index": 95,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 96,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 97,
+      "text": "Grade Info"
+    },
+    {
+      "index": 98,
+      "text": "See scoring details"
+    },
+    {
+      "index": 99,
+      "text": "See rubric results"
+    },
+    {
+      "index": 100,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 101,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 102,
+      "text": "Grade Info"
+    },
+    {
+      "index": 103,
+      "text": "See scoring details"
+    },
+    {
+      "index": 104,
+      "text": "See rubric results"
+    },
+    {
+      "index": 105,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 106,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 107,
+      "text": "Grade Info"
+    },
+    {
+      "index": 108,
+      "text": "See scoring details"
+    },
+    {
+      "index": 109,
+      "text": "See rubric results"
+    },
+    {
+      "index": 110,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 111,
+      "text": "Grade Info"
+    },
+    {
+      "index": 112,
+      "text": "See scoring details"
+    },
+    {
+      "index": 113,
+      "text": "See rubric results"
+    },
+    {
+      "index": 114,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 115,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 116,
+      "text": "Grade Info"
+    },
+    {
+      "index": 117,
+      "text": "See scoring details"
+    },
+    {
+      "index": 118,
+      "text": "See rubric results"
+    },
+    {
+      "index": 119,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 120,
+      "text": "Click to test a different score"
+    },
+    {
+      "index": 121,
+      "text": "Grade Info"
+    },
+    {
+      "index": 122,
+      "text": "See scoring details"
+    },
+    {
+      "index": 123,
+      "text": "See rubric results"
+    },
+    {
+      "index": 124,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 125,
+      "text": "Grade Info"
+    },
+    {
+      "index": 126,
+      "text": "See scoring details"
+    },
+    {
+      "index": 127,
+      "text": "See rubric results"
+    },
+    {
+      "index": 128,
+      "text": "0 comments 0"
+    },
+    {
+      "index": 129,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 130,
+      "text": "403.60 / 600.00"
+    },
+    {
+      "index": 131,
+      "text": "40.00 / 40.00"
+    },
+    {
+      "index": 132,
+      "text": "100.00 / 100.00"
+    },
+    {
+      "index": 133,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 134,
+      "text": "0.00 / 0.00"
+    },
+    {
+      "index": 136,
+      "text": "Rating min score"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026) Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 15,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 16,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades/6660414",
+      "index": 17,
+      "raw_href": "/courses/2053263/grades/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Jacob Peterson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 18,
+      "raw_href": "/courses/2053263",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 19,
+      "raw_href": "/courses/2053263/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 20,
+      "raw_href": "/courses/2053263/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 21,
+      "raw_href": "/courses/2053263/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 22,
+      "raw_href": "/courses/2053263/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 23,
+      "raw_href": "/courses/2053263/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 24,
+      "raw_href": "/courses/2053263/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 25,
+      "raw_href": "/courses/2053263/quizzes",
+      "rel": "",
+      "target": "",
+      "text": "Quizzes",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 26,
+      "raw_href": "/courses/2053263/external_tools/278415",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 27,
+      "raw_href": "/courses/2053263/external_tools/118915",
+      "rel": "",
+      "target": "",
+      "text": "Macmillan Learning",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 28,
+      "raw_href": "/courses/2053263/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 29,
+      "raw_href": "/courses/2053263/external_tools/270765",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "javascript:window.print()",
+      "index": 30,
+      "raw_href": "javascript:window.print()",
+      "rel": "",
+      "target": "",
+      "text": "Print Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179/submissions/6660414",
+      "index": 31,
+      "raw_href": "/courses/2053263/assignments/10553179/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 32,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178/submissions/6660414",
+      "index": 36,
+      "raw_href": "/courses/2053263/assignments/10553178/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Discussion Board - Submitted in Week 1 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close Rubric",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258/submissions/6660414",
+      "index": 42,
+      "raw_href": "/courses/2053263/assignments/10584258/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174/submissions/6660414",
+      "index": 47,
+      "raw_href": "/courses/2053263/assignments/10553174/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584372/submissions/6660414",
+      "index": 52,
+      "raw_href": "/courses/2053263/assignments/10584372/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 2 Web Homework: Sequences",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 55,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180/submissions/6660414",
+      "index": 57,
+      "raw_href": "/courses/2053263/assignments/10553180/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373/submissions/6660414",
+      "index": 62,
+      "raw_href": "/courses/2053263/assignments/10584373/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 3 Web Homework: Introduction to Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 64,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173/submissions/6660414",
+      "index": 67,
+      "raw_href": "/courses/2053263/assignments/10553173/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 70,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584431/submissions/6660414",
+      "index": 72,
+      "raw_href": "/courses/2053263/assignments/10584431/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 4 Web Homework: The Divergence and Integral Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 73,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 74,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 75,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 76,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584434/submissions/6660414",
+      "index": 77,
+      "raw_href": "/courses/2053263/assignments/10584434/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 5 Web Homework: Comparison and Alternate Series Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 78,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 79,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 80,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 81,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553177/submissions/6660414",
+      "index": 82,
+      "raw_href": "/courses/2053263/assignments/10553177/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 Discussion Board - Submitted in Week 6 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 83,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 84,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 85,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 86,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553181/submissions/6660414",
+      "index": 87,
+      "raw_href": "/courses/2053263/assignments/10553181/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 88,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 89,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 90,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 91,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584435/submissions/6660414",
+      "index": 92,
+      "raw_href": "/courses/2053263/assignments/10584435/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 6 Web Homework: Ratio and Root Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 93,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 94,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 95,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 96,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553170/submissions/6660414",
+      "index": 97,
+      "raw_href": "/courses/2053263/assignments/10553170/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 98,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 99,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 100,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 101,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584436/submissions/6660414",
+      "index": 102,
+      "raw_href": "/courses/2053263/assignments/10584436/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 7 Web Homework: Power Series and Functions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 103,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 104,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 105,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 106,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584437/submissions/6660414",
+      "index": 107,
+      "raw_href": "/courses/2053263/assignments/10584437/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 8 Web Homework Taylor and Maclaurin Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 108,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 109,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 110,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 111,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553176/submissions/6660414",
+      "index": 112,
+      "raw_href": "/courses/2053263/assignments/10553176/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 Discussion Board - Submitted in Week 9 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 113,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 114,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 115,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 116,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553182/submissions/6660414",
+      "index": 117,
+      "raw_href": "/courses/2053263/assignments/10553182/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 118,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 119,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 120,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 121,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584438/submissions/6660414",
+      "index": 122,
+      "raw_href": "/courses/2053263/assignments/10584438/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 9 Web Homework: Properties of Power Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 123,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 124,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 125,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 126,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553171/submissions/6660414",
+      "index": 127,
+      "raw_href": "/courses/2053263/assignments/10553171/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 128,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 129,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 130,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 131,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553183/submissions/6660414",
+      "index": 132,
+      "raw_href": "/courses/2053263/assignments/10553183/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 5 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 133,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 134,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 135,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 136,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584439/submissions/6660414",
+      "index": 137,
+      "raw_href": "/courses/2053263/assignments/10584439/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 10 Web Homework: Working with Taylor Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 138,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 139,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 140,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 141,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553169/submissions/6660414",
+      "index": 142,
+      "raw_href": "/courses/2053263/assignments/10553169/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Final Exam",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 143,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 144,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 145,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 146,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 147,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Revert to original score",
+      "title": "Revert to original score"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "index": 148,
+      "raw_href": "/courses/2053263/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "javascript:window.print()",
+      "index": 0,
+      "raw_href": "javascript:window.print()",
+      "rel": "",
+      "target": "",
+      "text": "Print Grades",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553179/submissions/6660414",
+      "index": 1,
+      "raw_href": "/courses/2053263/assignments/10553179/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 2,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 3,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 5,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553178/submissions/6660414",
+      "index": 6,
+      "raw_href": "/courses/2053263/assignments/10553178/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Discussion Board - Submitted in Week 1 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 8,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 10,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close Rubric",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584258/submissions/6660414",
+      "index": 12,
+      "raw_href": "/courses/2053263/assignments/10584258/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 14,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 15,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 16,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553174/submissions/6660414",
+      "index": 17,
+      "raw_href": "/courses/2053263/assignments/10553174/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 1 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 18,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 19,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 20,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 21,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584372/submissions/6660414",
+      "index": 22,
+      "raw_href": "/courses/2053263/assignments/10584372/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 2 Web Homework: Sequences",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 23,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 24,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 25,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 26,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553180/submissions/6660414",
+      "index": 27,
+      "raw_href": "/courses/2053263/assignments/10553180/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 28,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 29,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 30,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 31,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584373/submissions/6660414",
+      "index": 32,
+      "raw_href": "/courses/2053263/assignments/10584373/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 3 Web Homework: Introduction to Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 33,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 34,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 35,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 36,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553173/submissions/6660414",
+      "index": 37,
+      "raw_href": "/courses/2053263/assignments/10553173/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 2 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 38,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 39,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 41,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584431/submissions/6660414",
+      "index": 42,
+      "raw_href": "/courses/2053263/assignments/10584431/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 4 Web Homework: The Divergence and Integral Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 43,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 44,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 46,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584434/submissions/6660414",
+      "index": 47,
+      "raw_href": "/courses/2053263/assignments/10584434/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 5 Web Homework: Comparison and Alternate Series Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 48,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 49,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 50,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 51,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553177/submissions/6660414",
+      "index": 52,
+      "raw_href": "/courses/2053263/assignments/10553177/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 Discussion Board - Submitted in Week 6 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 53,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 54,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 55,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 56,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553181/submissions/6660414",
+      "index": 57,
+      "raw_href": "/courses/2053263/assignments/10553181/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 58,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 59,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 60,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584435/submissions/6660414",
+      "index": 62,
+      "raw_href": "/courses/2053263/assignments/10584435/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 6 Web Homework: Ratio and Root Tests",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 63,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 64,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 65,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 66,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553170/submissions/6660414",
+      "index": 67,
+      "raw_href": "/courses/2053263/assignments/10553170/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 3 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 68,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 69,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 70,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 71,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584436/submissions/6660414",
+      "index": 72,
+      "raw_href": "/courses/2053263/assignments/10584436/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 7 Web Homework: Power Series and Functions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 73,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 74,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 75,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 76,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584437/submissions/6660414",
+      "index": 77,
+      "raw_href": "/courses/2053263/assignments/10584437/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 8 Web Homework Taylor and Maclaurin Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 78,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 79,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 80,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 81,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553176/submissions/6660414",
+      "index": 82,
+      "raw_href": "/courses/2053263/assignments/10553176/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 Discussion Board - Submitted in Week 9 (Required)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 83,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 84,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 85,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 86,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553182/submissions/6660414",
+      "index": 87,
+      "raw_href": "/courses/2053263/assignments/10553182/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 88,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 89,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 90,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 91,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584438/submissions/6660414",
+      "index": 92,
+      "raw_href": "/courses/2053263/assignments/10584438/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 9 Web Homework: Properties of Power Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 93,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 94,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 95,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 96,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553171/submissions/6660414",
+      "index": 97,
+      "raw_href": "/courses/2053263/assignments/10553171/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 4 Quiz",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 98,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 99,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 100,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 101,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553183/submissions/6660414",
+      "index": 102,
+      "raw_href": "/courses/2053263/assignments/10553183/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Unit 5 - Written Homework Assignment",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 103,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 104,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 105,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 106,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10584439/submissions/6660414",
+      "index": 107,
+      "raw_href": "/courses/2053263/assignments/10584439/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Week 10 Web Homework: Working with Taylor Series",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 108,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 109,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 110,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 111,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/10553169/submissions/6660414",
+      "index": 112,
+      "raw_href": "/courses/2053263/assignments/10553169/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Final Exam",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 113,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Grade Info",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 114,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See scoring details",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 115,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "See rubric results",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 116,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "0 comments 0",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades#",
+      "index": 117,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Revert to original score",
+      "title": "Revert to original score"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "index": 118,
+      "raw_href": "/courses/2053263/assignments/%7B%7B%20assignment_id%20%7D%7D/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/assignments/syllabus",
+      "index": 2,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/grades",
+      "index": 3,
+      "label": "Grades8"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/modules",
+      "index": 4,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/discussion_topics",
+      "index": 5,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234121?display=borderless",
+      "index": 6,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/quizzes",
+      "index": 7,
+      "label": "Quizzes"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/278415",
+      "index": 8,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/118915",
+      "index": 9,
+      "label": "Macmillan Learning"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/234230",
+      "index": 10,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053263/external_tools/270765",
+      "index": 11,
+      "label": "Online Tutoring"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053263/grades",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053263/grades",
+  "source_surface": "grades",
+  "tables": [
+    {
+      "caption": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded.",
+      "index": 0,
+      "text": "You can view your grades based on What-If scores so that you know how grades will be affected by upcoming or resubmitted assignments. You can test scores for an assignment that already includes a score, or an assignment that has yet to be graded. Name Due Submitted Status Score Details Submission Progress Status Unit 1 - Written Homework Assignment Written Homework Assignments Jun 26 by 11:59pm Click to test a different score 100 / 100 Unit 1 Discussion Board - Submitted in Week 1 (Required) Discussion Boards Jun 28 by 11:59pm Jun 24 at 4:41pm Click to test a different score 40 / 40 Week 1 Web Homework: Infinity and Limits, Indeterminates, Improper Integrals Online Homework Assignments (Achieve) Jun 29 by 11:59pm Click to test a different score 4 / 100 Unit 1 Quiz Unit Quizzes Jun 30 by 10:30pm Jun 30 at 11:37pm late / 100 Week 2 Web Homework: Sequences Online Homework Assignments (Achieve) Jul 6 by 11:59pm Click to test a different score 0 / 100 Unit 2 - Written Homework Assignment Written Homework Assignments Jul 9 by 11:59pm Click to test a different score - / 100 Week 3 Web Homework: Introduction to Series Online Homework Assignments (Achieve) Jul 12 by 11:59pm Click to test a different score 100 / 100 Unit 2 Quiz Unit Quizzes Jul 13 by 10:30pm Jul 13 at 11:26pm late / 100 Week 4 Web Homework: The Divergence and Integral Tests Online Homework Assignments (Achieve) Jul 19 by 11:59pm Click to test a different score 100 / 100 Week 5 Web Homework: Comparison and Alternate Series Tests Online Homework Assignments (Achieve) Jul 26 by 11:59pm Click to test a different score 99.91 / 100 Unit 3 Discussion Board - Submitted in Week 6 (Required) Discussion Boards Jul 28 by 11:59pm Jul 28 at 11:20pm Click to test a different score Discussion Submission / 40 Unit 3 - Written Homework Assignment Written Homework Assignments Jul 30 by 11:59pm Click to test a different score - / 100 Week 6 Web Homework: Ratio and Root Tests Online Homework Assignments (Achieve) Aug 2 by 11:59pm Click to test a different score 99.69 / 100 Unit 3 Quiz Unit Quizzes Aug 3 by 10:30pm / 100 Week 7 Web Homework: Power Series and Functions Online Homework Assignments (Achieve) Aug 9 by 11:59pm Click to test a different score - / 100 Week 8 Web Homework Taylor and Maclaurin Series Online Homework Assignments (Achieve) Aug 16 by 11:59pm Click to test a different score - / 100 Unit 4 Discussion Board - Submitted in Week 9 (Required) Discussion Boards Aug 18 by 11:59pm Click to test a different score - / 40 Unit 4 - Written Homework Assignment Written Homework Assignments Aug 20 by 11:59pm Click to test a different score - / 100 Week 9 Web Homework: Properties of Power Series Online Homework Assignments (Achieve) Aug 23 by 11:59pm Click to test a different score - / 100 Unit 4 Quiz Unit Quizzes Aug 24 by 10:30pm / 100 Unit 5 - Written Homework Assignment Written Homework Assignments Aug 27 by 11:59pm Click to test a different score - / 100 Week 10 Web Homework: Working with Taylor Series Online Homework Assignments (Achieve) Aug 30 by 11:59pm Click to test a different score - / 100 Final Exam Final Exam Sep 1 by 10:30pm / 100 Assignments N/A 0.00 / 0.00 Online Homework Assignments (Achieve) 67.27% 403.60 / 600.00 Discussion Boards 100% 40.00 / 40.00 Written Homework Assignments 100% 100.00 / 100.00 Unit Quizzes N/A 0.00 / 0.00 Final Exam N/A 0.00 / 0.00 Total 85.45%"
+    },
+    {
+      "caption": "Introduction Discussion Board",
+      "index": 1,
+      "text": "Introduction Discussion BoardCriteriaRatingsPtsIntroduction Discussion BoardCriteriaRatingsPtsMain Postview longer description20 ptsExemplaryStudent completed their introduction and included their application to sequences/series in approximately 200 words.14 ptsProficientStudent completed their introduction or an application to sequences/series but did not include both components.7 ptsNeeds ImprovementStudent completed their introduction and application in less than 100 words OR student included only one of the two components.0 ptsNot EvidentStudent did not complete their introduction or application with thorough detail.20 / 20 ptsTimelinessview longer description5 ptsExemplaryStudent submitted main post on time.3 ptsProficientStudent submitted main post one or two days late.0 ptsNot EvidentStudent submitted main post more than 2 days late.5 / 5 ptsResponse Postview longer description10 ptsExemplaryStudent replied to one classmate with a thorough and relevant response in approximately 100 words.7 ptsProficientStudent replied to a classmate with less detail than required in 50-100 words.4 ptsNeeds ImprovementStudent replied to a classmate with significantly less detail than required in less than 50 words.0 ptsNot EvidentStudent did not reply to a classmate or replied to a classmate with a generic, non-post specific response.10 / 10 ptsWriting & Organizationview longer description5 ptsExemplaryAll posts are clear, organized, and presented with appropriate formatting and citations when needed.3 ptsProficientAll posts are clear, organized, and presented with appropriate formatting and citations when needed with minor errors.1 ptsNeeds ImprovementAll posts are clear, organized, and presented with appropriate formatting and citations when needed with major errors.0 ptsNot EvidentPost contains significant errors or formatting issues.5 / 5 ptsTotal Points: 40"
+    }
+  ],
+  "title": "Grades for Jacob Peterson: SEQUENCES AND SERIES (MTH_253Z_400_U2026)",
+  "page_id": "00012-mth-253-grades-grades-for-jacob-peterson-sequences-and-series-mth-253z-400-u2026",
+  "captured_at": "2026-07-30T20:23:00.294Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "grades",
+  "depth": 0,
+  "redirected": false,
+  "canvas_object_type": "grades",
+  "canvas_object_id": "",
+  "html_sha256": "8cc0228b6184ffc2c690a3f65bc80be80edfc7447550d0cc587b56abcd1de5db",
+  "text_sha256": "015b4bc6e95b5649813d9bd72da7ba0afd6b0ad5238b4397464e80271c60b67c",
+  "requires_external_handler": false
+}

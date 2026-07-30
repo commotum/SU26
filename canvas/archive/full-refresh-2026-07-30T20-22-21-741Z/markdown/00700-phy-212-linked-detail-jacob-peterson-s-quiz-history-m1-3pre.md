@@ -1,0 +1,53 @@
+# Jacob Peterson's Quiz History: M1-3pre
+
+- Course: PHY-212
+- Source surface: linked_detail
+- Requested URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/history?version=1
+- Resolved URL: https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/history?version=1
+- Captured: 2026-07-30T20:54:23.365Z
+- Canvas object: quiz 3160475
+- Redirected: no
+
+## Headings
+- H2: M1-3pre Results for Jacob Peterson
+
+## Visible Text
+M1-3pre Results for Jacob Peterson
+Score for this quiz: 0 out of 3
+Submitted Jul 6 at 1:42am
+This attempt took 2 minutes.
+ 
+Correct answer
+Question 1
+3 / 3 pts
+
+               
+
+A person is riding on a Ferris wheel which is rotating at constant angular speed. How does the magnitude of the normal force of the Ferris Wheel on the person at the top of the wheel compare to the magnitude of the normal force of the wheel on the person at the bottom of the wheel?
+
+ 
+
+  Ntop > Nbottom
+  Ntop = Nbottom
+  Ntop < Nbottom
+Quiz Score: 0 out of 3
+This quiz score has been manually adjusted by -3.0 points.
+
+## Links
+- Edit this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/history?version=1#
+- Delete this Question -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/history?version=1#
+- https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/questions/59026167 -> https://canvas.oregonstate.edu/courses/2053526/quizzes/3160475/questions/59026167
+
+## Iframes
+- Error -> about:blank
+- post_message_forwarding -> https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg
+
+## Buttons
+
+## Hidden Text
+- Correct answer Move To... This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question. Question 1 3 / 3 pts Edit this Question Delete this Question 0 multiple_choice_question <p><span style="font-size: 14pt;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="/courses/2053526/files/118705869/preview" alt="Ferris wheel"></span></p> <p><span style="font-size: 14pt;">A person is riding on a Ferris wheel which is rotating at constant angular speed. How does the magnitude of the normal force of the Ferris Wheel on the person at the top of the wheel compare to the magnitude of the normal force of the wheel on the person at the bottom of the wheel?</span></p> <p>&nbsp;</p> A person is riding on a Ferris wheel which is rotating at constant angular speed. How does the magnitude of the normal force of the Ferris Wheel on the person at the top of the wheel compare to the magnitude of the normal force of the wheel on the person at the bottom of the wheel? 3849 Ntop Nbottom Ntop > Nbottom Ntop Nbottom Ntop > Nbottom exact_answer none 59026167 3849 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 1236 Ntop = Nbottom Ntop = Nbottom Ntop = Nbottom Ntop = Nbottom exact_answer none 59026167 1236 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 0 7116 Ntop Nbottom Ntop < Nbottom Ntop Nbottom Ntop < Nbottom exact_answer none 59026167 7116 0 (with margin: 0) 0 (with precision: 10) Between 0 and 0 margin of error +/- 100
+- Move To...
+- This element is a more accessible alternative to drag & drop reordering. Press Enter or Space to move this question.
+- Edit this Question
+- Delete this Question
+- Correct!

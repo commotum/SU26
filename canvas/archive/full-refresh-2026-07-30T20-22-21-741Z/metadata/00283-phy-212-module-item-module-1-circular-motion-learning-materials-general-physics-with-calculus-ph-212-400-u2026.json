@@ -1,0 +1,902 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 1 | Circular Motion | Learning Materials"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Required Readings"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Practice Quiz 1"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Instructional Videos"
+    },
+    {
+      "index": 4,
+      "level": "H2",
+      "text": "Recorded Lecture Videos"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 3,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 4,
+      "text": "Actions"
+    },
+    {
+      "index": 5,
+      "text": "Actions"
+    },
+    {
+      "index": 6,
+      "text": "Previous Next"
+    },
+    {
+      "index": 7,
+      "text": "Previous"
+    },
+    {
+      "index": 8,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "394",
+      "index": 1,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fkaltura.oregonstate.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_mr2x6fif%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F640x394%2FplayerSkin%2F22119142%2F",
+      "title": "PH 212 - Rotational Kinematics (13:10)",
+      "width": "640"
+    },
+    {
+      "height": "394",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fkaltura.oregonstate.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_zf08f1qw%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F640x394%2FplayerSkin%2F22119142%2F",
+      "title": "PH 212 - Circular Force (13:59)",
+      "width": "640"
+    },
+    {
+      "height": "",
+      "index": 3,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e84b7560-fb98-4bf7-b43a-6317de59443a",
+      "title": "ph212_6-22-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 4,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=93bd7f84-4d52-4897-bc86-66f7c4ef15fd",
+      "title": "ph212_6-23-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 5,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=2706270b-010e-4e53-81a5-097982fe17af",
+      "title": "ph212_6-24-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 6,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=1927a196-5dd7-41cc-83c8-21354bf367fb",
+      "title": "ph212_6-25-2026.mp4",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 7,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=1a1cfdfd-18e7-4329-be48-76c004ca58ab",
+      "title": "ph212_6-29-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 8,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=935cb6bb-6656-43ae-a945-baddd06fbc9f",
+      "title": "ph212_6-30-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 9,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=2c1acd4b-0183-4561-b358-2b0cccb8ee62",
+      "title": "ph212_7-2-2026.mp4",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 10,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Module 1 | Circular Motion | Learning Materials",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://osubeaverstore.com/TextBookAgreement/",
+      "index": 33,
+      "raw_href": "http://osubeaverstore.com/TextBookAgreement/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Beaver StoreLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "index": 34,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "circular motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "index": 35,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "planar motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "index": 36,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Quiz 1 practice",
+      "title": "quiz1_practice.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 37,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "index": 38,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1",
+      "index": 39,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 40,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "index": 41,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Quiz 1 practice solutions",
+      "title": "quiz1_practice_soln.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 42,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "index": 43,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1",
+      "index": 44,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 45,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896958",
+      "index": 46,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896958",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896960",
+      "index": 47,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896960",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "http://osubeaverstore.com/TextBookAgreement/",
+      "index": 0,
+      "raw_href": "http://osubeaverstore.com/TextBookAgreement/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Beaver StoreLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "index": 1,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "circular motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "index": 2,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/circularMotion/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "planar motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Quiz 1 practice",
+      "title": "quiz1_practice.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 4,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "index": 5,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1",
+      "index": 6,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705966/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 7,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "index": 8,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "rel": "noopener",
+      "target": "_blank",
+      "text": "Quiz 1 practice solutions",
+      "title": "quiz1_practice_soln.pdf"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Actions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "index": 10,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439?wrap=1",
+      "rel": "",
+      "target": "",
+      "text": "Preview",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1",
+      "index": 11,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/files/118705439/download?download_frd=1",
+      "rel": "",
+      "target": "",
+      "text": "Download",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Alternative formats",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896958",
+      "index": 13,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896958",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896960",
+      "index": 14,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896960",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896959",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/module-1-%7C-circular-motion-%7C-learning-materials?module_item_id=26896959",
+  "source_surface": "module_item",
+  "tables": [],
+  "title": "Module 1 | Circular Motion | Learning Materials: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00283-phy-212-module-item-module-1-circular-motion-learning-materials-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:35:48.204Z",
+  "source_kind": "module_item",
+  "discovered_from": "00018-phy-212-modules-course-modules-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Module 1 | Circular Motion | Learning Materials",
+  "depth": 1,
+  "redirected": true,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-1-%7C-circular-motion-%7C-learning-materials",
+  "html_sha256": "47ce0e2cc98f451594434157bcb55354486334789b077f92a6bd646509da03fc",
+  "text_sha256": "b41103b169fd2e507049d4ea93a5a9f63176eeab1087f17457d520b61a1ee1be",
+  "requires_external_handler": false
+}

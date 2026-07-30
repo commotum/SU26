@@ -1,0 +1,122 @@
+- document
+- iframe [active]:
+  - document
+  - link "Skip to main content":
+    - /url: "#main-content"
+  - button "Back to My Course":
+  - button "Go back":
+  - heading "Assessment" [level=1]
+  - strong: "Due:"
+  - text: Mon, Aug 3
+  - region "Main content":
+    - iframe [active]:
+      - document
+      - main:
+        - heading "Question 6 of 6 - Achieve - 3.4 Partial Fractions" [level=2]
+        - navigation:
+          - button "Collapse assignment menu" [expanded]:
+            - text: Completed 0 of 6 Questions
+          - heading "Grading Settings" [level=4]
+          - button "Hide" [expanded]
+          - list:
+            - paragraph: Unlimited attempts per question.
+            - paragraph: No penalty for incorrect attempts.
+            - paragraph:
+              - text: Submit up to
+              - generic: 100 days late
+              - text: for a daily penalty of
+              - generic: 1%
+              - text: off the total score.
+            - paragraph: View solution explanations after completing each question.
+            - paragraph: Access to supplemental resources.
+            - paragraph: Access to AI Tutor assistance.
+          - navigation "Non-Sequential Question":
+            - list:
+              - button "Q1 Unlimited attempts":
+                - generic: Q1
+                - generic: Unlimited attempts
+              - button "Q2 Unlimited attempts":
+                - generic: Q2
+                - generic: Unlimited attempts
+              - button "Q3 Unlimited attempts":
+                - generic: Q3
+                - generic: Unlimited attempts
+              - button "Q4 Unlimited attempts":
+                - generic: Q4
+                - generic: Unlimited attempts
+              - button "Q5 Unlimited attempts":
+                - generic: Q5
+                - generic: Unlimited attempts
+              - button "Q6 Unlimited attempts" [active]:
+                - generic: Q6
+                - generic: Unlimited attempts
+        - navigation "Assignment Tools":
+          - heading "Assignment Tools" [level=2]
+          - 'generic "Assignment Score: 0 out of 600"':
+            - generic: "+0"
+            - text: pts
+            - generic: /600
+          - button "Switch to New Layout"
+          - button "Beta flag":
+            - generic: Beta
+          - list:
+            - button "Open AI Tutor":
+              - generic: AI Tutor
+              - button "Open in-app informational guide"
+          - button "Submit Answer"
+          - generic "Expand to Full Screen Mode":
+            - button "Full screen":
+        - generic "Sequential Question":
+          - button "previous question":
+          - heading "Question 6 of 6" [level=2]
+          - button "next question":
+        - generic "Question content":
+          - group "Ungraded Text":
+            - paragraph: Evaluate the integral.
+            - paragraph:
+              - text: (Express numbers in exact form. Use symbolic notation and fractions where needed. Use
+              - generic: 𝐶
+              - img "C, math"
+              - text: for the arbitrary constant. Absorb into
+              - generic: 𝐶
+              - img "C, math"
+              - text: as muсh as possible.)
+          - group "Math Equation":
+            - generic: ∫
+            - generic: "3"
+            - generic: s
+            - generic: i
+            - generic: "n"
+            - generic: (
+            - generic: 𝜃
+            - generic: )
+            - generic: c
+            - generic: o
+            - generic: s
+            - generic: "3"
+            - generic: (
+            - generic: 𝜃
+            - generic: )
+            - generic: +
+            - generic: "4"
+            - generic: c
+            - generic: o
+            - generic: s
+            - generic: (
+            - generic: 𝜃
+            - generic: )
+            - generic: 𝑑
+            - generic: 𝜃
+            - generic: =
+            - img "the integral of the fraction with numerator 3 sine theta and denominator cosine cubed theta plus 4 cosine theta d theta equals, math"
+            - textbox
+        - generic: "question source: Sullivan 2e Calculus|publisher: W.H. Freeman"
+      - paragraph
+      - paragraph
+  - alert: Integration Hub
+- log
+- log
+- log
+- log
+- document
+- button "Open Resource Center"

@@ -1,30 +1,29 @@
 # Immediate Schoolwork
 
-Generated 2026-07-17 from the completed Canvas refresh `full-refresh-2026-07-18T06-04-58-971Z`.
+Generated 2026-07-30 from the completed Canvas refresh `full-refresh-2026-07-30T20-22-21-741Z`.
 
 ## Next Deadlines
 
-- **Jul 18, 11:59pm — PHY-212:** [Lab 4 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557060) — 5 pts.
-- **Jul 19, 11:59pm — MTH-253:** [Week 4 Web Homework: The Divergence and Integral Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584431?module_item_id=26977967) — 100 pts.
-- **Jul 20 — PHY-212:** Canvas lists Quiz 2A/2B windows at 11:25am/11:55am and 6:25pm/6:55pm. These appear to be alternate session entries; verify which pair applies to you.
-- **Jul 20, 11:59pm — MTH-252:** [Achieve 1.4](https://canvas.oregonstate.edu/courses/2080857/assignments/10586028?module_item_id=26982581), [Achieve 1.5](https://canvas.oregonstate.edu/courses/2080857/assignments/10586029?module_item_id=26982582), [Achieve 1.6](https://canvas.oregonstate.edu/courses/2080857/assignments/10586030?module_item_id=26982583), and [Written Homework 4](https://canvas.oregonstate.edu/courses/2080857/assignments/10586057?module_item_id=26982580).
-- **Jul 21, 11:59pm — MTH-252:** [Module 4 Discussion Reflection](https://canvas.oregonstate.edu/courses/2080857/discussion_topics/11593472?module_item_id=26982584).
-- **Jul 23, 11:59pm — MTH-252:** [Mini-Exam 2](https://canvas.oregonstate.edu/courses/2080857/assignments/10586048?module_item_id=26982585) — no calculators.
-- **Jul 25, 11:59pm — PHY-212:** [Lab 5 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557061) — 5 pts.
-- **Jul 26, 11:59pm — MTH-253:** [Week 5 Web Homework: Comparison and Alternate Series Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584434?module_item_id=26977977) — 100 pts.
-- **Jul 27, 11:59pm — MTH-252:** [Achieve 3.1](https://canvas.oregonstate.edu/courses/2080857/assignments/10586037?module_item_id=26982595), [Achieve 3.2](https://canvas.oregonstate.edu/courses/2080857/assignments/10586038?module_item_id=26982596), and [Written Homework 5](https://canvas.oregonstate.edu/courses/2080857/assignments/10586058?module_item_id=26982594).
+- **Jul 30, 11:59pm — MTH-253:** [Unit 3 Written Homework Assignment](https://canvas.oregonstate.edu/courses/2053263/assignments/10553181?module_item_id=26885565) — 5 pts.
+- **Aug 1, 11:59pm — PHY-212:** [Capstone Lab Week 1 Group Report](https://canvas.oregonstate.edu/courses/2053526/assignments/10557047) — 5 pts.
+- **Aug 2, 11:59pm — MTH-253:** [Week 6 Web Homework: Ratio and Root Tests](https://canvas.oregonstate.edu/courses/2053263/assignments/10584435?module_item_id=26977980) — 5 pts.
+- **Aug 3 — PHY-212:** Canvas lists Quiz 3A/3B windows at 11:25am/11:55am and 6:25pm/6:55pm. These appear to be alternate session entries; verify which pair applies to you.
+- **Aug 3, 11:59pm — MTH-252:** [Achieve 3.3 Trigonometric Substitution](https://canvas.oregonstate.edu/courses/2080857/assignments/10586039?module_item_id=26982605), [Achieve 3.4 Partial Fractions](https://canvas.oregonstate.edu/courses/2080857/assignments/10586040?module_item_id=26982606), and [Written Homework 6](https://canvas.oregonstate.edu/courses/2080857/assignments/10586059?module_item_id=26982603).
+- **Aug 6, 11:59pm — MTH-252:** [Mini-Exam 3](https://canvas.oregonstate.edu/courses/2080857/assignments/10586050?module_item_id=26982607) — no Gradescope app.
+- **Aug 9, 11:59pm — MTH-253:** [Week 7 Web Homework: Power Series and Functions](https://canvas.oregonstate.edu/courses/2053263/assignments/10584436?module_item_id=26977982) — 5 pts.
+- **Aug 10, 11:59pm — MTH-252:** [Achieve 2.1 Areas Between Curves](https://canvas.oregonstate.edu/courses/2080857/assignments/10586031?module_item_id=26982615), [Achieve 2.2 Volumes by Slicing and Disc/Washer Method](https://canvas.oregonstate.edu/courses/2080857/assignments/10586032?module_item_id=26982616), and [Written Homework 7](https://canvas.oregonstate.edu/courses/2080857/assignments/10586060?module_item_id=26982617).
 
-## Newly Visible Since July 8
+## Newly Visible Since July 17
 
-- PHY-212 now exposes Modules 3, 4, and 5: Gravity, Oscillations, and Waves.
-- The module graph contains 21 newly visible items, including PHY-212 Lab 4, Lab 5, and Capstone materials; MTH-252 WHW 2/3 keys; and MTH-253 Unit 2 conclusion and Unit 3 learning materials.
-- The refreshed index contains 52 modules, 406 module items, 681 Canvas objects, and 471 task-like items.
+- MTH-252 now exposes `WHW4-Key.pdf` and `WHW5-Key.pdf` as module items.
+- The refreshed archive grew from 814 to 924 captured pages and from 230 to 266 download links.
+- The normalized course graph now contains 52 modules, 408 module items, and 686 Canvas objects.
 
 ## Access Notes
 
-- The one crawler navigation failure, assignment `10557032`, succeeded on live retry and redirects to the readable **Course Introductions** discussion.
-- Eighteen PHY-212 Module 4/5 assignment or page URLs still return Canvas **Access Denied** in a live retry. They remain in `retry_manifest.csv` for later release checks.
-- The 117 blocked question-level quiz URLs are internal links whose parent quizzes were captured; they do not require separate retries.
+- The crawler timeout for assignment `10557036` succeeded on live retry and redirects to the readable **Lab 1 Discussion — Lab Group 22** page.
+- Two PHY-212 Wave Optics pages still return Canvas **Access Denied**.
+- The retry manifest also retains four blocked MTH-252 quiz module items and eighteen question-level links that currently return Page Not Found.
 
 ## Source Files
 
@@ -32,4 +31,4 @@ Generated 2026-07-17 from the completed Canvas refresh `full-refresh-2026-07-18T
 - `canvas/indexer/output/retry_manifest.csv`
 - `canvas/indexer/output/unauthorized_investigation.csv`
 - `canvas/indexer/output/reports/course_maps_index.md`
-- `canvas/archive/full-refresh-2026-07-18T06-04-58-971Z/summary.json`
+- `canvas/archive/full-refresh-2026-07-30T20-22-21-741Z/summary.json`

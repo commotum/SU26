@@ -1,0 +1,790 @@
+{
+  "assignment_rows": [],
+  "buttons": [],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)"
+    },
+    {
+      "index": 1,
+      "level": "H1",
+      "text": "Home page"
+    },
+    {
+      "index": 2,
+      "level": "H3",
+      "text": "General Physics with Calculus"
+    },
+    {
+      "index": 3,
+      "level": "H3",
+      "text": "Welcome!"
+    },
+    {
+      "index": 4,
+      "level": "H3",
+      "text": "Announcements"
+    }
+  ],
+  "hidden_text": [],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 1,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 16,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 17,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 18,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 19,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 20,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 21,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 22,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 23,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades54",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 24,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 25,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 26,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 27,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 32,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": "Announcements List"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526?view=feed",
+      "index": 33,
+      "raw_href": "/courses/2053526?view=feed",
+      "rel": "",
+      "target": "",
+      "text": "View Course Stream",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar?include_contexts=course_2053526",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/calendar?include_contexts=course_2053526",
+      "rel": "",
+      "target": "",
+      "text": "View Course Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526?view=notifications",
+      "index": 35,
+      "raw_href": "/courses/2053526?view=notifications",
+      "rel": "",
+      "target": "",
+      "text": "View Course Notifications",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups/733396",
+      "index": 36,
+      "raw_href": "/groups/733396",
+      "rel": "",
+      "target": "",
+      "text": "Lab Group 22",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10608701/submissions/6660414",
+      "index": 37,
+      "raw_href": "/courses/2053526/assignments/10608701/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-5 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10608017/submissions/6660414",
+      "index": 38,
+      "raw_href": "/courses/2053526/assignments/10608017/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-4 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557028/submissions/6660414",
+      "index": 39,
+      "raw_href": "/courses/2053526/assignments/10557028/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Quiz 2A_asy (Remotely Proctored) GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 5 out of 35 \"Q4 work submitted to Gradescope 4:26, no credit\"",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10607497/submissions/6660414",
+      "index": 40,
+      "raw_href": "/courses/2053526/assignments/10607497/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-3 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 6",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10607020/submissions/6660414",
+      "index": 41,
+      "raw_href": "/courses/2053526/assignments/10607020/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-2 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10605543/submissions/6660414",
+      "index": 42,
+      "raw_href": "/courses/2053526/assignments/10605543/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-1 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 6",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10605226/submissions/6660414",
+      "index": 43,
+      "raw_href": "/courses/2053526/assignments/10605226/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M4-2 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10604398/submissions/6660414",
+      "index": 44,
+      "raw_href": "/courses/2053526/assignments/10604398/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M4-1 GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 0 out of 8",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10602558/submissions/6660414",
+      "index": 45,
+      "raw_href": "/courses/2053526/assignments/10602558/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M3-2 0 out of 5",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10601999/submissions/6660414",
+      "index": 46,
+      "raw_href": "/courses/2053526/assignments/10601999/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M3-1 0 out of 3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10601368/submissions/6660414",
+      "index": 47,
+      "raw_href": "/courses/2053526/assignments/10601368/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M2-5 0 out of 4",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557021/submissions/6660414",
+      "index": 48,
+      "raw_href": "/courses/2053526/assignments/10557021/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-5asy GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 4 out of 5 \"-1 late\"",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556953/submissions/6660414",
+      "index": 49,
+      "raw_href": "/courses/2053526/assignments/10556953/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-4asy GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 3 out of 6 \"-3 late\"",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557003/submissions/6660414",
+      "index": 50,
+      "raw_href": "/courses/2053526/assignments/10557003/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-3asy GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 2.5 out of 5 \"-2.5 late\"",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556986/submissions/6660414",
+      "index": 51,
+      "raw_href": "/courses/2053526/assignments/10556986/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M1-2asy GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 2.5 out of 5 \"-2.5 late\"",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557041/submissions/6660414",
+      "index": 52,
+      "raw_href": "/courses/2053526/assignments/10557041/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 4 Discussion GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 9 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557039/submissions/6660414",
+      "index": 53,
+      "raw_href": "/courses/2053526/assignments/10557039/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 5 Discussion GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 10 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557037/submissions/6660414",
+      "index": 54,
+      "raw_href": "/courses/2053526/assignments/10557037/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Lab 3 Discussion 8 out of 10",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10557007/submissions/6660414",
+      "index": 55,
+      "raw_href": "/courses/2053526/assignments/10557007/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 6 - Oscillations GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 16 out of 16",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556998/submissions/6660414",
+      "index": 56,
+      "raw_href": "/courses/2053526/assignments/10556998/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Quiz 2B_asy (Remotely Proctored) GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 22.5 out of 40",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556994/submissions/6660414",
+      "index": 57,
+      "raw_href": "/courses/2053526/assignments/10556994/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 5 - Gravity GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 12 out of 12",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556992/submissions/6660414",
+      "index": 58,
+      "raw_href": "/courses/2053526/assignments/10556992/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "M5-4pre GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 3 out of 3",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556975/submissions/6660414",
+      "index": 59,
+      "raw_href": "/courses/2053526/assignments/10556975/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 4 - Rotational Dynamics GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) 23 out of 23",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/10556958/submissions/6660414",
+      "index": 60,
+      "raw_href": "/courses/2053526/assignments/10556958/submissions/6660414",
+      "rel": "",
+      "target": "",
+      "text": "Hw 3 - Center of Mass & Moment of Inertia 12 out of 12",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526#",
+      "index": 61,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "at least 21 more …",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 0,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": "Announcements List"
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades54"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/quizzes",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526",
+  "source_surface": "quizzes",
+  "tables": [],
+  "title": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00024-phy-212-quizzes-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:23:41.588Z",
+  "source_kind": "surface",
+  "discovered_from": "",
+  "discovered_text": "quizzes",
+  "depth": 0,
+  "redirected": true,
+  "canvas_object_type": "course_page",
+  "canvas_object_id": "",
+  "html_sha256": "77454d808298bbc606a88a973c38db160be6c0b3100fa34a9c063586cb6badb7",
+  "text_sha256": "84f53f7bf58db7c9030a0988da66770fd13c44036b1b71f74a7bd195c4f30cb5",
+  "requires_external_handler": false
+}

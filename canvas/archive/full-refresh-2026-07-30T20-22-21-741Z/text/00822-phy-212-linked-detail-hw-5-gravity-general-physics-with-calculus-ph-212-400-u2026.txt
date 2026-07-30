@@ -1,0 +1,138 @@
+Hw 5 - Gravity
+Due Jul 17 at 11:59pm Points 12 Questions 8 Available Jul 11 at 12am - Aug 14 at 11:59pm Time Limit None Allowed Attempts 6
+Instructions
+
+Note that although Canvas calls this a "quiz," it is actually a homework assignment. Here are some things to keep in mind:
+
+1. You are encouraged to work with others.
+
+2. You can exit the assignment without submitting and return later to complete it.
+
+3. You have up to four attempts to complete this assignment. Your highest score will be kept.
+
+4. This assignment is not accepted late for credit, due to the end of the term.
+
+5. Submissions are not accepted for credit more than one week after the due date. All correct answers for the questions will be made available at that time.
+
+6. Vectors are indicated with an arrow on top (e.g. ) although be careful because sometimes Canvas may format this to boldface font; ! The magnitude of the corresponding vector is given in italics; .
+
+Take the Quiz Again
+Attempt History
+	Attempt	Time	Score
+LATEST	Attempt 1	
+Time:
+8 minutes	
+Score:
+12 out of 12
+Score for this attempt: 12 out of 12
+Submitted Jul 17 at 9:38pm
+This attempt took 8 minutes.
+ 
+Correct answer
+Question 1
+2 / 2 pts
+Which of the following are true statements?
+  Near Earth's surface, the approximate magnitude of free-fall acceleration  is , where  and  are the mass and radius of the Earth.
+  The negative sign in  reflects that gravity is attractive and ensures that potential energy decreases as objects approach each other.
+  The escape speed of a body is the minimum speed with which an object must be launched from its surface to ensure it never falls back. 
+  
+
+The major axis of an ellipse is its longest diameter, passing through the center and connecting the two farthest points on the ellipse.
+
+The semi-major axis is half this distance.
+
+  Kepler's third law states that the square of a planet's orbital period is inversely proportional to the semi-major axis of its orbit.
+ 
+Correct answer
+Question 2
+2 / 2 pts
+
+For the system of three masses depicted below, what should  be so that there is no net gravitational force on ?
+
+  
+  
+  
+  
+ 
+Correct answer
+Question 3
+2 / 2 pts
+
+At a particular instant of time, three asteroids are observed to be in the arrangement shown below.
+
+At this instant, what is the magnitude of the net force on ?
+
+  
+  
+  
+  
+ 
+Correct answer
+Question 4
+1 / 1 pts
+
+NASA discovers an exoplanet three times the mass of the Earth and twice the radius.
+
+What is the magnitude of gravitational acceleration at the planet's surface?
+
+  2g/3 
+  3g/4 
+  4g/3 
+  3g/2 
+ 
+Correct answer
+Question 5
+1 / 1 pts
+
+A satellite in a circular orbit of radius  has period .
+
+If the satellite is moved to a new circular orbit of radius , what's its new period?
+
+  
+  
+  
+ 
+Correct answer
+Question 6
+1 / 1 pts
+
+A satellite in a circular orbit of radius  has kinetic energy .
+
+If the satellite is moved to a new circular orbit of radius , what's its new kinetic energy?
+
+  
+  
+  
+  
+ 
+Correct answer
+Question 7
+2 / 2 pts
+
+A satellite is in an elliptical orbit (depicted below) about the Earth.
+
+The distance of closest approach is  and furthest approach .
+
+The corresponding unit vectors of the velocity of the satellite at each point is indicated.
+
+Is the satellite moving faster at the closest or furthest approach and by what factor?
+
+  The satellite is moving faster at the point of closest approach by a factor of 
+  The satellite is moving faster at the point of furthest approach by a factor of 
+  The satellite is moving faster at the point of closest approach by a factor of 
+  The satellite is moving faster at the point of furthest approach by a factor of 
+  The satellite must have the same speed at each point in order to keep consistent with Kepler's second law
+ 
+Correct answer
+Question 8
+1 / 1 pts
+
+At a particular instant of time, three asteroids are observed to be in the arrangement shown below.
+
+At this instant, how much gravitational potential energy is stored in the system consisting of the three asteroids?
+
+  
+  
+  
+  
+Quiz Score: 12 out of 12

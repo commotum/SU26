@@ -1,0 +1,51 @@
+
+            
+
+  
+
+
+
+    Unit 4 - Overview
+  
+    
+
+
+Introduction
+In the last unit, we learned about the many different tests to determine the convergence or divergence of a series. In all of those series, the terms were numerical values. In this unit, we are going to bring in variables to the series - called Power Series. Depending on the value of x, the series may converge or diverge. We will learn to find the values of x that make the series converge. Additionally, we will learn to express functions as power series, which in many cases requires the use of a Taylor Series or a Maclaurin Series.
+Unit Learning Outcomes
+After successful completion of this week, you will be able to: 
+
+Determine the radius and interval of convergence for a power series.
+Represent familiar functions as power series.
+Perform integration and differentiation of power series. 
+Convert functions into Taylor or Maclaurin polynomials.
+
+Task List
+In order to achieve these learning outcomes, please make sure to complete the following:
+
+Reading: Textbook Sections 6.1Links to an external site., 6.2Links to an external site., and 6.3Links to an external site. in OpenStax Volume 2Links to an external site.. 
+Complete online Homework Assignments - Week 7 Web Homework, Week 8 Web Homework, and Week 9 Web Homework. Submitted in Achieve.Week 8 Web Homework
+Complete Written Homework #4 due by Thursday of Week 9. Submitted in GradeScope.
+Contribute one post and two responses to the Unit #4 Discussion Board due in Week 9. 
+Submit the Unit 4 Quiz. Submitted in Canvas Quizzes.
+
+
+
+
+
+
+
+
+
+  
+    
+         Previous
+    
+    
+        Next 
+    
+  
+
+
+
+          

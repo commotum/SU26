@@ -1,0 +1,97 @@
+
+            
+
+
+
+
+  Recent AnnouncementsMGunread,Update: Mini-Exam 3 Reminders --> No gradescope App, practice submission in gradescope, etc. Hello scholars! 
+Here are a few reminders for Mini-Exam 3 next week. 
+
+ME3 formulas: Be sure to read over the ME3 Canvas page assignment for lots of details on which formulas to memorize, and which ones that will NOT be on ME3. 
+
+Remember that memorizing this material is important to so you can as qualified/proficient as the students taking the in-person course. 
+Easiest way to memorize: Make memorizing a lot easier by (1) putting the formula in context and (2) practice solving many problems, writing full solutions, without the use of any notes and support. This the goal to work towards. 
+
+
+Gradescope App: Unfortunately, the gradescope APP will not be working, due to their tech issue that they know about but are delaying to fix. 
+Practice Submission: I am putting a (fully optional) Recitation Activity you can use to help study for ME3. Practice downloading/uploading this WITHOUT the use of the gradescope app. You can re-subtmit this assignment as many times as you want to get the practice. 
+
+Access this Recitation Activity directly inside Gradescope. It will not show in Canvas. 
+Also use the submission of your WHW6 as practice. Try submitting this without the use of the APP. 
+Key for this recitation is below.  
+
+
+Late submissions: Just like an in-person exam, late submissions are not possible. Please notice that I am giving ample time and support to practice submitting MEs. 
+
+Did you submit ME2 late?
+
+I was generous during ME2 because the issue was newly discovered. 
+If you had gradescope issues during ME2, be sure to get the practice in before ME3. 
+
+
+
+
+
+Thank you all for the great work! 
+Your success is important to me, so I want to give everyone the plenty of practice. 
+Rec key: MTH 252 Week 7 Recitation (Answers).pdfPosted on:Jul 29, 2026, 3:34 PM
+
+    
+  
+    
+      
+        
+              INTEGRAL CALCULUS (MTH_252Z_400_U2026)
+    
+
+        
+        
+        
+          
+
+          
+        
+      
+    
+    
+  
+
+
+
+
+    Front Page
+  
+    
+Welcome to MTH 252! --> For BOTH Sections 400 and 401
+In this course we continue our study of Calculus.  More specifically we will study, abstract, and apply the idea of measuring area between two curves.  To group the content in a meaningful way, this course is split into five units:
+
+Unit 1 - We introduce Riemann sums as a tool to approximate area by summing up the area of rectangles.
+Unit 2 - We study the Fundamental Theorem of Calculus and related properties, which rely on "undoing" derivatives.
+Unit 3 - We study a variety of problem-solving techniques in order to apply the Fundamental Theorem of Calculus to more complex settings.
+Unit 4 - We explore various graphical applications.
+Unit 5 - We apply our techniques to solve real-world problems.
+
+We are very happy to have you in this course and look forward to working with you throughout the quarter! 
+Watch this video that gives an overview of your MTH 252 Canvas course:
+
+Course Learning Outcomes
+By the end of this course, you should be able to:
+
+Describe the definite integral as a limit of Riemann sums and illustrate and interpret definite integrals as areas and signed areas.
+Evaluate integrals using basic numerical integration rules.
+Apply the fundamental theorem of calculus to evaluate integrals and to differentiate integrals with respect to a limit of integration.
+Use integration to find areas and volumes of regions and calculate physical quantities such as total distance traveled, displacement, work, and volume.
+
+ 
+Jump to a Module
+
+Banner Art: Education illustrations by StorysetLinks to an external site.
+
+
+
+
+
+
+
+
+          

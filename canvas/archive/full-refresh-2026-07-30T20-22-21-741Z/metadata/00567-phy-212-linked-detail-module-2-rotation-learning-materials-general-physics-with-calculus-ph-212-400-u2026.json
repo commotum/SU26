@@ -1,0 +1,633 @@
+{
+  "assignment_rows": [],
+  "buttons": [
+    {
+      "disabled": false,
+      "index": 0,
+      "text": "",
+      "type": ""
+    }
+  ],
+  "course_code": "PHY-212",
+  "course_id": "2053526",
+  "embeds": [],
+  "environment_keys": [],
+  "forms": [],
+  "grade_rows": [],
+  "headings": [
+    {
+      "index": 0,
+      "level": "H1",
+      "text": "Module 2 | Rotation | Learning Materials"
+    },
+    {
+      "index": 1,
+      "level": "H2",
+      "text": "Required Readings"
+    },
+    {
+      "index": 2,
+      "level": "H2",
+      "text": "Instructional Videos"
+    },
+    {
+      "index": 3,
+      "level": "H2",
+      "text": "Recorded Lecture Videos"
+    }
+  ],
+  "hidden_text": [
+    {
+      "index": 1,
+      "text": "Links to an external site."
+    },
+    {
+      "index": 2,
+      "text": "Previous Next"
+    },
+    {
+      "index": 3,
+      "text": "Previous"
+    },
+    {
+      "index": 4,
+      "text": "Next"
+    }
+  ],
+  "iframes": [
+    {
+      "height": "",
+      "index": 0,
+      "name": "",
+      "src": "about:blank",
+      "title": "Error",
+      "width": ""
+    },
+    {
+      "height": "394",
+      "index": 1,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fkaltura.oregonstate.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_ixsy300l%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F640x394%2FplayerSkin%2F22119142%2F",
+      "title": "PH 212 - Center of Mass (05:49)",
+      "width": "640"
+    },
+    {
+      "height": "394",
+      "index": 2,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fkaltura.oregonstate.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_863hhxij%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F640x394%2FplayerSkin%2F22119142%2F",
+      "title": "PH 212 - Moment of Inertia (05:34)",
+      "width": "640"
+    },
+    {
+      "height": "394",
+      "index": 3,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&url=https%3A%2F%2Fkaltura.oregonstate.edu%2Fbrowseandembed%2Findex%2Fmedia%2Fentryid%2F1_5b2qrze3%2FshowDescription%2Ffalse%2FshowTitle%2Ffalse%2FshowTags%2Ffalse%2FshowDuration%2Ffalse%2FshowOwner%2Ffalse%2FshowUploadDate%2Ffalse%2FplayerSize%2F640x394%2FplayerSkin%2F22119142%2F",
+      "title": "PH 212 - Angular Momentum (08:09)",
+      "width": "640"
+    },
+    {
+      "height": "",
+      "index": 4,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=39540a9e-0f93-4fc1-b742-690f7f7c4f7f",
+      "title": "ph212_7-7-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 5,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=4388192b-62f9-4bc3-ba89-60995df54073",
+      "title": "ph212_7-8-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 6,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=cb83a53e-1a29-4c31-ba9a-7453db693372",
+      "title": "ph212_7-9-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 7,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=58f071e9-112e-471c-b7dd-0af186ce161f",
+      "title": "ph212_7-13-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 8,
+      "name": "",
+      "src": "https://canvas.oregonstate.edu/courses/2053526/external_tools/retrieve?display=borderless&resource_link_lookup_uuid=e2769f3c-ba9e-44c3-aaae-7c908ab42174",
+      "title": "ph212_7-14-2026",
+      "width": ""
+    },
+    {
+      "height": "",
+      "index": 9,
+      "name": "post_message_forwarding",
+      "src": "https://sso.canvaslms.com/post_message_forwarding?rev=e6aca5e55d-9c856c93fa625037&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJwYXJlbnRfZG9tYWluIjoiY2FudmFzLm9yZWdvbnN0YXRlLmVkdSJ9.Y_7TbGBrESilECMiEp8IL9n-40gHDCjKBtRp1VeImmjwp-ey16yj9FLfLrLzGYInjx8U6Ow5IRBeWFd9i9f6Kg",
+      "title": "post_message_forwarding",
+      "width": ""
+    }
+  ],
+  "links": [
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026) Module 2 | Rotation | Learning Materials",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials#content",
+      "index": 1,
+      "raw_href": "#content",
+      "rel": "",
+      "target": "",
+      "text": "Skip To Content",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/profile/settings",
+      "index": 2,
+      "raw_href": "/profile/settings",
+      "rel": "",
+      "target": "",
+      "text": "Account",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 3,
+      "raw_href": "https://canvas.oregonstate.edu/",
+      "rel": "",
+      "target": "",
+      "text": "Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses",
+      "index": 4,
+      "raw_href": "/courses",
+      "rel": "",
+      "target": "",
+      "text": "Courses",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/groups",
+      "index": 5,
+      "raw_href": "/groups",
+      "rel": "",
+      "target": "",
+      "text": "Groups",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/calendar",
+      "index": 6,
+      "raw_href": "/calendar",
+      "rel": "",
+      "target": "",
+      "text": "Calendar",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://success.oregonstate.edu/academic-support",
+      "index": 7,
+      "raw_href": "https://success.oregonstate.edu/academic-support",
+      "rel": "",
+      "target": "_blank",
+      "text": "Resources",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/conversations",
+      "index": 8,
+      "raw_href": "/conversations",
+      "rel": "",
+      "target": "",
+      "text": "Inbox",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials#",
+      "index": 9,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "History",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "index": 10,
+      "raw_href": "/accounts/97009/external_tools/234128?launch_type=global_navigation&toolId=my-media-234128",
+      "rel": "",
+      "target": "",
+      "text": "My Media",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials#",
+      "index": 11,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Help",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials#",
+      "index": 12,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "",
+      "title": "Minimize global navigation"
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials#",
+      "index": 13,
+      "raw_href": "#",
+      "rel": "",
+      "target": "",
+      "text": "Close",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/",
+      "index": 14,
+      "raw_href": "/",
+      "rel": "",
+      "target": "",
+      "text": "My Dashboard",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 15,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/pages",
+      "index": 16,
+      "raw_href": "/courses/2053526/pages",
+      "rel": "",
+      "target": "",
+      "text": "Pages",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 17,
+      "raw_href": "/courses/2053526",
+      "rel": "",
+      "target": "",
+      "text": "Home",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 18,
+      "raw_href": "/courses/2053526/announcements",
+      "rel": "",
+      "target": "",
+      "text": "Announcements",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 19,
+      "raw_href": "/courses/2053526/external_tools/234230",
+      "rel": "",
+      "target": "",
+      "text": "Zoom",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 20,
+      "raw_href": "/courses/2053526/modules",
+      "rel": "",
+      "target": "",
+      "text": "Modules",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 21,
+      "raw_href": "/courses/2053526/discussion_topics",
+      "rel": "",
+      "target": "",
+      "text": "Discussions",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 22,
+      "raw_href": "/courses/2053526/external_tools/234121?display=borderless",
+      "rel": "opener",
+      "target": "_blank",
+      "text": "Gradescope",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 23,
+      "raw_href": "/courses/2053526/assignments",
+      "rel": "",
+      "target": "",
+      "text": "Assignments",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 24,
+      "raw_href": "/courses/2053526/grades",
+      "rel": "",
+      "target": "",
+      "text": "Grades56",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 25,
+      "raw_href": "/courses/2053526/users",
+      "rel": "",
+      "target": "",
+      "text": "People",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 26,
+      "raw_href": "/courses/2053526/external_tools/266124",
+      "rel": "",
+      "target": "",
+      "text": "Poll Everywhere",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 27,
+      "raw_href": "/courses/2053526/assignments/syllabus",
+      "rel": "",
+      "target": "",
+      "text": "Syllabus",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 28,
+      "raw_href": "/courses/2053526/external_tools/278488",
+      "rel": "",
+      "target": "",
+      "text": "Student Services",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 29,
+      "raw_href": "/courses/2053526/external_tools/234128",
+      "rel": "",
+      "target": "",
+      "text": "Media Gallery",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 30,
+      "raw_href": "/courses/2053526/external_tools/270766",
+      "rel": "",
+      "target": "",
+      "text": "Online Tutoring",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 31,
+      "raw_href": "/courses/2053526/external_tools/268485",
+      "rel": "",
+      "target": "",
+      "text": "Access Pearson",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 32,
+      "raw_href": "/courses/2053526/external_tools/279552",
+      "rel": "",
+      "target": "",
+      "text": "Secure Exam Proctor",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/rigidRotation/",
+      "index": 33,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/rigidRotation/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Rigid rotational motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896969",
+      "index": 34,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896969",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896971",
+      "index": 35,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896971",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "main_links": [
+    {
+      "download": "",
+      "href": "http://khadley.com/Courses/Physics/ph_212/topics/rigidRotation/",
+      "index": 0,
+      "raw_href": "http://khadley.com/Courses/Physics/ph_212/topics/rigidRotation/",
+      "rel": "noreferrer noopener",
+      "target": "_blank",
+      "text": "Rigid rotational motionLinks to an external site.",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896969",
+      "index": 1,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896969",
+      "rel": "",
+      "target": "",
+      "text": "Previous",
+      "title": ""
+    },
+    {
+      "download": "",
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896971",
+      "index": 2,
+      "raw_href": "https://canvas.oregonstate.edu/courses/2053526/modules/items/26896971",
+      "rel": "",
+      "target": "",
+      "text": "Next",
+      "title": ""
+    }
+  ],
+  "module_items": [],
+  "nav": [
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526",
+      "index": 0,
+      "label": "Home"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/announcements",
+      "index": 1,
+      "label": "Announcements"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234230",
+      "index": 2,
+      "label": "Zoom"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/modules",
+      "index": 3,
+      "label": "Modules"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/discussion_topics",
+      "index": 4,
+      "label": "Discussions"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234121?display=borderless",
+      "index": 5,
+      "label": "Gradescope"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments",
+      "index": 6,
+      "label": "Assignments"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/grades",
+      "index": 7,
+      "label": "Grades56"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/users",
+      "index": 8,
+      "label": "People"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/266124",
+      "index": 9,
+      "label": "Poll Everywhere"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/assignments/syllabus",
+      "index": 10,
+      "label": "Syllabus"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/278488",
+      "index": 11,
+      "label": "Student Services"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/234128",
+      "index": 12,
+      "label": "Media Gallery"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/270766",
+      "index": 13,
+      "label": "Online Tutoring"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/268485",
+      "index": 14,
+      "label": "Access Pearson"
+    },
+    {
+      "href": "https://canvas.oregonstate.edu/courses/2053526/external_tools/279552",
+      "index": 15,
+      "label": "Secure Exam Proctor"
+    }
+  ],
+  "requested_url": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials",
+  "resolved_url": "https://canvas.oregonstate.edu/courses/2053526/pages/module-2-%7C-rotation-%7C-learning-materials",
+  "source_surface": "linked_detail",
+  "tables": [],
+  "title": "Module 2 | Rotation | Learning Materials: GENERAL PHYSICS WITH CALCULUS (PH_212_400_U2026)",
+  "page_id": "00567-phy-212-linked-detail-module-2-rotation-learning-materials-general-physics-with-calculus-ph-212-400-u2026",
+  "captured_at": "2026-07-30T20:48:23.006Z",
+  "source_kind": "linked_detail",
+  "discovered_from": "00292-phy-212-module-item-module-2-overview-of-rotation-general-physics-with-calculus-ph-212-400-u2026",
+  "discovered_text": "Module 2 | Rotation | Learning Materials",
+  "depth": 2,
+  "redirected": false,
+  "canvas_object_type": "page",
+  "canvas_object_id": "module-2-%7C-rotation-%7C-learning-materials",
+  "html_sha256": "e253665b9ad72960c75097f348b3486706f5d4442c7b260b8ef7d730d7d15930",
+  "text_sha256": "3cda00e607c791d620e9b6295d772566a2f5eb16618570870ec59417e1dc89d8",
+  "requires_external_handler": false
+}
